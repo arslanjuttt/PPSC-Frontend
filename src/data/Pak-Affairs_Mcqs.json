@@ -1,0 +1,3857 @@
+{
+    "test_name": "Pakistan Affairs Test",
+    "instructor": "",
+    "total_questions": 200,
+    "questions": [
+        {
+            "question_number": 1,
+            "question": "Muhammad Bin Qasim was born in which city?",
+            "options": {
+                "A": "Damascus",
+                "B": "Taif",
+                "C": "Baghdad",
+                "D": "Basra"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 2,
+            "question": "In which year did Muhammad Bin Qasim conquer Sindh?",
+            "options": {
+                "A": "710 A.D.",
+                "B": "711 A.D.",
+                "C": "712 A.D.",
+                "D": "715 A.D."
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 3,
+            "question": "Who was the ruler of Sindh at the time of Muhammad Bin Qasim's invasion?",
+            "options": {
+                "A": "Raja Jaypal",
+                "B": "Raja Dahir",
+                "C": "Raja Prithvi Raj",
+                "D": "Raja Bhim"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 4,
+            "question": "Muhammad Bin Qasim was the nephew and son-in-law of:",
+            "options": {
+                "A": "Walid bin Abdul Malik",
+                "B": "Sulaiman bin Abdul Malik",
+                "C": "Hajjaj Bin Yousuf",
+                "D": "Umar bin Abdul Aziz"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 5,
+            "question": "Which title is often given to Sindh in the context of Islamic history?",
+            "options": {
+                "A": "Bab-ul-Islam",
+                "B": "Bab-ul-Hind",
+                "C": "Land of Peace",
+                "D": "The Golden Gate"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 6,
+            "question": "The Slave Dynasty (Mamluk Dynasty) was founded by:",
+            "options": {
+                "A": "Iltutmush",
+                "B": "Balban",
+                "C": "Qutub ud Din Aibak",
+                "D": "Nasiruddin Mahmud"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 7,
+            "question": "Qutub ud Din Aibak died while playing which sport?",
+            "options": {
+                "A": "Chess",
+                "B": "Polo (Chugan)",
+                "C": "Horse Racing",
+                "D": "Archery"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 8,
+            "question": "Where is Qutub ud Din Aibak buried?",
+            "options": {
+                "A": "Delhi",
+                "B": "Lahore",
+                "C": "Multan",
+                "D": "Ghazni"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 9,
+            "question": "Who was the first woman empress of the Delhi Sultanate?",
+            "options": {
+                "A": "Chand Bibi",
+                "B": "Noor Jahan",
+                "C": "Razia Sultan",
+                "D": "Mumtaz Mahal"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 10,
+            "question": "The 'Group of Forty' (Chahalgani) was organized by:",
+            "options": {
+                "A": "Aibak",
+                "B": "Iltutmush",
+                "C": "Balban",
+                "D": "Alauddin Khilji"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 11,
+            "question": "Sultan Balban called himself 'Zil-e-Ilahi,' which means:",
+            "options": {
+                "A": "Representative of God",
+                "B": "Shadow of God",
+                "C": "Soldier of Islam",
+                "D": "Light of Knowledge"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 12,
+            "question": "Which Sultan is famous for his 'Blood and Iron' policy?",
+            "options": {
+                "A": "Balban",
+                "B": "Alauddin Khilji",
+                "C": "Muhammad bin Tughluq",
+                "D": "Ibrahim Lodi"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 13,
+            "question": "The Khilji Dynasty was founded by:",
+            "options": {
+                "A": "Alauddin Khilji",
+                "B": "Jalaluddin Khilji",
+                "C": "Mubarak Khilji",
+                "D": "Khusrau Khan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 14,
+            "question": "Which Sultan introduced the 'Price Control System' in India?",
+            "options": {
+                "A": "Akbar",
+                "B": "Sher Shah Suri",
+                "C": "Alauddin Khilji",
+                "D": "Balban"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 15,
+            "question": "Muhammad bin Tughluq shifted his capital from Delhi to:",
+            "options": {
+                "A": "Agra",
+                "B": "Daulatabad (Devagiri)",
+                "C": "Lahore",
+                "D": "Multan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 16,
+            "question": "The famous traveler Ibn-e-Batuta visited India during the reign of:",
+            "options": {
+                "A": "Feroz Shah Tughluq",
+                "B": "Muhammad bin Tughluq",
+                "C": "Ghiyasuddin Tughluq",
+                "D": "Alauddin Khilji"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 17,
+            "question": "Who was the founder of the Tughlaq Dynasty?",
+            "options": {
+                "A": "Muhammad bin Tughluq",
+                "B": "Feroz Shah Tughluq",
+                "C": "Ghiyasuddin Tughluq",
+                "D": "Nasiruddin Mahmud"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 18,
+            "question": "The Lodi Dynasty, the last of the Delhi Sultanates, was founded by:",
+            "options": {
+                "A": "Sikandar Lodi",
+                "B": "Ibrahim Lodi",
+                "C": "Bahlol Lodi",
+                "D": "Daulat Khan Lodi"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 19,
+            "question": "The First Battle of Panipat (1526) was fought between Babur and:",
+            "options": {
+                "A": "Rana Sanga",
+                "B": "Ibrahim Lodi",
+                "C": "Sher Shah Suri",
+                "D": "Hemu"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 20,
+            "question": "Who was the founder of the Mughal Empire?",
+            "options": {
+                "A": "Akbar",
+                "B": "Humayun",
+                "C": "Babur",
+                "D": "Shah Jahan"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 21,
+            "question": "Which Mughal Emperor introduced the 'Deen-i-Elahi' in 1582?",
+            "options": {
+                "A": "Jahangir",
+                "B": "Akbar",
+                "C": "Aurangzeb",
+                "D": "Shah Jahan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 22,
+            "question": "The tomb of Jahangir is located in which city?",
+            "options": {
+                "A": "Agra",
+                "B": "Delhi",
+                "C": "Lahore",
+                "D": "Srinagar"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 23,
+            "question": "Who built the Badshahi Mosque in Lahore?",
+            "options": {
+                "A": "Shah Jahan",
+                "B": "Aurangzeb",
+                "C": "Jahangir",
+                "D": "Akbar"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 24,
+            "question": "The 'Peacock Throne' was taken away from India by:",
+            "options": {
+                "A": "Ahmad Shah Abdali",
+                "B": "Nadir Shah",
+                "C": "Timur",
+                "D": "Genghis Khan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 25,
+            "question": "Who was the last Mughal Emperor?",
+            "options": {
+                "A": "Shah Alam II",
+                "B": "Bahadur Shah Zafar",
+                "C": "Akbar II",
+                "D": "Farrukhsiyar"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 26,
+            "question": "The 'Grand Trunk Road' was built/renovated by:",
+            "options": {
+                "A": "Akbar",
+                "B": "Sher Shah Suri",
+                "C": "Babur",
+                "D": "Humayun"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 27,
+            "question": "Sultan Mahmud of Ghazni attacked India how many times?",
+            "options": {
+                "A": "12",
+                "B": "15",
+                "C": "17",
+                "D": "20"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 28,
+            "question": "The Temple of Somnath was raided by Mahmud of Ghazni in:",
+            "options": {
+                "A": "1001 A.D.",
+                "B": "1025 A.D.",
+                "C": "1030 A.D.",
+                "D": "998 A.D."
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 29,
+            "question": "Who was the court poet of Mahmud of Ghazni and author of 'Shahnama'?",
+            "options": {
+                "A": "Al-Beruni",
+                "B": "Firdausi",
+                "C": "Amir Khusrau",
+                "D": "Ibn-e-Batuta"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 30,
+            "question": "Muhammad Ghouri defeated Prithvi Raj Chauhan in the Second Battle of Tarain in:",
+            "options": {
+                "A": "1191 A.D.",
+                "B": "1192 A.D.",
+                "C": "1194 A.D.",
+                "D": "1206 A.D."
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 31,
+            "question": "The Suri Dynasty ruled India from:",
+            "options": {
+                "A": "1526-1530",
+                "B": "1540-1555",
+                "C": "1556-1605",
+                "D": "1530-1540"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 32,
+            "question": "Which Mughal Emperor is buried in Kabul?",
+            "options": {
+                "A": "Humayun",
+                "B": "Babur",
+                "C": "Akbar",
+                "D": "Jahangir"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 33,
+            "question": "The battle of Plassey (1757) took place during the reign of which Mughal emperor?",
+            "options": {
+                "A": "Muhammad Shah",
+                "B": "Alamgir II",
+                "C": "Shah Alam II",
+                "D": "Ahmad Shah"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 34,
+            "question": "Who was known as 'Shah-i-Bekhabar'?",
+            "options": {
+                "A": "Jahandar Shah",
+                "B": "Bahadur Shah I",
+                "C": "Farrukhsiyar",
+                "D": "Muhammad Shah"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 35,
+            "question": "The Sayyid Brothers were known as 'King Makers' during the reign of:",
+            "options": {
+                "A": "Aurangzeb",
+                "B": "Farrukhsiyar",
+                "C": "Shah Jahan",
+                "D": "Akbar"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 36,
+            "question": "Who was the 'Queen Mother' who influenced Ahmad Shah's reign?",
+            "options": {
+                "A": "Noor Jahan",
+                "B": "Udham Bai",
+                "C": "Mumtaz Mahal",
+                "D": "Jodha Bai"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 37,
+            "question": "Nadir Shah defeated the Mughals in which battle in 1739?",
+            "options": {
+                "A": "Battle of Panipat",
+                "B": "Battle of Karnal",
+                "C": "Battle of Buxar",
+                "D": "Battle of Plassey"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 38,
+            "question": "Who gave the title of 'Raja' to Rammohan Roy?",
+            "options": {
+                "A": "Shah Alam II",
+                "B": "Akbar II",
+                "C": "Bahadur Shah Zafar",
+                "D": "Aurangzeb"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 39,
+            "question": "The Mughal Empire legally ended in which year?",
+            "options": {
+                "A": "1857",
+                "B": "1858",
+                "C": "1862",
+                "D": "1707"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 40,
+            "question": "Which Mughal Emperor was an opium addict and known as Shah Jahan II?",
+            "options": {
+                "A": "Rafi-ud-Darajat",
+                "B": "Rafi-ud-Daula",
+                "C": "Muhammad Shah",
+                "D": "Ahmad Shah"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 41,
+            "question": "Which city was the first capital of the Slave Dynasty?",
+            "options": {
+                "A": "Delhi",
+                "B": "Lahore",
+                "C": "Multan",
+                "D": "Ghazni"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 42,
+            "question": "Who built the Alai Darwaza?",
+            "options": {
+                "A": "Iltutmush",
+                "B": "Balban",
+                "C": "Alauddin Khilji",
+                "D": "Feroz Shah Tughluq"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 43,
+            "question": "Who was the founder of the Syed Dynasty?",
+            "options": {
+                "A": "Khizar Khan",
+                "B": "Mubarak Shah",
+                "C": "Muhammad Shah",
+                "D": "Alam Shah"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 44,
+            "question": "The Third Battle of Panipat (1761) was fought between Marathas and:",
+            "options": {
+                "A": "Babur",
+                "B": "Ahmad Shah Abdali",
+                "C": "Nadir Shah",
+                "D": "Sher Shah Suri"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 45,
+            "question": "Which Sultan of Delhi died of a fall from his horse?",
+            "options": {
+                "A": "Aibak",
+                "B": "Iltutmush",
+                "C": "Balban",
+                "D": "Alauddin Khilji"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 46,
+            "question": "Who among the following was the 'lunatic' ruler of the Delhi Sultanate?",
+            "options": {
+                "A": "Alauddin Khilji",
+                "B": "Muhammad bin Tughluq",
+                "C": "Ibrahim Lodi",
+                "D": "Balban"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 47,
+            "question": "The Battle of Buxar (1764) involved which Mughal emperor?",
+            "options": {
+                "A": "Alamgir II",
+                "B": "Shah Alam II",
+                "C": "Muhammad Shah",
+                "D": "Ahmad Shah"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 48,
+            "question": "Who built the Shalimar Gardens in Lahore?",
+            "options": {
+                "A": "Akbar",
+                "B": "Jahangir",
+                "C": "Shah Jahan",
+                "D": "Aurangzeb"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 49,
+            "question": "Who built the Hiran Minar in Sheikhupura?",
+            "options": {
+                "A": "Shah Jahan",
+                "B": "Jahangir",
+                "C": "Akbar",
+                "D": "Aurangzeb"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 50,
+            "question": "The title 'Mariam uz Zamani' was held by which Mughal queen?",
+            "options": {
+                "A": "Noor Jahan",
+                "B": "Mumtaz Mahal",
+                "C": "Jodha Bai",
+                "D": "Jahan Ara"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 51,
+            "question": "Shaykh Ahmad Sirhindi is popularly known by which title?",
+            "options": {
+                "A": "Shah Waliullah",
+                "B": "Mujaddid-i-Alf-i-Thani",
+                "C": "Sir Syed",
+                "D": "Haji Shariatullah"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 52,
+            "question": "In which year was Shaykh Ahmad Sirhindi born?",
+            "options": {
+                "A": "1560",
+                "B": "1564",
+                "C": "1574",
+                "D": "1584"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 53,
+            "question": "Which Sufi order did Shaykh Ahmad Sirhindi belong to?",
+            "options": {
+                "A": "Chishtiya",
+                "B": "Qadriya",
+                "C": "Naqshbandiya",
+                "D": "Suhrawardiya"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 54,
+            "question": "Shaykh Ahmad Sirhindi countered the concept of 'Wahdat-ul-Wujood' with:",
+            "options": {
+                "A": "Wahdat-ush-Shuhood",
+                "B": "Deen-i-Elahi",
+                "C": "Two Nation Theory",
+                "D": "Ijtihad"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 55,
+            "question": "Shah Waliullah was born during the reign of which Mughal Emperor?",
+            "options": {
+                "A": "Akbar",
+                "B": "Shah Jahan",
+                "C": "Aurangzeb",
+                "D": "Bahadur Shah Zafar"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 56,
+            "question": "Shah Waliullah translated the Holy Quran into which language?",
+            "options": {
+                "A": "Urdu",
+                "B": "Persian",
+                "C": "Punjabi",
+                "D": "English"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 57,
+            "question": "Who invited Ahmad Shah Abdali to India to stop the Marathas?",
+            "options": {
+                "A": "Sir Syed Ahmed Khan",
+                "B": "Shah Waliullah",
+                "C": "Syed Ahmed Shaheed",
+                "D": "Mir Jafar"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 58,
+            "question": "What was the real name of Shah Waliullah?",
+            "options": {
+                "A": "Qutub-ud-din Ahmad",
+                "B": "Ahmad Sirhindi",
+                "C": "Syed Ahmad",
+                "D": "Shariatullah"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 59,
+            "question": "The Jihad Movement (Tehreek-i-Mujahidin) was led by:",
+            "options": {
+                "A": "Shah Waliullah",
+                "B": "Syed Ahmed Shaheed Barelvi",
+                "C": "Haji Shariatullah",
+                "D": "Titu Mir"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 60,
+            "question": "Syed Ahmed Shaheed Barelvi was martyred in 1831 at:",
+            "options": {
+                "A": "Peshawar",
+                "B": "Balakot",
+                "C": "Delhi",
+                "D": "Lahore"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 61,
+            "question": "The Faraizi Movement was started by:",
+            "options": {
+                "A": "Syed Ahmed Shaheed",
+                "B": "Haji Shariatullah",
+                "C": "Dudu Mian",
+                "D": "Sir Syed"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 62,
+            "question": "Where did the Faraizi Movement primarily take place?",
+            "options": {
+                "A": "Punjab",
+                "B": "Sindh",
+                "C": "Bengal",
+                "D": "NWFP"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 63,
+            "question": "In the Faraizi Movement, Dudu Mian was the son of:",
+            "options": {
+                "A": "Titu Mir",
+                "B": "Haji Shariatullah",
+                "C": "Shah Waliullah",
+                "D": "Syed Ahmad"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 64,
+            "question": "Sir Syed Ahmed Khan was born in which city?",
+            "options": {
+                "A": "Aligarh",
+                "B": "Delhi",
+                "C": "Agra",
+                "D": "Lucknow"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 65,
+            "question": "In which year was Sir Syed Ahmed Khan born?",
+            "options": {
+                "A": "1815",
+                "B": "1817",
+                "C": "1820",
+                "D": "1830"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 66,
+            "question": "Sir Syed Ahmed Khan founded the Scientific Society in 1864 at:",
+            "options": {
+                "A": "Aligarh",
+                "B": "Ghazipur",
+                "C": "Muradabad",
+                "D": "Delhi"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 67,
+            "question": "The MAO High School was established at Aligarh in:",
+            "options": {
+                "A": "1875",
+                "B": "1877",
+                "C": "1885",
+                "D": "1920"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 68,
+            "question": "When did MAO College Aligarh receive the status of a University?",
+            "options": {
+                "A": "1906",
+                "B": "1911",
+                "C": "1920",
+                "D": "1947"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 69,
+            "question": "Who first used the term 'Two Nation Theory' in 1867/68?",
+            "options": {
+                "A": "Allama Iqbal",
+                "B": "Quaid-e-Azam",
+                "C": "Sir Syed Ahmed Khan",
+                "D": "Chaudhry Rehmat Ali"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 70,
+            "question": "The Urdu-Hindi controversy started in 1867 from which city?",
+            "options": {
+                "A": "Delhi",
+                "B": "Banaras",
+                "C": "Aligarh",
+                "D": "Lucknow"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 71,
+            "question": "Which book did Sir Syed write to explain the reasons for the 1857 revolt?",
+            "options": {
+                "A": "Asar-us-Sanadid",
+                "B": "Asbab-e-Baghawat-e-Hind",
+                "C": "Loyal Mohammedans of India",
+                "D": "Khutbat-e-Ahmadia"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 72,
+            "question": "The East India Company was established in:",
+            "options": {
+                "A": "1500",
+                "B": "1600",
+                "C": "1605",
+                "D": "1612"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 73,
+            "question": "Who was the British Ambassador who visited Jahangir's court in 1615?",
+            "options": {
+                "A": "William Hawkins",
+                "B": "Sir Thomas Roe",
+                "C": "Lord Canning",
+                "D": "Warren Hastings"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 74,
+            "question": "The War of Independence 1857 started from which city?",
+            "options": {
+                "A": "Delhi",
+                "B": "Meerut",
+                "C": "Jhansi",
+                "D": "Calcutta"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 75,
+            "question": "The Indian National Congress was founded in 1885 by:",
+            "options": {
+                "A": "W.C. Bonnerjee",
+                "B": "A.O. Hume",
+                "C": "Lord Dufferin",
+                "D": "Dadabhai Naoroji"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 76,
+            "question": "The Partition of Bengal took place in 1905 during the viceroyalty of:",
+            "options": {
+                "A": "Lord Minto",
+                "B": "Lord Curzon",
+                "C": "Lord Hardinge",
+                "D": "Lord Chelmsford"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 77,
+            "question": "When was the Partition of Bengal annulled?",
+            "options": {
+                "A": "1906",
+                "B": "1909",
+                "C": "1911",
+                "D": "1913"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 78,
+            "question": "The Shimla Deputation met Lord Minto in 1906 under the leadership of:",
+            "options": {
+                "A": "Nawab Mohsin-ul-Mulk",
+                "B": "Sir Aga Khan III",
+                "C": "Nawab Waqar-ul-Mulk",
+                "D": "Sir Syed"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 79,
+            "question": "The All India Muslim League was founded in 1906 at:",
+            "options": {
+                "A": "Aligarh",
+                "B": "Dhaka",
+                "C": "Karachi",
+                "D": "Lucknow"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 80,
+            "question": "Who was the first President of the All India Muslim League?",
+            "options": {
+                "A": "Nawab Salimullah Khan",
+                "B": "Sir Aga Khan III",
+                "C": "Quaid-e-Azam",
+                "D": "Liaquat Ali Khan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 81,
+            "question": "The Minto-Morley Reforms (1909) granted Muslims the right of:",
+            "options": {
+                "A": "Joint Electorates",
+                "B": "Separate Electorates",
+                "C": "Proportional Representation",
+                "D": "Direct Action"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 82,
+            "question": "Quaid-e-Azam joined the All India Muslim League in:",
+            "options": {
+                "A": "1906",
+                "B": "1909",
+                "C": "1913",
+                "D": "1920"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 83,
+            "question": "The Lucknow Pact (1916) was an agreement between:",
+            "options": {
+                "A": "Muslim League and British",
+                "B": "Congress and British",
+                "C": "Muslim League and Congress",
+                "D": "Khilafat Committee and Congress"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 84,
+            "question": "Who was known as the 'Ambassador of Hindu-Muslim Unity'?",
+            "options": {
+                "A": "Gopal Krishna Gokhale",
+                "B": "Quaid-e-Azam",
+                "C": "Mahatma Gandhi",
+                "D": "Allama Iqbal"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 85,
+            "question": "The Khilafat Movement was started in 1919 to protect the caliphate of:",
+            "options": {
+                "A": "Egypt",
+                "B": "Turkey",
+                "C": "Saudi Arabia",
+                "D": "Iran"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 86,
+            "question": "Who were the primary leaders of the Khilafat Movement?",
+            "options": {
+                "A": "Ali Brothers",
+                "B": "Liaquat and Jinnah",
+                "C": "Iqbal and Jinnah",
+                "D": "Zafar Ali Khan and others"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 87,
+            "question": "The Jallianwala Bagh massacre (1919) occurred in which city?",
+            "options": {
+                "A": "Lahore",
+                "B": "Amritsar",
+                "C": "Delhi",
+                "D": "Lucknow"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 88,
+            "question": "The Simon Commission arrived in India in:",
+            "options": {
+                "A": "1927",
+                "B": "1928",
+                "C": "1929",
+                "D": "1930"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 89,
+            "question": "The Nehru Report was published in:",
+            "options": {
+                "A": "1927",
+                "B": "1928",
+                "C": "1929",
+                "D": "1930"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 90,
+            "question": "Quaid-e-Azam presented his '14 Points' in:",
+            "options": {
+                "A": "1928",
+                "B": "1929",
+                "C": "1930",
+                "D": "1931"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 91,
+            "question": "The Allahabad Address was delivered by Allama Iqbal in:",
+            "options": {
+                "A": "1929",
+                "B": "1930",
+                "C": "1931",
+                "D": "1932"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 92,
+            "question": "The first Round Table Conference was held in London in:",
+            "options": {
+                "A": "1929",
+                "B": "1930",
+                "C": "1931",
+                "D": "1932"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 93,
+            "question": "Chaudhry Rehmat Ali proposed the name 'Pakistan' in a pamphlet titled:",
+            "options": {
+                "A": "Now or Never",
+                "B": "The Way Out",
+                "C": "The Struggle",
+                "D": "New Era"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 94,
+            "question": "In which year did Chaudhry Rehmat Ali issue 'Now or Never'?",
+            "options": {
+                "A": "1930",
+                "B": "1933",
+                "C": "1935",
+                "D": "1940"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 95,
+            "question": "The Government of India Act 1935 was passed during the viceroyalty of:",
+            "options": {
+                "A": "Lord Irwin",
+                "B": "Lord Willingdon",
+                "C": "Lord Linlithgow",
+                "D": "Lord Wavell"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 96,
+            "question": "The Congress Ministries (1937-1939) resigned at the start of:",
+            "options": {
+                "A": "World War I",
+                "B": "World War II",
+                "C": "Khilafat Movement",
+                "D": "Salt Satyagraha"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 97,
+            "question": "Muslims observed 'Day of Deliverance' on:",
+            "options": {
+                "A": "December 22, 1939",
+                "B": "August 14, 1940",
+                "C": "March 23, 1940",
+                "D": "January 1, 1940"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 98,
+            "question": "The Pakistan Resolution was passed on:",
+            "options": {
+                "A": "March 23, 1940",
+                "B": "August 14, 1947",
+                "C": "June 3, 1947",
+                "D": "December 30, 1906"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 99,
+            "question": "Who moved the Pakistan Resolution?",
+            "options": {
+                "A": "Quaid-e-Azam",
+                "B": "Liaquat Ali Khan",
+                "C": "A.K. Fazlul Huq",
+                "D": "Allama Iqbal"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 100,
+            "question": "The Cripps Mission visited India in:",
+            "options": {
+                "A": "1940",
+                "B": "1942",
+                "C": "1944",
+                "D": "1946"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 151,
+            "question": "Which constitution of Pakistan established a presidential form of government?",
+            "options": {
+                "A": "Constitution of 1956",
+                "B": "Constitution of 1962",
+                "C": "Constitution of 1973",
+                "D": "None of the above"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 152,
+            "question": "Which constitution of Pakistan had a unicameral legislature with only the National Assembly?",
+            "options": {
+                "A": "Constitution of 1956",
+                "B": "Constitution of 1962",
+                "C": "Constitution of 1973",
+                "D": "Both A and B"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_number": 153,
+            "question": "Under which constitution were Urdu and Bangla recognized as national languages?",
+            "options": {
+                "A": "Constitution of 1956",
+                "B": "Constitution of 1962",
+                "C": "Constitution of 1973",
+                "D": "None of the above"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 154,
+            "question": "During which period did the Constitution of 1956 operate?",
+            "options": {
+                "A": "23 March 1956 to 8 October 1958",
+                "B": "8 June 1962 to 25 March 1969",
+                "C": "14 August 1973 to date",
+                "D": "None of the above"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 155,
+            "question": "Which constitution of Pakistan is still in operation with multiple amendments?",
+            "options": {
+                "A": "Constitution of 1956",
+                "B": "Constitution of 1962",
+                "C": "Constitution of 1973",
+                "D": "None of the above"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 156,
+            "question": "How many articles were there in the Constitution of 1973?",
+            "options": {
+                "A": "234",
+                "B": "250",
+                "C": "280",
+                "D": "None of the above"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 157,
+            "question": "Which constitution of Pakistan introduced a bicameral legislature (National Assembly and Senate)?",
+            "options": {
+                "A": "Constitution of 1956",
+                "B": "Constitution of 1962",
+                "C": "Constitution of 1973",
+                "D": "None of the above"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 158,
+            "question": "Which constitution of Pakistan had Urdu as the only national language?",
+            "options": {
+                "A": "Constitution of 1956",
+                "B": "Constitution of 1962",
+                "C": "Constitution of 1973",
+                "D": "None of the above"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 159,
+            "question": "Which article of the 1973 Constitution deals with 'High Treason'?",
+            "options": {
+                "A": "Article 1",
+                "B": "Article 6",
+                "C": "Article 8",
+                "D": "Article 12"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 160,
+            "question": "Which part of the Constitution of Pakistan 1973 deals with Fundamental Rights?",
+            "options": {
+                "A": "Part II",
+                "B": "Part III",
+                "C": "Part IV",
+                "D": "Part V"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 161,
+            "question": "Under which chapter of the Constitution 1973 are the Principles of Policy outlined?",
+            "options": {
+                "A": "Chapter 1 of Part II",
+                "B": "Chapter 2 of Part II",
+                "C": "Chapter 1 of Part III",
+                "D": "Chapter 2 of Part III"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 162,
+            "question": "Who is the head of the Federation of Pakistan according to the 1973 Constitution?",
+            "options": {
+                "A": "Prime Minister",
+                "B": "President",
+                "C": "Chief Justice",
+                "D": "Speaker"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 163,
+            "question": "Which part of the Constitution of Pakistan 1973 deals with Provinces?",
+            "options": {
+                "A": "Part III",
+                "B": "Part IV",
+                "C": "Part V",
+                "D": "Part VI"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 164,
+            "question": "Who is responsible for the conduct of elections according to the 1973 Constitution?",
+            "options": {
+                "A": "President",
+                "B": "Prime Minister",
+                "C": "Chief Election Commissioner",
+                "D": "Speaker"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 165,
+            "question": "Which part of the Constitution of Pakistan 1973 contains Islamic Provisions?",
+            "options": {
+                "A": "Part IX",
+                "B": "Part X",
+                "C": "Part XI",
+                "D": "Part XII"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 166,
+            "question": "Which part of the Constitution 1973 deals with the Amendment of the Constitution?",
+            "options": {
+                "A": "Part XI",
+                "B": "Part XII",
+                "C": "Part XIII",
+                "D": "Part XIV"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 167,
+            "question": "What do Articles 240-242 of the Constitution 1973 cover?",
+            "options": {
+                "A": "Fundamental Rights",
+                "B": "Services",
+                "C": "Armed Forces",
+                "D": "Tribal Areas"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 168,
+            "question": "Under which chapter of the Constitution 1973 are the Tribal Areas mentioned?",
+            "options": {
+                "A": "Chapter 1 of Part XII",
+                "B": "Chapter 2 of Part XII",
+                "C": "Chapter 3 of Part XII",
+                "D": "Chapter 4 of Part XII"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 169,
+            "question": "What is the purpose of Articles 260-264 of the Constitution 1973?",
+            "options": {
+                "A": "Elections",
+                "B": "Interpretation",
+                "C": "Services",
+                "D": "Armed Forces"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 170,
+            "question": "What is covered under Chapter 7 of Part XII of the Constitution 1973?",
+            "options": {
+                "A": "Services",
+                "B": "Armed Forces",
+                "C": "Transitional provisions",
+                "D": "Tribal Areas"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 171,
+            "question": "Under which chapter of the Constitution 1973 is the Federal Shariat Court mentioned?",
+            "options": {
+                "A": "Chapter 3A of Part VII",
+                "B": "Chapter 4 of Part VII",
+                "C": "Chapter 1 of Part VIII",
+                "D": "Chapter 2 of Part VIII"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 172,
+            "question": "Which amendment redefined the boundaries of Pakistan and removed references to East Pakistan?",
+            "options": {
+                "A": "1st",
+                "B": "2nd",
+                "C": "3rd",
+                "D": "4th"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 173,
+            "question": "The 2nd amendment declared the status of Ahmadis as:",
+            "options": {
+                "A": "Muslim",
+                "B": "Minority",
+                "C": "Non-Muslim",
+                "D": "Equal citizens"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 174,
+            "question": "Which amendment extended the period of preventive detention?",
+            "options": {
+                "A": "2nd",
+                "B": "3rd",
+                "C": "4th",
+                "D": "5th"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 175,
+            "question": "The 4th amendment limited courts' power to grant bail for:",
+            "options": {
+                "A": "Criminal offenses",
+                "B": "Civil disputes",
+                "C": "Preventive detention",
+                "D": "Religious activities"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 176,
+            "question": "The 5th amendment widened the scope of restrictions on which judicial body?",
+            "options": {
+                "A": "Supreme Court",
+                "B": "High Courts",
+                "C": "District Courts",
+                "D": "Military Courts"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 177,
+            "question": "The 6th amendment provided the retirement age for the Chief Justice of the Supreme Court at:",
+            "options": {
+                "A": "60",
+                "B": "62",
+                "C": "65",
+                "D": "70"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 178,
+            "question": "Which amendment enabled the PM to obtain a vote of confidence from the people?",
+            "options": {
+                "A": "6th",
+                "B": "7th",
+                "C": "8th",
+                "D": "9th"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 179,
+            "question": "The 8th amendment changed Pakistan's government system to a:",
+            "options": {
+                "A": "Monarchy",
+                "B": "Semi-Presidential",
+                "C": "Presidential system",
+                "D": "One-party state"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 180,
+            "question": "The 10th amendment fixed the interval between sessions of the National Assembly at:",
+            "options": {
+                "A": "90 days",
+                "B": "120 days",
+                "C": "130 days",
+                "D": "180 days"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 181,
+            "question": "The 12th amendment created Speedy Trial Courts for a period of:",
+            "options": {
+                "A": "1 year",
+                "B": "2 years",
+                "C": "3 years",
+                "D": "5 years"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 182,
+            "question": "The 13th amendment stripped the President of the power to:",
+            "options": {
+                "A": "Declare war",
+                "B": "Dissolve the National Assembly",
+                "C": "Appoint judges",
+                "D": "Veto legislation"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 183,
+            "question": "The 14th amendment allowed members of parliament to be dismissed for:",
+            "options": {
+                "A": "Defection",
+                "B": "Resignation",
+                "C": "Absence",
+                "D": "Incompetence"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 184,
+            "question": "Which amendment increased the term for the quota system to 40 years?",
+            "options": {
+                "A": "16th",
+                "B": "17th",
+                "C": "18th",
+                "D": "19th"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 185,
+            "question": "The 18th amendment renamed NWFP as:",
+            "options": {
+                "A": "Punjab",
+                "B": "Sindh",
+                "C": "Balochistan",
+                "D": "Khyber Pakhtunkhwa"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_number": 186,
+            "question": "What is the full form of CCI in the constitution?",
+            "options": {
+                "A": "Council of Common Interests",
+                "B": "Council of Country Interests",
+                "C": "Chief of Common Interests",
+                "D": "None of these"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 187,
+            "question": "Which amendment established Military Courts after the APS attack?",
+            "options": {
+                "A": "20th",
+                "B": "21st",
+                "C": "22nd",
+                "D": "23rd"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 188,
+            "question": "The 25th amendment merged FATA with which province?",
+            "options": {
+                "A": "Punjab",
+                "B": "Sindh",
+                "C": "Balochistan",
+                "D": "Khyber Pakhtunkhwa"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_number": 189,
+            "question": "How many amendments were passed in the 1973 constitution by 2024?",
+            "options": {
+                "A": "25",
+                "B": "26",
+                "C": "27",
+                "D": "28"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 190,
+            "question": "Which article deals with the 'Right to Education' (5-16 years)?",
+            "options": {
+                "A": "Article 25",
+                "B": "Article 25A",
+                "C": "Article 32",
+                "D": "Article 34"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 191,
+            "question": "Article 34 of the Constitution promotes:",
+            "options": {
+                "A": "Economic growth",
+                "B": "Women's participation in all spheres",
+                "C": "Military service",
+                "D": "None"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 192,
+            "question": "The Council of Common Interests (CCI) is constituted under Article:",
+            "options": {
+                "A": "150",
+                "B": "153",
+                "C": "156",
+                "D": "160"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 193,
+            "question": "The National Economic Council (NEC) is established under Article:",
+            "options": {
+                "A": "153",
+                "B": "156",
+                "C": "160",
+                "D": "162"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 194,
+            "question": "The National Finance Commission (NFC) is established under Article:",
+            "options": {
+                "A": "156",
+                "B": "160",
+                "C": "165",
+                "D": "170"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 195,
+            "question": "Article 184 grants original jurisdiction to the:",
+            "options": {
+                "A": "High Court",
+                "B": "Supreme Court",
+                "C": "Federal Shariat Court",
+                "D": "District Court"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 196,
+            "question": "Under which article can the High Court issue writs?",
+            "options": {
+                "A": "184",
+                "B": "199",
+                "C": "209",
+                "D": "212"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 197,
+            "question": "The Supreme Judicial Council is established under Article:",
+            "options": {
+                "A": "200",
+                "B": "209",
+                "C": "212",
+                "D": "222"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 198,
+            "question": "Which article deals with the Council of Islamic Ideology?",
+            "options": {
+                "A": "220",
+                "B": "228",
+                "C": "230",
+                "D": "235"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 199,
+            "question": "Article 232 allows the President to proclaim an emergency due to:",
+            "options": {
+                "A": "War or external aggression",
+                "B": "Financial crisis",
+                "C": "Internal disturbance",
+                "D": "All of these"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_number": 200,
+            "question": "Financial Emergency is declared under Article:",
+            "options": {
+                "A": "232",
+                "B": "235",
+                "C": "240",
+                "D": "245"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 201,
+            "question": "What is the total area of Pakistan in square kilometers?",
+            "options": {
+                "A": "796,096",
+                "B": "881,913",
+                "C": "901,450",
+                "D": "850,000"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 202,
+            "question": "Which mountain range separates Pakistan from Afghanistan?",
+            "options": {
+                "A": "Himalayas",
+                "B": "Karakoram",
+                "C": "Hindu Kush",
+                "D": "Sulaiman Range"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 203,
+            "question": "K2, the second highest peak in the world, is located in which mountain range?",
+            "options": {
+                "A": "Himalayas",
+                "B": "Karakoram",
+                "C": "Hindu Kush",
+                "D": "Koh-e-Sufaid"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 204,
+            "question": "What is the height of Nanga Parbat?",
+            "options": {
+                "A": "8,126 meters",
+                "B": "8,611 meters",
+                "C": "7,500 meters",
+                "D": "8,848 meters"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 205,
+            "question": "Which pass connects Peshawar with Kabul?",
+            "options": {
+                "A": "Bolan Pass",
+                "B": "Khyber Pass",
+                "C": "Gomal Pass",
+                "D": "Tochi Pass"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 206,
+            "question": "The Bolan Pass is located in which province?",
+            "options": {
+                "A": "Punjab",
+                "B": "Sindh",
+                "C": "Balochistan",
+                "D": "KPK"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 207,
+            "question": "The highest plateau in Pakistan is:",
+            "options": {
+                "A": "Potwar Plateau",
+                "B": "Balochistan Plateau",
+                "C": "Deosai Plateau",
+                "D": "Salt Range"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 208,
+            "question": "Which is the largest desert of Pakistan?",
+            "options": {
+                "A": "Thal",
+                "B": "Thar",
+                "C": "Cholistan",
+                "D": "Kharan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 209,
+            "question": "The Thar desert is located in which province?",
+            "options": {
+                "A": "Punjab",
+                "B": "Sindh",
+                "C": "Balochistan",
+                "D": "KPK"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 210,
+            "question": "Which river is called the 'Nile of Pakistan'?",
+            "options": {
+                "A": "Jhelum",
+                "B": "Chenab",
+                "C": "Indus",
+                "D": "Ravi"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 211,
+            "question": "Where does the Indus River fall into the sea?",
+            "options": {
+                "A": "Arabian Sea",
+                "B": "Bay of Bengal",
+                "C": "Indian Ocean",
+                "D": "Persian Gulf"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 212,
+            "question": "Which is the longest river in Pakistan?",
+            "options": {
+                "A": "Sutlej",
+                "B": "Indus",
+                "C": "Chenab",
+                "D": "Ravi"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 213,
+            "question": "The 'Panjnad' is the meeting point of how many rivers?",
+            "options": {
+                "A": "3",
+                "B": "4",
+                "C": "5",
+                "D": "6"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 214,
+            "question": "Which is the largest artificial lake in Pakistan?",
+            "options": {
+                "A": "Saif-ul-Malook",
+                "B": "Manchar Lake",
+                "C": "Keenjhar Lake",
+                "D": "Hanna Lake"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 215,
+            "question": "Manchar Lake is situated in which district?",
+            "options": {
+                "A": "Thatta",
+                "B": "Dadu",
+                "C": "Badin",
+                "D": "Sanghar"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 216,
+            "question": "The Warsak Dam is built on which river?",
+            "options": {
+                "A": "Indus",
+                "B": "Kabul",
+                "C": "Jhelum",
+                "D": "Kurram"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 217,
+            "question": "Tarbela Dam is located on which river?",
+            "options": {
+                "A": "Indus",
+                "B": "Jhelum",
+                "C": "Chenab",
+                "D": "Swat"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 218,
+            "question": "Mangla Dam is built on which river?",
+            "options": {
+                "A": "Ravi",
+                "B": "Sutlej",
+                "C": "Jhelum",
+                "D": "Indus"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 219,
+            "question": "What is the total length of Pakistan's coastline?",
+            "options": {
+                "A": "1046 km",
+                "B": "800 km",
+                "C": "1200 km",
+                "D": "950 km"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 220,
+            "question": "Which city of Pakistan is known as the 'City of Lights'?",
+            "options": {
+                "A": "Lahore",
+                "B": "Islamabad",
+                "C": "Karachi",
+                "D": "Faisalabad"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 221,
+            "question": "Which city is known as the 'Manchester of Pakistan'?",
+            "options": {
+                "A": "Sialkot",
+                "B": "Faisalabad",
+                "C": "Gujranwala",
+                "D": "Multan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 222,
+            "question": "The Khewra Salt Mine is located in which district?",
+            "options": {
+                "A": "Jhelum",
+                "B": "Chakwal",
+                "C": "Khushab",
+                "D": "Mianwali"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 223,
+            "question": "Which is the hottest place in Pakistan?",
+            "options": {
+                "A": "Multan",
+                "B": "Jacobabad",
+                "C": "Sibi",
+                "D": "Turbat"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 224,
+            "question": "Which is the coldest place in Pakistan?",
+            "options": {
+                "A": "Murree",
+                "B": "Skardu",
+                "C": "Ziarat",
+                "D": "Gilgit"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 225,
+            "question": "The Siachen Glacier is located in which region?",
+            "options": {
+                "A": "Karakoram",
+                "B": "Himalayas",
+                "C": "Hindu Kush",
+                "D": "Pamir"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 226,
+            "question": "What is the length of the Siachen Glacier?",
+            "options": {
+                "A": "50 km",
+                "B": "76 km",
+                "C": "100 km",
+                "D": "60 km"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 227,
+            "question": "Which lake is known as the 'Mirror of the Sky'?",
+            "options": {
+                "A": "Saif-ul-Malook",
+                "B": "Sheosar Lake",
+                "C": "Shangrila Lake",
+                "D": "Satpara Lake"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 228,
+            "question": "Which province of Pakistan has no desert?",
+            "options": {
+                "A": "Punjab",
+                "B": "Sindh",
+                "C": "KPK",
+                "D": "None of these"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 229,
+            "question": "The border between Pakistan and China is called:",
+            "options": {
+                "A": "Durand Line",
+                "B": "Sino-Pak Border",
+                "C": "Line of Control",
+                "D": "Radcliffe Line"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 230,
+            "question": "The 'Durand Line' border agreement was signed in:",
+            "options": {
+                "A": "1890",
+                "B": "1893",
+                "C": "1947",
+                "D": "1901"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 231,
+            "question": "Which city is the administrative capital of Azad Jammu and Kashmir?",
+            "options": {
+                "A": "Mirpur",
+                "B": "Muzaffarabad",
+                "C": "Kotli",
+                "D": "Rawalakot"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 232,
+            "question": "The Gomal University is located in:",
+            "options": {
+                "A": "Peshawar",
+                "B": "Dera Ismail Khan",
+                "C": "Bannu",
+                "D": "Kohat"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 233,
+            "question": "The Changa Manga forest is located near which city?",
+            "options": {
+                "A": "Lahore",
+                "B": "Kasur",
+                "C": "Sahiwal",
+                "D": "Okara"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 234,
+            "question": "Which is the largest forest of Pakistan?",
+            "options": {
+                "A": "Changa Manga",
+                "B": "Juniper Forest Ziarat",
+                "C": "Khoshab Forest",
+                "D": "None of these"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 235,
+            "question": "The 'Babusar Pass' connects which two areas?",
+            "options": {
+                "A": "Dir and Chitral",
+                "B": "Abbottabad and Gilgit",
+                "C": "Peshawar and Kabul",
+                "D": "Gilgit and China"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 236,
+            "question": "Which mountain peak is called 'Killer Mountain'?",
+            "options": {
+                "A": "K2",
+                "B": "Nanga Parbat",
+                "C": "Rakaposhi",
+                "D": "Broad Peak"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 237,
+            "question": "The 'Rohtas Fort' was built by:",
+            "options": {
+                "A": "Akbar",
+                "B": "Sher Shah Suri",
+                "C": "Babur",
+                "D": "Humayun"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 238,
+            "question": "The 'Kharan Desert' is located in:",
+            "options": {
+                "A": "Sindh",
+                "B": "Balochistan",
+                "C": "Punjab",
+                "D": "KPK"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 239,
+            "question": "Which is the smallest province of Pakistan by area?",
+            "options": {
+                "A": "Punjab",
+                "B": "KPK",
+                "C": "Sindh",
+                "D": "Balochistan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 240,
+            "question": "The 'Larkana' district is famous for which archaeological site?",
+            "options": {
+                "A": "Harappa",
+                "B": "Mohenjo-Daro",
+                "C": "Taxila",
+                "D": "Kot Diji"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 241,
+            "question": "The 'Harappa' site is located in which district?",
+            "options": {
+                "A": "Larkana",
+                "B": "Sahiwal",
+                "C": "Multan",
+                "D": "Taxila"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 242,
+            "question": "Which city is the 'Heart of Pakistan'?",
+            "options": {
+                "A": "Islamabad",
+                "B": "Lahore",
+                "C": "Karachi",
+                "D": "Peshawar"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 243,
+            "question": "The 'Margalla Hills' are part of which range?",
+            "options": {
+                "A": "Karakoram",
+                "B": "Himalayas",
+                "C": "Hindu Kush",
+                "D": "Salt Range"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 244,
+            "question": "Which river flows through Lahore?",
+            "options": {
+                "A": "Chenab",
+                "B": "Ravi",
+                "C": "Jhelum",
+                "D": "Sutlej"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 245,
+            "question": "The 'Hub Dam' supplies water to which city?",
+            "options": {
+                "A": "Karachi",
+                "B": "Hyderabad",
+                "C": "Quetta",
+                "D": "Gwadar"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 246,
+            "question": "Which is the highest civilian award of Pakistan?",
+            "options": {
+                "A": "Nishan-e-Pakistan",
+                "B": "Nishan-e-Haider",
+                "C": "Hilal-e-Imtiaz",
+                "D": "Tamgha-e-Jurat"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 247,
+            "question": "Which is the highest military award of Pakistan?",
+            "options": {
+                "A": "Nishan-e-Pakistan",
+                "B": "Nishan-e-Haider",
+                "C": "Sitara-e-Jurat",
+                "D": "Tamgha-e-Basalat"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 248,
+            "question": "How many soldiers have received Nishan-e-Haider so far?",
+            "options": {
+                "A": "10",
+                "B": "11",
+                "C": "12",
+                "D": "15"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 249,
+            "question": "Who was the first recipient of Nishan-e-Haider?",
+            "options": {
+                "A": "Major Aziz Bhatti",
+                "B": "Captain Sarwar Shaheed",
+                "C": "Major Tufail",
+                "D": "Major Akram"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 250,
+            "question": "The national flower of Pakistan is:",
+            "options": {
+                "A": "Rose",
+                "B": "Jasmine",
+                "C": "Tulip",
+                "D": "Sunflower"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 251,
+            "question": "What is the main occupation of the majority of people in Pakistan?",
+            "options": {
+                "A": "Industry",
+                "B": "Agriculture",
+                "C": "Trade",
+                "D": "Mining"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 252,
+            "question": "Which crop is known as 'Silver Fiber' of Pakistan?",
+            "options": {
+                "A": "Wheat",
+                "B": "Rice",
+                "C": "Cotton",
+                "D": "Sugarcane"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 253,
+            "question": "Which province is the largest producer of Wheat in Pakistan?",
+            "options": {
+                "A": "Sindh",
+                "B": "Punjab",
+                "C": "Balochistan",
+                "D": "KPK"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 254,
+            "question": "The 'Sui Gas' was discovered in Balochistan in which year?",
+            "options": {
+                "A": "1950",
+                "B": "1952",
+                "C": "1955",
+                "D": "1960"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 255,
+            "question": "Which is the largest port of Pakistan?",
+            "options": {
+                "A": "Port Qasim",
+                "B": "Karachi Port",
+                "C": "Gwadar Port",
+                "D": "Pasni Port"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 256,
+            "question": "The 'Gwadar Port' was purchased from which country in 1958?",
+            "options": {
+                "A": "Iran",
+                "B": "Oman",
+                "C": "UAE",
+                "D": "Saudi Arabia"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 257,
+            "question": "Who is the 'Father of the Green Revolution' in Pakistan?",
+            "options": {
+                "A": "Ayub Khan",
+                "B": "Norman Borlaug",
+                "C": "Z.A. Bhutto",
+                "D": "Dr. Mahbub ul Haq"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 258,
+            "question": "The 'Saindak Project' is famous for the extraction of:",
+            "options": {
+                "A": "Coal",
+                "B": "Copper and Gold",
+                "C": "Iron",
+                "D": "Salt"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 259,
+            "question": "The largest coal reserve in Pakistan is found in:",
+            "options": {
+                "A": "Khewra",
+                "B": "Thar",
+                "C": "Makarwal",
+                "D": "Dandot"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 260,
+            "question": "The Pakistan Steel Mill was established with the help of:",
+            "options": {
+                "A": "USA",
+                "B": "Russia (USSR)",
+                "C": "China",
+                "D": "Germany"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 261,
+            "question": "Which city is famous for the 'Sports Goods' industry?",
+            "options": {
+                "A": "Sialkot",
+                "B": "Lahore",
+                "C": "Gujranwala",
+                "D": "Karachi"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 262,
+            "question": "The 'Karakoram Highway' (KKH) connects Pakistan with:",
+            "options": {
+                "A": "Iran",
+                "B": "Afghanistan",
+                "C": "China",
+                "D": "India"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 263,
+            "question": "What is the total length of the Karakoram Highway?",
+            "options": {
+                "A": "800 km",
+                "B": "1300 km",
+                "C": "1500 km",
+                "D": "1200 km"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 264,
+            "question": "The CPEC (China-Pakistan Economic Corridor) starts from Gwadar and ends in:",
+            "options": {
+                "A": "Beijing",
+                "B": "Kashgar",
+                "C": "Shanghai",
+                "D": "Kunming"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 265,
+            "question": "Which bank serves as the central bank of Pakistan?",
+            "options": {
+                "A": "National Bank",
+                "B": "State Bank of Pakistan",
+                "C": "Habib Bank",
+                "D": "Standard Chartered"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 266,
+            "question": "The 'Basmati' rice of Pakistan is world-famous for its:",
+            "options": {
+                "A": "Size",
+                "B": "Aroma and Flavor",
+                "C": "Color",
+                "D": "Low price"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 267,
+            "question": "The 'Taxila' industry is famous for:",
+            "options": {
+                "A": "Sports",
+                "B": "Heavy Mechanical Complex",
+                "C": "Surgical instruments",
+                "D": "Textiles"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 268,
+            "question": "The 'Indus Waters Treaty' (1960) was brokered by:",
+            "options": {
+                "A": "UN",
+                "B": "World Bank",
+                "C": "USA",
+                "D": "IMF"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 269,
+            "question": "Which river was given to India under the Indus Waters Treaty?",
+            "options": {
+                "A": "Indus",
+                "B": "Sutlej",
+                "C": "Jhelum",
+                "D": "Chenab"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 270,
+            "question": "Which river was given to Pakistan under the Indus Waters Treaty?",
+            "options": {
+                "A": "Ravi",
+                "B": "Beas",
+                "C": "Chenab",
+                "D": "Sutlej"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 271,
+            "question": "The first atomic power plant of Pakistan was established at:",
+            "options": {
+                "A": "Chashma",
+                "B": "Karachi (KANUPP)",
+                "C": "Kahuta",
+                "D": "Multan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 272,
+            "question": "Pakistan conducted its nuclear tests in 1998 at:",
+            "options": {
+                "A": "Thar",
+                "B": "Chagai",
+                "C": "Sibi",
+                "D": "Kalat"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 273,
+            "question": "The date of Pakistan's nuclear tests (Youm-e-Takbeer) is:",
+            "options": {
+                "A": "May 28",
+                "B": "August 14",
+                "C": "March 23",
+                "D": "September 6"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 274,
+            "question": "Which city is the largest producer of surgical instruments in Pakistan?",
+            "options": {
+                "A": "Lahore",
+                "B": "Sialkot",
+                "C": "Gujrat",
+                "D": "Karachi"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 275,
+            "question": "The 'Gudu Barrage' is built on which river?",
+            "options": {
+                "A": "Indus",
+                "B": "Chenab",
+                "C": "Jhelum",
+                "D": "Ravi"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 276,
+            "question": "The 'Kotri Barrage' is located in which province?",
+            "options": {
+                "A": "Punjab",
+                "B": "Sindh",
+                "C": "Balochistan",
+                "D": "KPK"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 277,
+            "question": "Which is the largest canal of Pakistan?",
+            "options": {
+                "A": "Upper Jhelum",
+                "B": "Lloyd Canal (Sukkur)",
+                "C": "Thal Canal",
+                "D": "Lower Bari Doab"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 278,
+            "question": "The national animal of Pakistan is:",
+            "options": {
+                "A": "Tiger",
+                "B": "Markhor",
+                "C": "Markhor",
+                "D": "Urial"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 279,
+            "question": "The national bird of Pakistan is:",
+            "options": {
+                "A": "Eagle",
+                "B": "Chakor",
+                "C": "Peacock",
+                "D": "Parrot"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 280,
+            "question": "The 'Kharan' desert is known for its reserves of:",
+            "options": {
+                "A": "Oil",
+                "B": "Copper",
+                "C": "Natural Gas",
+                "D": "Coal"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 281,
+            "question": "Which is the largest sector of Pakistan's economy (GDP wise)?",
+            "options": {
+                "A": "Agriculture",
+                "B": "Industry",
+                "C": "Services",
+                "D": "Trade"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 282,
+            "question": "The 'Salt Range' is situated between the Indus and which river?",
+            "options": {
+                "A": "Ravi",
+                "B": "Jhelum",
+                "C": "Chenab",
+                "D": "Sutlej"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 283,
+            "question": "The 'Attock Fort' was built by:",
+            "options": {
+                "A": "Humayun",
+                "B": "Akbar",
+                "C": "Jahangir",
+                "D": "Shah Jahan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 284,
+            "question": "The 'Baltoro Glacier' is located in:",
+            "options": {
+                "A": "Gilgit-Baltistan",
+                "B": "KPK",
+                "C": "AJK",
+                "D": "Balochistan"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 285,
+            "question": "Which city of Sindh is famous for 'Ajrak'?",
+            "options": {
+                "A": "Hyderabad",
+                "B": "Bhit Shah",
+                "C": "Hala",
+                "D": "Sukkur"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 286,
+            "question": "The 'Chaukhandi Tombs' are located in:",
+            "options": {
+                "A": "Thatta",
+                "B": "Karachi",
+                "C": "Hyderabad",
+                "D": "Larkana"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 287,
+            "question": "The national tree of Pakistan is:",
+            "options": {
+                "A": "Neem",
+                "B": "Deodar",
+                "C": "Peepal",
+                "D": "Banyan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 288,
+            "question": "The 'Kirthar Range' is located in:",
+            "options": {
+                "A": "Punjab",
+                "B": "Sindh",
+                "C": "Balochistan",
+                "D": "KPK"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 289,
+            "question": "Which is the largest district of Punjab by area?",
+            "options": {
+                "A": "Lahore",
+                "B": "Bahawalpur",
+                "C": "Multan",
+                "D": "Rawalpindi"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 290,
+            "question": "Which is the largest district of Balochistan by area?",
+            "options": {
+                "A": "Quetta",
+                "B": "Chagai",
+                "C": "Kalat",
+                "D": "Gwadar"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 291,
+            "question": "The 'Malakand Pass' connects Peshawar with:",
+            "options": {
+                "A": "Chitral",
+                "B": "Swat",
+                "C": "Dir",
+                "D": "Gilgit"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 292,
+            "question": "The 'Tanda Dam' is located in which district?",
+            "options": {
+                "A": "Kohat",
+                "B": "Bannu",
+                "C": "Peshawar",
+                "D": "Mardan"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 293,
+            "question": "Which river is called the 'Sorrow of Sindh'?",
+            "options": {
+                "A": "Indus",
+                "B": "Hub",
+                "C": "Puran",
+                "D": "None of these"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 294,
+            "question": "The 'Gomal Pass' connects:",
+            "options": {
+                "A": "Peshawar with Kabul",
+                "B": "D.I. Khan with Ghazni",
+                "C": "Quetta with Kandahar",
+                "D": "Bannu with Kabul"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 295,
+            "question": "Which pass connects Sindh with Balochistan?",
+            "options": {
+                "A": "Bolan Pass",
+                "B": "Khyber Pass",
+                "C": "Khojak Pass",
+                "D": "Mula Pass"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_number": 296,
+            "question": "The 'Sikaram' is the highest peak of which range?",
+            "options": {
+                "A": "Koh-e-Sufaid",
+                "B": "Sulaiman",
+                "C": "Salt Range",
+                "D": "Kirthar"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 297,
+            "question": "The 'Takht-e-Sulaiman' peak is located in:",
+            "options": {
+                "A": "Sindh",
+                "B": "Balochistan",
+                "C": "Punjab",
+                "D": "KPK"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 298,
+            "question": "Which is the highest peak of the Salt Range?",
+            "options": {
+                "A": "Sakesar",
+                "B": "Tilla Jogian",
+                "C": "Rakaposhi",
+                "D": "None"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 299,
+            "question": "The 'Hanna Lake' is located near which city?",
+            "options": {
+                "A": "Peshawar",
+                "B": "Quetta",
+                "C": "Gilgit",
+                "D": "Skardu"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 300,
+            "question": "The 'Kallar Kahar' lake is located in which district?",
+            "options": {
+                "A": "Jhelum",
+                "B": "Chakwal",
+                "C": "Khushab",
+                "D": "Mianwali"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 301,
+            "question": "Which country was the first to recognize Pakistan after its independence?",
+            "options": {
+                "A": "Saudi Arabia",
+                "B": "Iran",
+                "C": "Turkey",
+                "D": "USA"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 302,
+            "question": "Pakistan joined the United Nations (UN) on:",
+            "options": {
+                "A": "August 14, 1947",
+                "B": "September 30, 1947",
+                "C": "October 24, 1947",
+                "D": "December 1, 1947"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 303,
+            "question": "The RCD (Regional Cooperation for Development) was established in 1964 by Pakistan, Iran, and:",
+            "options": {
+                "A": "Afghanistan",
+                "B": "Turkey",
+                "C": "Iraq",
+                "D": "Saudi Arabia"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 304,
+            "question": "RCD was later renamed in 1985 as:",
+            "options": {
+                "A": "SAARC",
+                "B": "ECO (Economic Cooperation Organization)",
+                "C": "OIC",
+                "D": "SCO"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 305,
+            "question": "The second Islamic Summit (OIC) was held in 1974 in which Pakistani city?",
+            "options": {
+                "A": "Karachi",
+                "B": "Lahore",
+                "C": "Islamabad",
+                "D": "Peshawar"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 306,
+            "question": "The 'Tashkent Declaration' (1966) was signed between Pakistan and India after which war?",
+            "options": {
+                "A": "1948 War",
+                "B": "1965 War",
+                "C": "1971 War",
+                "D": "Kargil War"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 307,
+            "question": "Who signed the Shimla Agreement in 1972 from Pakistan's side?",
+            "options": {
+                "A": "Ayub Khan",
+                "B": "Zulfikar Ali Bhutto",
+                "C": "Yahya Khan",
+                "D": "Zia-ul-Haq"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 308,
+            "question": "Pakistan left the Commonwealth in 1972 and rejoined it in:",
+            "options": {
+                "A": "1985",
+                "B": "1889",
+                "C": "1999",
+                "D": "2004"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 309,
+            "question": "The headquarters of the OIC is located in:",
+            "options": {
+                "A": "Tehran",
+                "B": "Jeddah",
+                "C": "Istanbul",
+                "D": "Cairo"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 310,
+            "question": "The Siachen Glacier dispute is between Pakistan and:",
+            "options": {
+                "A": "China",
+                "B": "India",
+                "C": "Afghanistan",
+                "D": "Iran"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 311,
+            "question": "The 'Line of Control' (LoC) was established after which agreement?",
+            "options": {
+                "A": "Tashkent Declaration",
+                "B": "Shimla Agreement",
+                "C": "Delhi Agreement",
+                "D": "Indus Waters Treaty"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 312,
+            "question": "The first Prime Minister of Pakistan to visit China was:",
+            "options": {
+                "A": "Liaquat Ali Khan",
+                "B": "H.S. Suhrawardy",
+                "C": "Z.A. Bhutto",
+                "D": "Feroz Khan Noon"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 313,
+            "question": "Pakistan became a full member of the Shanghai Cooperation Organization (SCO) in:",
+            "options": {
+                "A": "2015",
+                "B": "2017",
+                "C": "2019",
+                "D": "2021"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 314,
+            "question": "The 'Agra Summit' (2001) was held between Pervez Musharraf and:",
+            "options": {
+                "A": "Indira Gandhi",
+                "B": "Atal Bihari Vajpayee",
+                "C": "Manmohan Singh",
+                "D": "Narendra Modi"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 315,
+            "question": "Pakistan's 'Look Africa' policy was launched to improve ties with:",
+            "options": {
+                "A": "Asian countries",
+                "B": "African countries",
+                "C": "European countries",
+                "D": "South American countries"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 316,
+            "question": "The 'Baghdad Pact' (1955) was later known as:",
+            "options": {
+                "A": "SEATO",
+                "B": "CENTO",
+                "C": "NATO",
+                "D": "RCD"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 317,
+            "question": "Pakistan withdrew from SEATO in:",
+            "options": {
+                "A": "1971",
+                "B": "1973",
+                "C": "1979",
+                "D": "1985"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 318,
+            "question": "Pakistan officially joined the Non-Aligned Movement (NAM) in:",
+            "options": {
+                "A": "1955",
+                "B": "1979",
+                "C": "1988",
+                "D": "1995"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 319,
+            "question": "The 'Wazir Khan Mosque' is located in which city?",
+            "options": {
+                "A": "Multan",
+                "B": "Lahore",
+                "C": "Peshawar",
+                "D": "Thatta"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 320,
+            "question": "The 'Faisal Mosque' was designed by an architect from which country?",
+            "options": {
+                "A": "Saudi Arabia",
+                "B": "Turkey",
+                "C": "Iran",
+                "D": "Pakistan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 321,
+            "question": "The 'Khyber Pass' connects Pakistan with:",
+            "options": {
+                "A": "Iran",
+                "B": "Afghanistan",
+                "C": "China",
+                "D": "Tajikistan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 322,
+            "question": "The 'Durand Line' is the border between Pakistan and:",
+            "options": {
+                "A": "India",
+                "B": "Afghanistan",
+                "C": "Iran",
+                "D": "China"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 323,
+            "question": "The 'Radcliffe Line' is the boundary between Pakistan and:",
+            "options": {
+                "A": "China",
+                "B": "India",
+                "C": "Afghanistan",
+                "D": "Iran"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 324,
+            "question": "How many members are there in the SAARC organization?",
+            "options": {
+                "A": "7",
+                "B": "8",
+                "C": "9",
+                "D": "10"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 325,
+            "question": "The headquarters of SAARC is located in:",
+            "options": {
+                "A": "Dhaka",
+                "B": "Kathmandu",
+                "C": "New Delhi",
+                "D": "Islamabad"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 326,
+            "question": "The 'Gawadar' port is located on the shores of which sea?",
+            "options": {
+                "A": "Caspian Sea",
+                "B": "Arabian Sea",
+                "C": "Red Sea",
+                "D": "Dead Sea"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 327,
+            "question": "Which country is located to the West of Pakistan?",
+            "options": {
+                "A": "India",
+                "B": "Afghanistan",
+                "C": "China",
+                "D": "Arabian Sea"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 328,
+            "question": "Which country is located to the East of Pakistan?",
+            "options": {
+                "A": "Afghanistan",
+                "B": "India",
+                "C": "Iran",
+                "D": "China"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 329,
+            "question": "The length of Pakistan's border with China is approximately:",
+            "options": {
+                "A": "523 km",
+                "B": "599 km",
+                "C": "650 km",
+                "D": "700 km"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 330,
+            "question": "The 'Wakhan Corridor' separates Pakistan from which country?",
+            "options": {
+                "A": "Russia",
+                "B": "Tajikistan",
+                "C": "Uzbekistan",
+                "D": "Turkmenistan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 331,
+            "question": "The first Pakistani to win a Nobel Prize was:",
+            "options": {
+                "A": "Malala Yousafzai",
+                "B": "Dr. Abdus Salam",
+                "C": "Abdul Sattar Edhi",
+                "D": "Dr. AQ Khan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 332,
+            "question": "In which field did Dr. Abdus Salam win the Nobel Prize?",
+            "options": {
+                "A": "Chemistry",
+                "B": "Physics",
+                "C": "Economics",
+                "D": "Peace"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 333,
+            "question": "The first female Prime Minister of Pakistan (and the Muslim world) was:",
+            "options": {
+                "A": "Fatima Jinnah",
+                "B": "Benazir Bhutto",
+                "C": "Begum Ra'ana Liaquat",
+                "D": "Hina Rabbani Khar"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 334,
+            "question": "The national anthem of Pakistan was written by:",
+            "options": {
+                "A": "Allama Iqbal",
+                "B": "Hafeez Jalandhari",
+                "C": "Faiz Ahmad Faiz",
+                "D": "Ahmad Nadeem Qasmi"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 335,
+            "question": "The music of the national anthem of Pakistan was composed by:",
+            "options": {
+                "A": "Hafeez Jalandhari",
+                "B": "Ahmad G. Chagla",
+                "C": "Nisar Bazmi",
+                "D": "Sohail Rana"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 336,
+            "question": "The national flag of Pakistan was designed by:",
+            "options": {
+                "A": "Quaid-e-Azam",
+                "B": "Ameer-ud-din Kidwai",
+                "C": "Liaquat Ali Khan",
+                "D": "Fatima Jinnah"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 337,
+            "question": "The 'Badshahi Mosque' in Lahore was built by which Mughal emperor?",
+            "options": {
+                "A": "Akbar",
+                "B": "Aurangzeb",
+                "C": "Shah Jahan",
+                "D": "Jahangir"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 338,
+            "question": "The 'Shalimar Gardens' were built by:",
+            "options": {
+                "A": "Aurangzeb",
+                "B": "Shah Jahan",
+                "C": "Akbar",
+                "D": "Jahangir"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 339,
+            "question": "The 'Minar-e-Pakistan' was built at the site where which document was passed?",
+            "options": {
+                "A": "Objectives Resolution",
+                "B": "Pakistan Resolution",
+                "C": "Delhi Proposals",
+                "D": "Lucknow Pact"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 340,
+            "question": "The 'Khyber Pass' is located in which mountain range?",
+            "options": {
+                "A": "Himalayas",
+                "B": "Hindu Kush",
+                "C": "Karakoram",
+                "D": "Safed Koh"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_number": 341,
+            "question": "The largest museum in Pakistan is:",
+            "options": {
+                "A": "Lahore Museum",
+                "B": "National Museum Karachi",
+                "C": "Taxila Museum",
+                "D": "Peshawar Museum"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 342,
+            "question": "The 'Katas Raj Temples' are located in which district?",
+            "options": {
+                "A": "Jhelum",
+                "B": "Chakwal",
+                "C": "Sahiwal",
+                "D": "Multan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 343,
+            "question": "Which city is known as the 'City of Saints'?",
+            "options": {
+                "A": "Lahore",
+                "B": "Multan",
+                "C": "Uch Sharif",
+                "D": "Sehwan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 344,
+            "question": "The 'Mazar-e-Quaid' (Tomb of Jinnah) is located in:",
+            "options": {
+                "A": "Lahore",
+                "B": "Karachi",
+                "C": "Islamabad",
+                "D": "Ziarat"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 345,
+            "question": "Who is the 'Poet of the East'?",
+            "options": {
+                "A": "Faiz Ahmad Faiz",
+                "B": "Allama Iqbal",
+                "C": "Mirza Ghalib",
+                "D": "Josh Malihabadi"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 346,
+            "question": "The highest peak of the Hindu Kush range in Pakistan is:",
+            "options": {
+                "A": "K2",
+                "B": "Tirich Mir",
+                "C": "Nanga Parbat",
+                "D": "Rakaposhi"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 347,
+            "question": "The 'Takht-i-Bahi' Buddhist ruins are located in which province?",
+            "options": {
+                "A": "Punjab",
+                "B": "KPK",
+                "C": "Sindh",
+                "D": "Balochistan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 348,
+            "question": "The 'Makli Necropolis' (one of the largest cemeteries) is located in:",
+            "options": {
+                "A": "Hyderabad",
+                "B": "Thatta",
+                "C": "Sukkur",
+                "D": "Larkana"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 349,
+            "question": "The national sport of Pakistan is:",
+            "options": {
+                "A": "Cricket",
+                "B": "Field Hockey",
+                "C": "Squash",
+                "D": "Kabaddi"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 350,
+            "question": "How many times has Pakistan won the Hockey World Cup?",
+            "options": {
+                "A": "2",
+                "B": "4",
+                "C": "3",
+                "D": "5"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 351,
+            "question": "In which year did Pakistan win the Cricket World Cup?",
+            "options": {
+                "A": "1987",
+                "B": "1992",
+                "C": "1996",
+                "D": "1999"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 352,
+            "question": "Who was the captain of Pakistan's winning team in the 1992 World Cup?",
+            "options": {
+                "A": "Javed Miandad",
+                "B": "Imran Khan",
+                "C": "Wasim Akram",
+                "D": "Inzamam-ul-Haq"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 353,
+            "question": "In which year did Pakistan win the T20 Cricket World Cup?",
+            "options": {
+                "A": "2007",
+                "B": "2009",
+                "C": "2012",
+                "D": "2014"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 354,
+            "question": "Which Pakistani player won the British Open Squash title 10 times in a row?",
+            "options": {
+                "A": "Hashim Khan",
+                "B": "Jahangir Khan",
+                "C": "Jansher Khan",
+                "D": "Qamar Zaman"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 355,
+            "question": "Jahangir Khan holds the record for the longest winning streak in professional sports. How many matches did he win consecutively?",
+            "options": {
+                "A": "444",
+                "B": "555",
+                "C": "666",
+                "D": "777"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 356,
+            "question": "The 'Shandur Polo Festival' is held in which region?",
+            "options": {
+                "A": "Gilgit-Baltistan",
+                "B": "Chitral",
+                "C": "Both A and B",
+                "D": "Swat"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_number": 357,
+            "question": "The 'Polo' game originated in which region of Pakistan/Central Asia?",
+            "options": {
+                "A": "Punjab",
+                "B": "Gilgit-Baltistan",
+                "C": "Sindh",
+                "D": "KPK"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 358,
+            "question": "Who is the current Chairman of the Pakistan Cricket Board (PCB)? (As of 2024)",
+            "options": {
+                "A": "Zaka Ashraf",
+                "B": "Mohsin Naqvi",
+                "C": "Ramiz Raja",
+                "D": "Najam Sethi"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 359,
+            "question": "The first Pakistan Television (PTV) station was established in:",
+            "options": {
+                "A": "Karachi",
+                "B": "Lahore",
+                "C": "Rawalpindi",
+                "D": "Peshawar"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 360,
+            "question": "In which year did PTV start its color transmission?",
+            "options": {
+                "A": "1964",
+                "B": "1976",
+                "C": "1980",
+                "D": "1985"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 361,
+            "question": "The first female pilot of the Pakistan Air Force was:",
+            "options": {
+                "A": "Marium Mukhtiar",
+                "B": "Ayesha Farooq",
+                "C": "Shukriya Khanum",
+                "D": "None"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 362,
+            "question": "The first female high court judge in Pakistan was:",
+            "options": {
+                "A": "Justice Nasira Iqbal",
+                "B": "Justice Majida Rizvi",
+                "C": "Justice Ayesha Malik",
+                "D": "None"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 363,
+            "question": "Who was the first woman to reach the summit of Mount Everest from Pakistan?",
+            "options": {
+                "A": "Samina Baig",
+                "B": "Naila Kiani",
+                "C": "Marium Mukhtiar",
+                "D": "None"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 364,
+            "question": "The 'Lal Suhanra National Park' is located in:",
+            "options": {
+                "A": "Lahore",
+                "B": "Bahawalpur",
+                "C": "D.G. Khan",
+                "D": "Sahiwal"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 365,
+            "question": "The 'Hingol National Park' is located in which province?",
+            "options": {
+                "A": "Sindh",
+                "B": "Balochistan",
+                "C": "KPK",
+                "D": "Punjab"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 366,
+            "question": "Which is the largest national park of Pakistan by area?",
+            "options": {
+                "A": "Hingol National Park",
+                "B": "Central Karakoram National Park",
+                "C": "Khunjerab National Park",
+                "D": "Deosai National Park"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 367,
+            "question": "The 'Deosai Plains' are famous for which animal?",
+            "options": {
+                "A": "Snow Leopard",
+                "B": "Himalayan Brown Bear",
+                "C": "Markhor",
+                "D": "Ibex"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 368,
+            "question": "The 'Blind Dolphin' is found in which river of Pakistan?",
+            "options": {
+                "A": "Jhelum",
+                "B": "Indus",
+                "C": "Chenab",
+                "D": "Ravi"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 369,
+            "question": "What is the national fruit of Pakistan in Summer?",
+            "options": {
+                "A": "Guava",
+                "B": "Mango",
+                "C": "Orange",
+                "D": "Apple"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 370,
+            "question": "What is the national fruit of Pakistan in Winter?",
+            "options": {
+                "A": "Mango",
+                "B": "Guava",
+                "C": "Banana",
+                "D": "Grapes"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 371,
+            "question": "The national juice of Pakistan is:",
+            "options": {
+                "A": "Mango Juice",
+                "B": "Sugarcane Juice",
+                "C": "Orange Juice",
+                "D": "Apple Juice"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 372,
+            "question": "The national vegetable of Pakistan is:",
+            "options": {
+                "A": "Potato",
+                "B": "Lady Finger (Bhindi)",
+                "C": "Onion",
+                "D": "Tomato"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 373,
+            "question": "The national dress of Pakistan is:",
+            "options": {
+                "A": "Dhoti Kurta",
+                "B": "Shalwar Kameez",
+                "C": "Pant Shirt",
+                "D": "Sherwani"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 374,
+            "question": "The national reptile of Pakistan is:",
+            "options": {
+                "A": "Cobra",
+                "B": "Indus Crocodile (Magar)",
+                "C": "Lizard",
+                "D": "Tortoise"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 375,
+            "question": "The national mountain of Pakistan is:",
+            "options": {
+                "A": "Nanga Parbat",
+                "B": "K2",
+                "C": "Rakaposhi",
+                "D": "Tirich Mir"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 376,
+            "question": "The 'Mohenjo-Daro' site was discovered in:",
+            "options": {
+                "A": "1920",
+                "B": "1922",
+                "C": "1924",
+                "D": "1926"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 377,
+            "question": "The 'Harappa' site was discovered in:",
+            "options": {
+                "A": "1921",
+                "B": "1923",
+                "C": "1925",
+                "D": "1927"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 378,
+            "question": "The first census of Pakistan was conducted in:",
+            "options": {
+                "A": "1948",
+                "B": "1951",
+                "C": "1961",
+                "D": "1972"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 379,
+            "question": "The most populous province of Pakistan is:",
+            "options": {
+                "A": "Sindh",
+                "B": "Punjab",
+                "C": "Balochistan",
+                "D": "KPK"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 380,
+            "question": "The least populous province of Pakistan is:",
+            "options": {
+                "A": "Punjab",
+                "B": "Balochistan",
+                "C": "Sindh",
+                "D": "KPK"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 381,
+            "question": "The largest city of Pakistan by population is:",
+            "options": {
+                "A": "Lahore",
+                "B": "Karachi",
+                "C": "Faisalabad",
+                "D": "Rawalpindi"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 382,
+            "question": "The 'Kaghan Valley' is located in which district?",
+            "options": {
+                "A": "Swat",
+                "B": "Mansehra",
+                "C": "Abbottabad",
+                "D": "Dir"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 383,
+            "question": "The 'Lake Saiful Muluk' is located in:",
+            "options": {
+                "A": "Swat Valley",
+                "B": "Kaghan Valley",
+                "C": "Neelum Valley",
+                "D": "Hunza Valley"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 384,
+            "question": "The 'Hunza Valley' is famous for the longevity of its people and which fruit?",
+            "options": {
+                "A": "Apple",
+                "B": "Apricot",
+                "C": "Cherry",
+                "D": "Walnut"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 385,
+            "question": "The 'Kalash Valley' is located in:",
+            "options": {
+                "A": "Swat",
+                "B": "Chitral",
+                "C": "Dir",
+                "D": "Gilgit"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 386,
+            "question": "Which Pakistani city is famous for its 'Handmade Pottery' and 'Blue Tiles'?",
+            "options": {
+                "A": "Lahore",
+                "B": "Multan",
+                "C": "Peshawar",
+                "D": "Hala"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 387,
+            "question": "The 'Shigar Fort' is located in:",
+            "options": {
+                "A": "Gilgit",
+                "B": "Skardu",
+                "C": "Hunza",
+                "D": "Astore"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 388,
+            "question": "The 'Baltit Fort' is located in:",
+            "options": {
+                "A": "Skardu",
+                "B": "Hunza",
+                "C": "Gilgit",
+                "D": "Khaplu"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 389,
+            "question": "The 'Khaplu Palace' is a famous heritage site in:",
+            "options": {
+                "A": "Hunza",
+                "B": "Baltistan",
+                "C": "Gilgit",
+                "D": "Chitral"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 390,
+            "question": "Who was the first Pakistani woman to win an Oscar (Academy Award)?",
+            "options": {
+                "A": "Sharmeen Obaid-Chinoy",
+                "B": "Mehwish Hayat",
+                "C": "Saba Qamar",
+                "D": "None"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_number": 391,
+            "question": "The 'M-2' Motorway connects Lahore with:",
+            "options": {
+                "A": "Peshawar",
+                "B": "Islamabad",
+                "C": "Multan",
+                "D": "Faisalabad"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 392,
+            "question": "The 'M-1' Motorway connects Islamabad with:",
+            "options": {
+                "A": "Lahore",
+                "B": "Peshawar",
+                "C": "Faisalabad",
+                "D": "Multan"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 393,
+            "question": "The 'Lyari Expressway' is located in:",
+            "options": {
+                "A": "Lahore",
+                "B": "Karachi",
+                "C": "Islamabad",
+                "D": "Hyderabad"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 394,
+            "question": "The 'Allama Iqbal International Airport' is in:",
+            "options": {
+                "A": "Karachi",
+                "B": "Lahore",
+                "C": "Sialkot",
+                "D": "Islamabad"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 395,
+            "question": "The 'Jinnah International Airport' is in:",
+            "options": {
+                "A": "Lahore",
+                "B": "Karachi",
+                "C": "Islamabad",
+                "D": "Peshawar"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 396,
+            "question": "Which is the highest paved international road in the world?",
+            "options": {
+                "A": "Grand Trunk Road",
+                "B": "Karakoram Highway",
+                "C": "Silk Road",
+                "D": "Indus Highway"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 397,
+            "question": "The 'Khunjerab Pass' is the border crossing between Pakistan and:",
+            "options": {
+                "A": "Afghanistan",
+                "B": "China",
+                "C": "India",
+                "D": "Iran"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 398,
+            "question": "The 'Bolan Pass' connects Jacobabad and Sibi with:",
+            "options": {
+                "A": "Peshawar",
+                "B": "Quetta",
+                "C": "Kandahar",
+                "D": "Chitral"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 399,
+            "question": "The 'Lowari Tunnel' connects Dir with:",
+            "options": {
+                "A": "Swat",
+                "B": "Chitral",
+                "C": "Gilgit",
+                "D": "Malakand"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_number": 400,
+            "question": "The 'Khojak Tunnel' (one of the longest in South Asia) is located in:",
+            "options": {
+                "A": "KPK",
+                "B": "Balochistan",
+                "C": "Punjab",
+                "D": "Sindh"
+            },
+            "correct_answer": "B"
+        }
+    ]
+}

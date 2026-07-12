@@ -1,0 +1,4407 @@
+{
+  "test_name": "World Affairs Test",
+  "instructor": "",
+  "total_questions": 400,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which Greek figure is often referred to as the 'Father of Geography'?",
+      "options": {
+        "A": "Plato",
+        "B": "Aristotle",
+        "C": "Eratosthenes",
+        "D": "Pythagoras"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 2,
+      "question": "Which is the largest island in the world by land area?",
+      "options": {
+        "A": "Greenland",
+        "B": "Borneo",
+        "C": "Madagascar",
+        "D": "New Guinea"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "Which ocean is known as the smallest and shallowest ocean in the world?",
+      "options": {
+        "A": "Atlantic Ocean",
+        "B": "Pacific Ocean",
+        "C": "Indian Ocean",
+        "D": "Arctic Ocean"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "The 'Ring of Fire', a zone of frequent earthquakes and volcanic eruptions, is located in which ocean?",
+      "options": {
+        "A": "Atlantic",
+        "B": "Pacific",
+        "C": "Indian",
+        "D": "Arctic"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 5,
+      "question": "What is the term for a group or chain of islands clustered together?",
+      "options": {
+        "A": "Peninsula",
+        "B": "Canyon",
+        "C": "Archipelago",
+        "D": "Isthmus"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "The Strait of Gibraltar connects the Mediterranean Sea with which body of water?",
+      "options": {
+        "A": "Red Sea",
+        "B": "Black Sea",
+        "C": "Atlantic Ocean",
+        "D": "Indian Ocean"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 7,
+      "question": "Which mountain is the highest in Africa?",
+      "options": {
+        "A": "Mount Kenya",
+        "B": "Mount Kilimanjaro",
+        "C": "Atlas Mountains",
+        "D": "Drakensberg"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "The world's longest river, the Nile, flows into which sea?",
+      "options": {
+        "A": "Red Sea",
+        "B": "Caspian Sea",
+        "C": "Mediterranean Sea",
+        "D": "Dead Sea"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "Which desert is shared by Botswana, Namibia, and South Africa?",
+      "options": {
+        "A": "Sahara",
+        "B": "Gobi",
+        "C": "Kalahari",
+        "D": "Atacama"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "What is the latitude of the Equator?",
+      "options": {
+        "A": "90 degrees",
+        "B": "23.5 degrees",
+        "C": "0 degrees",
+        "D": "180 degrees"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 11,
+      "question": "The Karakoram Highway (N-35) starts from which city in Pakistan?",
+      "options": {
+        "A": "Islamabad",
+        "B": "Hassan Abdal",
+        "C": "Gilgit",
+        "D": "Mansehra"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 12,
+      "question": "Which pass connects Pakistan with China?",
+      "options": {
+        "A": "Khyber Pass",
+        "B": "Bolan Pass",
+        "C": "Khunjerab Pass",
+        "D": "Lowari Pass"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 13,
+      "question": "Which is the oldest and largest barrage built on the Indus River?",
+      "options": {
+        "A": "Guddu Barrage",
+        "B": "Sukkur Barrage",
+        "C": "Kotri Barrage",
+        "D": "Jinnah Barrage"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 14,
+      "question": "The Indus River originates from which lake in Tibet?",
+      "options": {
+        "A": "Lake Baikal",
+        "B": "Mansarovar Lake",
+        "C": "Wular Lake",
+        "D": "Caspian Sea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 15,
+      "question": "What was the ancient name of the Indus River?",
+      "options": {
+        "A": "Ganges",
+        "B": "Yamuna",
+        "C": "Sindhu",
+        "D": "Mehran"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 16,
+      "question": "In which year did the Balfour Declaration occur?",
+      "options": {
+        "A": "1914",
+        "B": "1917",
+        "C": "1922",
+        "D": "1948"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 17,
+      "question": "The 'Holodomor' refers to a man-made famine that occurred in which country?",
+      "options": {
+        "A": "Russia",
+        "B": "Ukraine",
+        "C": "Poland",
+        "D": "Afghanistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 18,
+      "question": "The Durand Line serves as the border between Pakistan and which country?",
+      "options": {
+        "A": "India",
+        "B": "China",
+        "C": "Iran",
+        "D": "Afghanistan"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 19,
+      "question": "Who was the last U.S. soldier to leave Afghanistan on August 31, 2021?",
+      "options": {
+        "A": "Zalmay Khalilzad",
+        "B": "Chris Donahue",
+        "C": "Lloyd Austin",
+        "D": "Mark Milley"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 20,
+      "question": "Which agreement was signed in February 2015 to halt fighting in Eastern Ukraine?",
+      "options": {
+        "A": "Oslo Accords",
+        "B": "Minsk II Agreement",
+        "C": "Doha Agreement",
+        "D": "Simla Agreement"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 21,
+      "question": "The Shanghai Cooperation Organization (SCO) was established in which year?",
+      "options": {
+        "A": "1996",
+        "B": "2001",
+        "C": "2005",
+        "D": "2017"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 22,
+      "question": "Which four countries comprise the Quadrilateral Security Dialogue (QUAD)?",
+      "options": {
+        "A": "USA, UK, Australia, Japan",
+        "B": "USA, India, Japan, Australia",
+        "C": "USA, India, UK, Canada",
+        "D": "China, Russia, Pakistan, Iran"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 23,
+      "question": "The AUKUS security pact aims to assist Australia in acquiring which technology?",
+      "options": {
+        "A": "5G Networks",
+        "B": "Nuclear-powered submarines",
+        "C": "Space Exploration Rockets",
+        "D": "Stealth Fighter Jets"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 24,
+      "question": "Which plateau is known as the 'Roof of the World'?",
+      "options": {
+        "A": "Deccan Plateau",
+        "B": "Anatolian Plateau",
+        "C": "Tibetan Plateau",
+        "D": "Potohar Plateau"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "The famous 'Taksim Square' is located in which city?",
+      "options": {
+        "A": "Cairo",
+        "B": "Istanbul",
+        "C": "Tehran",
+        "D": "Baghdad"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 26,
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "options": {
+        "A": "United Kingdom",
+        "B": "France",
+        "C": "Germany",
+        "D": "Italy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "The 'Five Eyes' is an intelligence-sharing alliance. Which of these is NOT a member?",
+      "options": {
+        "A": "New Zealand",
+        "B": "Canada",
+        "C": "Japan",
+        "D": "Australia"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 28,
+      "question": "The 'Line of Actual Control' (LAC) is a disputed border between which two countries?",
+      "options": {
+        "A": "Pakistan and India",
+        "B": "India and China",
+        "C": "China and Taiwan",
+        "D": "Russia and Ukraine"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 29,
+      "question": "Which strait separates the Malay Peninsula from the island of Sumatra?",
+      "options": {
+        "A": "Strait of Hormuz",
+        "B": "Strait of Malacca",
+        "C": "Bering Strait",
+        "D": "Strait of Gibraltar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 30,
+      "question": "The 'Hanging Gardens of Babylon' were located in which modern-day country?",
+      "options": {
+        "A": "Egypt",
+        "B": "Iran",
+        "C": "Iraq",
+        "D": "Syria"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "Mount Ararat, traditionally where Noah's Ark landed, is in which country?",
+      "options": {
+        "A": "Israel",
+        "B": "Turkey",
+        "C": "Jordan",
+        "D": "Armenia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question": "What is the capital of Canada?",
+      "options": {
+        "A": "Toronto",
+        "B": "Vancouver",
+        "C": "Ottawa",
+        "D": "Montreal"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 33,
+      "question": "Which city is known as the 'Silicon Valley' of the world due to its tech giants?",
+      "options": {
+        "A": "New York",
+        "B": "California",
+        "C": "London",
+        "D": "Tokyo"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "The 'Bosphorus Strait' connects the Black Sea with which sea?",
+      "options": {
+        "A": "Red Sea",
+        "B": "Mediterranean Sea (via Sea of Marmara)",
+        "C": "Caspian Sea",
+        "D": "Dead Sea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "In which country is the famous 'Leaning Tower of Pisa' located?",
+      "options": {
+        "A": "France",
+        "B": "Spain",
+        "C": "Italy",
+        "D": "Greece"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 36,
+      "question": "The 'Gobi Desert' is situated between which two countries?",
+      "options": {
+        "A": "India and Pakistan",
+        "B": "China and Mongolia",
+        "C": "Iran and Iraq",
+        "D": "Russia and Kazakhstan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "Which island is the largest of Japan's main islands?",
+      "options": {
+        "A": "Hokkaido",
+        "B": "Kyushu",
+        "C": "Honshu",
+        "D": "Shikoku"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 38,
+      "question": "The 'Tahrir Square', famous for the 2011 Arab Spring protests, is in which city?",
+      "options": {
+        "A": "Tunis",
+        "B": "Tripoli",
+        "C": "Cairo",
+        "D": "Damascus"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 39,
+      "question": "The 'Great Wall of China' was primarily built to protect against which invaders?",
+      "options": {
+        "A": "Romans",
+        "B": "Mongols",
+        "C": "Persians",
+        "D": "British"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 40,
+      "question": "Which sea is located between Russia and Alaska?",
+      "options": {
+        "A": "Bering Sea",
+        "B": "South China Sea",
+        "C": "Arabian Sea",
+        "D": "Coral Sea"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "The 'Panggong Lake' is a high-altitude lake located in which disputed region?",
+      "options": {
+        "A": "Crimea",
+        "B": "Ladakh",
+        "C": "Gaza",
+        "D": "Donbas"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 42,
+      "question": "Which river is the longest in Asia?",
+      "options": {
+        "A": "Indus",
+        "B": "Ganges",
+        "C": "Yangtze",
+        "D": "Mekong"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 43,
+      "question": "The 'Sinai Peninsula' connects which two continents?",
+      "options": {
+        "A": "Europe and Asia",
+        "B": "Asia and Africa",
+        "C": "North and South America",
+        "D": "Europe and Africa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 44,
+      "question": "Which country comprises an archipelago of over 7,000 islands in Southeast Asia?",
+      "options": {
+        "A": "Japan",
+        "B": "Maldives",
+        "C": "Philippines",
+        "D": "Sri Lanka"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 45,
+      "question": "The 'Caspian Sea' is bordered by how many countries?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 46,
+      "question": "What is the capital of Argentina?",
+      "options": {
+        "A": "Santiago",
+        "B": "Montevideo",
+        "C": "Buenos Aires",
+        "D": "Lima"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 47,
+      "question": "Which country is the newest member of the United Nations (admitted in 2011)?",
+      "options": {
+        "A": "East Timor",
+        "B": "Montenegro",
+        "C": "South Sudan",
+        "D": "Palestine"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 48,
+      "question": "The 'Treaty of Amritsar' (1846) involved the sale of Kashmir to which ruler?",
+      "options": {
+        "A": "Ranjit Singh",
+        "B": "Gulab Singh",
+        "C": "Hari Singh",
+        "D": "Shah Shuja"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question": "On which date did India abrogate Article 370 of its constitution?",
+      "options": {
+        "A": "August 14, 1947",
+        "B": "January 26, 1950",
+        "C": "August 5, 2019",
+        "D": "October 26, 1947"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 50,
+      "question": "The 'Wakhan Corridor' connects Afghanistan with which country?",
+      "options": {
+        "A": "Pakistan",
+        "B": "China",
+        "C": "Tajikistan",
+        "D": "Uzbekistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 51,
+      "question": "Which city is the capital of North Macedonia?",
+      "options": {
+        "A": "Skopje",
+        "B": "Sofia",
+        "C": "Tirana",
+        "D": "Belgrade"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 52,
+      "question": "The 'Maastricht Treaty' (1993) established which international organization?",
+      "options": {
+        "A": "NATO",
+        "B": "United Nations",
+        "C": "European Union",
+        "D": "Arab League"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 53,
+      "question": "Which explorer is credited with the European 'discovery' of the Americas in 1492?",
+      "options": {
+        "A": "Vasco da Gama",
+        "B": "Ferdinand Magellan",
+        "C": "Christopher Columbus",
+        "D": "Marco Polo"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 54,
+      "question": "What are the names of the five 'Great Lakes' of North America?",
+      "options": {
+        "A": "Superior, Michigan, Huron, Erie, Ontario",
+        "B": "Baikal, Caspian, Aral, Victoria, Tanganyika",
+        "C": "Tahoe, Mead, Powell, Salt, Champlain",
+        "D": "Great Bear, Great Slave, Athabasca, Reindeer, Winnipeg"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 55,
+      "question": "The 'Panama Canal' connects which two oceans?",
+      "options": {
+        "A": "Atlantic and Indian",
+        "B": "Atlantic and Pacific",
+        "C": "Pacific and Indian",
+        "D": "Arctic and Atlantic"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 56,
+      "question": "Which country is the largest in Africa by land area?",
+      "options": {
+        "A": "Sudan",
+        "B": "Nigeria",
+        "C": "Algeria",
+        "D": "Egypt"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 57,
+      "question": "The 'Jasmine Revolution' (2011) occurred in which country?",
+      "options": {
+        "A": "Egypt",
+        "B": "Libya",
+        "C": "Tunisia",
+        "D": "Yemen"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 58,
+      "question": "Which river is the longest in the world?",
+      "options": {
+        "A": "Amazon",
+        "B": "Nile",
+        "C": "Yangtze",
+        "D": "Mississippi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 59,
+      "question": "The 'Hagia Sophia' is a world-famous monument located in which city?",
+      "options": {
+        "A": "Athens",
+        "B": "Rome",
+        "C": "Istanbul",
+        "D": "Jerusalem"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 60,
+      "question": "Which city was formerly known as 'Peking'?",
+      "options": {
+        "A": "Shanghai",
+        "B": "Beijing",
+        "C": "Tokyo",
+        "D": "Seoul"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 61,
+      "question": "The 'Chichen Itza' pyramid was built by which civilization?",
+      "options": {
+        "A": "Incas",
+        "B": "Aztecs",
+        "C": "Mayans",
+        "D": "Egyptians"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 62,
+      "question": "Which desert is considered the driest place on Earth?",
+      "options": {
+        "A": "Sahara",
+        "B": "Atacama",
+        "C": "Gobi",
+        "D": "Thar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 63,
+      "question": "The 'Dnieper River' flows into which body of water?",
+      "options": {
+        "A": "Caspian Sea",
+        "B": "Black Sea",
+        "C": "Baltic Sea",
+        "D": "Mediterranean Sea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 64,
+      "question": "Which gas pipeline runs from Russia to Germany under the Baltic Sea?",
+      "options": {
+        "A": "TurkStream",
+        "B": "Blue Stream",
+        "C": "Nord Stream",
+        "D": "Yamal-Europe"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 65,
+      "question": "Who is the current President of Ukraine?",
+      "options": {
+        "A": "Viktor Yanukovych",
+        "B": "Petro Poroshenko",
+        "C": "Volodymyr Zelensky",
+        "D": "Vladimir Putin"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 66,
+      "question": "The 'Saur Revolution' (1978) led to the establishment of which type of government in Afghanistan?",
+      "options": {
+        "A": "Monarchy",
+        "B": "Communist",
+        "C": "Islamic Republic",
+        "D": "Democracy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 67,
+      "question": "Which US Operation was launched in 2001 against the Taliban?",
+      "options": {
+        "A": "Desert Storm",
+        "B": "Neptune Spear",
+        "C": "Enduring Freedom",
+        "D": "Iraqi Freedom"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 68,
+      "question": "The 'Durand Line' agreement was signed in which year?",
+      "options": {
+        "A": "1846",
+        "B": "1893",
+        "C": "1919",
+        "D": "1947"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 69,
+      "question": "Which border crossing connects Kandahar (Afghanistan) to Quetta (Pakistan)?",
+      "options": {
+        "A": "Torkham",
+        "B": "Spin Boldak",
+        "C": "Ghulam Khan",
+        "D": "Kharlachi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 70,
+      "question": "What is the primary goal of the 'Indo-Pacific Strategy' (FOIP) led by the U.S.?",
+      "options": {
+        "A": "To promote Chinese trade",
+        "B": "To counter Chinese influence",
+        "C": "To establish a new UN headquarters",
+        "D": "To colonize the Pacific islands"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 71,
+      "question": "Which mountain range separates Europe from Asia?",
+      "options": {
+        "A": "The Alps",
+        "B": "The Ural Mountains",
+        "C": "The Himalayas",
+        "D": "The Pyrenees"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 72,
+      "question": "The 'Alps' mountain range stretches across which of these groups of countries?",
+      "options": {
+        "A": "Norway, Sweden, Finland",
+        "B": "Austria, France, Italy, Switzerland",
+        "C": "Spain, Portugal, Morocco",
+        "D": "Russia, Ukraine, Belarus"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 73,
+      "question": "Which river is the longest in the European continent?",
+      "options": {
+        "A": "Danube",
+        "B": "Rhine",
+        "C": "Volga",
+        "D": "Thames"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 74,
+      "question": "The 'Montevideo Convention' of 1933 is famous for defining the criteria of what?",
+      "options": {
+        "A": "Human Rights",
+        "B": "Statehood",
+        "C": "Maritime Law",
+        "D": "Climate Change"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 75,
+      "question": "Who is the current President of Brazil (as of 2023)?",
+      "options": {
+        "A": "Jair Bolsonaro",
+        "B": "Lula Da Silva",
+        "C": "Nicolas Maduro",
+        "D": "Juan Guaidó"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 76,
+      "question": "Which South American mountain range is the source of the Amazon River?",
+      "options": {
+        "A": "Atlas Mountains",
+        "B": "Andes Mountains",
+        "C": "Appalachian Mountains",
+        "D": "Rocky Mountains"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 77,
+      "question": "What does the name of Argentina's capital, 'Buenos Aires', mean?",
+      "options": {
+        "A": "Good People",
+        "B": "Fair Winds",
+        "C": "Silver River",
+        "D": "Beautiful Port"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 78,
+      "question": "In which year did the Cuban Missile Crisis occur?",
+      "options": {
+        "A": "1945",
+        "B": "1961",
+        "C": "1962",
+        "D": "1989"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 79,
+      "question": "Who was the leader of the Cuban Revolution alongside Fidel Castro?",
+      "options": {
+        "A": "Simon Bolivar",
+        "B": "Che Guevara",
+        "C": "Hugo Chavez",
+        "D": "Augusto Pinochet"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 80,
+      "question": "Which country recently became a republic after 400 years of British monarchical rule?",
+      "options": {
+        "A": "Jamaica",
+        "B": "Barbados",
+        "C": "Bahamas",
+        "D": "Guyana"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 81,
+      "question": "The 'Bay of Pigs' invasion in 1961 was an attempt to overthrow the government of which country?",
+      "options": {
+        "A": "Vietnam",
+        "B": "Cuba",
+        "C": "Nicaragua",
+        "D": "Panama"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 82,
+      "question": "What is the highest mountain peak in South America?",
+      "options": {
+        "A": "Mount Everest",
+        "B": "Mount Aconcagua",
+        "C": "Mount Denali",
+        "D": "Mount Elbrus"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 83,
+      "question": "The 'European Union' currently uses which common currency?",
+      "options": {
+        "A": "Pound Sterling",
+        "B": "Euro",
+        "C": "Franc",
+        "D": "Deutsche Mark"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 84,
+      "question": "Which city serves as the administrative headquarters of the European Union?",
+      "options": {
+        "A": "Paris",
+        "B": "Berlin",
+        "C": "Brussels",
+        "D": "Geneva"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 85,
+      "question": "The United Nations was officially established on which date?",
+      "options": {
+        "A": "August 14, 1945",
+        "B": "October 24, 1945",
+        "C": "January 1, 1946",
+        "D": "December 10, 1948"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 86,
+      "question": "Who was the first Secretary-General of the United Kingdom?",
+      "options": {
+        "A": "Dag Hammarskjöld",
+        "B": "Trygve Lie",
+        "C": "U Thant",
+        "D": "Kurt Waldheim"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 87,
+      "question": "Which organ of the United Nations has the power to impose sanctions and authorize military action?",
+      "options": {
+        "A": "General Assembly",
+        "B": "Security Council",
+        "C": "International Court of Justice",
+        "D": "Secretariat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 88,
+      "question": "How many permanent members (P5) are there in the UN Security Council?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 89,
+      "question": "Which of these countries is NOT a permanent member of the UN Security Council?",
+      "options": {
+        "A": "China",
+        "B": "France",
+        "C": "Germany",
+        "D": "Russia"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 90,
+      "question": "Where is the headquarters of the International Court of Justice located?",
+      "options": {
+        "A": "New York",
+        "B": "The Hague",
+        "C": "Geneva",
+        "D": "Vienna"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 91,
+      "question": "The 'Balfour Declaration' of 1917 expressed British support for a 'national home' for which people?",
+      "options": {
+        "A": "Arabs",
+        "B": "Jews",
+        "C": "Kurds",
+        "D": "Armenians"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 92,
+      "question": "Which UN resolution, passed in 2012, upgraded Palestine to a 'non-member observer state'?",
+      "options": {
+        "A": "Resolution 242",
+        "B": "Resolution 67/19",
+        "C": "Resolution 181",
+        "D": "Resolution 2334"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 93,
+      "question": "The 'Six-Day War' between Israel and Arab neighbors occurred in which year?",
+      "options": {
+        "A": "1948",
+        "B": "1956",
+        "C": "1967",
+        "D": "1973"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 94,
+      "question": "Which agreement, signed in 1978, led to a peace treaty between Egypt and Israel?",
+      "options": {
+        "A": "Oslo Accords",
+        "B": "Camp David Accords",
+        "C": "Balfour Declaration",
+        "D": "Tashkent Declaration"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 95,
+      "question": "The 'Oslo Accords' of 1993 were signed between Israel and which organization?",
+      "options": {
+        "A": "Hamas",
+        "B": "Palestine Liberation Organization (PLO)",
+        "C": "Hezbollah",
+        "D": "Arab League"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 96,
+      "question": "Which city do both Israelis and Palestinians claim as their capital?",
+      "options": {
+        "A": "Tel Aviv",
+        "B": "Ramallah",
+        "C": "Jerusalem",
+        "D": "Gaza City"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 97,
+      "question": "The 'Iron Dome' is a famous air-defense system used by which country?",
+      "options": {
+        "A": "USA",
+        "B": "Russia",
+        "C": "Israel",
+        "D": "China"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 98,
+      "question": "Which sea is located to the west of Palestine/Israel?",
+      "options": {
+        "A": "Red Sea",
+        "B": "Mediterranean Sea",
+        "C": "Dead Sea",
+        "D": "Caspian Sea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 99,
+      "question": "The 'Great Dividing Range' is a major mountain range in which country?",
+      "options": {
+        "A": "USA",
+        "B": "Australia",
+        "C": "Canada",
+        "D": "China"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 100,
+      "question": "Which is the largest desert in Australia?",
+      "options": {
+        "A": "Sahara",
+        "B": "Great Victoria Desert",
+        "C": "Gobi",
+        "D": "Kalahari"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 101,
+      "question": "The 'Murray-Darling' is the most significant river system in which continent?",
+      "options": {
+        "A": "Africa",
+        "B": "Australia",
+        "C": "South America",
+        "D": "Europe"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 102,
+      "question": "Which Australian city is known for its iconic Opera House?",
+      "options": {
+        "A": "Melbourne",
+        "B": "Sydney",
+        "C": "Canberra",
+        "D": "Perth"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 103,
+      "question": "What is the national animal of Australia?",
+      "options": {
+        "A": "Lion",
+        "B": "Kangaroo",
+        "C": "Panda",
+        "D": "Eagle"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 104,
+      "question": "The 'Maori' are the indigenous people of which country?",
+      "options": {
+        "A": "Australia",
+        "B": "New Zealand",
+        "C": "Fiji",
+        "D": "Samoa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 105,
+      "question": "Which body of water separates Australia from New Zealand?",
+      "options": {
+        "A": "Tasman Sea",
+        "B": "Coral Sea",
+        "C": "Indian Ocean",
+        "D": "Arafura Sea"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 106,
+      "question": "The 'Great Barrier Reef' is located off the coast of which Australian state?",
+      "options": {
+        "A": "New South Wales",
+        "B": "Queensland",
+        "C": "Victoria",
+        "D": "Western Australia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 107,
+      "question": "Which of these is the capital of New Zealand?",
+      "options": {
+        "A": "Auckland",
+        "B": "Wellington",
+        "C": "Christchurch",
+        "D": "Hamilton"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 108,
+      "question": "The 'Dnieper River' is vital for the economy and electricity of which country?",
+      "options": {
+        "A": "Poland",
+        "B": "Ukraine",
+        "C": "Germany",
+        "D": "France"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 109,
+      "question": "Which Ukrainian city suffered the worst nuclear disaster in history in 1986?",
+      "options": {
+        "A": "Kyiv",
+        "B": "Kharkiv",
+        "C": "Chernobyl",
+        "D": "Odessa"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 110,
+      "question": "In 2014, Russia annexed which peninsula from Ukraine?",
+      "options": {
+        "A": "Balkan Peninsula",
+        "B": "Crimean Peninsula",
+        "C": "Sinai Peninsula",
+        "D": "Iberian Peninsula"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 111,
+      "question": "The 'Donbas' region in Eastern Ukraine consists of which two provinces?",
+      "options": {
+        "A": "Kyiv and Lviv",
+        "B": "Donetsk and Luhansk",
+        "C": "Kharkiv and Kherson",
+        "D": "Odessa and Mykolaiv"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 112,
+      "question": "Which international alliance did Ukraine seek to join, triggering Russian security concerns?",
+      "options": {
+        "A": "SCO",
+        "B": "NATO",
+        "C": "ASEAN",
+        "D": "BRICS"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 113,
+      "question": "Which city is the second-largest in Ukraine and saw heavy fighting in early 2022?",
+      "options": {
+        "A": "Donetsk",
+        "B": "Kharkiv",
+        "C": "Mariupol",
+        "D": "Lviv"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 114,
+      "question": "The 'Bosphorus' and 'Dardanelles' straits are controlled by which country?",
+      "options": {
+        "A": "Greece",
+        "B": "Turkey",
+        "C": "Russia",
+        "D": "Egypt"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 115,
+      "question": "Which US President described the 'Silicon Valley' as the heart of global innovation?",
+      "options": {
+        "A": "Donald Trump",
+        "B": "Barack Obama",
+        "C": "Joe Biden",
+        "D": "George W. Bush"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 116,
+      "question": "The 'Thar Desert' is also known by which name in Pakistan?",
+      "options": {
+        "A": "Rohi",
+        "B": "Cholistan",
+        "C": "Kharan",
+        "D": "Thal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 117,
+      "question": "Which Pakistani desert is located between the Indus and Jhelum rivers?",
+      "options": {
+        "A": "Thar",
+        "B": "Thal",
+        "C": "Cholistan",
+        "D": "Kharan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 118,
+      "question": "The 'Katpana Desert', a cold desert, is located in which city of Pakistan?",
+      "options": {
+        "A": "Multan",
+        "B": "Skardu",
+        "C": "Gwadar",
+        "D": "Peshawar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 119,
+      "question": "Which is the smallest desert in Pakistan?",
+      "options": {
+        "A": "Thal",
+        "B": "Kharan",
+        "C": "Katpana",
+        "D": "Thar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 120,
+      "question": "The 'Cholistan Desert Jeep Rally' is held annually in which province?",
+      "options": {
+        "A": "Sindh",
+        "B": "Punjab",
+        "C": "Balochistan",
+        "D": "Khyber Pakhtunkhwa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 121,
+      "question": "Who is the author of the book 'No Higher Honor'?",
+      "options": {
+        "A": "Hillary Clinton",
+        "B": "Condoleezza Rice",
+        "C": "Michelle Obama",
+        "D": "Angela Merkel"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 122,
+      "question": "The book 'The Battle for Pakistan' is written by which author?",
+      "options": {
+        "A": "Ahmed Rashid",
+        "B": "Shuja Nawaz",
+        "C": "Maleeha Lodhi",
+        "D": "Anatol Lieven"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 123,
+      "question": "Which international day is observed on 22nd April every year?",
+      "options": {
+        "A": "World Water Day",
+        "B": "Earth Day",
+        "C": "World Health Day",
+        "D": "International Women's Day"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 124,
+      "question": "World Environment Day is celebrated annually on which date?",
+      "options": {
+        "A": "May 1st",
+        "B": "June 5th",
+        "C": "July 11th",
+        "D": "August 14th"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 125,
+      "question": "The currency of Russia is known as:",
+      "options": {
+        "A": "Euro",
+        "B": "Ruble",
+        "C": "Lira",
+        "D": "Yen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 126,
+      "question": "What is the capital city of Turkey?",
+      "options": {
+        "A": "Istanbul",
+        "B": "Ankara",
+        "C": "Antalya",
+        "D": "Bursa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 127,
+      "question": "The 'Sir Creek' dispute is a maritime boundary conflict between Pakistan and which country?",
+      "options": {
+        "A": "Iran",
+        "B": "India",
+        "C": "Oman",
+        "D": "Afghanistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 128,
+      "question": "Which line represents the 24th Parallel, often cited in the Rann of Kutch dispute?",
+      "options": {
+        "A": "Line of Control",
+        "B": "24th Parallel line",
+        "C": "Durand Line",
+        "D": "Radcliffe Line"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 129,
+      "question": "In Pakistan, the 'Kharan Desert' is located in which province?",
+      "options": {
+        "A": "Sindh",
+        "B": "Balochistan",
+        "C": "Punjab",
+        "D": "KPK"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 130,
+      "question": "Which city is the capital of Kazakhstan?",
+      "options": {
+        "A": "Almaty",
+        "B": "Astana",
+        "C": "Tashkent",
+        "D": "Bishkek"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 131,
+      "question": "The 'Grand Trunk (GT) Road' was originally constructed by which ruler?",
+      "options": {
+        "A": "Akbar",
+        "B": "Sher Shah Suri",
+        "C": "Babur",
+        "D": "Shah Jahan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 132,
+      "question": "What was the real name of Sher Shah Suri?",
+      "options": {
+        "A": "Jalal Khan",
+        "B": "Fareed Khan",
+        "C": "Himmat Khan",
+        "D": "Sher Khan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 133,
+      "question": "The 'Karakoram Highway' (KKH) is also known by which official number in Pakistan?",
+      "options": {
+        "A": "N-5",
+        "B": "N-35",
+        "C": "M-2",
+        "D": "N-10"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 134,
+      "question": "The first motorway of Pakistan, the M-2, connects which two cities?",
+      "options": {
+        "A": "Karachi and Hyderabad",
+        "B": "Lahore and Islamabad",
+        "C": "Peshawar and Islamabad",
+        "D": "Multan and Sukkur"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 135,
+      "question": "In which year was the M-2 motorway opened to the public?",
+      "options": {
+        "A": "1995",
+        "B": "1997",
+        "C": "1999",
+        "D": "2001"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 136,
+      "question": "The Makran Coastal Highway is designated as which National Highway?",
+      "options": {
+        "A": "N-5",
+        "B": "N-10",
+        "C": "N-55",
+        "D": "N-25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 137,
+      "question": "Which city does the N-10 highway connect Karachi with?",
+      "options": {
+        "A": "Quetta",
+        "B": "Gwadar",
+        "C": "Turbat",
+        "D": "Ormara"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 138,
+      "question": "How many operational motorways are currently in Pakistan according to recent lectures?",
+      "options": {
+        "A": "9",
+        "B": "11",
+        "C": "16",
+        "D": "20"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 139,
+      "question": "The 'Taunsa Barrage' is located on which river?",
+      "options": {
+        "A": "Jhelum",
+        "B": "Indus",
+        "C": "Chenab",
+        "D": "Ravi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 140,
+      "question": "Which barrage is also known as the 'Ghulam Muhammad Barrage'?",
+      "options": {
+        "A": "Guddu Barrage",
+        "B": "Kotri Barrage",
+        "C": "Sukkur Barrage",
+        "D": "Jinnah Barrage"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 141,
+      "question": "The point where all five rivers of Punjab meet the Indus is called:",
+      "options": {
+        "A": "Attock",
+        "B": "Mithankot",
+        "C": "Kalabagh",
+        "D": "Sukkur"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 142,
+      "question": "The 'Upper Indus Plain' starts from which location?",
+      "options": {
+        "A": "Mithankot",
+        "B": "Kalabagh",
+        "C": "Tarbela",
+        "D": "Thatta"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 143,
+      "question": "What is the length of the Indus River?",
+      "options": {
+        "A": "2,800 km",
+        "B": "3,180 km",
+        "C": "3,500 km",
+        "D": "2,500 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 144,
+      "question": "Which headworks is located on the Ravi river?",
+      "options": {
+        "A": "Head Islam",
+        "B": "Balloki",
+        "C": "Head Khanki",
+        "D": "Head Panjnad"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 145,
+      "question": "The 'Sindh Sagar Doab' lies between which two rivers?",
+      "options": {
+        "A": "Indus and Jhelum",
+        "B": "Jhelum and Chenab",
+        "C": "Chenab and Ravi",
+        "D": "Ravi and Sutlej"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 146,
+      "question": "Which international day is observed on 7th April?",
+      "options": {
+        "A": "World Forest Day",
+        "B": "World Health Day",
+        "C": "World Food Day",
+        "D": "World AIDS Day"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 147,
+      "question": "United Nations Day is celebrated annually on:",
+      "options": {
+        "A": "October 14",
+        "B": "October 24",
+        "C": "December 10",
+        "D": "January 1"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 148,
+      "question": "Which city is known as the headquarters of the 'Five Eyes' alliance members?",
+      "options": {
+        "A": "Brussels",
+        "B": "Not a single HQ (Intelligence sharing network)",
+        "C": "Washington D.C.",
+        "D": "London"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 149,
+      "question": "The 'Malabar Naval Exercise' primarily involves which group of countries?",
+      "options": {
+        "A": "NATO",
+        "B": "QUAD (India, US, Japan, Australia)",
+        "C": "SCO",
+        "D": "BRICS"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 150,
+      "question": "Which country is the newest member of the SCO (Shanghai Cooperation Organization)?",
+      "options": {
+        "A": "Pakistan",
+        "B": "Iran",
+        "C": "India",
+        "D": "Belarus"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 151,
+      "question": "The 'Trafalgar Square' is a landmark in which city?",
+      "options": {
+        "A": "Paris",
+        "B": "London",
+        "C": "New York",
+        "D": "Rome"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 152,
+      "question": "The 'Red Square' is located in which city?",
+      "options": {
+        "A": "Beijing",
+        "B": "Moscow",
+        "C": "Saint Petersburg",
+        "D": "Berlin"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 153,
+      "question": "What was the former name of Saint Petersburg?",
+      "options": {
+        "A": "Constantinople",
+        "B": "Petrograd",
+        "C": "Peking",
+        "D": "Angora"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 154,
+      "question": "The 'Lighthouse of Alexandria' was located in which country?",
+      "options": {
+        "A": "Greece",
+        "B": "Egypt",
+        "C": "Turkey",
+        "D": "Italy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 155,
+      "question": "Yellowstone National Park is located in which US state?",
+      "options": {
+        "A": "California",
+        "B": "Wyoming",
+        "C": "Texas",
+        "D": "Florida"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 156,
+      "question": "Which of these is the world's largest hot desert?",
+      "options": {
+        "A": "Gobi",
+        "B": "Sahara",
+        "C": "Kalahari",
+        "D": "Thar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 157,
+      "question": "The 'Namib Desert' is a coastal desert located in which continent?",
+      "options": {
+        "A": "Asia",
+        "B": "Africa",
+        "C": "South America",
+        "D": "Australia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 158,
+      "question": "Which mountain range stretches across Morocco, Algeria, and Tunisia?",
+      "options": {
+        "A": "Drakensberg",
+        "B": "Atlas Mountains",
+        "C": "Rift Valley",
+        "D": "Himalayas"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 159,
+      "question": "The second-highest peak in Africa is:",
+      "options": {
+        "A": "Mount Kilimanjaro",
+        "B": "Mount Kenya",
+        "C": "Mount Elgon",
+        "D": "Mount Meru"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 160,
+      "question": "Which river has the second-largest river basin in the world?",
+      "options": {
+        "A": "Nile",
+        "B": "Congo",
+        "C": "Amazon",
+        "D": "Mississippi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 161,
+      "question": "The 'Drakensberg' mountains are the highest range in which part of Africa?",
+      "options": {
+        "A": "North Africa",
+        "B": "Southern Africa",
+        "C": "East Africa",
+        "D": "West Africa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 162,
+      "question": "Which city is the capital of Ethiopia?",
+      "options": {
+        "A": "Nairobi",
+        "B": "Addis Ababa",
+        "C": "Khartoum",
+        "D": "Cairo"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 163,
+      "question": "The 'Suez Canal' was constructed between which years?",
+      "options": {
+        "A": "1840-1850",
+        "B": "1859-1869",
+        "C": "1900-1910",
+        "D": "1950-1960"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 164,
+      "question": "Which Egyptian leader won a Nobel Peace Prize for the Camp David Accords?",
+      "options": {
+        "A": "Gamal Abdel Nasser",
+        "B": "Anwar Sadat",
+        "C": "Hosni Mubarak",
+        "D": "Mohamed Morsi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 165,
+      "question": "The 'Blue Nile' and 'White Nile' rivers join together in which city?",
+      "options": {
+        "A": "Cairo",
+        "B": "Khartoum",
+        "C": "Juba",
+        "D": "Kampala"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 166,
+      "question": "Which country is the largest in Africa by area?",
+      "options": {
+        "A": "Sudan",
+        "B": "Algeria",
+        "C": "Nigeria",
+        "D": "Egypt"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 167,
+      "question": "The 'Sahel region' is a transition zone south of which desert?",
+      "options": {
+        "A": "Kalahari",
+        "B": "Sahara",
+        "C": "Namib",
+        "D": "Arabian"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 168,
+      "question": "Which city is known as the 'City of 313 Saints' in Pakistan?",
+      "options": {
+        "A": "Multan",
+        "B": "Uch Sharif",
+        "C": "Sehwan",
+        "D": "Thatta"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 169,
+      "question": "The 'Chinguetti' mosque, a UNESCO World Heritage site, is in which country?",
+      "options": {
+        "A": "Mali",
+        "B": "Mauritania",
+        "C": "Niger",
+        "D": "Chad"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 170,
+      "question": "Which river flows through 11 African countries?",
+      "options": {
+        "A": "Congo",
+        "B": "Nile",
+        "C": "Zambezi",
+        "D": "Niger"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 171,
+      "question": "In which year did the U.S. and China reach a 'Phase One' trade deal?",
+      "options": {
+        "A": "2018",
+        "B": "2019",
+        "C": "2020",
+        "D": "2021"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 172,
+      "question": "Which Chinese tech giant was heavily restricted by the U.S. due to national security concerns regarding 5G technology?",
+      "options": {
+        "A": "Xiaomi",
+        "B": "Huawei",
+        "C": "Alibaba",
+        "D": "Tencent"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 173,
+      "question": "What is the primary objective of the U.S. 'Free and Open Indo-Pacific' (FOIP) strategy?",
+      "options": {
+        "A": "To increase oil imports from China",
+        "B": "To counter China's expanding influence in the region",
+        "C": "To establish a new currency for Asia",
+        "D": "To build a bridge between India and USA"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 174,
+      "question": "The 'South China Sea' is a major geopolitical flashpoint due to territorial disputes involving China and which of these nations?",
+      "options": {
+        "A": "Russia and Japan",
+        "B": "Philippines, Vietnam, and Malaysia",
+        "C": "India and Pakistan",
+        "D": "Australia and New Zealand"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 175,
+      "question": "Which agreement, signed in 1963, involved Pakistan ceding territory to China in the Karakoram region?",
+      "options": {
+        "A": "Simla Agreement",
+        "B": "Sino-Pakistan Boundary Agreement",
+        "C": "Tashkent Declaration",
+        "D": "Indus Waters Treaty"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 176,
+      "question": "Who is the current President of Venezuela?",
+      "options": {
+        "A": "Juan Guaidó",
+        "B": "Nicolas Maduro",
+        "C": "Hugo Chavez",
+        "D": "Gabriel Boric"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 177,
+      "question": "Which country is the member of BRICS from South America?",
+      "options": {
+        "A": "Argentina",
+        "B": "Brazil",
+        "C": "Chile",
+        "D": "Peru"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 178,
+      "question": "The 'Amazon River' originates from which mountain range?",
+      "options": {
+        "A": "Alps",
+        "B": "Andes",
+        "C": "Himalayas",
+        "D": "Rockies"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 179,
+      "question": "The 'Montevideo Convention' of 1933 took place in which country?",
+      "options": {
+        "A": "Argentina",
+        "B": "Uruguay",
+        "C": "Paraguay",
+        "D": "Brazil"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 180,
+      "question": "Which Caribbean nation officially became a republic in 2021, removing the British monarch as head of state?",
+      "options": {
+        "A": "Jamaica",
+        "B": "Barbados",
+        "C": "Bahamas",
+        "D": "Cuba"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 181,
+      "question": "Who was the U.S. President during the Cuban Missile Crisis in 1962?",
+      "options": {
+        "A": "Dwight D. Eisenhower",
+        "B": "John F. Kennedy",
+        "C": "Lyndon B. Johnson",
+        "D": "Richard Nixon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 182,
+      "question": "Which Argentine Marxist revolutionist played a major role in the Cuban Revolution?",
+      "options": {
+        "A": "Fidel Castro",
+        "B": "Che Guevara",
+        "C": "Raul Castro",
+        "D": "Simon Bolivar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 183,
+      "question": "The 'Bay of Pigs' invasion took place in which year?",
+      "options": {
+        "A": "1959",
+        "B": "1961",
+        "C": "1962",
+        "D": "1965"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 184,
+      "question": "The UN Security Council Resolution 242 (1967) was passed following which conflict?",
+      "options": {
+        "A": "WWII",
+        "B": "Six-Day War",
+        "C": "Yom Kippur War",
+        "D": "Suez Crisis"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 185,
+      "question": "Which UN resolution upgraded Palestine to 'Non-member Observer State' status?",
+      "options": {
+        "A": "Resolution 242",
+        "B": "Resolution 67/19",
+        "C": "Resolution 478",
+        "D": "Resolution 2334"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 186,
+      "question": "The 'Abraham Accords' (2020) aimed to normalize relations between Israel and which Arab nations?",
+      "options": {
+        "A": "Egypt and Jordan",
+        "B": "UAE and Bahrain",
+        "C": "Saudi Arabia and Qatar",
+        "D": "Syria and Lebanon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 187,
+      "question": "The 'Durand Line' border between Pakistan and Afghanistan is approximately how long?",
+      "options": {
+        "A": "1,300 km",
+        "B": "2,670 km",
+        "C": "3,310 km",
+        "D": "878 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 188,
+      "question": "Which Afghan border crossing connects the Khyber Pass to Jalalabad?",
+      "options": {
+        "A": "Spin Boldak",
+        "B": "Torkham",
+        "C": "Ghulam Khan",
+        "D": "Kharlachi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 189,
+      "question": "Who was the U.S. Special Representative for Afghanistan Reconciliation who signed the Doha Agreement?",
+      "options": {
+        "A": "Chris Donahue",
+        "B": "Zalmay Khalilzad",
+        "C": "Antony Blinken",
+        "D": "Lloyd Austin"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 190,
+      "question": "On which date did the Taliban take control of Kabul again in 2021?",
+      "options": {
+        "A": "February 29",
+        "B": "August 15",
+        "C": "August 31",
+        "D": "September 11"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 191,
+      "question": "The 'Wakhan Corridor' connects Afghanistan with which country?",
+      "options": {
+        "A": "Iran",
+        "B": "China",
+        "C": "India",
+        "D": "Uzbekistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 192,
+      "question": "The 'Line of Control' (LoC) separates which two regions?",
+      "options": {
+        "A": "India and China",
+        "B": "Azad Kashmir and Indian-Occupied Kashmir",
+        "C": "Pakistan and Afghanistan",
+        "D": "Sindh and Gujarat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 193,
+      "question": "In 1984, India launched which operation to take control of the Siachen Glacier?",
+      "options": {
+        "A": "Operation Gibraltar",
+        "B": "Operation Meghdoot",
+        "C": "Operation Swift Retort",
+        "D": "Operation Neptune Spear"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 194,
+      "question": "Which agreement ended the 1971 Indo-Pak war and established the Line of Control?",
+      "options": {
+        "A": "Tashkent Declaration",
+        "B": "Simla Agreement",
+        "C": "Lahore Declaration",
+        "D": "Indus Waters Treaty"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 195,
+      "question": "The 'Aksai Chin' region is a disputed territory between which two countries?",
+      "options": {
+        "A": "India and Pakistan",
+        "B": "India and China",
+        "C": "China and Pakistan",
+        "D": "China and Russia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 196,
+      "question": "Which international day is celebrated on 5th October in Pakistan?",
+      "options": {
+        "A": "World Health Day",
+        "B": "Teacher's Day",
+        "C": "Environment Day",
+        "D": "Earth Day"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 197,
+      "question": "Pakistan observes 'Youm-e-Shuhada' (Martyrs' Day) on which date?",
+      "options": {
+        "A": "March 23",
+        "B": "April 30",
+        "C": "September 6",
+        "D": "August 14"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 198,
+      "question": "Which city is known as the 'Silicon Valley' of the world?",
+      "options": {
+        "A": "Seattle",
+        "B": "California (Santa Clara Valley)",
+        "C": "New York",
+        "D": "Tokyo"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 199,
+      "question": "The 'Nord Stream 2' pipeline was designed to transport gas from Russia to which country?",
+      "options": {
+        "A": "Ukraine",
+        "B": "Germany",
+        "C": "France",
+        "D": "Poland"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 200,
+      "question": "The 'Tashkent Declaration' (1966) was mediated by which country?",
+      "options": {
+        "A": "USA",
+        "B": "Soviet Union (USSR)",
+        "C": "United Kingdom",
+        "D": "China"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 201,
+      "question": "Which river is the longest in the world?",
+      "options": {
+        "A": "Amazon",
+        "B": "Nile",
+        "C": "Yangtze",
+        "D": "Mississippi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 202,
+      "question": "The 'Suez Canal' connects the Mediterranean Sea with the:",
+      "options": {
+        "A": "Black Sea",
+        "B": "Red Sea",
+        "C": "Caspian Sea",
+        "D": "Arabian Sea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 203,
+      "question": "Which desert is the largest hot desert in the world?",
+      "options": {
+        "A": "Gobi",
+        "B": "Sahara",
+        "C": "Kalahari",
+        "D": "Atacama"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 204,
+      "question": "The 'Bosphorus Strait' is located in which city?",
+      "options": {
+        "A": "Athens",
+        "B": "Istanbul",
+        "C": "Cairo",
+        "D": "Rome"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 205,
+      "question": "Which country has the largest population in Africa?",
+      "options": {
+        "A": "Egypt",
+        "B": "Nigeria",
+        "C": "Ethiopia",
+        "D": "South Africa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 206,
+      "question": "The 'Blue Nile' and 'White Nile' meet in which capital city?",
+      "options": {
+        "A": "Cairo",
+        "B": "Khartoum",
+        "C": "Juba",
+        "D": "Addis Ababa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 207,
+      "question": "The 'Jasmine Revolution' (2011) took place in which country?",
+      "options": {
+        "A": "Egypt",
+        "B": "Tunisia",
+        "C": "Libya",
+        "D": "Yemen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 208,
+      "question": "Which city is the capital of Morocco?",
+      "options": {
+        "A": "Casablanca",
+        "B": "Rabat",
+        "C": "Marrakesh",
+        "D": "Fez"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 209,
+      "question": "The 'Great Dividing Range' is a major mountain range in which country?",
+      "options": {
+        "A": "USA",
+        "B": "Australia",
+        "C": "South Africa",
+        "D": "Canada"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 210,
+      "question": "Which Australian city is famous for its iconic 'Opera House'?",
+      "options": {
+        "A": "Melbourne",
+        "B": "Sydney",
+        "C": "Perth",
+        "D": "Brisbane"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 211,
+      "question": "The 'Tasman Sea' separates Australia from which country?",
+      "options": {
+        "A": "Indonesia",
+        "B": "New Zealand",
+        "C": "Papua New Guinea",
+        "D": "Fiji"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 212,
+      "question": "Which security pact between the US, UK, and Australia was formed in 2021?",
+      "options": {
+        "A": "NATO",
+        "B": "AUKUS",
+        "C": "QUAD",
+        "D": "ANZUS"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 213,
+      "question": "The 'Five Eyes' intelligence alliance includes USA, UK, Canada, Australia, and which other country?",
+      "options": {
+        "A": "Japan",
+        "B": "New Zealand",
+        "C": "France",
+        "D": "South Korea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 214,
+      "question": "In which city is the headquarters of the African Union located?",
+      "options": {
+        "A": "Nairobi",
+        "B": "Addis Ababa",
+        "C": "Johannesburg",
+        "D": "Cairo"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 215,
+      "question": "The 'Rann of Kutch' boundary dispute involves which parallel line?",
+      "options": {
+        "A": "17th Parallel",
+        "B": "24th Parallel",
+        "C": "38th Parallel",
+        "D": "49th Parallel"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 216,
+      "question": "Which Pakistani desert is a 'Cold Desert' located at high altitude?",
+      "options": {
+        "A": "Thar",
+        "B": "Katpana (Skardu)",
+        "C": "Cholistan",
+        "D": "Kharan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 217,
+      "question": "The 'M-9' motorway connects which two cities in Sindh?",
+      "options": {
+        "A": "Sukkur and Multan",
+        "B": "Karachi and Hyderabad",
+        "C": "Karachi and Gwadar",
+        "D": "Hyderabad and Sukkur"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 218,
+      "question": "What is the total length of the 'Karakoram Highway' in Pakistan?",
+      "options": {
+        "A": "800 km",
+        "B": "1,300 km",
+        "C": "1,500 km",
+        "D": "2,000 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 219,
+      "question": "Which barrage on the Indus River is the oldest and largest?",
+      "options": {
+        "A": "Guddu Barrage",
+        "B": "Sukkur Barrage",
+        "C": "Kotri Barrage",
+        "D": "Taunsa Barrage"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 220,
+      "question": "The 'Indus River' originates from which lake in Tibet?",
+      "options": {
+        "A": "Lake Baikal",
+        "B": "Mansarovar Lake",
+        "C": "Wular Lake",
+        "D": "Lake Victoria"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 221,
+      "question": "Which Central Asian country is the largest landlocked country in the world?",
+      "options": {
+        "A": "Uzbekistan",
+        "B": "Kazakhstan",
+        "C": "Kyrgyzstan",
+        "D": "Turkmenistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 222,
+      "question": "The 'Shanghai Cooperation Organization' (SCO) was established in which year?",
+      "options": {
+        "A": "1996",
+        "B": "2001",
+        "C": "2005",
+        "D": "2017"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 223,
+      "question": "Which of these is a 'doubly landlocked' country (surrounded only by landlocked countries)?",
+      "options": {
+        "A": "Afghanistan",
+        "B": "Uzbekistan",
+        "C": "Kazakhstan",
+        "D": "Tajikistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 224,
+      "question": "The headquarters of the SCO (Shanghai Cooperation Organization) is located in:",
+      "options": {
+        "A": "Shanghai",
+        "B": "Beijing",
+        "C": "Moscow",
+        "D": "Astana"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 225,
+      "question": "What is the capital of Uzbekistan?",
+      "options": {
+        "A": "Bishkek",
+        "B": "Tashkent",
+        "C": "Dushanbe",
+        "D": "Ashgabat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 226,
+      "question": "The 'CSTO' (Collective Security Treaty Organization) is led primarily by which country?",
+      "options": {
+        "A": "China",
+        "B": "Russia",
+        "C": "USA",
+        "D": "Turkey"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 227,
+      "question": "Which city serves as the capital of Turkmenistan?",
+      "options": {
+        "A": "Dushanbe",
+        "B": "Ashgabat",
+        "C": "Almaty",
+        "D": "Astana"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 228,
+      "question": "The 'ASEAN' (Association of Southeast Asian Nations) headquarters is in which city?",
+      "options": {
+        "A": "Bangkok",
+        "B": "Jakarta",
+        "C": "Manila",
+        "D": "Singapore"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 229,
+      "question": "Which country is NOT a member of ASEAN?",
+      "options": {
+        "A": "Vietnam",
+        "B": "Pakistan",
+        "C": "Thailand",
+        "D": "Malaysia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 230,
+      "question": "The 'European Union' (EU) consists of how many member states (as of 2023)?",
+      "options": {
+        "A": "25",
+        "B": "27",
+        "C": "28",
+        "D": "30"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 231,
+      "question": "Which country officially left the European Union in 2020 (Brexit)?",
+      "options": {
+        "A": "France",
+        "B": "United Kingdom",
+        "C": "Germany",
+        "D": "Italy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 232,
+      "question": "The 'Schengen Area' refers to a zone in Europe where:",
+      "options": {
+        "A": "A common currency is used",
+        "B": "Internal border checks are abolished",
+        "C": "English is the official language",
+        "D": "Taxes are zero"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 233,
+      "question": "Where is the European Central Bank (ECB) located?",
+      "options": {
+        "A": "Brussels",
+        "B": "Frankfurt",
+        "C": "Paris",
+        "D": "Strasbourg"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 234,
+      "question": "The 'Eurozone' refers to EU countries that:",
+      "options": {
+        "A": "Are located in Eastern Europe",
+        "B": "Use the Euro as their official currency",
+        "C": "Are members of NATO",
+        "D": "Border the Atlantic Ocean"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 235,
+      "question": "Which treaty officially established the European Union in 1993?",
+      "options": {
+        "A": "Treaty of Rome",
+        "B": "Maastricht Treaty",
+        "C": "Treaty of Lisbon",
+        "D": "Treaty of Versailles"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 236,
+      "question": "The 'Black Sea' is bordered by Turkey to the south and which country to the north?",
+      "options": {
+        "A": "Egypt",
+        "B": "Ukraine",
+        "C": "Greece",
+        "D": "Italy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 237,
+      "question": "The 'Nord Stream' pipelines run under which sea?",
+      "options": {
+        "A": "Mediterranean Sea",
+        "B": "Baltic Sea",
+        "C": "Caspian Sea",
+        "D": "Red Sea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 238,
+      "question": "What is the capital of Germany?",
+      "options": {
+        "A": "Munich",
+        "B": "Berlin",
+        "C": "Hamburg",
+        "D": "Frankfurt"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 239,
+      "question": "Which European city is known as the 'City of Lights'?",
+      "options": {
+        "A": "London",
+        "B": "Paris",
+        "C": "Rome",
+        "D": "Vienna"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 240,
+      "question": "The 'Iberian Peninsula' consists of which two main countries?",
+      "options": {
+        "A": "Norway and Sweden",
+        "B": "Spain and Portugal",
+        "C": "Italy and Greece",
+        "D": "Belgium and Netherlands"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 241,
+      "question": "Which Pakistani National Highway connects Karachi with Torkham (via Peshawar)?",
+      "options": {
+        "A": "N-10",
+        "B": "N-5",
+        "C": "N-55",
+        "D": "N-25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 242,
+      "question": "The 'Lowari Tunnel' connects which two districts of KPK?",
+      "options": {
+        "A": "Peshawar and Mardan",
+        "B": "Dir and Chitral",
+        "C": "Swat and Buner",
+        "D": "Kohat and Bannu"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 243,
+      "question": "Which river is known as the 'Father of Rivers' in Pakistan?",
+      "options": {
+        "A": "Jhelum",
+        "B": "Indus",
+        "C": "Chenab",
+        "D": "Ravi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 244,
+      "question": "The 'Guddu Barrage' is located in which province of Pakistan?",
+      "options": {
+        "A": "Punjab",
+        "B": "Sindh",
+        "C": "Balochistan",
+        "D": "KPK"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 245,
+      "question": "What is the name of the desert located in the Bahawalpur region of Punjab?",
+      "options": {
+        "A": "Thar",
+        "B": "Cholistan",
+        "C": "Thal",
+        "D": "Kharan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 246,
+      "question": "The 'Tashkent Declaration' was signed between Lal Bahadur Shastri and which Pakistani leader?",
+      "options": {
+        "A": "Zulfikar Ali Bhutto",
+        "B": "Ayub Khan",
+        "C": "Yahya Khan",
+        "D": "Liaquat Ali Khan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 247,
+      "question": "In which year did Pakistan and India fight a war over the Kargil region?",
+      "options": {
+        "A": "1965",
+        "B": "1999",
+        "C": "1971",
+        "D": "1948"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 248,
+      "question": "Which pass connects Pakistan with Afghanistan at the Torkham border?",
+      "options": {
+        "A": "Bolan Pass",
+        "B": "Khyber Pass",
+        "C": "Gomal Pass",
+        "D": "Tochi Pass"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 249,
+      "question": "The 'Siachen Glacier' is located in which mountain range?",
+      "options": {
+        "A": "Himalayas",
+        "B": "Karakoram",
+        "C": "Hindu Kush",
+        "D": "Sulaiman Range"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 250,
+      "question": "Which city of Pakistan is known as the 'City of Textiles'?",
+      "options": {
+        "A": "Lahore",
+        "B": "Faisalabad",
+        "C": "Sialkot",
+        "D": "Gujranwala"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 251,
+      "question": "Which of these is the world's largest landmass surrounded by water (Island)?",
+      "options": {
+        "A": "Australia",
+        "B": "Greenland",
+        "C": "New Guinea",
+        "D": "Borneo"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 252,
+      "question": "The 'Mariana Trench', the deepest point on Earth, is in which ocean?",
+      "options": {
+        "A": "Atlantic",
+        "B": "Pacific",
+        "C": "Indian",
+        "D": "Arctic"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 253,
+      "question": "Which strait connects the Atlantic Ocean to the Mediterranean Sea?",
+      "options": {
+        "A": "Bosphorus Strait",
+        "B": "Strait of Gibraltar",
+        "C": "Strait of Malacca",
+        "D": "Strait of Hormuz"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 254,
+      "question": "The 'Hanging Gardens of Babylon' were located in which modern-day country?",
+      "options": {
+        "A": "Egypt",
+        "B": "Iraq",
+        "C": "Iran",
+        "D": "Turkey"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 255,
+      "question": "Which city is known as the capital of Canada?",
+      "options": {
+        "A": "Toronto",
+        "B": "Ottawa",
+        "C": "Vancouver",
+        "D": "Montreal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 256,
+      "question": "The 'Statue of Liberty' was a gift to the USA from which country?",
+      "options": {
+        "A": "United Kingdom",
+        "B": "France",
+        "C": "Germany",
+        "D": "Italy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 257,
+      "question": "Which line of latitude passes through the middle of the Earth?",
+      "options": {
+        "A": "Tropic of Cancer",
+        "B": "Equator",
+        "C": "Tropic of Capricorn",
+        "D": "Arctic Circle"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 258,
+      "question": "The 'Kalahari Desert' is primarily located in which country?",
+      "options": {
+        "A": "Egypt",
+        "B": "Botswana",
+        "C": "Algeria",
+        "D": "Morocco"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 259,
+      "question": "What is the capital of Australia?",
+      "options": {
+        "A": "Sydney",
+        "B": "Canberra",
+        "C": "Melbourne",
+        "D": "Perth"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 260,
+      "question": "Which mountain is the highest in the world?",
+      "options": {
+        "A": "K2",
+        "B": "Mount Everest",
+        "C": "Kangchenjunga",
+        "D": "Lhotse"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 261,
+      "question": "The 'Arab Spring' began in 2010 from which country?",
+      "options": {
+        "A": "Egypt",
+        "B": "Tunisia",
+        "C": "Libya",
+        "D": "Syria"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 262,
+      "question": "The 'Panama Canal' connects which two oceans?",
+      "options": {
+        "A": "Indian and Pacific",
+        "B": "Atlantic and Pacific",
+        "C": "Atlantic and Indian",
+        "D": "Arctic and Atlantic"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 263,
+      "question": "Which international organization was replaced by the United Nations in 1945?",
+      "options": {
+        "A": "European Union",
+        "B": "League of Nations",
+        "C": "NATO",
+        "D": "World Bank"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 264,
+      "question": "The 'Red Cross' headquarters is located in:",
+      "options": {
+        "A": "New York",
+        "B": "Geneva",
+        "C": "Paris",
+        "D": "London"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 265,
+      "question": "Which country has the highest number of Nobel Prize winners?",
+      "options": {
+        "A": "UK",
+        "B": "USA",
+        "C": "Germany",
+        "D": "France"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 266,
+      "question": "The 'Great Wall of China' was primarily built to protect against which invaders?",
+      "options": {
+        "A": "Romans",
+        "B": "Mongols",
+        "C": "Persians",
+        "D": "Japanese"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 267,
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": {
+        "A": "China",
+        "B": "Japan",
+        "C": "South Korea",
+        "D": "Thailand"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 268,
+      "question": "The 'Volga River' flows through which country?",
+      "options": {
+        "A": "Germany",
+        "B": "Russia",
+        "C": "France",
+        "D": "Ukraine"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 269,
+      "question": "What is the official currency of Japan?",
+      "options": {
+        "A": "Yuan",
+        "B": "Yen",
+        "C": "Won",
+        "D": "Ringgit"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 270,
+      "question": "The 'Grand Canyon' is located in which US state?",
+      "options": {
+        "A": "California",
+        "B": "Arizona",
+        "C": "Nevada",
+        "D": "Utah"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 271,
+      "question": "The 'Universal Declaration of Human Rights' (UDHR) was adopted by the UN General Assembly in which year?",
+      "options": {
+        "A": "1945",
+        "B": "1948",
+        "C": "1950",
+        "D": "1966"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 272,
+      "question": "Which international treaty is specifically designed to phase out substances that deplete the Ozone Layer?",
+      "options": {
+        "A": "Kyoto Protocol",
+        "B": "Montreal Protocol",
+        "C": "Basel Convention",
+        "D": "Paris Agreement"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 273,
+      "question": "The 'Kyoto Protocol' is an international agreement linked to which UN convention?",
+      "options": {
+        "A": "UNCCD",
+        "B": "UNFCCC",
+        "C": "UNCED",
+        "D": "UNCTAD"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 274,
+      "question": "In which city is the International Court of Justice (ICJ) headquartered?",
+      "options": {
+        "A": "Geneva",
+        "B": "The Hague",
+        "C": "New York",
+        "D": "Vienna"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 275,
+      "question": "The 'Paris Agreement' on climate change was adopted in which year?",
+      "options": {
+        "A": "2010",
+        "B": "2015",
+        "C": "2017",
+        "D": "2020"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 276,
+      "question": "Which principle of international law states that 'the polluter should bear the cost of managing pollution'?",
+      "options": {
+        "A": "Precautionary Principle",
+        "B": "Polluter Pays Principle",
+        "C": "No Harm Principle",
+        "D": "Intergenerational Equity"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 277,
+      "question": "The 'Basel Convention' is primarily concerned with the control of:",
+      "options": {
+        "A": "Ozone depletion",
+        "B": "Transboundary movements of hazardous wastes",
+        "C": "Endangered species trade",
+        "D": "Wetland conservation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 278,
+      "question": "Which UN organization is the leading authority on global health?",
+      "options": {
+        "A": "UNICEF",
+        "B": "WHO",
+        "C": "UNESCO",
+        "D": "UNDP"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 279,
+      "question": "The term 'Sustainable Development' was first popularized by which report?",
+      "options": {
+        "A": "The Earth Report",
+        "B": "The Brundtland Report",
+        "C": "The Kyoto Report",
+        "D": "The Millennium Report"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 280,
+      "question": "Which convention protects wetlands of international importance?",
+      "options": {
+        "A": "Stockholm Convention",
+        "B": "Ramsar Convention",
+        "C": "Carthagena Protocol",
+        "D": "Rotterdam Convention"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 281,
+      "question": "What does 'Amnesty International' primarily focus on?",
+      "options": {
+        "A": "Environmental Protection",
+        "B": "Human Rights",
+        "C": "Economic Trade",
+        "D": "Global Health"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 282,
+      "question": "The 'Convention on International Trade in Endangered Species' is commonly known as:",
+      "options": {
+        "A": "CBD",
+        "B": "CITES",
+        "C": "CMS",
+        "D": "ITPGRFA"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 283,
+      "question": "The 'United Nations Environment Programme' (UNEP) is headquartered in:",
+      "options": {
+        "A": "Geneva",
+        "B": "Nairobi",
+        "C": "Paris",
+        "D": "Rome"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 284,
+      "question": "The 'Rome Statute' established which international body?",
+      "options": {
+        "A": "The World Bank",
+        "B": "The International Criminal Court (ICC)",
+        "C": "The European Union",
+        "D": "The African Union"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 285,
+      "question": "What is the primary objective of the 'Stockholm Convention'?",
+      "options": {
+        "A": "Protecting the high seas",
+        "B": "Eliminating Persistent Organic Pollutants (POPs)",
+        "C": "Regulating nuclear energy",
+        "D": "Stopping desertification"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 286,
+      "question": "Which document is often called the 'Magna Carta' of human rights?",
+      "options": {
+        "A": "The Bill of Rights",
+        "B": "The UDHR",
+        "C": "The Geneva Convention",
+        "D": "The UN Charter"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 287,
+      "question": "The 'International Labour Organization' (ILO) is headquartered in:",
+      "options": {
+        "A": "London",
+        "B": "Geneva",
+        "C": "Brussels",
+        "D": "Washington D.C."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 288,
+      "question": "Which protocol deals with 'Biosafety' and the movement of Living Modified Organisms (LMOs)?",
+      "options": {
+        "A": "Nagoya Protocol",
+        "B": "Cartagena Protocol",
+        "C": "Kyoto Protocol",
+        "D": "Montreal Protocol"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 289,
+      "question": "The 'G7' consists of seven of the world's largest advanced economies. Which of these is NOT a member?",
+      "options": {
+        "A": "Canada",
+        "B": "China",
+        "C": "Japan",
+        "D": "Germany"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 290,
+      "question": "The 'United Nations Convention to Combat Desertification' (UNCCD) focuses on land degradation in which areas?",
+      "options": {
+        "A": "Tropical rainforests",
+        "B": "Arid, semi-arid, and dry sub-humid areas",
+        "C": "Arctic regions",
+        "D": "Oceanic islands"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 291,
+      "question": "Which city is the administrative capital of the European Union?",
+      "options": {
+        "A": "Strasbourg",
+        "B": "Brussels",
+        "C": "Luxembourg",
+        "D": "Frankfurt"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 292,
+      "question": "The 'Red Cross' (ICRC) was founded by which individual?",
+      "options": {
+        "A": "Florence Nightingale",
+        "B": "Henry Dunant",
+        "C": "Clara Barton",
+        "D": "Albert Schweitzer"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 293,
+      "question": "The 'Comprehensive Nuclear-Test-Ban Treaty' (CTBT) aims to ban:",
+      "options": {
+        "A": "Possession of nuclear weapons",
+        "B": "All nuclear explosions, for both civilian and military purposes",
+        "C": "Nuclear energy production",
+        "D": "Export of uranium"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 294,
+      "question": "Where is the headquarters of the 'World Trade Organization' (WTO)?",
+      "options": {
+        "A": "Paris",
+        "B": "Geneva",
+        "C": "New York",
+        "D": "Singapore"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 295,
+      "question": "The 'Non-Proliferation Treaty' (NPT) was opened for signature in which year?",
+      "options": {
+        "A": "1945",
+        "B": "1968",
+        "C": "1991",
+        "D": "2000"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 296,
+      "question": "Which organ of the UN can authorize military action or sanctions?",
+      "options": {
+        "A": "General Assembly",
+        "B": "Security Council",
+        "C": "Trusteeship Council",
+        "D": "Secretariat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 297,
+      "question": "The 'International Atomic Energy Agency' (IAEA) is located in:",
+      "options": {
+        "A": "Berlin",
+        "B": "Vienna",
+        "C": "Moscow",
+        "D": "Washington D.C."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 298,
+      "question": "Which principle suggests taking action to protect the environment even if scientific certainty is lacking?",
+      "options": {
+        "A": "Polluter Pays Principle",
+        "B": "Precautionary Principle",
+        "C": "Common Heritage Principle",
+        "D": "Sovereignty Principle"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 299,
+      "question": "The 'UN High Commissioner for Refugees' (UNHCR) won the Nobel Peace Prize in:",
+      "options": {
+        "A": "1954 and 1981",
+        "B": "1945 and 1960",
+        "C": "1970 and 1990",
+        "D": "1988 and 2001"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 300,
+      "question": "The 'Interpol' (International Criminal Police Organization) headquarters is in:",
+      "options": {
+        "A": "Paris",
+        "B": "Lyon",
+        "C": "Marseille",
+        "D": "Geneva"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 301,
+      "question": "Which country is NOT a permanent member of the UN Security Council?",
+      "options": {
+        "A": "France",
+        "B": "Germany",
+        "C": "China",
+        "D": "UK"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 302,
+      "question": "The 'Minamata Convention' is an international treaty designed to protect human health from:",
+      "options": {
+        "A": "Lead",
+        "B": "Mercury",
+        "C": "Arsenic",
+        "D": "Cadmium"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 303,
+      "question": "What is the term of office for a judge of the International Court of Justice?",
+      "options": {
+        "A": "5 years",
+        "B": "9 years",
+        "C": "10 years",
+        "D": "Life"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 304,
+      "question": "The 'Rio Earth Summit' was held in which year?",
+      "options": {
+        "A": "1972",
+        "B": "1992",
+        "C": "2002",
+        "D": "2012"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 305,
+      "question": "Which organization manages the 'Blue Flag' program for beaches?",
+      "options": {
+        "A": "WWF",
+        "B": "Foundation for Environmental Education (FEE)",
+        "C": "Greenpeace",
+        "D": "UNESCO"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 306,
+      "question": "The 'United Nations Population Fund' is known by the acronym:",
+      "options": {
+        "A": "UNPF",
+        "B": "UNFPA",
+        "C": "UNPD",
+        "D": "UNPOP"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 307,
+      "question": "The 'World Meteorological Organization' (WMO) is based in:",
+      "options": {
+        "A": "London",
+        "B": "Geneva",
+        "C": "Tokyo",
+        "D": "Copenhagen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 308,
+      "question": "Which agreement was the predecessor to the World Trade Organization?",
+      "options": {
+        "A": "NAFTA",
+        "B": "GATT",
+        "C": "ASEAN",
+        "D": "COMESA"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 309,
+      "question": "The 'International Maritime Organization' (IMO) is headquartered in:",
+      "options": {
+        "A": "New York",
+        "B": "London",
+        "C": "Hamburg",
+        "D": "Panama City"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 310,
+      "question": "The 'Nagoya Protocol' deals with:",
+      "options": {
+        "A": "Climate mitigation",
+        "B": "Access to genetic resources and benefit-sharing",
+        "C": "Plastic pollution",
+        "D": "Whaling regulations"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 311,
+      "question": "Which city is known as the 'Capital of the World' (hosting UN Headquarters)?",
+      "options": {
+        "A": "Geneva",
+        "B": "New York City",
+        "C": "Washington D.C.",
+        "D": "Brussels"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 312,
+      "question": "The 'G20' summit in 2023 was hosted by which country?",
+      "options": {
+        "A": "Indonesia",
+        "B": "India",
+        "C": "Brazil",
+        "D": "South Africa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 313,
+      "question": "The 'Chemical Weapons Convention' (CWC) is administered by:",
+      "options": {
+        "A": "IAEA",
+        "B": "OPCW",
+        "C": "UNODA",
+        "D": "NATO"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 314,
+      "question": "What is the main function of the 'International Monetary Fund' (IMF)?",
+      "options": {
+        "A": "Fund cultural projects",
+        "B": "Provide financial stability and emergency loans to countries",
+        "C": "Govern global shipping",
+        "D": "Protect world heritage sites"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 315,
+      "question": "The 'BRICS' group originally included Brazil, Russia, India, China, and which other country?",
+      "options": {
+        "A": "Spain",
+        "B": "South Africa",
+        "C": "Singapore",
+        "D": "South Korea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 316,
+      "question": "Which protocol was the first to commit state parties to reduce greenhouse gas emissions?",
+      "options": {
+        "A": "Montreal Protocol",
+        "B": "Kyoto Protocol",
+        "C": "Nagoya Protocol",
+        "D": "Geneva Protocol"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 317,
+      "question": "The 'International Committee of the Red Cross' (ICRC) is based in:",
+      "options": {
+        "A": "Zurich",
+        "B": "Geneva",
+        "C": "Berne",
+        "D": "Lausanne"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 318,
+      "question": "In the context of the environment, what does 'UNFCCC' stand for?",
+      "options": {
+        "A": "United Nations Federal Climate Control Council",
+        "B": "United Nations Framework Convention on Climate Change",
+        "C": "United Nations Future Carbon Control Commission",
+        "D": "United Nations Forest and Climate Conservation Committee"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 319,
+      "question": "The 'Council of Europe' is primarily focused on:",
+      "options": {
+        "A": "Economic union",
+        "B": "Human rights, democracy, and the rule of law",
+        "C": "Military defense",
+        "D": "Space exploration"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 320,
+      "question": "Which landmark case in international environmental law established the 'No Harm' principle?",
+      "options": {
+        "A": "Trail Smelter Arbitration",
+        "B": "Gabcikovo-Nagymaros Project",
+        "C": "Pulp Mills Case",
+        "D": "Whaling in the Antarctic"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 321,
+      "question": "Which gas is most abundant in the Earth's atmosphere?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Carbon Dioxide",
+        "D": "Argon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 322,
+      "question": "In computer science, what does 'URL' stand for?",
+      "options": {
+        "A": "Uniform Resource Link",
+        "B": "Uniform Resource Locator",
+        "C": "Universal Radio Line",
+        "D": "Unified Resource Locator"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 323,
+      "question": "Which vitamin is produced in the human body when exposed to sunlight?",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin D",
+        "C": "Vitamin C",
+        "D": "Vitamin B12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 324,
+      "question": "Who is considered the 'Father of Computers'?",
+      "options": {
+        "A": "Alan Turing",
+        "B": "Charles Babbage",
+        "C": "Bill Gates",
+        "D": "Steve Jobs"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 325,
+      "question": "Which organ in the human body is responsible for filtering blood?",
+      "options": {
+        "A": "Heart",
+        "B": "Kidney",
+        "C": "Lungs",
+        "D": "Liver"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 326,
+      "question": "What is the 'Brain of the Computer'?",
+      "options": {
+        "A": "RAM",
+        "B": "CPU",
+        "C": "Hard Drive",
+        "D": "Monitor"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 327,
+      "question": "The speed of a processor is measured in:",
+      "options": {
+        "A": "Gigabytes",
+        "B": "Hertz (GHz)",
+        "C": "Pixels",
+        "D": "Bits"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 328,
+      "question": "Which of the following is a 'volatile' memory?",
+      "options": {
+        "A": "ROM",
+        "B": "RAM",
+        "C": "Hard Disk",
+        "D": "Flash Drive"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 329,
+      "question": "A 'Byte' consists of how many bits?",
+      "options": {
+        "A": "4",
+        "B": "8",
+        "C": "16",
+        "D": "32"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 330,
+      "question": "Who discovered Penicillin?",
+      "options": {
+        "A": "Marie Curie",
+        "B": "Alexander Fleming",
+        "C": "Louis Pasteur",
+        "D": "Gregor Mendel"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 331,
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": {
+        "A": "Venus",
+        "B": "Mars",
+        "C": "Jupiter",
+        "D": "Saturn"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 332,
+      "question": "What is the chemical symbol for Gold?",
+      "options": {
+        "A": "Ag",
+        "B": "Au",
+        "C": "Pb",
+        "D": "Fe"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 333,
+      "question": "Which protocol is used for sending emails?",
+      "options": {
+        "A": "HTTP",
+        "B": "SMTP",
+        "C": "FTP",
+        "D": "IP"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 334,
+      "question": "What is the pH of pure water?",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 335,
+      "question": "The 'Great Barrier Reef' is located in which country?",
+      "options": {
+        "A": "USA",
+        "B": "Australia",
+        "C": "Maldives",
+        "D": "Thailand"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 336,
+      "question": "Which country won the FIFA World Cup 2022?",
+      "options": {
+        "A": "France",
+        "B": "Argentina",
+        "C": "Brazil",
+        "D": "Morocco"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 337,
+      "question": "The first atomic bomb was dropped on which city?",
+      "options": {
+        "A": "Nagasaki",
+        "B": "Hiroshima",
+        "C": "Tokyo",
+        "D": "Kyoto"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 338,
+      "question": "What is the largest organ in the human body?",
+      "options": {
+        "A": "Liver",
+        "B": "Skin",
+        "C": "Lungs",
+        "D": "Brain"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 339,
+      "question": "Which part of the cell is known as the 'Powerhouse'?",
+      "options": {
+        "A": "Nucleus",
+        "B": "Mitochondria",
+        "C": "Ribosome",
+        "D": "Cytoplasm"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 340,
+      "question": "What is the most widely spoken language in the world (native speakers)?",
+      "options": {
+        "A": "English",
+        "B": "Mandarin Chinese",
+        "C": "Spanish",
+        "D": "Hindi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 341,
+      "question": "Which tech company's logo is a half-eaten apple?",
+      "options": {
+        "A": "Microsoft",
+        "B": "Apple",
+        "C": "IBM",
+        "D": "Oracle"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 342,
+      "question": "In which city were the first modern Olympic Games held?",
+      "options": {
+        "A": "Rome",
+        "B": "Athens",
+        "C": "Paris",
+        "D": "London"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 343,
+      "question": "The 'Sun' is a:",
+      "options": {
+        "A": "Planet",
+        "B": "Star",
+        "C": "Comet",
+        "D": "Asteroid"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 344,
+      "question": "Which metal is liquid at room temperature?",
+      "options": {
+        "A": "Silver",
+        "B": "Mercury",
+        "C": "Aluminum",
+        "D": "Copper"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 345,
+      "question": "What does 'WiFi' stand for?",
+      "options": {
+        "A": "Wireless Field",
+        "B": "Wireless Fidelity",
+        "C": "Wired Finder",
+        "D": "Wireless Fiber"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 346,
+      "question": "Who is the author of the book 'No Higher Honor'?",
+      "options": {
+        "A": "Hillary Clinton",
+        "B": "Condoleezza Rice",
+        "C": "Michelle Obama",
+        "D": "Malala Yousafzai"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 347,
+      "question": "The 'Silk Route' is also known as:",
+      "options": {
+        "A": "Grand Trunk Road",
+        "B": "Karakoram Highway",
+        "C": "Makran Coastal Highway",
+        "D": "M-2 Motorway"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 348,
+      "question": "Which country is the host of COP-28 (Climate Summit)?",
+      "options": {
+        "A": "Egypt",
+        "B": "UAE",
+        "C": "France",
+        "D": "Scotland"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 349,
+      "question": "What is the capital of Ukraine?",
+      "options": {
+        "A": "Lviv",
+        "B": "Kyiv",
+        "C": "Kharkiv",
+        "D": "Odessa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 350,
+      "question": "Which river flows through Paris?",
+      "options": {
+        "A": "Thames",
+        "B": "Seine",
+        "C": "Danube",
+        "D": "Rhine"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 351,
+      "question": "The 'Silicon Valley' is located in which US state?",
+      "options": {
+        "A": "New York",
+        "B": "California",
+        "C": "Texas",
+        "D": "Florida"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 352,
+      "question": "Which component of blood carries oxygen?",
+      "options": {
+        "A": "White Blood Cells",
+        "B": "Red Blood Cells",
+        "C": "Platelets",
+        "D": "Plasma"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 353,
+      "question": "What is the chemical name for common salt?",
+      "options": {
+        "A": "Sodium Carbonate",
+        "B": "Sodium Chloride",
+        "C": "Calcium Chloride",
+        "D": "Potassium Nitrate"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 354,
+      "question": "Who developed the 'World Wide Web'?",
+      "options": {
+        "A": "Bill Gates",
+        "B": "Tim Berners-Lee",
+        "C": "Steve Jobs",
+        "D": "Mark Zuckerberg"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 355,
+      "question": "The 'Hagia Sophia' is located in:",
+      "options": {
+        "A": "Ankara",
+        "B": "Istanbul",
+        "C": "Konya",
+        "D": "Bursa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 356,
+      "question": "The 'Lighthouse of Alexandria' was located in which country?",
+      "options": {
+        "A": "Greece",
+        "B": "Egypt",
+        "C": "Iraq",
+        "D": "Italy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 357,
+      "question": "Which country gifted the 'Statue of Liberty' to the USA?",
+      "options": {
+        "A": "UK",
+        "B": "France",
+        "C": "Germany",
+        "D": "Spain"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 358,
+      "question": "What is the capital of Russia?",
+      "options": {
+        "A": "Saint Petersburg",
+        "B": "Moscow",
+        "C": "Novosibirsk",
+        "D": "Kazan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 359,
+      "question": "The 'Colossus of Rhodes' was a statue of which Greek Titan?",
+      "options": {
+        "A": "Zeus",
+        "B": "Helios",
+        "C": "Apollo",
+        "D": "Poseidon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 360,
+      "question": "Which of these is the largest ocean on Earth?",
+      "options": {
+        "A": "Atlantic",
+        "B": "Pacific",
+        "C": "Indian",
+        "D": "Arctic"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 361,
+      "question": "What is the most sensitive organ of our body?",
+      "options": {
+        "A": "Eyes",
+        "B": "Skin",
+        "C": "Ears",
+        "D": "Nose"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 362,
+      "question": "Which mountain is known as 'Savage Mountain'?",
+      "options": {
+        "A": "Everest",
+        "B": "K2",
+        "C": "Nanga Parbat",
+        "D": "Annapurna"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 363,
+      "question": "Who invented the light bulb?",
+      "options": {
+        "A": "Nikola Tesla",
+        "B": "Thomas Edison",
+        "C": "Alexander Graham Bell",
+        "D": "Benjamin Franklin"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 364,
+      "question": "What is the capital of Japan?",
+      "options": {
+        "A": "Kyoto",
+        "B": "Tokyo",
+        "C": "Osaka",
+        "D": "Hiroshima"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 365,
+      "question": "The 'Great Wall of China' is approximately how long?",
+      "options": {
+        "A": "5,000 km",
+        "B": "21,196 km",
+        "C": "10,000 km",
+        "D": "15,000 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 366,
+      "question": "Which element is found in all organic compounds?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Carbon",
+        "C": "Oxygen",
+        "D": "Hydrogen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 367,
+      "question": "What is the smallest continent in the world?",
+      "options": {
+        "A": "Europe",
+        "B": "Australia",
+        "C": "Antarctica",
+        "D": "South America"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 368,
+      "question": "The 'Pentagon' is the headquarters of which country's Defense Department?",
+      "options": {
+        "A": "UK",
+        "B": "USA",
+        "C": "Russia",
+        "D": "China"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 369,
+      "question": "Which desert is known for being the 'driest place on Earth'?",
+      "options": {
+        "A": "Sahara",
+        "B": "Atacama",
+        "C": "Gobi",
+        "D": "Kalahari"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 370,
+      "question": "The 'Dead Sea' is located between which two countries?",
+      "options": {
+        "A": "Egypt and Sudan",
+        "B": "Jordan and Israel",
+        "C": "Saudi Arabia and Yemen",
+        "D": "Turkey and Greece"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 371,
+      "question": "Which gas is used in soda water to give it fizziness?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Carbon Dioxide",
+        "C": "Oxygen",
+        "D": "Hydrogen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 372,
+      "question": "What is the capital of Italy?",
+      "options": {
+        "A": "Milan",
+        "B": "Rome",
+        "C": "Venice",
+        "D": "Florence"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 373,
+      "question": "Which country is called the 'Land of White Elephants'?",
+      "options": {
+        "A": "India",
+        "B": "Thailand",
+        "C": "China",
+        "D": "Japan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 374,
+      "question": "The 'Amazon Rainforest' is primarily located in which continent?",
+      "options": {
+        "A": "Africa",
+        "B": "South America",
+        "C": "Asia",
+        "D": "North America"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 375,
+      "question": "Who was the first man to step on the Moon?",
+      "options": {
+        "A": "Buzz Aldrin",
+        "B": "Neil Armstrong",
+        "C": "Yuri Gagarin",
+        "D": "Michael Collins"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 376,
+      "question": "What is the main component of natural gas?",
+      "options": {
+        "A": "Propane",
+        "B": "Methane",
+        "C": "Butane",
+        "D": "Ethane"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 377,
+      "question": "Which country has the largest rail network in the world?",
+      "options": {
+        "A": "China",
+        "B": "USA",
+        "C": "Russia",
+        "D": "India"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 378,
+      "question": "The 'Leaning Tower of Pisa' is in which country?",
+      "options": {
+        "A": "France",
+        "B": "Italy",
+        "C": "Spain",
+        "D": "Greece"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 379,
+      "question": "Which acid is found in Lemon?",
+      "options": {
+        "A": "Acetic acid",
+        "B": "Citric acid",
+        "C": "Malic acid",
+        "D": "Lactic acid"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 380,
+      "question": "What is the capital of South Korea?",
+      "options": {
+        "A": "Busan",
+        "B": "Seoul",
+        "C": "Incheon",
+        "D": "Pyongyang"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 381,
+      "question": "Which of these is NOT an input device?",
+      "options": {
+        "A": "Keyboard",
+        "B": "Monitor",
+        "C": "Mouse",
+        "D": "Scanner"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 382,
+      "question": "What is the permanent memory of a computer called?",
+      "options": {
+        "A": "RAM",
+        "B": "ROM",
+        "C": "Cache",
+        "D": "Buffer"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 383,
+      "question": "The 'binary system' uses which two digits?",
+      "options": {
+        "A": "1 and 2",
+        "B": "0 and 1",
+        "C": "1 and 10",
+        "D": "A and B"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 384,
+      "question": "In IT, 'SEO' stands for:",
+      "options": {
+        "A": "Social Engineering Optimization",
+        "B": "Search Engine Optimization",
+        "C": "Secure Engine Operation",
+        "D": "System Energy Output"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 385,
+      "question": "Which company owns the 'Android' operating system?",
+      "options": {
+        "A": "Microsoft",
+        "B": "Google",
+        "C": "Samsung",
+        "D": "Nokia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 386,
+      "question": "What is the shortcut key for 'Undo' in Windows?",
+      "options": {
+        "A": "Ctrl + C",
+        "B": "Ctrl + Z",
+        "C": "Ctrl + V",
+        "D": "Ctrl + Y"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 387,
+      "question": "Which of these is a programming language?",
+      "options": {
+        "A": "Python",
+        "B": "Safari",
+        "C": "Chrome",
+        "D": "Windows"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 388,
+      "question": "What is 'Malware'?",
+      "options": {
+        "A": "A new software",
+        "B": "Malicious software",
+        "C": "Antivirus",
+        "D": "Hardware component"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 389,
+      "question": "Which key is used to refresh a web page in most browsers?",
+      "options": {
+        "A": "F1",
+        "B": "F5",
+        "C": "F10",
+        "D": "F12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 390,
+      "question": "What does 'GUI' stand for?",
+      "options": {
+        "A": "General User Index",
+        "B": "Graphical User Interface",
+        "C": "Global User Integration",
+        "D": "Graphical Unit Interlink"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 391,
+      "question": "Which state of the USA is known as the 'Sunshine State'?",
+      "options": {
+        "A": "California",
+        "B": "Florida",
+        "C": "Hawaii",
+        "D": "Texas"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 392,
+      "question": "The 'Nobel Peace Prize' is awarded in which city?",
+      "options": {
+        "A": "Stockholm",
+        "B": "Oslo",
+        "C": "Geneva",
+        "D": "Copenhagen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 393,
+      "question": "Who is the 'Father of Geometry'?",
+      "options": {
+        "A": "Pythagoras",
+        "B": "Euclid",
+        "C": "Archimedes",
+        "D": "Aristotle"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 394,
+      "question": "Which bird is the symbol of peace?",
+      "options": {
+        "A": "Peacock",
+        "B": "Dove",
+        "C": "Sparrow",
+        "D": "Eagle"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 395,
+      "question": "In which country is the 'Mount Fuji' located?",
+      "options": {
+        "A": "China",
+        "B": "Japan",
+        "C": "South Korea",
+        "D": "Indonesia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 396,
+      "question": "What is the boiling point of water in Celsius?",
+      "options": {
+        "A": "50°C",
+        "B": "100°C",
+        "C": "212°C",
+        "D": "273°C"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 397,
+      "question": "Which light has the longest wavelength?",
+      "options": {
+        "A": "Violet",
+        "B": "Red",
+        "C": "Green",
+        "D": "Yellow"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 398,
+      "question": "Who is the founder of Microsoft?",
+      "options": {
+        "A": "Steve Jobs",
+        "B": "Bill Gates",
+        "C": "Elon Musk",
+        "D": "Jeff Bezos"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 399,
+      "question": "The 'Eiffel Tower' is made of which material?",
+      "options": {
+        "A": "Steel",
+        "B": "Iron (Puddled Iron)",
+        "C": "Copper",
+        "D": "Aluminum"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 400,
+      "question": "Which gas is commonly known as 'Laughing Gas'?",
+      "options": {
+        "A": "Carbon Monoxide",
+        "B": "Nitrous Oxide",
+        "C": "Sulphur Dioxide",
+        "D": "Methane"
+      },
+      "correct_answer": "B"
+    }
+  ]
+}

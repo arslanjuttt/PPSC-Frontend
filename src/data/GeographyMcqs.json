@@ -1,0 +1,4407 @@
+{
+  "test_name": "Geography of Pakistan MCQs",
+  "instructor": "Gemini AI",
+  "total_questions": 400,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "What is the total area of Pakistan in square kilometers?",
+      "options": {
+        "A": "796,096",
+        "B": "881,913",
+        "C": "796,906",
+        "D": "None of these"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "What is the percentage of Balochistan's landmass in Pakistan?",
+      "options": {
+        "A": "25.8%",
+        "B": "43.6%",
+        "C": "17.7%",
+        "D": "9.4%"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 3,
+      "question": "Which province has a landmass percentage of 25.8%?",
+      "options": {
+        "A": "Sindh",
+        "B": "KPK",
+        "C": "Punjab",
+        "D": "Balochistan"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 4,
+      "question": "The percentage landmass of Sindh province is:",
+      "options": {
+        "A": "17.7%",
+        "B": "9.4%",
+        "C": "3.4%",
+        "D": "25.8%"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "What is the total length of the Indus River?",
+      "options": {
+        "A": "2500 km",
+        "B": "2896 km",
+        "C": "2900 km",
+        "D": "3200 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 6,
+      "question": "Which is the oldest barrage in Pakistan?",
+      "options": {
+        "A": "Guddu",
+        "B": "Sukkur",
+        "C": "Kotri",
+        "D": "Jinnah"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 7,
+      "question": "Warsak Dam is situated in which area?",
+      "options": {
+        "A": "Punjab",
+        "B": "Sindh",
+        "C": "FATA",
+        "D": "Balochistan"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 8,
+      "question": "Basha Dam is situated in which region?",
+      "options": {
+        "A": "KPK",
+        "B": "Gilgit Baltistan",
+        "C": "FATA",
+        "D": "Azad Kashmir"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "Which is the highest peak of the Hindukush range?",
+      "options": {
+        "A": "K-2",
+        "B": "Nanga Parbat",
+        "C": "Tirich Mir",
+        "D": "Sakesar"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "What is the height of K-2 (Godwin Austin)?",
+      "options": {
+        "A": "8126 meters",
+        "B": "8611 meters",
+        "C": "7708 meters",
+        "D": "8848 meters"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 11,
+      "question": "Which place is considered the hottest in Pakistan?",
+      "options": {
+        "A": "Sibi",
+        "B": "Multan",
+        "C": "Jacobabad",
+        "D": "Turbat"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "Ziarat is famous for being the _____ place in Pakistan.",
+      "options": {
+        "A": "Hottest",
+        "B": "Coldest",
+        "C": "Wettest",
+        "D": "Driest"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 13,
+      "question": "In terms of area, Pakistan is the ____ largest country in the world.",
+      "options": {
+        "A": "30th",
+        "B": "34th",
+        "C": "36th",
+        "D": "40th"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 14,
+      "question": "What is the total length of the coastline of Pakistan?",
+      "options": {
+        "A": "1046 km",
+        "B": "700 km",
+        "C": "800 km",
+        "D": "1200 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 15,
+      "question": "The total length of the Pak-India border is:",
+      "options": {
+        "A": "2252 km",
+        "B": "1610 km",
+        "C": "805 km",
+        "D": "2400 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "What is the length of the Pak-Iran border?",
+      "options": {
+        "A": "909 km",
+        "B": "805 km",
+        "C": "1200 km",
+        "D": "500 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 17,
+      "question": "The boundary between Pakistan and Afghanistan is known as:",
+      "options": {
+        "A": "Line of Control",
+        "B": "Radcliffe Line",
+        "C": "Durand Line",
+        "D": "Siegfried Line"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 18,
+      "question": "What is the length of the Durand Line?",
+      "options": {
+        "A": "2252 km",
+        "B": "2430 km",
+        "C": "2000 km",
+        "D": "1610 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "The area of highest rainfall in Pakistan is:",
+      "options": {
+        "A": "Islamabad",
+        "B": "Murree",
+        "C": "Rawalakot",
+        "D": "Sialkot"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 20,
+      "question": "Which area is known for the highest snowfall in Pakistan?",
+      "options": {
+        "A": "Murree",
+        "B": "Naran",
+        "C": "Skardu",
+        "D": "Chitral"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 21,
+      "question": "The total height of Tarbela Dam is:",
+      "options": {
+        "A": "400 ft",
+        "B": "500 ft",
+        "C": "600 ft",
+        "D": "485 ft"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 22,
+      "question": "What is the total length of Tarbela Dam?",
+      "options": {
+        "A": "9000 ft",
+        "B": "6000 ft",
+        "C": "5000 ft",
+        "D": "8000 ft"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 23,
+      "question": "Which is the largest desert of Pakistan?",
+      "options": {
+        "A": "Thal",
+        "B": "Cholistan",
+        "C": "Thar",
+        "D": "Kharan"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "Sindh Sagar Doab is located between which two rivers?",
+      "options": {
+        "A": "Ravi and Chenab",
+        "B": "Indus and Jhelum",
+        "C": "Chenab and Jhelum",
+        "D": "Ravi and Sutlej"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 25,
+      "question": "Ganji Bar is located between which rivers?",
+      "options": {
+        "A": "Indus and Jhelum",
+        "B": "Ravi and Sutlej",
+        "C": "Ravi and Chenab",
+        "D": "Chenab and Jhelum"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 26,
+      "question": "Chaj Doab is located between which rivers?",
+      "options": {
+        "A": "Chenab and Jhelum",
+        "B": "Ravi and Chenab",
+        "C": "Indus and Ravi",
+        "D": "Sutlej and Beas"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "Which was the first colony canal in the Subcontinent?",
+      "options": {
+        "A": "Sidhnai Canal",
+        "B": "Sohag Canal",
+        "C": "Lower Bari Doab",
+        "D": "Haveli Canal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "Sidhnai Canal is located near which city?",
+      "options": {
+        "A": "Lahore",
+        "B": "Multan",
+        "C": "Faisalabad",
+        "D": "Sahiwal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 29,
+      "question": "Rechna Doab is located between which two rivers?",
+      "options": {
+        "A": "Ravi and Chenab",
+        "B": "Ravi and Sutlej",
+        "C": "Indus and Jhelum",
+        "D": "Chenab and Jhelum"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "Hiran Minar is located in which city?",
+      "options": {
+        "A": "Lahore",
+        "B": "Sheikhupura",
+        "C": "Gujranwala",
+        "D": "Multan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 31,
+      "question": "How many barrages are constructed on the Indus River?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 32,
+      "question": "The area between the Sindh and Jhelum rivers is called:",
+      "options": {
+        "A": "Thal",
+        "B": "Cholistan",
+        "C": "Nili Bar",
+        "D": "Ganji Bar"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "Sukkur Barrage was completed in which year?",
+      "options": {
+        "A": "1947",
+        "B": "1932",
+        "C": "1920",
+        "D": "1955"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "What is the total length of the Sukkur Barrage?",
+      "options": {
+        "A": "5000 ft",
+        "B": "4725 ft",
+        "C": "6000 ft",
+        "D": "4000 ft"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "How many canals take off from the Sukkur Barrage?",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "10"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 36,
+      "question": "Khanpur Dam is constructed on which river?",
+      "options": {
+        "A": "Haro",
+        "B": "Kabul",
+        "C": "Indus",
+        "D": "Bolan"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "Rawal Dam is constructed on which river?",
+      "options": {
+        "A": "Kabul",
+        "B": "Haro",
+        "C": "Kurrang",
+        "D": "Indus"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 38,
+      "question": "Tanda Dam is located in which province?",
+      "options": {
+        "A": "Punjab",
+        "B": "KPK (NWFP)",
+        "C": "Sindh",
+        "D": "Balochistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 39,
+      "question": "Hub Dam, situated in Balochistan, was constructed in:",
+      "options": {
+        "A": "1983",
+        "B": "1982",
+        "C": "1932",
+        "D": "1990"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "Which is the largest dam in Pakistan?",
+      "options": {
+        "A": "Mangla Dam",
+        "B": "Tarbela Dam",
+        "C": "Warsak Dam",
+        "D": "Khanpur Dam"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 41,
+      "question": "Mangla Dam was completed in which year?",
+      "options": {
+        "A": "1967",
+        "B": "1975",
+        "C": "1960",
+        "D": "1982"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "Indus Water Treaty was signed on:",
+      "options": {
+        "A": "September 19, 1960",
+        "B": "August 14, 1947",
+        "C": "January 10, 1966",
+        "D": "July 4, 1971"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "The hills near Sargodha are called:",
+      "options": {
+        "A": "Kirana Hills",
+        "B": "Siwalik Hills",
+        "C": "Margalla Hills",
+        "D": "Salt Range"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "How many canals were constructed under the Indus Basin Treaty?",
+      "options": {
+        "A": "5",
+        "B": "8",
+        "C": "7",
+        "D": "9"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 45,
+      "question": "The southern side of the Himalayas is called:",
+      "options": {
+        "A": "Karakoram",
+        "B": "Siwalik",
+        "C": "Hindukush",
+        "D": "Salt Range"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 46,
+      "question": "Which is the highest peak of the Salt Range?",
+      "options": {
+        "A": "Sakesar",
+        "6": "Tirich Mir",
+        "C": "K-2",
+        "D": "Musa ka Musalla"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "Kalar Kahar Lake is located in which range?",
+      "options": {
+        "A": "Sulaiman Range",
+        "B": "Salt Range",
+        "C": "Karakoram Range",
+        "D": "Chaghi Hills"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "Mazar Pass is located in:",
+      "options": {
+        "A": "Sulaiman Range",
+        "B": "Chaghi Hills",
+        "C": "Salt Range",
+        "D": "Hindukush"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question": "Which is the 2nd largest glacier of Pakistan?",
+      "options": {
+        "A": "Batura",
+        "B": "Siachen",
+        "C": "Baltoro",
+        "D": "Biafo"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "Siachen Glacier is located in which region?",
+      "options": {
+        "A": "Gilgit",
+        "B": "Baltistan",
+        "C": "Chitral",
+        "D": "Swat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 51,
+      "question": "What is the total height of the Siachen Glacier?",
+      "options": {
+        "A": "18,000 ft",
+        "B": "20,000 ft",
+        "C": "25,000 ft",
+        "D": "15,000 ft"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 52,
+      "question": "Which is the largest lake in Pakistan?",
+      "options": {
+        "A": "Saif-ul-Maluk",
+        "B": "Satpara",
+        "C": "Manchar",
+        "D": "Lalusar"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 53,
+      "question": "Saif-ul-Maluk lake is located in:",
+      "options": {
+        "A": "Naran",
+        "B": "Kaghan",
+        "C": "Swat",
+        "D": "Chitral"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 54,
+      "question": "Hina Lake is located in Quetta, whereas Lalusar Lake is in:",
+      "options": {
+        "A": "Naran",
+        "B": "Kaghan",
+        "C": "Chitral",
+        "D": "Skardu"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 55,
+      "question": "Which one is the highest pass in Pakistan?",
+      "options": {
+        "A": "Khyber Pass",
+        "B": "Bolan Pass",
+        "C": "Muztagh Pass",
+        "D": "Karakoram Pass"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 56,
+      "question": "Shandur Pass connects which two areas?",
+      "options": {
+        "A": "Chitral and Gilgit",
+        "B": "Kaghan and Naran",
+        "C": "Swat and Chitral",
+        "D": "None of these"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 57,
+      "question": "Babusar Pass connects:",
+      "options": {
+        "A": "Gilgit and Abbotabad",
+        "B": "Gilgit and Chitral",
+        "C": "Kaghan and Naran",
+        "D": "Chitral and Swat"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 58,
+      "question": "Rakaposhi mountain is located in which district?",
+      "options": {
+        "A": "Gilgit",
+        "B": "Chitral",
+        "C": "Skardu",
+        "D": "Hunza"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 59,
+      "question": "Satpara Lake is situated in:",
+      "options": {
+        "A": "Skardu",
+        "B": "Gilgit",
+        "C": "Naran",
+        "D": "Kaghan"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 60,
+      "question": "Bolan Pass is located between:",
+      "options": {
+        "A": "Sibbi and Quetta",
+        "B": "Sibbi and Chaghi",
+        "C": "Sibbi and Gawadar",
+        "D": "Sibbi and Swat"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 61,
+      "question": "Khojak Pass is located in which mountain range?",
+      "options": {
+        "A": "Toba Kakar Range",
+        "B": "Sulaiman Range",
+        "C": "Salt Range",
+        "D": "Karakoram"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 62,
+      "question": "Which is the lowest point in Pakistan?",
+      "options": {
+        "A": "Indus Plain",
+        "B": "Arabian Sea",
+        "C": "Thal Desert",
+        "D": "None of these"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 63,
+      "question": "What is the highest point in Pakistan?",
+      "options": {
+        "A": "Nanga Parbat",
+        "B": "K-2",
+        "C": "Tirich Mir",
+        "D": "Broad Peak"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 64,
+      "question": "At which point do the Himalayas, Karakoram, and Hindukush mountain ranges meet?",
+      "options": {
+        "A": "Roof of the World",
+        "B": "Jaglot",
+        "C": "Skardu",
+        "D": "None of these"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 65,
+      "question": "The total length of the Himalayan range in Pakistan is:",
+      "options": {
+        "A": "320 km",
+        "B": "350 km",
+        "C": "400 km",
+        "D": "500 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 66,
+      "question": "Nanga Parbat is situated in which mountain range?",
+      "options": {
+        "A": "Karakoram",
+        "B": "Himalayas",
+        "C": "Hindukush",
+        "D": "Salt Range"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 67,
+      "question": "Which province of China shares a border with Pakistan?",
+      "options": {
+        "A": "Sin-kiang (Xinjiang)",
+        "B": "Tibet",
+        "C": "Ching Chee",
+        "D": "Ming Pong"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 68,
+      "question": "Which geographical feature is known as the 'Roof of the World'?",
+      "options": {
+        "A": "Pamir Plateau",
+        "B": "K-2 Peak",
+        "C": "Tibetan Plateau",
+        "D": "Mount Everest"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 69,
+      "question": "Which mountain range lies between Pakistan and China?",
+      "options": {
+        "A": "Himalayas",
+        "B": "Hindukush",
+        "C": "Karakoram",
+        "D": "Pamir"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 70,
+      "question": "What is the approximate area of the Potohar Plateau?",
+      "options": {
+        "A": "15,000 sq km",
+        "B": "18,000 sq km",
+        "C": "20,000 sq km",
+        "D": "12,000 sq km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 71,
+      "question": "The Khyber Pass connects Pakistan with which country?",
+      "options": {
+        "A": "China",
+        "B": "Iran",
+        "C": "Afghanistan",
+        "D": "India"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 72,
+      "question": "How many peaks in Pakistan are higher than 8,000 meters?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "8"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 73,
+      "question": "What is the total height of Gasherbrum peak?",
+      "options": {
+        "A": "8060 meters",
+        "B": "7060 meters",
+        "C": "8611 meters",
+        "D": "8126 meters"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 74,
+      "question": "Hispar Glacier is located in which region?",
+      "options": {
+        "A": "Hunza",
+        "B": "Skardu",
+        "C": "Chitral",
+        "D": "Gilgit"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 75,
+      "question": "What is the length of the Biafo Glacier?",
+      "options": {
+        "A": "67 km",
+        "B": "65 km",
+        "C": "59 km",
+        "D": "47.5 km"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 76,
+      "question": "Which area of Pakistan is historically famous for Gold deposits?",
+      "options": {
+        "A": "Chitral",
+        "B": "Gilgit",
+        "C": "Skardu",
+        "D": "Naran"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 77,
+      "question": "In which hills of Pakistan is Lime predominantly found?",
+      "options": {
+        "A": "Margalla Hills",
+        "B": "Sargodha Hills",
+        "C": "Kirana Hills",
+        "D": "Purana Hills"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 78,
+      "question": "What does a 'Bela' signify in Pakistani geography?",
+      "options": {
+        "A": "A mountain pass",
+        "B": "Riverain Forest",
+        "C": "A small canal",
+        "D": "An island"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 79,
+      "question": "What is the total length of the Karakoram Highway?",
+      "options": {
+        "A": "1200 km",
+        "B": "1300 km",
+        "C": "1100 km",
+        "D": "1500 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 80,
+      "question": "Which place in Pakistan is known as the 'Replica of Sahara'?",
+      "options": {
+        "A": "Skardu (Katpana Desert)",
+        "B": "Thar",
+        "C": "Cholistan",
+        "D": "Chitral"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 81,
+      "question": "What is the other name for Nanga Parbat?",
+      "options": {
+        "A": "Killer Mountain",
+        "B": "White Mountain",
+        "C": "Diamir",
+        "D": "Both A and C"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 82,
+      "question": "Which area is often called the 'Pearls of Himalayas'?",
+      "options": {
+        "A": "Kaghan",
+        "B": "Naran",
+        "C": "Gilgit",
+        "D": "Skardu"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 83,
+      "question": "What is the average height of the Karakoram Range?",
+      "options": {
+        "A": "7000 meters",
+        "B": "7100 meters",
+        "C": "6500 meters",
+        "D": "7500 meters"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 84,
+      "question": "Which range separates the Balochistan Plateau from Afghanistan?",
+      "options": {
+        "A": "Chaghi Hills",
+        "B": "Makran Range",
+        "C": "Kirthar Range",
+        "D": "Toba Kakar"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 85,
+      "question": "The Kirthar Range lies along the border of which two provinces?",
+      "options": {
+        "A": "Sindh and Balochistan",
+        "B": "Punjab and Sindh",
+        "C": "KPK and Balochistan",
+        "D": "Punjab and KPK"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 86,
+      "question": "What is the literal meaning of 'Nanga Parbat'?",
+      "options": {
+        "A": "Killer Mountain",
+        "B": "Naked Mountain",
+        "C": "High Peak",
+        "D": "Snowy Mountain"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 87,
+      "question": "What is the height of the Sakesar peak?",
+      "options": {
+        "A": "1527 meters",
+        "B": "1680 meters",
+        "C": "1400 meters",
+        "D": "1700 meters"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 88,
+      "question": "The average height of the Salt Range is approximately:",
+      "options": {
+        "A": "600 meters",
+        "B": "675 meters",
+        "C": "750 meters",
+        "D": "800 meters"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 89,
+      "question": "Which desert is also known as the 'Rohi' desert?",
+      "options": {
+        "A": "Thar",
+        "B": "Thal",
+        "C": "Cholistan",
+        "D": "Kharan"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 90,
+      "question": "The Derawar Fort is located in which desert?",
+      "options": {
+        "A": "Thal",
+        "B": "Thar",
+        "C": "Cholistan",
+        "D": "Kharan"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 91,
+      "question": "Which desert is located near the city of Skardu in Gilgit-Baltistan?",
+      "options": {
+        "A": "Thal",
+        "B": "Katpana",
+        "C": "Cholistan",
+        "D": "Kharan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 92,
+      "question": "The annual jeep rally in Pakistan is held in which desert?",
+      "options": {
+        "A": "Thal",
+        "B": "Cholistan",
+        "C": "Thar",
+        "D": "Kharan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 93,
+      "question": "The height of the Himalayan range increases as it moves in which direction?",
+      "options": {
+        "A": "South to North",
+        "B": "North to South",
+        "C": "East to West",
+        "D": "West to East"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 94,
+      "question": "Skaram is the highest peak of which range?",
+      "options": {
+        "A": "Salt Range",
+        "B": "Koh-e-Sufaid",
+        "C": "Sulaiman Range",
+        "D": "Kirthar Range"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 95,
+      "question": "The length of the Baltoro Glacier is:",
+      "options": {
+        "A": "62 km",
+        "B": "58 km",
+        "C": "70 km",
+        "D": "76 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 96,
+      "question": "Which mountain range is considered the 'Youngest' on Earth?",
+      "options": {
+        "A": "Karakoram",
+        "B": "Hindukush",
+        "C": "Himalayas",
+        "D": "Alps"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 97,
+      "question": "The Thal Desert is situated between which two rivers?",
+      "options": {
+        "A": "Indus and Jhelum",
+        "B": "Chenab and Jhelum",
+        "C": "Ravi and Sutlej",
+        "D": "Indus and Chenab"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 98,
+      "question": "Which city is mentioned as the 'Birthplace of Quaid-e-Azam'?",
+      "options": {
+        "A": "Karachi",
+        "B": "Wazir Mansion",
+        "C": "Lahore",
+        "D": "Quetta"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 99,
+      "question": "Which is the first gold medal-winning sport for Pakistan in the Olympics?",
+      "options": {
+        "A": "Cricket",
+        "B": "Squash",
+        "C": "Hockey",
+        "D": "Wrestling"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 100,
+      "question": "When was the National Anthem of Pakistan officially approved?",
+      "options": {
+        "A": "1947",
+        "B": "1954",
+        "C": "1956",
+        "D": "1960"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 101,
+      "question": "What is the total area of Punjab province in square kilometers?",
+      "options": {
+        "A": "205,344",
+        "B": "205,444",
+        "C": "347,192",
+        "D": "140,914"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 102,
+      "question": "What is the total area of Sindh province in square kilometers?",
+      "options": {
+        "A": "140,914",
+        "B": "205,444",
+        "C": "347,192",
+        "D": "74,521"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 103,
+      "question": "What is the total area of Balochistan province in square kilometers?",
+      "options": {
+        "A": "205,444",
+        "B": "347,192",
+        "C": "140,914",
+        "D": "100,000"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 104,
+      "question": "According to the provided data, how many rivers are there in Balochistan?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "7",
+        "D": "9"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 105,
+      "question": "According to the provided data, how many rivers are there in Sindh?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "7",
+        "D": "2"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 106,
+      "question": "What is the total length of the river Chenab?",
+      "options": {
+        "A": "901 km",
+        "B": "1242 km",
+        "C": "2896 km",
+        "D": "1000 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 107,
+      "question": "What is the total length of the river Ravi?",
+      "options": {
+        "A": "1242 km",
+        "B": "901 km",
+        "C": "805 km",
+        "D": "700 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 108,
+      "question": "Mirani Dam is located in which province?",
+      "options": {
+        "A": "Sindh",
+        "B": "Punjab",
+        "C": "Balochistan",
+        "D": "KPK"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 109,
+      "question": "Mangla Dam is located between which two regions?",
+      "options": {
+        "A": "Kashmir and Punjab",
+        "B": "Punjab and Sindh",
+        "C": "KPK and Kashmir",
+        "D": "Balochistan and Sindh"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 110,
+      "question": "Pakistan is geographically located in which zone?",
+      "options": {
+        "A": "North Tropic Zone",
+        "B": "South Tropic Zone",
+        "C": "Equatorial Zone",
+        "D": "Frigid Zone"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 111,
+      "question": "Takht-e-Sulaiman is the highest peak of which range?",
+      "options": {
+        "A": "Karakoram Range",
+        "B": "Hindukush Range",
+        "C": "Sulaiman Range",
+        "D": "Salt Range"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 112,
+      "question": "What is the height of Nanga Parbat in meters?",
+      "options": {
+        "A": "8611",
+        "B": "8126",
+        "C": "7708",
+        "D": "8000"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 113,
+      "question": "Jinnah Barrage is located near which place?",
+      "options": {
+        "A": "Sukkur",
+        "B": "Kalabagh",
+        "C": "Kotri",
+        "D": "Multan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 114,
+      "question": "Which canal is identified as the first colony canal in the subcontinent?",
+      "options": {
+        "A": "Sidhnai Canal",
+        "B": "Sohag Canal",
+        "C": "Link Canal",
+        "D": "Haveli Canal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 115,
+      "question": "The landmass percentage of FATA is:",
+      "options": {
+        "A": "3.4%",
+        "B": "9.4%",
+        "C": "0.1%",
+        "D": "17.7%"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 116,
+      "question": "The landmass percentage of ICT (Islamabad Capital Territory) is:",
+      "options": {
+        "A": "3.4%",
+        "B": "1.0%",
+        "C": "0.1%",
+        "D": "0.5%"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 117,
+      "question": "What is the total height of Tirich Mir?",
+      "options": {
+        "A": "8611 meters",
+        "B": "7708 meters",
+        "C": "8126 meters",
+        "D": "7500 meters"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 118,
+      "question": "The 'Killer Mountain' is another name for:",
+      "options": {
+        "A": "K-2",
+        "B": "Nanga Parbat",
+        "C": "Rakaposhi",
+        "D": "Mount Everest"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 119,
+      "question": "The length of the Siachen Glacier is:",
+      "options": {
+        "A": "50 km",
+        "B": "76 km",
+        "C": "62 km",
+        "D": "80 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 120,
+      "question": "Which desert is famous for its shifting sand dunes and salt lakes?",
+      "options": {
+        "A": "Thar",
+        "B": "Kharan",
+        "C": "Thal",
+        "D": "Cholistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 121,
+      "question": "Which range has the average height of 3000 meters?",
+      "options": {
+        "A": "Salt Range",
+        "B": "Chaghi Range",
+        "C": "Kirthar Range",
+        "D": "Koh-e-Sufaid"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 122,
+      "question": "What is the maximum height of the Kirthar Range?",
+      "options": {
+        "A": "2150 meters",
+        "B": "2275 meters",
+        "C": "2500 meters",
+        "D": "3000 meters"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 123,
+      "question": "The Siachen Glacier is the 2nd highest glacier in the:",
+      "options": {
+        "A": "World",
+        "B": "Pakistan",
+        "C": "Both World and Pakistan",
+        "D": "None of these"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 124,
+      "question": "Which pass connects Pakistan with Afghanistan?",
+      "options": {
+        "A": "Khyber Pass",
+        "B": "Bolan Pass",
+        "C": "Gomal Pass",
+        "D": "All of these"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 125,
+      "question": "Which peak is called 'Godwin Austin'?",
+      "options": {
+        "A": "Nanga Parbat",
+        "B": "Tirich Mir",
+        "C": "K-2",
+        "D": "Broad Peak"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 126,
+      "question": "Tanda Dam is located in which province?",
+      "options": {
+        "A": "Punjab",
+        "B": "Sindh",
+        "C": "KPK",
+        "D": "Balochistan"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 127,
+      "question": "The Indus Water Treaty was signed in 1960. How many dams were constructed under it?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "8"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 128,
+      "question": "Which desert is located in Punjab between the Jhelum and Indus rivers?",
+      "options": {
+        "A": "Thar",
+        "B": "Thal",
+        "C": "Cholistan",
+        "D": "Kharan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 129,
+      "question": "The height of the Potwar Plateau is between:",
+      "options": {
+        "A": "300-600 meters",
+        "B": "200-500 meters",
+        "C": "500-1000 meters",
+        "D": "100-300 meters"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 130,
+      "question": "Which place is called the 'Pearls of Himalayas'?",
+      "options": {
+        "A": "Kaghan",
+        "B": "Skardu",
+        "C": "Hunza",
+        "D": "Murree"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 131,
+      "question": "The total length of the coastline of Pakistan is 700 km. It is located along the:",
+      "options": {
+        "A": "Indian Ocean",
+        "B": "Arabian Sea",
+        "C": "Bay of Bengal",
+        "D": "Red Sea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 132,
+      "question": "Fire clay is primarily found in which range?",
+      "options": {
+        "A": "Salt Range",
+        "B": "Sulaiman Range",
+        "C": "Himalaya Range",
+        "D": "Kirthar Range"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 133,
+      "question": "The Chaj Doab is between the rivers:",
+      "options": {
+        "A": "Chenab and Jhelum",
+        "B": "Chenab and Ravi",
+        "C": "Ravi and Sutlej",
+        "D": "Indus and Jhelum"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 134,
+      "question": "What is the primary vegetation in the Cholistan desert?",
+      "options": {
+        "A": "Dense Forest",
+        "B": "Sparse shrubs and grasses",
+        "C": "Tropical fruit trees",
+        "D": "None of these"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 135,
+      "question": "Which pass connects Sibbi and Quetta?",
+      "options": {
+        "A": "Khyber Pass",
+        "B": "Bolan Pass",
+        "C": "Tochi Pass",
+        "D": "Gomal Pass"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 136,
+      "question": "Where do the mountains of Himalayas, Karakoram and Hindukush meet?",
+      "options": {
+        "A": "Jaglot near Gilgit",
+        "B": "Skardu city",
+        "C": "Islamabad",
+        "D": "Chitral"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 137,
+      "question": "The average height of Koh-e-Sufaid is:",
+      "options": {
+        "A": "3000 meters",
+        "B": "3500 meters",
+        "C": "2500 meters",
+        "D": "4000 meters"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 138,
+      "question": "Which glacier is found in the Shigar valley?",
+      "options": {
+        "A": "Siachen",
+        "B": "Biafo",
+        "C": "Baltoro",
+        "D": "Hispar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 139,
+      "question": "What is the length of the Pak-India border according to the provided data?",
+      "options": {
+        "A": "1610 km",
+        "B": "2252 km",
+        "C": "2912 km",
+        "D": "3323 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 140,
+      "question": "The youngest mountain range on Earth is:",
+      "options": {
+        "A": "Karakoram",
+        "B": "Himalayas",
+        "C": "Hindukush",
+        "D": "Salt Range"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 141,
+      "question": "What is the height of the Siachen Glacier in feet?",
+      "options": {
+        "A": "20,000",
+        "B": "18,000",
+        "C": "15,000",
+        "D": "25,000"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 142,
+      "question": "Which peak is ranked as the 9th highest in the world?",
+      "options": {
+        "A": "K-2",
+        "B": "Nanga Parbat",
+        "C": "Broad Peak",
+        "D": "Gasherbrum I"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 143,
+      "question": "The Kharan desert is located in which province?",
+      "options": {
+        "A": "Punjab",
+        "B": "Sindh",
+        "C": "Balochistan",
+        "D": "KPK"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 144,
+      "question": "Which city of Pakistan is known for the highest rainfall?",
+      "options": {
+        "A": "Islamabad",
+        "B": "Murree",
+        "C": "Rawalpindi",
+        "D": "Lahore"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 145,
+      "question": "What is the length of the Pak-Iran border?",
+      "options": {
+        "A": "805 km",
+        "B": "909 km",
+        "C": "1610 km",
+        "D": "500 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 146,
+      "question": "Which range is called the 'Roof of the World'?",
+      "options": {
+        "A": "Himalayas",
+        "B": "Pamir Plateau",
+        "C": "Karakoram",
+        "D": "Hindukush"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 147,
+      "question": "How many barrages are on the Indus River according to the text?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 148,
+      "question": "The area between Ravi and Sutlej rivers is:",
+      "options": {
+        "A": "Rachna Doab",
+        "B": "Ganji Bar",
+        "C": "Bari Doab",
+        "D": "Nili Bar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 149,
+      "question": "What is the height of the Sakasar peak?",
+      "options": {
+        "A": "1500 meters",
+        "B": "1680 meters",
+        "C": "1600 meters",
+        "D": "1700 meters"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 150,
+      "question": "The Hindukush range starts at the:",
+      "options": {
+        "A": "China Border",
+        "B": "Pamir Plateau",
+        "C": "Afghan border",
+        "D": "Karakoram"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 151,
+      "question": "The direction of the Hindukush range is from:",
+      "options": {
+        "A": "North-West",
+        "B": "South-West",
+        "C": "North-East",
+        "D": "North-South"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 152,
+      "question": "Which pass connects Chitral with Gilgit?",
+      "options": {
+        "A": "Shandur Pass",
+        "B": "Babusar Pass",
+        "C": "Lowari Pass",
+        "D": "Khyber Pass"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 153,
+      "question": "What is the height of the Takhat-e-Sulaiman peak?",
+      "options": {
+        "A": "3200 meters",
+        "B": "3500 meters",
+        "C": "3300 meters",
+        "D": "3487 meters"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 154,
+      "question": "The total length of the Indus River is:",
+      "options": {
+        "A": "2896 km",
+        "B": "3180 km",
+        "C": "2500 km",
+        "D": "2900 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 155,
+      "question": "Which river flows near the city of Multan?",
+      "options": {
+        "A": "Indus",
+        "B": "Chenab",
+        "C": "Ravi",
+        "D": "Jhelum"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 156,
+      "question": "The Sukkur Barrage was completed in which year?",
+      "options": {
+        "A": "1932",
+        "B": "1947",
+        "C": "1955",
+        "D": "1960"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 157,
+      "question": "How many canals take off from the Sukkur Barrage?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 158,
+      "question": "Which desert is located in Sindh and extends into India?",
+      "options": {
+        "A": "Thar",
+        "B": "Thal",
+        "C": "Cholistan",
+        "D": "Kharan"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 159,
+      "question": "The height of K-2 is:",
+      "options": {
+        "A": "8611 meters",
+        "B": "8126 meters",
+        "C": "8848 meters",
+        "D": "7708 meters"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 160,
+      "question": "Which range separates Pakistan from China?",
+      "options": {
+        "A": "Karakoram",
+        "B": "Himalayas",
+        "C": "Hindukush",
+        "D": "Sulaiman"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 161,
+      "question": "Which glacier is the 2nd longest in the world outside the polar regions?",
+      "options": {
+        "A": "Siachen",
+        "B": "Baltoro",
+        "C": "Batura",
+        "D": "Hispar"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 162,
+      "question": "The length of the Siachen Glacier is 76 km. What is its width approximately?",
+      "options": {
+        "A": "2-8 km",
+        "B": "10-15 km",
+        "C": "1 km",
+        "D": "Not specified"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 163,
+      "question": "The Salt Range is situated between which two rivers?",
+      "options": {
+        "A": "Indus and Jhelum",
+        "B": "Soan and Jhelum",
+        "C": "Chenab and Ravi",
+        "D": "Sutlej and Beas"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 164,
+      "question": "What is the average height of the Salt Range?",
+      "options": {
+        "A": "675 meters",
+        "B": "700 meters",
+        "C": "1000 meters",
+        "D": "500 meters"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 165,
+      "question": "Which range is located along the border of Sindh and Balochistan?",
+      "options": {
+        "A": "Kirthar Range",
+        "B": "Sulaiman Range",
+        "C": "Salt Range",
+        "D": "Chaghi Hills"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 166,
+      "question": "How many peaks in Pakistan are higher than 8000 meters?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "8",
+        "D": "10"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 167,
+      "question": "The area between the Jhelum and Chenab rivers is called:",
+      "options": {
+        "A": "Rechna Doab",
+        "B": "Chaj Doab",
+        "C": "Bari Doab",
+        "D": "Sindh Sagar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 168,
+      "question": "The Rechna Doab is located between which two rivers?",
+      "options": {
+        "A": "Ravi and Chenab",
+        "B": "Ravi and Sutlej",
+        "C": "Chenab and Jhelum",
+        "D": "Indus and Jhelum"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 169,
+      "question": "The largest desert of Pakistan is:",
+      "options": {
+        "A": "Thal",
+        "B": "Thar",
+        "C": "Cholistan",
+        "D": "Kharan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 170,
+      "question": "Which desert is also called the Cold Desert of Pakistan?",
+      "options": {
+        "A": "Katpana",
+        "B": "Thal",
+        "C": "Kharan",
+        "D": "Cholistan"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 171,
+      "question": "What is the total height of the Tarbela Dam in feet?",
+      "options": {
+        "A": "485",
+        "B": "500",
+        "C": "550",
+        "D": "600"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 172,
+      "question": "The length of the Tarbela Dam is 9000 feet. What is its capacity for water storage?",
+      "options": {
+        "A": "11.1 MAF",
+        "B": "9.5 MAF",
+        "C": "Not specified in text",
+        "D": "5.5 MAF"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 173,
+      "question": "Which is the highest peak of the Sulaiman Range?",
+      "options": {
+        "A": "Takht-e-Sulaiman",
+        "B": "Skaram",
+        "C": "Sakesar",
+        "D": "Tirich Mir"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 174,
+      "question": "The highest peak of the Hindukush range is:",
+      "options": {
+        "A": "K-2",
+        "B": "Tirich Mir",
+        "C": "Nanga Parbat",
+        "D": "Rakaposhi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 175,
+      "question": "What is the total area of FATA in square kilometers?",
+      "options": {
+        "A": "27,220",
+        "B": "25,000",
+        "C": "Not specified",
+        "D": "20,000"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 176,
+      "question": "Which place is mentioned as the 'hottest' place in Pakistan?",
+      "options": {
+        "A": "Sibi",
+        "B": "Jacobabad",
+        "C": "Turbat",
+        "D": "Larkana"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 177,
+      "question": "Ziarat, the coldest place, is famous for which type of forest?",
+      "options": {
+        "A": "Pine",
+        "B": "Juniper",
+        "C": "Deodar",
+        "D": "Oak"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 178,
+      "question": "What is the total length of the Pak-Afghan border (Durand Line)?",
+      "options": {
+        "A": "2252 km",
+        "B": "2430 km",
+        "C": "2600 km",
+        "D": "1610 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 179,
+      "question": "Which river is the longest river of Pakistan?",
+      "options": {
+        "A": "Indus",
+        "B": "Jhelum",
+        "C": "Chenab",
+        "D": "Ravi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 180,
+      "question": "How many barrages are constructed on the Indus River?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "4"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 181,
+      "question": "Which dam is situated in the FATA region?",
+      "options": {
+        "A": "Mangla",
+        "B": "Tarbela",
+        "C": "Warsak",
+        "D": "Gomal Zam"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 182,
+      "question": "The Indus Water Treaty was signed between India and Pakistan in:",
+      "options": {
+        "A": "1960",
+        "B": "1948",
+        "C": "1972",
+        "D": "1955"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 183,
+      "question": "Which peak is called 'Killer Mountain'?",
+      "options": {
+        "A": "Nanga Parbat",
+        "B": "K-2",
+        "C": "Broad Peak",
+        "D": "Tirich Mir"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 184,
+      "question": "The total length of the coastline of Pakistan is:",
+      "options": {
+        "A": "700 km",
+        "B": "1046 km",
+        "C": "800 km",
+        "D": "1200 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 185,
+      "question": "Which pass connects Pakistan with China?",
+      "options": {
+        "A": "Khyber Pass",
+        "B": "Khunjerab Pass",
+        "C": "Bolan Pass",
+        "D": "Tochi Pass"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 186,
+      "question": "What is the total area of Pakistan in square km?",
+      "options": {
+        "A": "796,096",
+        "B": "881,913",
+        "C": "796,000",
+        "D": "800,000"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 187,
+      "question": "The percentage landmass of Balochistan is:",
+      "options": {
+        "A": "43.6%",
+        "B": "25.8%",
+        "C": "17.7%",
+        "D": "9.4%"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 188,
+      "question": "The percentage landmass of Punjab is:",
+      "options": {
+        "A": "43.6%",
+        "B": "25.8%",
+        "C": "17.7%",
+        "D": "9.4%"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 189,
+      "question": "The percentage landmass of Sindh is:",
+      "options": {
+        "A": "43.6%",
+        "B": "25.8%",
+        "C": "17.7%",
+        "D": "9.4%"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 190,
+      "question": "The percentage landmass of KPK is:",
+      "options": {
+        "A": "43.6%",
+        "B": "25.8%",
+        "C": "17.7%",
+        "D": "9.4%"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 191,
+      "question": "Which is the highest peak of the Salt Range?",
+      "options": {
+        "A": "Sakesar",
+        "B": "Tirich Mir",
+        "C": "K-2",
+        "D": "Nanga Parbat"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 192,
+      "question": "The oldest barrage of Pakistan is:",
+      "options": {
+        "A": "Sukkur Barrage",
+        "B": "Kotri Barrage",
+        "C": "Guddu Barrage",
+        "D": "Taunsa Barrage"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 193,
+      "question": "Basha Dam is being constructed on which river?",
+      "options": {
+        "A": "Indus",
+        "B": "Jhelum",
+        "C": "Chenab",
+        "D": "Ravi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 194,
+      "question": "Mangla Dam is constructed on which river?",
+      "options": {
+        "A": "Indus",
+        "B": "Jhelum",
+        "C": "Chenab",
+        "D": "Ravi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 195,
+      "question": "Tarbela Dam is constructed on which river?",
+      "options": {
+        "A": "Indus",
+        "B": "Jhelum",
+        "C": "Chenab",
+        "D": "Ravi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 196,
+      "question": "Which is the largest glacier in Pakistan?",
+      "options": {
+        "A": "Siachen",
+        "B": "Baltoro",
+        "C": "Biafo",
+        "D": "Hispar"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 197,
+      "question": "The length of the Siachen Glacier is:",
+      "options": {
+        "A": "76 km",
+        "B": "72 km",
+        "C": "65 km",
+        "D": "50 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 198,
+      "question": "Which city is known as the 'City of Saints'?",
+      "options": {
+        "A": "Multan",
+        "B": "Lahore",
+        "C": "Karachi",
+        "D": "Quetta"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 199,
+      "question": "Which city is the capital of Balochistan?",
+      "options": {
+        "A": "Quetta",
+        "B": "Gwadar",
+        "C": "Sibi",
+        "D": "Turbat"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 200,
+      "question": "Which province of Pakistan is called the 'Land of Five Rivers'?",
+      "options": {
+        "A": "Punjab",
+        "B": "Sindh",
+        "C": "KPK",
+        "D": "Balochistan"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 201,
+      "question": "What is the average annual rainfall in the plains of Punjab?",
+      "options": {
+        "A": "10-20 inches",
+        "B": "20-30 inches",
+        "C": "30-50 inches",
+        "D": "Less than 5 inches"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 202,
+      "question": "The 'Loo' wind, common in the Indus plains during summer, is:",
+      "options": {
+        "A": "Cold and dry",
+        "B": "Hot and dry",
+        "C": "Moist and cool",
+        "D": "Dusty and freezing"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 203,
+      "question": "Which type of soil is most common in the Indus Delta?",
+      "options": {
+        "A": "Sandy soil",
+        "B": "Silty and clayey soil",
+        "C": "Volcanic soil",
+        "D": "Peat soil"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 204,
+      "question": "What is the height of the Broad Peak (K-3)?",
+      "options": {
+        "A": "8047 meters",
+        "B": "8051 meters",
+        "C": "7500 meters",
+        "D": "8126 meters"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 205,
+      "question": "Which mountain range acts as a barrier for the Monsoons from the North?",
+      "options": {
+        "A": "Kirthar Range",
+        "B": "Himalayas",
+        "C": "Salt Range",
+        "D": "Sulaiman Range"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 206,
+      "question": "The total area of the Azad Jammu & Kashmir (AJK) is approximately:",
+      "options": {
+        "A": "13,297 sq km",
+        "B": "10,000 sq km",
+        "C": "15,500 sq km",
+        "D": "20,000 sq km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 207,
+      "question": "Which city is known as the 'Manchester of Pakistan' due to its textile industry?",
+      "options": {
+        "A": "Lahore",
+        "B": "Faisalabad",
+        "C": "Karachi",
+        "D": "Sialkot"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 208,
+      "question": "The Gomal River flows from Afghanistan and joins the Indus at:",
+      "options": {
+        "A": "Mianwali",
+        "B": "Dera Ismail Khan",
+        "C": "Sukkur",
+        "D": "Mithankot"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 209,
+      "question": "Which of the following is the National Flower of Pakistan?",
+      "options": {
+        "A": "Rose",
+        "B": "Tulip",
+        "C": "Jasmine",
+        "D": "Lotus"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 210,
+      "question": "The Chagai Hills are famous for being the site of:",
+      "options": {
+        "A": "Gold Mines",
+        "B": "Nuclear Tests",
+        "C": "Highest Waterfall",
+        "D": "Ancient Civilizations"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 211,
+      "question": "What is the length of the Zhob River?",
+      "options": {
+        "A": "410 km",
+        "B": "350 km",
+        "C": "500 km",
+        "D": "200 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 212,
+      "question": "Which river is often called the 'Nile of Pakistan'?",
+      "options": {
+        "A": "Jhelum",
+        "B": "Indus",
+        "C": "Chenab",
+        "D": "Sutlej"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 213,
+      "question": "Which is the smallest province of Pakistan by area?",
+      "options": {
+        "A": "Punjab",
+        "B": "Sindh",
+        "C": "KPK",
+        "D": "Balochistan"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 214,
+      "question": "The Karkhsa Dam is located in which district of Balochistan?",
+      "options": {
+        "A": "Quetta",
+        "B": "Gawadar",
+        "C": "Lasbela",
+        "D": "Kalat"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 215,
+      "question": "Which pass connects Peshawar with Kabul?",
+      "options": {
+        "A": "Bolan Pass",
+        "B": "Khyber Pass",
+        "C": "Gomal Pass",
+        "D": "Tochi Pass"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 216,
+      "question": "The length of the Ravi river is 720 km. Where does it enter Pakistan?",
+      "options": {
+        "A": "Sialkot",
+        "B": "Lahore",
+        "C": "Jhelum",
+        "D": "Kasur"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 217,
+      "question": "The 'Upper Bari Doab' starts from which headworks?",
+      "options": {
+        "A": "Balloki",
+        "B": "Madhopur",
+        "C": "Sulemanki",
+        "D": "Islam"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 218,
+      "question": "Which is the highest plateau in Pakistan?",
+      "options": {
+        "A": "Potohar Plateau",
+        "B": "Balochistan Plateau",
+        "C": "Deosai Plateau",
+        "D": "None of these"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 219,
+      "question": "In which month does the Monsoon season usually start in Pakistan?",
+      "options": {
+        "A": "May",
+        "B": "June",
+        "C": "July",
+        "D": "August"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 220,
+      "question": "The famous lake 'Attabad Lake' was formed due to:",
+      "options": {
+        "A": "Glacial melt",
+        "B": "Landslide",
+        "C": "Earthquake",
+        "D": "Dam construction"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 221,
+      "question": "Which is the National Bird of Pakistan?",
+      "options": {
+        "A": "Eagle",
+        "B": "Peacock",
+        "C": "Chakor",
+        "D": "Parrot"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 222,
+      "question": "What is the total length of the Lyari River?",
+      "options": {
+        "A": "50 km",
+        "B": "25 km",
+        "C": "100 km",
+        "D": "75 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 223,
+      "question": "The 'Guddu Barrage' is located in which province?",
+      "options": {
+        "A": "Punjab",
+        "B": "Sindh",
+        "C": "Balochistan",
+        "D": "KPK"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 224,
+      "question": "Which valley is called the 'Switzerland of Pakistan'?",
+      "options": {
+        "A": "Kaghan",
+        "B": "Hunza",
+        "C": "Swat",
+        "D": "Chitral"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 225,
+      "question": "The length of the Kunhar River is approximately:",
+      "options": {
+        "A": "180 km",
+        "B": "250 km",
+        "C": "150 km",
+        "D": "300 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 226,
+      "question": "The Malakand Pass connects Mardan with:",
+      "options": {
+        "A": "Swat",
+        "B": "Dir",
+        "C": "Chitral",
+        "D": "Bunair"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 227,
+      "question": "Which is the National Animal of Pakistan?",
+      "options": {
+        "A": "Markhor",
+        "B": "Snow Leopard",
+        "C": "Lion",
+        "D": "Ibex"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 228,
+      "question": "Which mountain range is located in the south of Pakistan?",
+      "options": {
+        "A": "Kirthar",
+        "B": "Karakoram",
+        "C": "Himalayas",
+        "D": "Salt Range"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 229,
+      "question": "What is the total forest area percentage in Pakistan approximately?",
+      "options": {
+        "A": "4.8%",
+        "B": "10%",
+        "C": "25%",
+        "D": "2%"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 230,
+      "question": "The Khewra Salt Mine is the ____ largest in the world.",
+      "options": {
+        "A": "1st",
+        "B": "2nd",
+        "C": "3rd",
+        "D": "4th"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 231,
+      "question": "Which is the largest artificial lake in Pakistan?",
+      "options": {
+        "A": "Manchar",
+        "B": "Keenjhar",
+        "C": "Haleji",
+        "D": "Saif-ul-Maluk"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 232,
+      "question": "The headworks 'Panjnad' is located on which river?",
+      "options": {
+        "A": "Indus",
+        "B": "Sutlej",
+        "C": "Chenab",
+        "D": "Chenab & Jhelum combined"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 233,
+      "question": "Which range is known as the 'Little Tibet'?",
+      "options": {
+        "A": "Baltistan",
+        "B": "Gilgit",
+        "C": "Hunza",
+        "D": "Skardu"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 234,
+      "question": "The total area of the Federally Administered Tribal Areas (FATA) before merger was:",
+      "options": {
+        "A": "27,220 sq km",
+        "B": "35,000 sq km",
+        "C": "15,000 sq km",
+        "D": "10,000 sq km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 235,
+      "question": "Which is the National Tree of Pakistan?",
+      "options": {
+        "A": "Neem",
+        "B": "Peepal",
+        "C": "Deodar",
+        "D": "Sheesham"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 236,
+      "question": "Which city is the coldest in winter according to average temperature?",
+      "options": {
+        "A": "Ziarat",
+        "B": "Skardu",
+        "C": "Kalat",
+        "D": "Murree"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 237,
+      "question": "The mountain peak 'Rakaposhi' means:",
+      "options": {
+        "A": "Killer Mountain",
+        "B": "Snow Covered",
+        "C": "Godmother of Clouds",
+        "D": "White Palace"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 238,
+      "question": "The 'Boland Pass' is situated in which province?",
+      "options": {
+        "A": "Balochistan",
+        "B": "KPK",
+        "C": "Sindh",
+        "D": "Punjab"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 239,
+      "question": "The Karakoram Highway (KKH) is also known as:",
+      "options": {
+        "A": "N-5",
+        "B": "Friendship Highway",
+        "C": "Silk Road",
+        "D": "N-35"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 240,
+      "question": "What is the length of the Gomal River?",
+      "options": {
+        "A": "150 km",
+        "B": "230 km",
+        "C": "400 km",
+        "D": "500 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 241,
+      "question": "Which is the highest peak of the Koh-e-Sufaid range?",
+      "options": {
+        "A": "Skaram",
+        "B": "Sakesar",
+        "C": "Takht-e-Sulaiman",
+        "D": "Tirich Mir"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 242,
+      "question": "The total length of the Makran Coastal Highway is:",
+      "options": {
+        "A": "500 km",
+        "B": "653 km",
+        "C": "800 km",
+        "D": "400 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 243,
+      "question": "Which province has the most number of National Parks?",
+      "options": {
+        "A": "Punjab",
+        "B": "KPK",
+        "C": "Gilgit-Baltistan",
+        "D": "Balochistan"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 244,
+      "question": "The 'Haleji Lake' is situated in which district of Sindh?",
+      "options": {
+        "A": "Thatta",
+        "B": "Dadu",
+        "C": "Badin",
+        "D": "Jamshoro"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 245,
+      "question": "What is the average height of the Hindukush range?",
+      "options": {
+        "A": "4500 meters",
+        "B": "5000 meters",
+        "C": "6000 meters",
+        "D": "3000 meters"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 246,
+      "question": "The length of the Swat River is:",
+      "options": {
+        "A": "240 km",
+        "B": "150 km",
+        "C": "300 km",
+        "D": "200 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 247,
+      "question": "Which peak is located in the Hunza Valley?",
+      "options": {
+        "A": "Rakaposhi",
+        "B": "Nanga Parbat",
+        "C": "K-2",
+        "D": "Tirich Mir"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 248,
+      "question": "The 'Indus Dolphin' is mostly found in which stretch of the river?",
+      "options": {
+        "A": "Kalabagh to Sukkur",
+        "B": "Sukkur to Kotri",
+        "C": "Taunsa to Guddu",
+        "D": "Gilgit to Attock"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 249,
+      "question": "Which is the National Fruit of Pakistan during summer?",
+      "options": {
+        "A": "Guava",
+        "B": "Mango",
+        "C": "Apple",
+        "D": "Banana"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 250,
+      "question": "The 'Kirthar Range' falls in which climatic zone?",
+      "options": {
+        "A": "Humid",
+        "B": "Arid",
+        "C": "Tropical",
+        "D": "Alpine"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 251,
+      "question": "What is the total length of the Kurram River?",
+      "options": {
+        "A": "320 km",
+        "B": "250 km",
+        "C": "400 km",
+        "D": "150 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 252,
+      "question": "The 'Kachura Lakes' are located in:",
+      "options": {
+        "A": "Skardu",
+        "B": "Gilgit",
+        "C": "Naran",
+        "D": "Swat"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 253,
+      "question": "Which pass connects Dera Ismail Khan with Ghazni (Afghanistan)?",
+      "options": {
+        "A": "Khyber",
+        "B": "Gomal",
+        "C": "Tochi",
+        "D": "Bolan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 254,
+      "question": "What is the total area of the Gilgit-Baltistan region?",
+      "options": {
+        "A": "72,971 sq km",
+        "B": "80,000 sq km",
+        "C": "65,000 sq km",
+        "D": "50,000 sq km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 255,
+      "question": "The 'Tanda Dam' is built on which river?",
+      "options": {
+        "A": "Kohat Toi",
+        "B": "Kabul",
+        "C": "Kurram",
+        "D": "Indus"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 256,
+      "question": "Which is the National Sport of Pakistan?",
+      "options": {
+        "A": "Cricket",
+        "B": "Hockey",
+        "C": "Squash",
+        "D": "Kabaddi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 257,
+      "question": "The 'Saindak Project' is famous for which mineral?",
+      "options": {
+        "A": "Iron",
+        "B": "Copper and Gold",
+        "C": "Coal",
+        "D": "Salt"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 258,
+      "question": "Which is the largest canal in Pakistan?",
+      "options": {
+        "A": "Nara Canal",
+        "B": "Upper Jhelum",
+        "C": "Lower Bari Doab",
+        "D": "Thal Canal"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 259,
+      "question": "What is the total length of the N-5 National Highway?",
+      "options": {
+        "A": "1819 km",
+        "B": "1200 km",
+        "C": "2000 km",
+        "D": "1500 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 260,
+      "question": "The 'Deosai National Park' is also known as:",
+      "options": {
+        "A": "Land of Lakes",
+        "B": "Land of Giants",
+        "C": "Roof of the World",
+        "D": "Cold Desert"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 261,
+      "question": "Which river is called the 'Sorrow of Sindh'?",
+      "options": {
+        "A": "Indus",
+        "B": "Hub",
+        "C": "Puran",
+        "D": "None of these"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 262,
+      "question": "The 'Malir River' flows through which city?",
+      "options": {
+        "A": "Karachi",
+        "B": "Hyderabad",
+        "C": "Sukkur",
+        "D": "Larkana"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 263,
+      "question": "The height of the 'Musa Ka Musalla' peak is:",
+      "options": {
+        "A": "4080 meters",
+        "B": "3500 meters",
+        "C": "5000 meters",
+        "D": "3000 meters"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 264,
+      "question": "Which is the National Fruit of Pakistan during winter?",
+      "options": {
+        "A": "Guava",
+        "B": "Orange/Kino",
+        "C": "Pomegranate",
+        "D": "Apple"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 265,
+      "question": "The 'Boland River' flows in which province?",
+      "options": {
+        "A": "Balochistan",
+        "B": "Sindh",
+        "C": "KPK",
+        "D": "Punjab"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 266,
+      "question": "The total area of the Punjab province in square miles is approximately:",
+      "options": {
+        "A": "79,284",
+        "B": "100,000",
+        "C": "50,000",
+        "D": "150,000"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 267,
+      "question": "Which city is the largest in Pakistan by area?",
+      "options": {
+        "A": "Karachi",
+        "B": "Lahore",
+        "C": "Islamabad",
+        "D": "None of these"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 268,
+      "question": "The 'Lulusar-Dudipatsar National Park' is located in:",
+      "options": {
+        "A": "Kaghan Valley",
+        "B": "Swat Valley",
+        "C": "Gilgit",
+        "D": "Chitral"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 269,
+      "question": "Which range connects the Hindukush with the Karakoram?",
+      "options": {
+        "A": "Hindu Raj",
+        "B": "Pamir",
+        "C": "Salt Range",
+        "D": "Sulaiman"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 270,
+      "question": "What is the length of the Kabul River?",
+      "options": {
+        "A": "700 km",
+        "B": "480 km",
+        "C": "600 km",
+        "D": "350 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 271,
+      "question": "Which is the National Reptile of Pakistan?",
+      "options": {
+        "A": "Crocodile",
+        "B": "Indus Dolphin",
+        "C": "Mugger Crocodile",
+        "D": "None of these"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 272,
+      "question": "The 'Head Islam' is built on which river?",
+      "options": {
+        "A": "Sutlej",
+        "B": "Ravi",
+        "C": "Chenab",
+        "D": "Indus"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 273,
+      "question": "Which plateau has the 'Salt Range' to its south?",
+      "options": {
+        "A": "Potohar Plateau",
+        "B": "Balochistan Plateau",
+        "C": "Deosai Plateau",
+        "D": "None of these"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 274,
+      "question": "The 'Nanga Parbat' is ranked as the ____ highest peak in Pakistan.",
+      "options": {
+        "A": "1st",
+        "B": "2nd",
+        "C": "3rd",
+        "D": "4th"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 275,
+      "question": "The 'Guddu Barrage' has how many bays?",
+      "options": {
+        "A": "64",
+        "B": "54",
+        "C": "70",
+        "D": "60"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 276,
+      "question": "Which province has the largest coastline?",
+      "options": {
+        "A": "Sindh",
+        "B": "Balochistan",
+        "C": "Punjab",
+        "D": "KPK"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 277,
+      "question": "The 'Tochi Pass' connects Bannu with:",
+      "options": {
+        "A": "Ghazni",
+        "B": "Kabul",
+        "C": "Kandahar",
+        "D": "Khost"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 278,
+      "question": "What is the height of 'Gasherbrum II'?",
+      "options": {
+        "A": "8035 meters",
+        "B": "8080 meters",
+        "C": "7500 meters",
+        "D": "8126 meters"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 279,
+      "question": "Which river flows through the 'Bolan Pass'?",
+      "options": {
+        "A": "Bolan River",
+        "B": "Quetta River",
+        "C": "Zhob River",
+        "D": "Gomal River"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 280,
+      "question": "Which is the National Vegetable of Pakistan?",
+      "options": {
+        "A": "Potato",
+        "B": "Ladyfinger (Okra)",
+        "C": "Onion",
+        "D": "Spinach"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 281,
+      "question": "The 'Mitha Tiwana' is located in which district?",
+      "options": {
+        "A": "Khushab",
+        "B": "Mianwali",
+        "C": "Bhakkar",
+        "D": "Sargodha"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 282,
+      "question": "The 'Kotri Barrage' is also known as:",
+      "options": {
+        "A": "Ghulam Muhammad Barrage",
+        "B": "Jinnah Barrage",
+        "C": "Liaquat Barrage",
+        "D": "Ayub Barrage"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 283,
+      "question": "In which province is the 'Thar Desert' primarily located?",
+      "options": {
+        "A": "Sindh",
+        "B": "Punjab",
+        "C": "Balochistan",
+        "D": "KPK"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 284,
+      "question": "Which mountain range is located in the Kohistan district?",
+      "options": {
+        "A": "Karakoram",
+        "B": "Himalayas",
+        "C": "Hindukush",
+        "D": "Sulaiman"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 285,
+      "question": "The 'Hingol River' flows into the:",
+      "options": {
+        "A": "Arabian Sea",
+        "B": "Indus River",
+        "C": "Hamun-i-Mashkel",
+        "D": "Gawadar Bay"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 286,
+      "question": "What is the total length of the Bara River?",
+      "options": {
+        "A": "100 km",
+        "B": "150 km",
+        "C": "200 km",
+        "D": "50 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 287,
+      "question": "Which is the National Juice of Pakistan?",
+      "options": {
+        "A": "Mango Juice",
+        "B": "Orange Juice",
+        "C": "Sugarcane Juice",
+        "D": "Apple Juice"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 288,
+      "question": "The 'Gishkori' is a branch of which river?",
+      "options": {
+        "A": "Indus",
+        "B": "Chenab",
+        "C": "Jhelum",
+        "D": "None of these"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 289,
+      "question": "The 'Kirana Hills' are located in which district?",
+      "options": {
+        "A": "Sargodha",
+        "B": "Faisalabad",
+        "C": "Chiniot",
+        "D": "Jhang"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 290,
+      "question": "Which range is located in the Lasbela district?",
+      "options": {
+        "A": "Hala Range",
+        "B": "Pub Range",
+        "C": "Makran Range",
+        "D": "Kirthar Range"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 291,
+      "question": "The 'Khabeki Lake' is situated in the:",
+      "options": {
+        "A": "Soan Valley",
+        "B": "Salt Range",
+        "C": "Potohar Plateau",
+        "D": "None of these"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 292,
+      "question": "What is the total length of the 'Line of Control' (LoC) approximately?",
+      "options": {
+        "A": "740 km",
+        "B": "800 km",
+        "C": "500 km",
+        "D": "1000 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 293,
+      "question": "Which river is called the 'River of Kabul' in the Rigveda?",
+      "options": {
+        "A": "Kubha",
+        "B": "Vitasta",
+        "C": "Asikni",
+        "D": "Parushni"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 294,
+      "question": "The 'Mochra' pass is in which range?",
+      "options": {
+        "A": "Kirthar",
+        "B": "Sulaiman",
+        "C": "Salt Range",
+        "D": "Karakoram"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 295,
+      "question": "Which is the National Fish of Pakistan?",
+      "options": {
+        "A": "Mahseer",
+        "B": "Rahu",
+        "C": "Trout",
+        "D": "Hilsa"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 296,
+      "question": "The 'Warsak Dam' was built with the financial aid of:",
+      "options": {
+        "A": "USA",
+        "B": "Canada",
+        "C": "China",
+        "D": "UK"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 297,
+      "question": "The 'Sukh Beas' is an old bed of which river?",
+      "options": {
+        "A": "Beas",
+        "B": "Sutlej",
+        "C": "Ravi",
+        "D": "Chenab"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 298,
+      "question": "The 'Gawadar' port was bought from which country in 1958?",
+      "options": {
+        "A": "Iran",
+        "B": "Oman",
+        "C": "UAE",
+        "D": "Saudi Arabia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 299,
+      "question": "What is the height of the 'Saltoro Kangri' peak?",
+      "options": {
+        "A": "7742 meters",
+        "B": "7500 meters",
+        "C": "8000 meters",
+        "D": "7000 meters"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 300,
+      "question": "Which is the National Anthem’s duration?",
+      "options": {
+        "A": "60 seconds",
+        "B": "80 seconds",
+        "C": "100 seconds",
+        "D": "120 seconds"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 301,
+      "question": "Which area is known for the world's largest high-grade 'Antimony' deposits?",
+      "options": {
+        "A": "Chitral",
+        "B": "Kalat",
+        "C": "Waziristan",
+        "D": "Swat"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 302,
+      "question": "The 'Lakhra' coal mines are situated in which province?",
+      "options": {
+        "A": "Punjab",
+        "B": "Sindh",
+        "C": "Balochistan",
+        "D": "KPK"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 303,
+      "question": "Which is the most widely found mineral in Pakistan?",
+      "options": {
+        "A": "Salt",
+        "B": "Gypsum",
+        "C": "Coal",
+        "D": "Copper"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 304,
+      "question": "The 'Kharan Desert' is also known as:",
+      "options": {
+        "A": "Sandy Desert",
+        "B": "Mountainous Desert",
+        "C": "Waterless Desert",
+        "D": "None of these"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 305,
+      "question": "What is the total length of the Porali River?",
+      "options": {
+        "A": "175 km",
+        "B": "250 km",
+        "C": "300 km",
+        "D": "120 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 306,
+      "question": "Which range is located between the Indus River and the Jhelum River?",
+      "options": {
+        "A": "Salt Range",
+        "B": "Sulaiman Range",
+        "C": "Kirthar Range",
+        "D": "Hindukush"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 307,
+      "question": "The 'Chotiari Dam' is located in which district?",
+      "options": {
+        "A": "Sanghar",
+        "B": "Thatta",
+        "C": "Dadu",
+        "D": "Badin"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 308,
+      "question": "Which is the highest peak of the 'Kirthar Range'?",
+      "options": {
+        "A": "Zardak Peak",
+        "B": "Sakesar",
+        "C": "Skaram",
+        "D": "Rakaposhi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 309,
+      "question": "The 'Batura Glacier' is located in which valley?",
+      "options": {
+        "A": "Gojal Valley",
+        "B": "Skardu Valley",
+        "C": "Hunza Valley",
+        "D": "Kaghan Valley"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 310,
+      "question": "What is the total length of the 'Batura Glacier'?",
+      "options": {
+        "A": "57 km",
+        "B": "65 km",
+        "C": "70 km",
+        "D": "45 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 311,
+      "question": "Which pass connects Gilgit with Sinkiang (China)?",
+      "options": {
+        "A": "Khunjerab Pass",
+        "B": "Kilik Pass",
+        "C": "Mintaka Pass",
+        "D": "All of these"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 312,
+      "question": "The 'Trak Pass' is located in which range?",
+      "options": {
+        "A": "Kirthar",
+        "B": "Sulaiman",
+        "C": "Salt Range",
+        "D": "Chaghi Hills"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 313,
+      "question": "Which river is the main source of water for the 'Hub Dam'?",
+      "options": {
+        "A": "Hub River",
+        "B": "Malir River",
+        "C": "Lyari River",
+        "D": "Indus River"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 314,
+      "question": "The 'Sohan River' is a tributary of which river?",
+      "options": {
+        "A": "Indus",
+        "B": "Jhelum",
+        "C": "Chenab",
+        "D": "Ravi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 315,
+      "question": "Which city is known as the 'Gateway to Pakistan'?",
+      "options": {
+        "A": "Karachi",
+        "B": "Lahore",
+        "C": "Peshawar",
+        "D": "Quetta"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 316,
+      "question": "The 'Mangla Dam' is built on the Jhelum river. When was it completed?",
+      "options": {
+        "A": "1967",
+        "B": "1960",
+        "C": "1975",
+        "D": "1980"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 317,
+      "question": "What is the storage capacity of the 'Mangla Dam'?",
+      "options": {
+        "A": "7.39 MAF",
+        "B": "5.85 MAF",
+        "C": "9.00 MAF",
+        "D": "4.50 MAF"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 318,
+      "question": "Which is the smallest dam in Pakistan?",
+      "options": {
+        "A": "Warsak Dam",
+        "B": "Misriot Dam",
+        "C": "Namal Dam",
+        "D": "Rawal Dam"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 319,
+      "question": "The 'Haleji Lake' is often called the 'Bird's Paradise' of:",
+      "options": {
+        "A": "Asia",
+        "B": "Pakistan",
+        "C": "Sindh",
+        "D": "The World"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 320,
+      "question": "Which mountain range separates the 'Indus Plain' from the 'Balochistan Plateau'?",
+      "options": {
+        "A": "Sulaiman and Kirthar",
+        "B": "Salt Range",
+        "C": "Karakoram",
+        "D": "Himalayas"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 321,
+      "question": "The 'Nanga Parbat' is also known as 'Diamir'. What does 'Diamir' mean?",
+      "options": {
+        "A": "King of Mountains",
+        "B": "White Mountain",
+        "C": "High Peak",
+        "D": "Naked Mountain"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 322,
+      "question": "Which glacier is the source of the 'Gilgit River'?",
+      "options": {
+        "A": "Batura",
+        "B": "Khurdopin",
+        "C": "Chitti Boi",
+        "D": "None of these"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 323,
+      "question": "What is the total length of the 'Dasht River'?",
+      "options": {
+        "A": "430 km",
+        "B": "350 km",
+        "C": "500 km",
+        "D": "200 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 324,
+      "question": "Which pass connects 'Sibi' with 'Harnai'?",
+      "options": {
+        "A": "Harnai Pass",
+        "B": "Bolan Pass",
+        "C": "Khojak Pass",
+        "D": "Chaman Pass"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 325,
+      "question": "The 'Chagai Hills' are located on the border of:",
+      "options": {
+        "A": "Pakistan and Iran",
+        "B": "Pakistan and Afghanistan",
+        "C": "Pakistan and China",
+        "D": "Sindh and Balochistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 326,
+      "question": "Which is the highest point of the 'Potohar Plateau'?",
+      "options": {
+        "A": "Sakesar",
+        "B": "Tilla Jogian",
+        "C": "Skaram",
+        "D": "Mount Ilam"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 327,
+      "question": "The 'Namal Lake' is located in which district?",
+      "options": {
+        "A": "Mianwali",
+        "B": "Khushab",
+        "C": "Chakwal",
+        "D": "Jhelum"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 328,
+      "question": "What is the average height of the 'Karakoram Range'?",
+      "options": {
+        "A": "7000 meters",
+        "B": "6000 meters",
+        "C": "5000 meters",
+        "D": "8000 meters"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 329,
+      "question": "Which mineral is found in 'Kalabagh' in large quantities?",
+      "options": {
+        "A": "Iron Ore",
+        "B": "Coal",
+        "C": "Salt",
+        "D": "Gypsum"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 330,
+      "question": "The 'Dudipatsar Lake' is located in:",
+      "options": {
+        "A": "Kaghan",
+        "B": "Naran",
+        "C": "Chitral",
+        "D": "Swat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 331,
+      "question": "Which river is called 'The Blue River' in Pakistan?",
+      "options": {
+        "A": "Neelum River",
+        "B": "Kunhar River",
+        "C": "Swat River",
+        "D": "Kabul River"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 332,
+      "question": "The 'Kirthar Range' has its highest peak at:",
+      "options": {
+        "A": "Kutte-Ji-Kabar",
+        "B": "Gorakh Hill",
+        "C": "Zardak",
+        "D": "Sakesar"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 333,
+      "question": "Which is the largest National Park of Pakistan by area?",
+      "options": {
+        "A": "Hingol National Park",
+        "B": "Kirthar National Park",
+        "C": "Central Karakoram National Park",
+        "D": "Deosai National Park"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 334,
+      "question": "The 'Shandur Lake' is located in:",
+      "options": {
+        "A": "Ghizer District",
+        "B": "Chitral District",
+        "C": "Swat District",
+        "D": "Gilgit District"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 335,
+      "question": "What is the length of the 'Tochi River'?",
+      "options": {
+        "A": "213 km",
+        "B": "150 km",
+        "C": "300 km",
+        "D": "100 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 336,
+      "question": "Which pass connects 'Dir' with 'Chitral'?",
+      "options": {
+        "A": "Lowari Pass",
+        "B": "Shandur Pass",
+        "C": "Babusar Pass",
+        "D": "Khyber Pass"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 337,
+      "question": "The 'Makran Range' is located in the ____ of Balochistan.",
+      "options": {
+        "A": "South",
+        "B": "North",
+        "C": "East",
+        "D": "West"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 338,
+      "question": "What is the total length of the 'Rakhshan River'?",
+      "options": {
+        "A": "258 km",
+        "B": "300 km",
+        "C": "150 km",
+        "D": "200 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 339,
+      "question": "Which is the oldest city of Pakistan according to archaeological records?",
+      "options": {
+        "A": "Multan",
+        "B": "Mohenjo-Daro",
+        "C": "Taxila",
+        "D": "Peshawar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 340,
+      "question": "The 'Head Trimmu' is located at the confluence of which rivers?",
+      "options": {
+        "A": "Jhelum and Chenab",
+        "B": "Chenab and Ravi",
+        "C": "Ravi and Sutlej",
+        "D": "Indus and Jhelum"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 341,
+      "question": "Which is the largest sea port of Pakistan?",
+      "options": {
+        "A": "Port Qasim",
+        "B": "Karachi Port",
+        "C": "Gwadar Port",
+        "D": "Pasni Port"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 342,
+      "question": "What is the total area of 'Islamabad' in square kilometers?",
+      "options": {
+        "A": "906",
+        "B": "1000",
+        "C": "800",
+        "D": "1200"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 343,
+      "question": "The 'Bolan Pass' is in the ____ mountain range.",
+      "options": {
+        "A": "Toba Kakar",
+        "B": "Sulaiman",
+        "C": "Central Brahui",
+        "D": "Kirthar"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 344,
+      "question": "Which river is called 'The Father of Rivers'?",
+      "options": {
+        "A": "Indus",
+        "B": "Chenab",
+        "C": "Jhelum",
+        "D": "Ravi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 345,
+      "question": "The 'Koh-e-Sultan' is located in which district?",
+      "options": {
+        "A": "Chaghi",
+        "B": "Quetta",
+        "C": "Kalat",
+        "D": "Gwadar"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 346,
+      "question": "What is the height of 'Rakaposhi'?",
+      "options": {
+        "A": "7788 meters",
+        "B": "8126 meters",
+        "C": "8611 meters",
+        "D": "7500 meters"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 347,
+      "question": "The 'Manchar Lake' is located in which district?",
+      "options": {
+        "A": "Jamshoro",
+        "B": "Dadu",
+        "C": "Larkana",
+        "D": "Thatta"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 348,
+      "question": "Which is the biggest island in Pakistan?",
+      "options": {
+        "A": "Manora",
+        "B": "Astola",
+        "C": "Churna",
+        "D": "Bundal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 349,
+      "question": "What is the length of the 'Soan River'?",
+      "options": {
+        "A": "250 km",
+        "B": "160 km",
+        "C": "200 km",
+        "D": "100 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 350,
+      "question": "The 'Baroghil Pass' connects Chitral with:",
+      "options": {
+        "A": "Wakhan",
+        "B": "Ghazni",
+        "C": "Kandahar",
+        "D": "Kabul"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 351,
+      "question": "Which city is the coldest place in Pakistan during winter?",
+      "options": {
+        "A": "Skardu",
+        "B": "Kalat",
+        "C": "Quetta",
+        "D": "Ziarat"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 352,
+      "question": "What is the total height of 'Broad Peak' in feet?",
+      "options": {
+        "A": "26,414",
+        "B": "28,000",
+        "C": "25,000",
+        "D": "27,000"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 353,
+      "question": "The 'Tanda Dam' is in which district?",
+      "options": {
+        "A": "Kohat",
+        "B": "Bannu",
+        "C": "Peshawar",
+        "D": "Mardan"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 354,
+      "question": "Which river joins the Indus at 'Mithankot'?",
+      "options": {
+        "A": "Panjnad",
+        "B": "Kabul",
+        "C": "Gomal",
+        "D": "Kurram"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 355,
+      "question": "The 'Khunjerab Pass' is at an elevation of:",
+      "options": {
+        "A": "4693 meters",
+        "B": "5000 meters",
+        "C": "4000 meters",
+        "D": "5500 meters"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 356,
+      "question": "Which is the highest peak of the 'Hindu Raj' range?",
+      "options": {
+        "A": "Koyo Zum",
+        "B": "Tirich Mir",
+        "C": "Rakaposhi",
+        "D": "Nanga Parbat"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 357,
+      "question": "The 'Mangla Dam' is located in which district of AJK?",
+      "options": {
+        "A": "Mirpur",
+        "B": "Muzaffarabad",
+        "C": "Bhimber",
+        "D": "Kotli"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 358,
+      "question": "What is the total length of the 'Harau River'?",
+      "options": {
+        "A": "150 km",
+        "B": "120 km",
+        "C": "100 km",
+        "D": "80 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 359,
+      "question": "Which range is called the 'Black Mountains'?",
+      "options": {
+        "A": "Tor Ghar",
+        "B": "Koh-e-Sufaid",
+        "C": "Salt Range",
+        "D": "Kirthar"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 360,
+      "question": "The 'Hanna Lake' is located in which city?",
+      "options": {
+        "A": "Quetta",
+        "B": "Ziarat",
+        "C": "Sibi",
+        "D": "Kalat"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 361,
+      "question": "Which is the highest peak of the 'Koh-e-Malik Salih'?",
+      "options": {
+        "A": "Skaram",
+        "B": "Sakesar",
+        "C": "Takht-e-Sulaiman",
+        "D": "None of these"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 362,
+      "question": "The 'Rawal Dam' is on which stream?",
+      "options": {
+        "A": "Korang",
+        "B": "Sohan",
+        "C": "Haro",
+        "D": "Indus"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 363,
+      "question": "What is the height of 'Nanga Parbat' in feet?",
+      "options": {
+        "A": "26,660",
+        "B": "28,000",
+        "C": "25,000",
+        "D": "27,000"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 364,
+      "question": "Which river is called the 'Hidden River' of Pakistan?",
+      "options": {
+        "A": "Hakra River",
+        "B": "Indus River",
+        "C": "Ravi River",
+        "D": "Sutlej River"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 365,
+      "question": "The 'Bab-us-Salam' refers to which port?",
+      "options": {
+        "A": "Debal",
+        "B": "Gawadar",
+        "C": "Karachi",
+        "D": "Pasni"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 366,
+      "question": "What is the total length of the 'Boland River'?",
+      "options": {
+        "A": "160 km",
+        "B": "100 km",
+        "C": "200 km",
+        "D": "150 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 367,
+      "question": "Which is the longest tunnel in Pakistan?",
+      "options": {
+        "A": "Khojak Tunnel",
+        "B": "Lowari Tunnel",
+        "C": "Kohat Tunnel",
+        "D": "None of these"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 368,
+      "question": "The 'Larkana-Shikarpana' area is famous for which crop?",
+      "options": {
+        "A": "Rice",
+        "B": "Wheat",
+        "C": "Cotton",
+        "D": "Sugarcane"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 369,
+      "question": "Which mountain range has the 'Kalar Kahar' lake?",
+      "options": {
+        "A": "Salt Range",
+        "B": "Sulaiman Range",
+        "C": "Himalayas",
+        "D": "Karakoram"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 370,
+      "question": "What is the total length of the 'Zhob River'?",
+      "options": {
+        "A": "386 km",
+        "B": "410 km",
+        "C": "350 km",
+        "D": "450 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 371,
+      "question": "Which pass connects 'Peshawar' with 'Chitral'?",
+      "options": {
+        "A": "Lowari Pass",
+        "B": "Malakand Pass",
+        "C": "Khyber Pass",
+        "D": "Tochi Pass"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 372,
+      "question": "The 'Guddu Barrage' was inaugurated in which year?",
+      "options": {
+        "A": "1962",
+        "B": "1955",
+        "C": "1970",
+        "D": "1947"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 373,
+      "question": "What is the total area of 'Thar Desert' in sq km?",
+      "options": {
+        "A": "200,000",
+        "B": "150,000",
+        "C": "250,000",
+        "D": "100,000"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 374,
+      "question": "Which river joins the 'Indus' at 'Attock'?",
+      "options": {
+        "A": "Kabul River",
+        "B": "Jhelum River",
+        "C": "Chenab River",
+        "D": "Ravi River"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 375,
+      "question": "The 'Attabad Lake' is in which district?",
+      "options": {
+        "A": "Hunza",
+        "B": "Gilgit",
+        "C": "Skardu",
+        "D": "Diamer"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 376,
+      "question": "What is the total length of the 'Bari Doab' canal?",
+      "options": {
+        "A": "150 km",
+        "B": "200 km",
+        "C": "250 km",
+        "D": "Not specified"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 377,
+      "question": "Which city is known as the 'City of Textiles'?",
+      "options": {
+        "A": "Faisalabad",
+        "B": "Karachi",
+        "C": "Hyderabad",
+        "D": "Lahore"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 378,
+      "question": "The 'Hub Dam' is situated on the border of:",
+      "options": {
+        "A": "Sindh and Balochistan",
+        "B": "Punjab and Sindh",
+        "C": "KPK and Punjab",
+        "D": "AJK and Punjab"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 379,
+      "question": "What is the height of 'Tirich Mir' in feet?",
+      "options": {
+        "A": "25,289",
+        "B": "26,000",
+        "C": "24,000",
+        "D": "27,000"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 380,
+      "question": "Which is the largest barrage of Pakistan by width?",
+      "options": {
+        "A": "Sukkur Barrage",
+        "B": "Guddu Barrage",
+        "C": "Kotri Barrage",
+        "D": "Taunsa Barrage"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 381,
+      "question": "The 'Chanchal' pass is in which range?",
+      "options": {
+        "A": "Himalayas",
+        "B": "Karakoram",
+        "C": "Hindukush",
+        "D": "Sulaiman"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 382,
+      "question": "What is the length of the 'Lyari River'?",
+      "options": {
+        "A": "50 km",
+        "B": "25 km",
+        "C": "75 km",
+        "D": "100 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 383,
+      "question": "Which river is the longest tributary of the 'Indus'?",
+      "options": {
+        "A": "Sutlej",
+        "B": "Chenab",
+        "C": "Jhelum",
+        "D": "Ravi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 384,
+      "question": "The 'Mirani Dam' is on which river?",
+      "options": {
+        "A": "Dasht River",
+        "B": "Hub River",
+        "C": "Kelech River",
+        "D": "Bolan River"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 385,
+      "question": "What is the total length of the 'Kunhar River'?",
+      "options": {
+        "A": "180 km",
+        "B": "150 km",
+        "C": "200 km",
+        "D": "250 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 386,
+      "question": "Which is the highest peak of the 'Toba Kakar Range'?",
+      "options": {
+        "A": "Kand Peak",
+        "B": "Skaram",
+        "C": "Sakesar",
+        "D": "Takht-e-Sulaiman"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 387,
+      "question": "The 'Satpara Lake' is at an elevation of:",
+      "options": {
+        "A": "2636 meters",
+        "B": "3000 meters",
+        "C": "2000 meters",
+        "D": "2500 meters"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 388,
+      "question": "What is the total length of the 'Shyok River'?",
+      "options": {
+        "A": "550 km",
+        "B": "400 km",
+        "C": "600 km",
+        "D": "500 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 389,
+      "question": "Which pass connects 'Swat' with 'Gilgit'?",
+      "options": {
+        "A": "Kalam Pass",
+        "B": "Babusar Pass",
+        "C": "Shandur Pass",
+        "D": "None of these"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 390,
+      "question": "The 'Kirthar National Park' is in which province?",
+      "options": {
+        "A": "Sindh",
+        "B": "Balochistan",
+        "C": "Punjab",
+        "D": "KPK"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 391,
+      "question": "What is the length of the 'N-25' Highway?",
+      "options": {
+        "A": "813 km",
+        "B": "1000 km",
+        "C": "700 km",
+        "D": "900 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 392,
+      "question": "Which river joins the 'Indus' from the east?",
+      "options": {
+        "A": "Panjnad",
+        "B": "Kabul",
+        "C": "Gomal",
+        "D": "Kurram"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 393,
+      "question": "The 'Hingol National Park' is famous for which animal?",
+      "options": {
+        "A": "Marsh Crocodile",
+        "B": "Snow Leopard",
+        "C": "Markhor",
+        "D": "Ibex"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 394,
+      "question": "What is the height of 'Gasherbrum I' in feet?",
+      "options": {
+        "A": "26,470",
+        "B": "28,000",
+        "C": "25,000",
+        "D": "27,000"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 395,
+      "question": "Which city is known as the 'City of Flowers'?",
+      "options": {
+        "A": "Peshawar",
+        "B": "Lahore",
+        "C": "Karachi",
+        "D": "Islamabad"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 396,
+      "question": "The 'Guddu Barrage' has a discharge capacity of:",
+      "options": {
+        "A": "1.2 million cusecs",
+        "B": "1.0 million cusecs",
+        "C": "1.5 million cusecs",
+        "D": "0.8 million cusecs"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 397,
+      "question": "Which is the highest peak of the 'Hindu Raj'?",
+      "options": {
+        "A": "Koyo Zum",
+        "B": "Buni Zom",
+        "C": "Tirich Mir",
+        "D": "None of these"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 398,
+      "question": "What is the length of the 'Pak-China border'?",
+      "options": {
+        "A": "599 km",
+        "B": "523 km",
+        "C": "650 km",
+        "D": "450 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 399,
+      "question": "Which is the largest district of Punjab by area?",
+      "options": {
+        "A": "Bahawalpur",
+        "B": "Lahore",
+        "C": "Multan",
+        "D": "Rawalpindi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 400,
+      "question": "What is the total length of the 'River Jhelum'?",
+      "options": {
+        "A": "725 km",
+        "B": "800 km",
+        "C": "600 km",
+        "D": "500 km"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}

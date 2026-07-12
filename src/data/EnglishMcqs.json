@@ -1,0 +1,4407 @@
+{
+  "test_name": "English Grammar Mastery Quiz",
+  "instructor": "Gemini AI",
+  "total_questions": 400,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "I bought a beautiful dress at the mall. What part of speech is 'beautiful'?",
+      "options": {
+        "A": "Preposition",
+        "B": "Adjective",
+        "C": "Noun",
+        "D": "Pronoun"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "What did she ask you to do? The word 'she' is a/an:",
+      "options": {
+        "A": "Conjunction",
+        "B": "Preposition",
+        "C": "Pronoun",
+        "D": "Verb"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "I left my shoes under the kitchen table. The word 'under' is a/an:",
+      "options": {
+        "A": "Adjective",
+        "B": "Preposition",
+        "C": "Pronoun",
+        "D": "Adverb"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "If we finish our work quickly we can go to the movies. The word 'quickly' is a/an:",
+      "options": {
+        "A": "Adverb",
+        "B": "Conjunction",
+        "C": "Verb",
+        "D": "Noun"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "On Saturdays I work from nine to five. The word 'work' is a/an:",
+      "options": {
+        "A": "Verb",
+        "B": "Preposition",
+        "C": "Adverb",
+        "D": "Noun"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "I want to go to a university in the United States. The word 'university' is a/an:",
+      "options": {
+        "A": "Adjective",
+        "B": "Preposition",
+        "C": "Noun",
+        "D": "Pronoun"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 7,
+      "question": "I'm sure I've met your girlfriend before. The word 'met' is a/an:",
+      "options": {
+        "A": "Verb",
+        "B": "Preposition",
+        "C": "Interjection",
+        "D": "Adjective"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "Well, I don't think I'll be home before 6. The word 'Well' is a/an:",
+      "options": {
+        "A": "Interjection",
+        "B": "Preposition",
+        "C": "Pronoun",
+        "D": "Conjunction"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "Andy knocked on the door but nobody answered. The word 'but' is a/an:",
+      "options": {
+        "A": "Adverb",
+        "B": "Adjective",
+        "C": "Conjunction",
+        "D": "Preposition"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "After lunch let's go out for a coffee. The word 'After' is a/an:",
+      "options": {
+        "A": "Pronoun",
+        "B": "Preposition",
+        "C": "Verb",
+        "D": "Adverb"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 11,
+      "question": "What do verbs like 'run' and 'learn' express?",
+      "options": {
+        "A": "Things",
+        "B": "Actions",
+        "C": "Nouns",
+        "D": "Places"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 12,
+      "question": "Adjectives like 'hot' and 'loud' tell us more about:",
+      "options": {
+        "A": "A noun",
+        "B": "A verb",
+        "C": "An adverb",
+        "D": "A conjunction"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "In the sentence 'I always study hard before a test', which word is an adverb?",
+      "options": {
+        "A": "Study",
+        "B": "Hard",
+        "C": "Test",
+        "D": "Before"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 14,
+      "question": "The word 'difficult' in 'The test wasn't difficult' is a/an:",
+      "options": {
+        "A": "Verb",
+        "B": "Adverb",
+        "C": "Adjective",
+        "D": "Noun"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 15,
+      "question": "What is the rule for an Assertive sentence in Simple Present tense?",
+      "options": {
+        "A": "Sub + V2 + Object",
+        "B": "Sub + is/am/are + V1 + ing",
+        "C": "Sub + V1 + s/es + Object",
+        "D": "Sub + has/have + V3"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 16,
+      "question": "Which sentence follows the Negative rule for Present Continuous?",
+      "options": {
+        "A": "She does not write a letter.",
+        "B": "She is not writing a letter.",
+        "C": "She has not written a letter.",
+        "D": "She was not writing a letter."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 17,
+      "question": "The Present Perfect tense is used for actions that:",
+      "options": {
+        "A": "Are happening now",
+        "B": "Happened daily",
+        "C": "Started in the past and just finished",
+        "D": "Will happen tomorrow"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 18,
+      "question": "Identify the Interrogative rule for Present Perfect:",
+      "options": {
+        "A": "Do + sub + V1 + object?",
+        "B": "Is + sub + V1 + ing + object?",
+        "C": "Has/Have + sub + V3 + object?",
+        "D": "Had + sub + V3 + object?"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 19,
+      "question": "Which helping verb is used in Simple Past negative sentences?",
+      "options": {
+        "A": "Do not",
+        "B": "Does not",
+        "C": "Did not",
+        "D": "Have not"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "In Simple Past, the negative sentence uses which verb form after 'did not'?",
+      "options": {
+        "A": "V1",
+        "B": "V2",
+        "C": "V3",
+        "D": "V + ing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "What is the rule for Past Continuous tense?",
+      "options": {
+        "A": "Was/Were + V1 + ing",
+        "B": "Has/Have + been + ing",
+        "C": "Had + V3",
+        "D": "V2"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "Which tense is used for an action completed before a certain moment in the past?",
+      "options": {
+        "A": "Simple Past",
+        "B": "Past Continuous",
+        "C": "Past Perfect",
+        "D": "Present Perfect"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 23,
+      "question": "In Future Tense, 'Shall' is traditionally used with:",
+      "options": {
+        "A": "He and She",
+        "B": "I and We",
+        "C": "They and You",
+        "D": "It"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 24,
+      "question": "The Future Perfect Tense uses which auxiliary verbs?",
+      "options": {
+        "A": "Will/Shall + Be",
+        "B": "Will/Shall + Have",
+        "C": "Will/Shall + Have been",
+        "D": "Will/Shall + V1"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 25,
+      "question": "When two subjects are joined by 'and', the verb is:",
+      "options": {
+        "A": "Singular",
+        "B": "Plural",
+        "C": "Infinitive",
+        "D": "V3"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 26,
+      "question": "If two singular nouns joined by 'and' refer to the same person, the verb is:",
+      "options": {
+        "A": "Singular",
+        "B": "Plural",
+        "C": "V2",
+        "D": "V1 + ing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "The captain and coach of the team ___ been sacked.",
+      "options": {
+        "A": "Have",
+        "B": "Has",
+        "C": "Are",
+        "D": "Were"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "Everyone ___ selfish.",
+      "options": {
+        "A": "Are",
+        "B": "Is",
+        "C": "Were",
+        "D": "Be"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 29,
+      "question": "Neither you nor your dogs ___ how to behave.",
+      "options": {
+        "A": "Know",
+        "B": "Knows",
+        "C": "Is knowing",
+        "D": "Has known"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "When 'Either' or 'Neither' are used as pronouns, they take a:",
+      "options": {
+        "A": "Singular verb",
+        "B": "Plural verb",
+        "C": "V2",
+        "D": "V3"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "With connectives like 'as well as', the verb agrees with the:",
+      "options": {
+        "A": "Second subject",
+        "B": "Nearest subject",
+        "C": "First subject",
+        "D": "Plural subject"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 32,
+      "question": "Mr. Ram, accompanied by his wife and brother, ___ banished.",
+      "options": {
+        "A": "Was",
+        "B": "Were",
+        "C": "Are",
+        "D": "Have been"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "'A number of students' takes a:",
+      "options": {
+        "A": "Singular verb",
+        "B": "Plural verb",
+        "C": "V1 + s/es",
+        "D": "Has"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "'The number of students' takes a:",
+      "options": {
+        "A": "Singular verb",
+        "B": "Plural verb",
+        "C": "V1",
+        "D": "Have"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "Units of measurement or time usually take a:",
+      "options": {
+        "A": "Singular verb",
+        "B": "Plural verb",
+        "C": "Were",
+        "D": "Have"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Some milk ___ spoilt.",
+      "options": {
+        "A": "Are",
+        "B": "Is",
+        "C": "Were",
+        "D": "Have"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "If the noun after 'Some' or 'All' is countable, the verb is:",
+      "options": {
+        "A": "Singular",
+        "B": "Plural",
+        "C": "V1 + s/es",
+        "D": "Was"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 38,
+      "question": "The SANAM mnemonic stands for Some, Any, None, All and:",
+      "options": {
+        "A": "Many",
+        "B": "More/Most",
+        "C": "Me",
+        "D": "Much"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 39,
+      "question": "The news from the border ___ not encouraging.",
+      "options": {
+        "A": "Are",
+        "B": "Is",
+        "C": "Were",
+        "D": "Have"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 40,
+      "question": "In the subjunctive mood (wishes), 'was' is replaced by:",
+      "options": {
+        "A": "Am",
+        "B": "Is",
+        "C": "Were",
+        "D": "Been"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 41,
+      "question": "I wish I ___ a king.",
+      "options": {
+        "A": "Was",
+        "B": "Were",
+        "C": "Am",
+        "D": "Be"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 42,
+      "question": "A modifier that describes the wrong word is called a:",
+      "options": {
+        "A": "Dangling modifier",
+        "B": "Misplaced modifier",
+        "C": "Adverb",
+        "D": "Adjective"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 43,
+      "question": "'Waiting for the train a brick fell on my foot' is an example of:",
+      "options": {
+        "A": "Misplaced modifier",
+        "B": "Dangling modifier",
+        "C": "Subject-verb agreement",
+        "D": "Parallelism"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 44,
+      "question": "Redundancy means using:",
+      "options": {
+        "A": "Grammar rules correctly",
+        "B": "Different words for the same data",
+        "C": "Many verbs",
+        "D": "Complex tenses"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 45,
+      "question": "Which phrase is redundant?",
+      "options": {
+        "A": "Combine three departments",
+        "B": "Combine into one",
+        "C": "Join together",
+        "D": "Both B and C"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 46,
+      "question": "The preposition 'like' implies:",
+      "options": {
+        "A": "Action",
+        "B": "Similar to",
+        "C": "Same as if",
+        "D": "Opposite of"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 47,
+      "question": "Correct the sentence: 'She looks like she is angry.'",
+      "options": {
+        "A": "She looks as if she is angry.",
+        "B": "She looks like as if she is angry.",
+        "C": "She looks like being angry.",
+        "D": "She is looking like angry."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "Collective nouns take a singular verb when they act as:",
+      "options": {
+        "A": "Different members",
+        "B": "A unit",
+        "C": "A plural entity",
+        "D": "An action"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question": "Physics ___ a fascinating subject.",
+      "options": {
+        "A": "Are",
+        "B": "Is",
+        "C": "Were",
+        "D": "Am"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "In Future Continuous, the rule is:",
+      "options": {
+        "A": "Will/Shall + Be + V1 + ing",
+        "B": "Will/Shall + Have + V3",
+        "C": "Will/Shall + V1",
+        "D": "Will/Shall + Have been + ing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 51,
+      "question": "The cat is hiding ___ the bed.",
+      "options": {
+        "A": "In",
+        "B": "At",
+        "C": "Under",
+        "D": "On"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 52,
+      "question": "I have written the letter ___ ink.",
+      "options": {
+        "A": "To",
+        "B": "In",
+        "C": "With",
+        "D": "By"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 53,
+      "question": "They arrived ___ the airport early.",
+      "options": {
+        "A": "At",
+        "B": "On",
+        "C": "In",
+        "D": "By"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 54,
+      "question": "The movie will start ___ 8:30 PM.",
+      "options": {
+        "A": "At",
+        "B": "In",
+        "C": "On",
+        "D": "By"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 55,
+      "question": "Geopositioning satellites revolve ___ the Earth.",
+      "options": {
+        "A": "Along",
+        "B": "Under",
+        "C": "Around",
+        "D": "Beneath"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 56,
+      "question": "I am looking forward ___ the weekend.",
+      "options": {
+        "A": "At",
+        "B": "To",
+        "C": "With",
+        "D": "In"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 57,
+      "question": "I have been working on this project ___ three months.",
+      "options": {
+        "A": "For",
+        "B": "Since",
+        "C": "In",
+        "D": "By"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 58,
+      "question": "She is identical ___ her sister.",
+      "options": {
+        "A": "At",
+        "B": "To",
+        "C": "With",
+        "D": "By"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 59,
+      "question": "The school is ___ the hospital.",
+      "options": {
+        "A": "Beside",
+        "B": "Between",
+        "C": "Besides",
+        "D": "Along"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 60,
+      "question": "The plane is flying ___ the clouds.",
+      "options": {
+        "A": "Along",
+        "B": "Through",
+        "C": "Over",
+        "D": "Under"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 61,
+      "question": "The cat jumped ___ the window.",
+      "options": {
+        "A": "Into",
+        "B": "Through",
+        "C": "Towards",
+        "D": "Against"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 62,
+      "question": "She is standing ___ the door.",
+      "options": {
+        "A": "By",
+        "B": "Near",
+        "C": "To",
+        "D": "Around"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 63,
+      "question": "She insisted ___ asking my opinion.",
+      "options": {
+        "A": "For",
+        "B": "Of",
+        "C": "On",
+        "D": "In"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 64,
+      "question": "He apologized ___ being late.",
+      "options": {
+        "A": "At",
+        "B": "For",
+        "C": "To",
+        "D": "On"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 65,
+      "question": "The teacher is proud ___ her students.",
+      "options": {
+        "A": "Of",
+        "B": "In",
+        "C": "For",
+        "D": "On"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 66,
+      "question": "The doctor advised the patient to abstain ___ unhealthy habits.",
+      "options": {
+        "A": "For",
+        "B": "From",
+        "C": "At",
+        "D": "In"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 67,
+      "question": "I am interested ___ learning new languages.",
+      "options": {
+        "A": "At",
+        "B": "In",
+        "C": "On",
+        "D": "For"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 68,
+      "question": "Sara came from Egypt ___ London.",
+      "options": {
+        "A": "From",
+        "B": "At",
+        "C": "To",
+        "D": "Of"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 69,
+      "question": "The ball rolled effortlessly ___ the staircase.",
+      "options": {
+        "A": "Up",
+        "B": "Down",
+        "C": "Across",
+        "D": "Through"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 70,
+      "question": "Please place the package ___ the doorstep.",
+      "options": {
+        "A": "On",
+        "B": "At",
+        "C": "In",
+        "D": "Between"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 71,
+      "question": "The sun sets beautifully ___ the ocean.",
+      "options": {
+        "A": "At",
+        "B": "On",
+        "C": "In",
+        "D": "Above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 72,
+      "question": "Active: He reads a novel. Passive: ___",
+      "options": {
+        "A": "A novel is read by him.",
+        "B": "A novel was read by him.",
+        "C": "A novel is being read by him.",
+        "D": "A novel read by him."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 73,
+      "question": "Active: She is singing a song. Passive: ___",
+      "options": {
+        "A": "A song is sung by her.",
+        "B": "A song is being sung by her.",
+        "C": "A song was being sung by her.",
+        "D": "A song has been sung by her."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 74,
+      "question": "Active: I have read the newspaper. Passive: ___",
+      "options": {
+        "A": "The newspaper has read by me.",
+        "B": "The newspaper was read by me.",
+        "C": "The newspaper has been read by me.",
+        "D": "The newspaper is read by me."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 75,
+      "question": "Active: Reema cleaned the floor. Passive: ___",
+      "options": {
+        "A": "The floor is cleaned by Reema.",
+        "B": "The floor was cleaned by Reema.",
+        "C": "The floor was being cleaned by Reema.",
+        "D": "The floor has been cleaned by Reema."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 76,
+      "question": "Active: She was baking the cake. Passive: ___",
+      "options": {
+        "A": "The cake was baked by her.",
+        "B": "The cake is being baked by her.",
+        "C": "The cake was being baked by her.",
+        "D": "The cake had been baked by her."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 77,
+      "question": "Active: He had solved the doubt. Passive: ___",
+      "options": {
+        "A": "The doubt has been solved by him.",
+        "B": "The doubt was solved by him.",
+        "C": "The doubt had been solved by him.",
+        "D": "The doubt is solved by him."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 78,
+      "question": "Active: They will post the letter. Passive: ___",
+      "options": {
+        "A": "The letter will be posted by them.",
+        "B": "The letter will post by them.",
+        "C": "The letter is posted by them.",
+        "D": "The letter would be posted by them."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 79,
+      "question": "Active: They will have won the match. Passive: ___",
+      "options": {
+        "A": "The match will win by them.",
+        "B": "The match will have been won by them.",
+        "C": "The match would have been won by them.",
+        "D": "The match will be winning by them."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 80,
+      "question": "Which tense has no passive voice formation?",
+      "options": {
+        "A": "Present Perfect",
+        "B": "Past Simple",
+        "C": "Future Continuous",
+        "D": "Present Simple"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 81,
+      "question": "She said, 'I will attend the meeting.' Indirect: ___",
+      "options": {
+        "A": "She said that she will attend the meeting.",
+        "B": "She said that she would attend the meeting.",
+        "C": "She said she attend the meeting.",
+        "D": "She said she would have attended."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 82,
+      "question": "'The movie is fantastic,' he exclaimed. Indirect: ___",
+      "options": {
+        "A": "He exclaimed that the movie is fantastic.",
+        "B": "He exclaimed that the movie was fantastic.",
+        "C": "He exclaims the movie was fantastic.",
+        "D": "He said the movie is fantastic."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 83,
+      "question": "'I have completed my homework,' she told him. Indirect: ___",
+      "options": {
+        "A": "She told him that she has completed her homework.",
+        "B": "She told him that she had completed her homework.",
+        "C": "She told him she completed her homework.",
+        "D": "She told him she will complete her homework."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 84,
+      "question": "'It rains every day,' she said. Indirect: ___",
+      "options": {
+        "A": "She said that it rained every day.",
+        "B": "She said that it rains every day.",
+        "C": "She says that it rained every day.",
+        "D": "She said it had rained."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 85,
+      "question": "'I am going to the market,' he announced. Indirect: ___",
+      "options": {
+        "A": "He announced that he is going to the market.",
+        "B": "He announced that he was going to the market.",
+        "C": "He announced he will be going.",
+        "D": "He announced he went."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 86,
+      "question": "He claimed, 'I can solve this problem.' Indirect: ___",
+      "options": {
+        "A": "He claimed that he can solve that problem.",
+        "B": "He claimed that he could solve that problem.",
+        "C": "He claimed he could solve this problem.",
+        "D": "He claims he can solve that problem."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 87,
+      "question": "He explained, 'The sun sets in the west.' Indirect: ___",
+      "options": {
+        "A": "He explained that the sun sets in the west.",
+        "B": "He explained that the sun set in the west.",
+        "C": "He explained the sun was setting.",
+        "D": "He explains the sun sets."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 88,
+      "question": "'Are you coming?' she asked. Indirect: ___",
+      "options": {
+        "A": "She asked if I am coming.",
+        "B": "She asked if I was coming.",
+        "C": "She asked that I was coming.",
+        "D": "She asked whether am I coming."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 89,
+      "question": "'Will you attend?' he asked. Indirect: ___",
+      "options": {
+        "A": "He asked if I would attend.",
+        "B": "He asked if I will attend.",
+        "C": "He asked that I would attend.",
+        "D": "He asked whether I shall attend."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 90,
+      "question": "In Subject-Verb Agreement, '40 of every 100 children' takes a:",
+      "options": {
+        "A": "Singular verb",
+        "B": "Plural verb",
+        "C": "Past participle",
+        "D": "V1 + s/es"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 91,
+      "question": "Which sentence is correct for parallel reasoning?",
+      "options": {
+        "A": "I enjoy giving gifts and giving food.",
+        "B": "I enjoy giving gifts and the giving of food.",
+        "C": "I enjoy to give gifts and giving food.",
+        "D": "I enjoy gifts and to give food."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 92,
+      "question": "After 'many/a great many', the noun and verb are:",
+      "options": {
+        "A": "Singular",
+        "B": "Plural",
+        "C": "Uncountable",
+        "D": "V3"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 93,
+      "question": "Identify the redundant word in 'Bald-headed':",
+      "options": {
+        "A": "Bald",
+        "B": "Headed",
+        "C": "Both",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 94,
+      "question": "'Current status quo' is redundant because 'status quo' means:",
+      "options": {
+        "A": "Future state",
+        "B": "Current state",
+        "C": "Past state",
+        "D": "Change"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 95,
+      "question": "In indirect speech, 'can' changes to:",
+      "options": {
+        "A": "Could",
+        "B": "Can",
+        "C": "Might",
+        "D": "May"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 96,
+      "question": "In indirect speech, 'now' changes to:",
+      "options": {
+        "A": "Then",
+        "B": "Today",
+        "C": "Before",
+        "D": "Next"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 97,
+      "question": "A great many girls ___ following fashion trends.",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Was",
+        "D": "Has"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 98,
+      "question": "The boy was riding the elephant who broke his leg. This is a:",
+      "options": {
+        "A": "Correct sentence",
+        "B": "Misplaced modifier",
+        "C": "Dangling modifier",
+        "D": "Parallelism error"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 99,
+      "question": "Infinitives (to + V1) are ___ the main verbs in a sentence.",
+      "options": {
+        "A": "Always",
+        "B": "Never",
+        "C": "Sometimes",
+        "D": "Not"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 100,
+      "question": "If the reporting verb is in the present tense, the tense of direct speech:",
+      "options": {
+        "A": "Changes to past",
+        "B": "Remains unchanged",
+        "C": "Changes to future",
+        "D": "Becomes passive"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 101,
+      "question": "She said, 'I have been waiting for two hours.' Indirect: ___",
+      "options": {
+        "A": "She said that she had been waiting for two hours.",
+        "B": "She said that she has been waiting for two hours.",
+        "C": "She said she was waiting for two hours.",
+        "D": "She said she had waited for two hours."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 102,
+      "question": "He said, 'I must go now.' Indirect: ___",
+      "options": {
+        "A": "He said that he must go then.",
+        "B": "He said that he had to go then.",
+        "C": "He said that he must go now.",
+        "D": "He said he would go then."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 103,
+      "question": "In Indirect Speech, 'ago' changes to:",
+      "options": {
+        "A": "Then",
+        "B": "Before",
+        "C": "Since",
+        "D": "Early"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 104,
+      "question": "In Indirect Speech, 'hither' changes to:",
+      "options": {
+        "A": "There",
+        "B": "Thither",
+        "C": "Whither",
+        "D": "Hither"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 105,
+      "question": "Which of these modals remains UNCHANGED in indirect speech?",
+      "options": {
+        "A": "Can",
+        "B": "May",
+        "C": "Ought to",
+        "D": "Must"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 106,
+      "question": "Ahmad said, 'I will go to Sri Lanka.' Indirect: ___",
+      "options": {
+        "A": "Ahmad said that he would go to Sri Lanka.",
+        "B": "Ahmad said that he will go to Sri Lanka.",
+        "C": "Ahmad said he shall go to Sri Lanka.",
+        "D": "Ahmad asked to go to Sri Lanka."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 107,
+      "question": "The boy asked, 'Where do you stay?' Indirect: ___",
+      "options": {
+        "A": "The boy asked where I stayed.",
+        "B": "The boy asked where did I stay.",
+        "C": "The boy asked where I stay.",
+        "D": "The boy inquired where I am staying."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 108,
+      "question": "When an interrogative sentence starts with a 'Wh-' word, the joining clause is:",
+      "options": {
+        "A": "If",
+        "B": "Whether",
+        "C": "That",
+        "D": "No extra conjunction"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 109,
+      "question": "The second person in reported speech changes according to the ___ of reporting speech.",
+      "options": {
+        "A": "Subject",
+        "B": "Object",
+        "C": "Verb",
+        "D": "Tense"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 110,
+      "question": "The third person in reported speech:",
+      "options": {
+        "A": "Changes to first person",
+        "B": "Changes to second person",
+        "C": "Remains unchanged",
+        "D": "Changes to plural"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 111,
+      "question": "Active: Someone has stolen my purse. Passive: ___",
+      "options": {
+        "A": "My purse has been stolen.",
+        "B": "My purse was stolen.",
+        "C": "My purse had been stolen.",
+        "D": "My purse is stolen."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 112,
+      "question": "Active: People speak English all over the world. Passive: ___",
+      "options": {
+        "A": "English is being spoken all over the world.",
+        "B": "English is spoken all over the world.",
+        "C": "English has been spoken all over the world.",
+        "D": "English was spoken all over the world."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 113,
+      "question": "Active: Switch off the light. Passive: ___",
+      "options": {
+        "A": "Let the light be switched off.",
+        "B": "The light is switched off.",
+        "C": "The light should switch off.",
+        "D": "Let the light switched off."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 114,
+      "question": "Rule 6: With 'along with' or 'as well as', the verb agrees with the first subject. Therefore: 'The teacher, along with the students, ___ going.'",
+      "options": {
+        "A": "Are",
+        "B": "Is",
+        "C": "Were",
+        "D": "Have"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 115,
+      "question": "Forty of every hundred children ___ malnourished.",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Was",
+        "D": "Has been"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 116,
+      "question": "Five gallons of oil ___ required to get the engine running.",
+      "options": {
+        "A": "Was",
+        "B": "Were",
+        "C": "Are",
+        "D": "Have been"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 117,
+      "question": "Which sentence shows the correct use of a collective noun as a unit?",
+      "options": {
+        "A": "The committee are disagreeing.",
+        "B": "The committee is discussing the issue.",
+        "C": "The jury are divided.",
+        "D": "The team are wearing different uniforms."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 118,
+      "question": "Trick 8: Subjunctive mood uses 'were'. 'If he ___ a bird, he would fly.'",
+      "options": {
+        "A": "Was",
+        "B": "Were",
+        "C": "Is",
+        "D": "Am"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 119,
+      "question": "Choose the correct sentence regarding modifiers:",
+      "options": {
+        "A": "I almost listened to the whole album.",
+        "B": "I listened to almost the whole album.",
+        "C": "Almost I listened to the whole album.",
+        "D": "I listened the whole album almost."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 120,
+      "question": "Which of these is NOT an indefinite pronoun?",
+      "options": {
+        "A": "Anyone",
+        "B": "Nobody",
+        "C": "He",
+        "D": "Everything"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 121,
+      "question": "The end result was satisfying. Identify the redundancy:",
+      "options": {
+        "A": "End result",
+        "B": "Satisfying",
+        "C": "The end",
+        "D": "No redundancy"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 122,
+      "question": "A great many soldiers ___ lost their lives.",
+      "options": {
+        "A": "Has",
+        "B": "Have",
+        "C": "Is",
+        "D": "Was"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 123,
+      "question": "The number of soldiers at the border ___ large.",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Were",
+        "D": "Have"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 124,
+      "question": "She picked up the scarf and tied it around her head which was gifted by her friend. (Correction needed?)",
+      "options": {
+        "A": "No correction needed.",
+        "B": "She picked up the scarf, which was gifted by her friend, and tied it around her head.",
+        "C": "Tied around her head, the scarf was gifted by her friend.",
+        "D": "Her head was gifted by her friend."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 125,
+      "question": "I have known him ___ a long time.",
+      "options": {
+        "A": "Since",
+        "B": "For",
+        "C": "From",
+        "D": "At"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 126,
+      "question": "He has been ill ___ Monday.",
+      "options": {
+        "A": "For",
+        "B": "Since",
+        "C": "From",
+        "D": "By"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 127,
+      "question": "The property was divided ___ the two brothers.",
+      "options": {
+        "A": "Among",
+        "B": "Between",
+        "C": "In",
+        "D": "With"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 128,
+      "question": "The property was divided ___ the four brothers.",
+      "options": {
+        "A": "Between",
+        "B": "Among",
+        "C": "To",
+        "D": "With"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 129,
+      "question": "He is blind ___ one eye.",
+      "options": {
+        "A": "With",
+        "B": "In",
+        "C": "Of",
+        "D": "By"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 130,
+      "question": "She died ___ cancer.",
+      "options": {
+        "A": "From",
+        "B": "Of",
+        "C": "With",
+        "D": "By"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 131,
+      "question": "He died ___ overwork.",
+      "options": {
+        "A": "Of",
+        "B": "From",
+        "C": "By",
+        "D": "In"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 132,
+      "question": "What is the passive of 'Open the door'?",
+      "options": {
+        "A": "Let the door be opened.",
+        "B": "The door is opened.",
+        "C": "Let the door open.",
+        "D": "The door was opened."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 133,
+      "question": "Which of these is a concrete noun?",
+      "options": {
+        "A": "Pollution",
+        "B": "Rock",
+        "C": "Rotation",
+        "D": "Giving"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 134,
+      "question": "Which of these is an action noun?",
+      "options": {
+        "A": "Cup",
+        "B": "Tiger",
+        "C": "Pollution",
+        "D": "Year"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 135,
+      "question": "Parallel reasoning requires that similar ideas are in the same ___ form.",
+      "options": {
+        "A": "Tense",
+        "B": "Logical",
+        "C": "Grammatical",
+        "D": "Subjective"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 136,
+      "question": "Which phrase is correct?",
+      "options": {
+        "A": "Foreign imports",
+        "B": "Imports from abroad",
+        "C": "Both are redundant",
+        "D": "A is redundant"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 137,
+      "question": "Identify the redundant word in 'Join together':",
+      "options": {
+        "A": "Join",
+        "B": "Together",
+        "C": "Both",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 138,
+      "question": "Identify the redundant word in 'Free gift':",
+      "options": {
+        "A": "Free",
+        "B": "Gift",
+        "C": "Both",
+        "D": "None"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 139,
+      "question": "In the sentence 'Stop talking about them', what is the object of the preposition?",
+      "options": {
+        "A": "Talking",
+        "B": "About",
+        "C": "Them",
+        "D": "Stop"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 140,
+      "question": "Uncle Henry travelled overseas to buy vases for ___ company.",
+      "options": {
+        "A": "Her",
+        "B": "His",
+        "C": "Their",
+        "D": "Its"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 141,
+      "question": "The teachers began ___ lecture.",
+      "options": {
+        "A": "Her",
+        "B": "His",
+        "C": "Their",
+        "D": "Its"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 142,
+      "question": "In the sentence 'Please bring me some tea', what is the understood subject?",
+      "options": {
+        "A": "Tea",
+        "B": "Me",
+        "C": "You",
+        "D": "Please"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 143,
+      "question": "May changes to ___ in indirect speech.",
+      "options": {
+        "A": "Might",
+        "B": "May",
+        "C": "Can",
+        "D": "Must"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 144,
+      "question": "Nimra said, 'I ought to avoid junk food.' Indirect: ___",
+      "options": {
+        "A": "Nimra said that she ought to avoid junk food.",
+        "B": "Nimra said she should have avoided junk food.",
+        "C": "Nimra said she would avoid junk food.",
+        "D": "Nimra said she must avoid junk food."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 145,
+      "question": "They said, 'The sun rises in the east.' Indirect: ___",
+      "options": {
+        "A": "They said that the sun rises in the east.",
+        "B": "They said that the sun rose in the east.",
+        "C": "They told the sun rose in the east.",
+        "D": "They said the sun would rise in the east."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 146,
+      "question": "Which of these takes a plural verb?",
+      "options": {
+        "A": "Everyone",
+        "B": "Each one",
+        "C": "Several",
+        "D": "Somebody"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 147,
+      "question": "Which of these takes a plural verb?",
+      "options": {
+        "A": "Many",
+        "B": "Anyone",
+        "C": "Nobody",
+        "D": "Whatever"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 148,
+      "question": "Daud said, 'I am having tea.' Indirect: ___",
+      "options": {
+        "A": "Daud said that he was having tea.",
+        "B": "Daud said that he had having tea.",
+        "C": "Daud said he is having tea.",
+        "D": "Daud said he had tea."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 149,
+      "question": "Ayesha said, 'Honey has left for school.' Indirect: ___",
+      "options": {
+        "A": "Ayesha said that Honey had left for school.",
+        "B": "Ayesha said that Honey has left for school.",
+        "C": "Ayesha said Honey left for school.",
+        "D": "Ayesha said Honey was leaving for school."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 150,
+      "question": "Yusra said, 'Annie took pasta.' Indirect: ___",
+      "options": {
+        "A": "Yusra said that Annie had taken pasta.",
+        "B": "Yusra said that Annie took pasta.",
+        "C": "Yusra said Annie takes pasta.",
+        "D": "Yusra said Annie had been taking pasta."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 151,
+      "question": "They told, 'We were living in Paris.' Indirect: ___",
+      "options": {
+        "A": "They told that they had been living in Paris.",
+        "B": "They told that they were living in Paris.",
+        "C": "They told they had lived in Paris.",
+        "D": "They told they lived in Paris."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 152,
+      "question": "In Indirect Speech, 'Tonight' changes to:",
+      "options": {
+        "A": "The night before",
+        "B": "That night",
+        "C": "Next night",
+        "D": "Now"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 153,
+      "question": "In Indirect Speech, 'Hence' changes to:",
+      "options": {
+        "A": "Thence",
+        "B": "Then",
+        "C": "There",
+        "D": "Hither"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 154,
+      "question": "The reporting verb 'said to' in an interrogative sentence changes to:",
+      "options": {
+        "A": "Told",
+        "B": "Asked/Inquired",
+        "C": "Ordered",
+        "D": "Claimed"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 155,
+      "question": "Roma said, 'I am a good girl.' Indirect: ___",
+      "options": {
+        "A": "Roma said that she was a good girl.",
+        "B": "Roma said that I was a good girl.",
+        "C": "Roma said that she is a good girl.",
+        "D": "Roma said she been a good girl."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 156,
+      "question": "Which sentence correctly follows Rule 10 (Uncountable Nouns)?",
+      "options": {
+        "A": "Some water are needed.",
+        "B": "Some milk is spoilt.",
+        "C": "Some money are lost.",
+        "D": "Some news are good."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 157,
+      "question": "Which of these is a collective noun?",
+      "options": {
+        "A": "Student",
+        "B": "Army",
+        "C": "Soldier",
+        "D": "War"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 158,
+      "question": "Collective noun: A ___ of students.",
+      "options": {
+        "A": "Army",
+        "B": "Class",
+        "C": "Team",
+        "D": "Bunch"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 159,
+      "question": "The committee ___ disagreeing on the issue of street lamps.",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Was",
+        "D": "Has been"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 160,
+      "question": "Physics is a fascinating subject. Here 'Physics' is:",
+      "options": {
+        "A": "Plural",
+        "B": "Singular",
+        "C": "A modifier",
+        "D": "An action noun"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 161,
+      "question": "Mumps ___ a serious disease.",
+      "options": {
+        "A": "Are",
+        "B": "Is",
+        "C": "Were",
+        "D": "Have"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 162,
+      "question": "Which mood expresses an unfulfilled wish?",
+      "options": {
+        "A": "Indicative",
+        "B": "Subjunctive",
+        "C": "Imperative",
+        "D": "Interrogative"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 163,
+      "question": "Subjunctive sentences are built using words like:",
+      "options": {
+        "A": "Because, since",
+        "B": "If, as if, I wish",
+        "C": "When, where",
+        "D": "But, yet"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 164,
+      "question": "Modifier error: 'She wore the hat on her head which she bought yesterday.' Correct: ___",
+      "options": {
+        "A": "She wore the hat she bought yesterday on her head.",
+        "B": "She bought the hat yesterday on her head.",
+        "C": "On her head, she bought the hat yesterday.",
+        "D": "The hat on her head was bought yesterday."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 165,
+      "question": "While I was waiting for the train, a brick fell on my foot. This sentence is:",
+      "options": {
+        "A": "Incorrect (Dangling modifier)",
+        "B": "Correct",
+        "C": "Incorrect (Misplaced modifier)",
+        "D": "Incorrect (Redundant)"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 166,
+      "question": "Chicken is ready to eat. Correct version: ___",
+      "options": {
+        "A": "Chicken is ready to be eaten.",
+        "B": "Eating chicken is ready.",
+        "C": "The chicken ready eats.",
+        "D": "Ready to eat is chicken."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 167,
+      "question": "We read that Janet was married in her last letter. Correct: ___",
+      "options": {
+        "A": "Janet was married in her last letter we read.",
+        "B": "In her last letter, we read that Janet was married.",
+        "C": "We read Janet was married letter.",
+        "D": "In a letter Janet married."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 168,
+      "question": "Pleased with their conduct, she decided to honor them. This sentence is:",
+      "options": {
+        "A": "Correct",
+        "B": "Incorrect (Dangling modifier)",
+        "C": "Incorrect (Redundancy)",
+        "D": "Incorrect (Parallelism)"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 169,
+      "question": "Parallel construction error: 'I enjoy giving gifts and the giving of food.' (Correct?)",
+      "options": {
+        "A": "I enjoy giving gifts and food.",
+        "B": "I enjoy giving gifts and giving food.",
+        "C": "I enjoy the giving of gifts and the giving of food.",
+        "D": "All of the above are better."
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 170,
+      "question": "Concrete nouns are specific things like:",
+      "options": {
+        "A": "Rotation",
+        "B": "Pollution",
+        "C": "Tiger",
+        "D": "Action"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 171,
+      "question": "Simple gerunds like 'typing' are more like:",
+      "options": {
+        "A": "Action nouns",
+        "B": "Concrete nouns",
+        "C": "Complex gerunds",
+        "D": "Adjectives"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 172,
+      "question": "Identify the redundancy: 'Collaborate together.'",
+      "options": {
+        "A": "Collaborate",
+        "B": "Together",
+        "C": "Both",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 173,
+      "question": "Identify the redundancy: 'Burning fire.'",
+      "options": {
+        "A": "Burning",
+        "B": "Fire",
+        "C": "Both",
+        "D": "None"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 174,
+      "question": "Identify the redundancy: 'Black darkness.'",
+      "options": {
+        "A": "Black",
+        "B": "Darkness",
+        "C": "Both",
+        "D": "None"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 175,
+      "question": "Identify the redundancy: 'Merge together.'",
+      "options": {
+        "A": "Merge",
+        "B": "Together",
+        "C": "Both",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 176,
+      "question": "Identify the redundancy: 'Adequate enough.'",
+      "options": {
+        "A": "Adequate",
+        "B": "Enough",
+        "C": "Both",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 177,
+      "question": "Identify the redundancy: 'Hurry up.'",
+      "options": {
+        "A": "Hurry",
+        "B": "Up",
+        "C": "Both",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 178,
+      "question": "Identify the redundancy: 'First and foremost.'",
+      "options": {
+        "A": "First",
+        "B": "Foremost",
+        "C": "Both",
+        "D": "None"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 179,
+      "question": "He looks ___ his father.",
+      "options": {
+        "A": "Like",
+        "B": "As",
+        "C": "As if",
+        "D": "Like as"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 180,
+      "question": "Do ___ I ask.",
+      "options": {
+        "A": "Like",
+        "B": "As",
+        "C": "As if",
+        "D": "Same"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 181,
+      "question": "Where did she go ___?",
+      "options": {
+        "A": "To",
+        "B": "At",
+        "C": "In",
+        "D": "None (No preposition needed)"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 182,
+      "question": "The teacher began ___ lecture.",
+      "options": {
+        "A": "Their",
+        "B": "Her",
+        "C": "Its",
+        "D": "She"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 183,
+      "question": "In Subject-Pronoun agreement, the pronoun must match the ___ of the subject.",
+      "options": {
+        "A": "Gender and Number",
+        "B": "Tense",
+        "C": "Mood",
+        "D": "Verb"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 184,
+      "question": "I told them, 'You have finished your work.' Indirect: ___",
+      "options": {
+        "A": "I told them that they had finished their work.",
+        "B": "I told them that they finished their work.",
+        "C": "I told them that you had finished your work.",
+        "D": "I told them that them had finished work."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 185,
+      "question": "He said, 'She is in Lahore.' Indirect: ___",
+      "options": {
+        "A": "He said that she was in Lahore.",
+        "B": "He said that she is in Lahore.",
+        "C": "He said that he was in Lahore.",
+        "D": "He said that she has been in Lahore."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 186,
+      "question": "Must changes to ___ in indirect speech for obligations.",
+      "options": {
+        "A": "Had to",
+        "B": "Should",
+        "C": "May",
+        "D": "Ought"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 187,
+      "question": "Esha says, 'I am pretty.' Indirect: ___",
+      "options": {
+        "A": "Esha says that she is pretty.",
+        "B": "Esha says that she was pretty.",
+        "C": "Esha said that she is pretty.",
+        "D": "Esha says she pretty."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 188,
+      "question": "Rohaan will say, 'I am tall.' Indirect: ___",
+      "options": {
+        "A": "Rohaan will say that he is tall.",
+        "B": "Rohaan will say that he was tall.",
+        "C": "Rohaan would say that he is tall.",
+        "D": "Rohaan says he is tall."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 189,
+      "question": "Which tense shift is correct: Present Simple becomes ___.",
+      "options": {
+        "A": "Past Simple",
+        "B": "Past Continuous",
+        "C": "Present Perfect",
+        "D": "Future"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 190,
+      "question": "Which tense shift is correct: Present Perfect becomes ___.",
+      "options": {
+        "A": "Past Perfect",
+        "B": "Past Simple",
+        "C": "Present Continuous",
+        "D": "Conditional"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 191,
+      "question": "Which tense shift is correct: Simple Past becomes ___.",
+      "options": {
+        "A": "Past Perfect",
+        "B": "Past Continuous",
+        "C": "Simple Past",
+        "D": "Would + V1"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 192,
+      "question": "Which tense shift is correct: Future Simple (will) becomes ___.",
+      "options": {
+        "A": "Present Conditional (would)",
+        "B": "Past Simple",
+        "C": "Future Perfect",
+        "D": "Must"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 193,
+      "question": "Hina said, 'I walk.' Indirect: ___",
+      "options": {
+        "A": "Hina said that she walked.",
+        "B": "Hina said that she walks.",
+        "C": "Hina said she had walked.",
+        "D": "Hina said she was walking."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 194,
+      "question": "Rehan said, 'They will be watering plants.' Indirect: ___",
+      "options": {
+        "A": "Rehan said that they would be watering plants.",
+        "B": "Rehan said that they will be watering plants.",
+        "C": "Rehan said they were watering plants.",
+        "D": "Rehan said they would have been watering plants."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 195,
+      "question": "In Indirect Speech, 'Today' changes to:",
+      "options": {
+        "A": "That day",
+        "B": "The next day",
+        "C": "Yesterday",
+        "D": "Now"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 196,
+      "question": "In Indirect Speech, 'Last week' changes to:",
+      "options": {
+        "A": "The previous week",
+        "B": "That week",
+        "C": "Following week",
+        "D": "Before week"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 197,
+      "question": "Yusaf said, 'What is Heena doing?' Indirect: ___",
+      "options": {
+        "A": "Yusaf asked what Heena was doing.",
+        "B": "Yusaf asked what was Heena doing.",
+        "C": "Yusaf asked that what Heena was doing.",
+        "D": "Yusaf said what Heena was doing."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 198,
+      "question": "Romesa said, 'Will she come for lunch?' Indirect: ___",
+      "options": {
+        "A": "Romesa asked if she would come for lunch.",
+        "B": "Romesa asked that she would come for lunch.",
+        "C": "Romesa asked if she will come for lunch.",
+        "D": "Romesa asked whether she comes for lunch."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 199,
+      "question": "Which of these is a correct plural indefinite pronoun?",
+      "options": {
+        "A": "Few",
+        "B": "Everyone",
+        "C": "Someone",
+        "D": "No one"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 200,
+      "question": "The news ___ spreading fast.",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Were",
+        "D": "Have been"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 201,
+      "question": "Which sentence follows Rule 2 (Same person/thing)?",
+      "options": {
+        "A": "The poet and singer are coming.",
+        "B": "The poet and singer is coming.",
+        "C": "The poet and the singer is coming.",
+        "D": "A poet and a singer is coming."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 202,
+      "question": "Choose the correct sentence for Trick 2 (SANAM - Countable):",
+      "options": {
+        "A": "Most of the glasses were broken.",
+        "B": "Most of the glasses was broken.",
+        "C": "Most of the glass were broken.",
+        "D": "Most of the glasses has been broken."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 203,
+      "question": "Choose the correct sentence for Trick 2 (SANAM - Uncountable):",
+      "options": {
+        "A": "Most of the money were lost.",
+        "B": "Most of the money was lost.",
+        "C": "Most of the money are lost.",
+        "D": "Most of the moneys was lost."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 204,
+      "question": "Identify the error: 'The news from across the border are not encouraging.'",
+      "options": {
+        "A": "Across the border",
+        "B": "Are",
+        "C": "Encouraging",
+        "D": "The news"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 205,
+      "question": "Which of these is a 'Dangling Modifier'?",
+      "options": {
+        "A": "Having finished the assignment, the TV was turned on.",
+        "B": "Having finished the assignment, I turned on the TV.",
+        "C": "I turned on the TV after finishing the assignment.",
+        "D": "The assignment was finished by me."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 206,
+      "question": "Select the correct parallel structure:",
+      "options": {
+        "A": "He likes swimming, hiking, and to ride a bike.",
+        "B": "He likes swimming, hiking, and riding a bike.",
+        "C": "He likes to swim, hiking, and riding a bike.",
+        "D": "He likes swimming, to hike, and riding a bike."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 207,
+      "question": "What is the error in 'Foreign imports'?",
+      "options": {
+        "A": "Tense",
+        "B": "Subject-verb agreement",
+        "C": "Redundancy",
+        "D": "Modifier"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 208,
+      "question": "In the sentence 'She is good at English', what is the preposition?",
+      "options": {
+        "A": "Is",
+        "B": "Good",
+        "C": "At",
+        "D": "English"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 209,
+      "question": "Change to indirect: 'I can't come today,' he said.",
+      "options": {
+        "A": "He said that he can't come today.",
+        "B": "He said that he couldn't come that day.",
+        "C": "He said he can't come that day.",
+        "D": "He said he couldn't come today."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 210,
+      "question": "Identify the part of speech for 'Wow!':",
+      "options": {
+        "A": "Conjunction",
+        "B": "Interjection",
+        "C": "Preposition",
+        "D": "Adverb"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 211,
+      "question": "Rule 4: '40 of every 100 children ___ malnourished.'",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Was",
+        "D": "Has"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 212,
+      "question": "Either of the books ___ fine for preparation.",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Were",
+        "D": "Have been"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 213,
+      "question": "Trick 3: 'After a great many girls ___ following fashion.'",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Was",
+        "D": "Has"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 214,
+      "question": "Trick 6: 'The jury ___ divided in their opinions.'",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Was",
+        "D": "Has"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 215,
+      "question": "'Economics ___ a difficult subject.'",
+      "options": {
+        "A": "Are",
+        "B": "Is",
+        "C": "Were",
+        "D": "Have"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 216,
+      "question": "Trick 8: 'If I ___ the President, I would lower taxes.'",
+      "options": {
+        "A": "Was",
+        "B": "Were",
+        "C": "Am",
+        "D": "Is"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 217,
+      "question": "Identify the misplaced modifier: 'She only had one apple.' (Meaning: she had nothing but one apple)",
+      "options": {
+        "A": "She only had",
+        "B": "Only she had",
+        "C": "She had only one apple",
+        "D": "She had one apple only"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 218,
+      "question": "Correction: 'The boy who broke his leg, was riding the elephant.' This fixes a:",
+      "options": {
+        "A": "Dangling modifier",
+        "B": "Misplaced modifier",
+        "C": "Tense error",
+        "D": "Subject-verb error"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 219,
+      "question": "Parallel Reasoning: 'Federal legislation... permits compensating state governments... but does not allow claims...'",
+      "options": {
+        "A": "Compensating; claims",
+        "B": "To compensate; to claim",
+        "C": "Compensate; claim",
+        "D": "Compensating; claiming"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 220,
+      "question": "Identify the redundancy in 'Chase after':",
+      "options": {
+        "A": "Chase",
+        "B": "After",
+        "C": "Both",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 221,
+      "question": "Identify the redundancy in 'General public':",
+      "options": {
+        "A": "General",
+        "B": "Public",
+        "C": "Both",
+        "D": "None"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 222,
+      "question": "Identify the redundancy in 'Actual fact':",
+      "options": {
+        "A": "Actual",
+        "B": "Fact",
+        "C": "Both",
+        "D": "None"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 223,
+      "question": "Preposition: 'He looks the way his father ___.'",
+      "options": {
+        "A": "Is",
+        "B": "Like",
+        "C": "Does",
+        "D": "Has"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 224,
+      "question": "Preposition: 'Do ___ I ask.'",
+      "options": {
+        "A": "Like",
+        "B": "Same",
+        "C": "As",
+        "D": "For"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 225,
+      "question": "Subject-Pronoun: 'Uncle Henry travelled to buy vases for ___ company.'",
+      "options": {
+        "A": "Her",
+        "B": "His",
+        "C": "Them",
+        "D": "Its"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 226,
+      "question": "Narration: 'Could' in direct speech changes to ___ in indirect.",
+      "options": {
+        "A": "Could have",
+        "B": "Can",
+        "C": "Could",
+        "D": "Would"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 227,
+      "question": "Narration: 'Shall' changes to:",
+      "options": {
+        "A": "Should/Would",
+        "B": "Shall",
+        "C": "Must",
+        "D": "Can"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 228,
+      "question": "Reporting Verb: If it is 'says' (Present), the internal tense:",
+      "options": {
+        "A": "Changes to past",
+        "B": "Remains unchanged",
+        "C": "Changes to future",
+        "D": "Remains in V3"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 229,
+      "question": "Reporting Verb: 'Rohaan will say, I am tall.' -> Rohaan will say that he ___ tall.",
+      "options": {
+        "A": "Is",
+        "B": "Was",
+        "C": "Were",
+        "D": "Will"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 230,
+      "question": "Universal Truth: 'The earth moves around the sun.' Indirect: ___",
+      "options": {
+        "A": "Moved",
+        "B": "Moves",
+        "C": "Is moving",
+        "D": "Has moved"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 231,
+      "question": "Tense Shift: 'Present Continuous' becomes:",
+      "options": {
+        "A": "Past Simple",
+        "B": "Past Continuous",
+        "C": "Past Perfect",
+        "D": "Present Continuous"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 232,
+      "question": "Tense Shift: 'Past Continuous' becomes:",
+      "options": {
+        "A": "Past Perfect Continuous",
+        "B": "Past Continuous",
+        "C": "Present Continuous",
+        "D": "Simple Past"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 233,
+      "question": "Place/Time: 'Here' changes to:",
+      "options": {
+        "A": "There",
+        "B": "Hither",
+        "C": "Now",
+        "D": "Then"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 234,
+      "question": "Place/Time: 'Now' changes to:",
+      "options": {
+        "A": "Then",
+        "B": "Today",
+        "C": "Ago",
+        "D": "Thus"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 235,
+      "question": "Place/Time: 'Ago' changes to:",
+      "options": {
+        "A": "Before",
+        "B": "Then",
+        "C": "Thus",
+        "D": "So"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 236,
+      "question": "Place/Time: 'Thus' changes to:",
+      "options": {
+        "A": "So",
+        "B": "This",
+        "C": "That",
+        "D": "Then"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 237,
+      "question": "Interrogative: 'Will she come?' asked Romesa.",
+      "options": {
+        "A": "Romesa asked if she would come.",
+        "B": "Romesa asked that she would come.",
+        "C": "Romesa asked she would come.",
+        "D": "Romesa asked will she come."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 238,
+      "question": "Pronoun Change: 'I' changes to ___ if the speaker is female.",
+      "options": {
+        "A": "She",
+        "B": "He",
+        "C": "It",
+        "D": "They"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 239,
+      "question": "Pronoun Change: 'We' changes to ___.",
+      "options": {
+        "A": "They",
+        "B": "Us",
+        "C": "Our",
+        "D": "Them"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 240,
+      "question": "Rule 1: 'My friend and his mother ___ in town.'",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Was",
+        "D": "Am"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 241,
+      "question": "Rule 3: 'Nobody ___ what happened.'",
+      "options": {
+        "A": "Know",
+        "B": "Knows",
+        "C": "Knowing",
+        "D": "Have known"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 242,
+      "question": "Rule 6: Connectives - 'The king as well as his ministers ___ present.'",
+      "options": {
+        "A": "Was",
+        "B": "Were",
+        "C": "Are",
+        "D": "Have been"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 243,
+      "question": "Rule 8: 'Three hours ___ too long to wait.'",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Were",
+        "D": "Be"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 244,
+      "question": "Trick 1: 'Everyone ___ to watch the movie.'",
+      "options": {
+        "A": "Want",
+        "B": "Wants",
+        "C": "Wanting",
+        "D": "Wants to"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 245,
+      "question": "Trick 4: 'A large number of soldiers ___ lost their lives.'",
+      "options": {
+        "A": "Has",
+        "B": "Have",
+        "C": "Is",
+        "D": "Was"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 246,
+      "question": "Trick 5: 'The number of people attending ___ increasing.'",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Were",
+        "D": "Have been"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 247,
+      "question": "Trick 7: 'Measles ___ a dangerous disease.'",
+      "options": {
+        "A": "Are",
+        "B": "Is",
+        "C": "Were",
+        "D": "Be"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 248,
+      "question": "Passive: 'They are building a house.'",
+      "options": {
+        "A": "A house is built by them.",
+        "B": "A house is being built by them.",
+        "C": "A house was being built by them.",
+        "D": "A house has been built by them."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 249,
+      "question": "Passive: 'She wrote a letter.'",
+      "options": {
+        "A": "A letter is written by her.",
+        "B": "A letter was written by her.",
+        "C": "A letter had been written by her.",
+        "D": "A letter was being written by her."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 250,
+      "question": "Passive: 'Help the poor.'",
+      "options": {
+        "A": "The poor be helped.",
+        "B": "Let the poor be helped.",
+        "C": "The poor are helped.",
+        "D": "Let the poor helped."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 251,
+      "question": "Choose the correctly spelled word:",
+      "options": {
+        "A": "Occurence",
+        "B": "Occurrence",
+        "C": "Ocurrence",
+        "D": "Occurrense"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 252,
+      "question": "Choose the correctly spelled word:",
+      "options": {
+        "A": "Receive",
+        "B": "Recieve",
+        "C": "Receeve",
+        "D": "Reseive"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 253,
+      "question": "Choose the correctly spelled word:",
+      "options": {
+        "A": "Maintainance",
+        "B": "Maintenance",
+        "C": "Maintenense",
+        "D": "Maintenence"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 254,
+      "question": "Antonym of 'Advance':",
+      "options": {
+        "A": "Retreat",
+        "B": "Halt",
+        "C": "Progress",
+        "D": "Forward"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 255,
+      "question": "Synonym of 'Fragile':",
+      "options": {
+        "A": "Strong",
+        "B": "Delicate",
+        "C": "Hard",
+        "D": "Tough"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 256,
+      "question": "Identify the conjunction: 'He failed although he worked hard.'",
+      "options": {
+        "A": "Failed",
+        "B": "Although",
+        "C": "Hard",
+        "D": "He"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 257,
+      "question": "Identify the preposition: 'The book is on the table.'",
+      "options": {
+        "A": "Book",
+        "B": "Table",
+        "C": "On",
+        "D": "Is"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 258,
+      "question": "Which sentence has an intransitive verb?",
+      "options": {
+        "A": "He eats an apple.",
+        "B": "She sleeps.",
+        "C": "They play cricket.",
+        "D": "I wrote a letter."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 259,
+      "question": "What is the collective noun for a group of lions?",
+      "options": {
+        "A": "Pack",
+        "B": "Herd",
+        "C": "Pride",
+        "D": "Swarm"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 260,
+      "question": "What is the abstract noun for 'Friend'?",
+      "options": {
+        "A": "Friendly",
+        "B": "Friendship",
+        "C": "Friends",
+        "D": "Friended"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 261,
+      "question": "Choose the correct article: 'He is ___ honest man.'",
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "No article"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 262,
+      "question": "Choose the correct article: '___ Sun rises in the east.'",
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "No article"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 263,
+      "question": "Choose the correct article: 'He is ___ M.A. in English.'",
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "No article"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 264,
+      "question": "Identify the type of adjective: 'Those books are mine.'",
+      "options": {
+        "A": "Qualitative",
+        "B": "Quantitative",
+        "C": "Demonstrative",
+        "D": "Possessive"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 265,
+      "question": "Identify the type of pronoun: 'Each of the students received a prize.'",
+      "options": {
+        "A": "Reflexive",
+        "B": "Distributive",
+        "C": "Relative",
+        "D": "Personal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 266,
+      "question": "Rule: 'Few, many, several' always take a ___.",
+      "options": {
+        "A": "Singular verb",
+        "B": "Plural verb",
+        "C": "V3 form",
+        "D": "V + ing"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 267,
+      "question": "Preposition: 'He is ashamed ___ his behavior.'",
+      "options": {
+        "A": "Of",
+        "B": "At",
+        "C": "For",
+        "D": "On"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 268,
+      "question": "Preposition: 'He is fond ___ music.'",
+      "options": {
+        "A": "At",
+        "B": "To",
+        "C": "Of",
+        "D": "In"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 269,
+      "question": "Preposition: 'Listen ___ what I say.'",
+      "options": {
+        "A": "At",
+        "B": "To",
+        "C": "For",
+        "D": "With"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 270,
+      "question": "Preposition: 'The cat jumped ___ the table.'",
+      "options": {
+        "A": "Upon",
+        "B": "At",
+        "C": "In",
+        "D": "By"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 271,
+      "question": "Identify the error: 'I prefer tea than coffee.'",
+      "options": {
+        "A": "Prefer",
+        "B": "Tea",
+        "C": "Than",
+        "D": "Coffee"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 272,
+      "question": "Correction for previous: 'I prefer tea ___ coffee.'",
+      "options": {
+        "A": "To",
+        "B": "Than",
+        "C": "Over",
+        "D": "For"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 273,
+      "question": "Identify the error: 'She is more taller than her sister.'",
+      "options": {
+        "A": "Is",
+        "B": "More taller",
+        "C": "Than",
+        "D": "Her sister"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 274,
+      "question": "What is the superlative degree of 'Good'?",
+      "options": {
+        "A": "Better",
+        "B": "Best",
+        "C": "Goodest",
+        "D": "Bestest"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 275,
+      "question": "What is the comparative degree of 'Busy'?",
+      "options": {
+        "A": "Busier",
+        "B": "Busiest",
+        "C": "More busy",
+        "D": "Most busy"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 276,
+      "question": "Identify the error: 'He has no any money.'",
+      "options": {
+        "A": "Has",
+        "B": "No any",
+        "C": "Money",
+        "D": "No error"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 277,
+      "question": "Identify the error: 'Each of the boys have a book.'",
+      "options": {
+        "A": "Each",
+        "B": "Boys",
+        "C": "Have",
+        "D": "A book"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 278,
+      "question": "Correction: 'Each of the boys ___ a book.'",
+      "options": {
+        "A": "Has",
+        "B": "Have",
+        "C": "Are",
+        "D": "Were"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 279,
+      "question": "Rule: 'Unless' is already negative. Correct: 'Unless you ___ hard, you will fail.'",
+      "options": {
+        "A": "Do not work",
+        "B": "Work",
+        "C": "Works",
+        "D": "Worked"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 280,
+      "question": "Rule: 'Lest' is followed by ___.",
+      "options": {
+        "A": "Should",
+        "B": "Would",
+        "C": "May",
+        "D": "Could"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 281,
+      "question": "Example: 'Work hard lest you ___ fail.'",
+      "options": {
+        "A": "Would",
+        "B": "Should",
+        "C": "Might",
+        "D": "May"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 282,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "I have been here since two hours.",
+        "B": "I have been here for two hours.",
+        "C": "I am here since two hours.",
+        "D": "I was here for two hours ago."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 283,
+      "question": "Choose the correct phrase:",
+      "options": {
+        "A": "According to me",
+        "B": "In my opinion",
+        "C": "From my side",
+        "D": "Myself thinks"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 284,
+      "question": "Choose the correct tense: 'I ___ him yesterday.'",
+      "options": {
+        "A": "See",
+        "B": "Saw",
+        "C": "Have seen",
+        "D": "Had seen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 285,
+      "question": "Choose the correct tense: 'They ___ playing since morning.'",
+      "options": {
+        "A": "Are",
+        "B": "Have been",
+        "C": "Were",
+        "D": "Was"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 286,
+      "question": "Choose the correct tense: 'By next year, I ___ my degree.'",
+      "options": {
+        "A": "Will finish",
+        "B": "Will have finished",
+        "C": "Finish",
+        "D": "Am finishing"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 287,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "He said that he is happy.",
+        "B": "He said that he was happy.",
+        "C": "He said that I am happy.",
+        "D": "He says that he was happy."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 288,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "Bread and butter are wholesome food.",
+        "B": "Bread and butter is wholesome food.",
+        "C": "The bread and butter are expensive.",
+        "D": "Both B and C"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 289,
+      "question": "Identify the pronoun: 'Who is there?'",
+      "options": {
+        "A": "Personal",
+        "B": "Relative",
+        "C": "Interrogative",
+        "D": "Indefinite"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 290,
+      "question": "Identify the error: 'The scenery of Kashmir are beautiful.'",
+      "options": {
+        "A": "Scenery",
+        "B": "Are",
+        "C": "Kashmir",
+        "D": "Beautiful"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 291,
+      "question": "Correction: 'The scenery of Kashmir ___ beautiful.'",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Were",
+        "D": "Have been"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 292,
+      "question": "Identify the error: 'I gave him five hundreds rupees.'",
+      "options": {
+        "A": "Gave",
+        "B": "Five",
+        "C": "Hundreds",
+        "D": "Rupees"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 293,
+      "question": "Identify the error: 'One should keep his promise.'",
+      "options": {
+        "A": "One",
+        "B": "Keep",
+        "C": "His",
+        "D": "Promise"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 294,
+      "question": "Correction: 'One should keep ___ promise.'",
+      "options": {
+        "A": "One's",
+        "B": "His",
+        "C": "Their",
+        "D": "Its"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 295,
+      "question": "Correct the redundancy: 'Please repeat that again.'",
+      "options": {
+        "A": "Please repeat that.",
+        "B": "Please again repeat.",
+        "C": "Repeat it again please.",
+        "D": "Again repeat that."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 296,
+      "question": "Correct the redundancy: 'I am returning back home.'",
+      "options": {
+        "A": "I am returning home.",
+        "B": "I am back home returning.",
+        "C": "Back home I return.",
+        "D": "Returning back I am."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 297,
+      "question": "Correct the redundancy: 'The reason why is because...'",
+      "options": {
+        "A": "The reason is that...",
+        "B": "The reason why because...",
+        "C": "Because the reason is...",
+        "D": "Why the reason is..."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 298,
+      "question": "Rule 7: 'A number of soldiers ___.'",
+      "options": {
+        "A": "Has lost",
+        "B": "Have lost",
+        "C": "Is lost",
+        "D": "Was lost"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 299,
+      "question": "Which of these is a correct appositive structure?",
+      "options": {
+        "A": "Mr. Ram, with his wife, was sent.",
+        "B": "Mr. Ram with his wife were sent.",
+        "C": "Mr. Ram and his wife was sent.",
+        "D": "Mr. Ram as well as wife were sent."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 300,
+      "question": "Final Rule 10: 'Some milk ___ spoilt.'",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Were",
+        "D": "Have been"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 301,
+      "question": "If it rains, the match ___ cancelled.",
+      "options": {
+        "A": "Will be",
+        "B": "Would be",
+        "C": "Would have been",
+        "D": "Is"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 302,
+      "question": "If I had known, I ___ you.",
+      "options": {
+        "A": "Will help",
+        "B": "Would help",
+        "C": "Would have helped",
+        "D": "Should help"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 303,
+      "question": "Which modal verb expresses a strong obligation?",
+      "options": {
+        "A": "Can",
+        "B": "Might",
+        "C": "Must",
+        "D": "Should"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 304,
+      "question": "You ___ smoke in the hospital.",
+      "options": {
+        "A": "Must not",
+        "B": "Should not",
+        "C": "Cannot",
+        "D": "Need not"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 305,
+      "question": "I ___ speak three languages fluently.",
+      "options": {
+        "A": "Might",
+        "B": "Can",
+        "C": "Should",
+        "D": "Must"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 306,
+      "question": "Identify the correct punctuation: 'Its a beautiful day.'",
+      "options": {
+        "A": "Its' a beautiful day.",
+        "B": "It's a beautiful day.",
+        "C": "Its a beautiful day.",
+        "D": "It s a beautiful day."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 307,
+      "question": "The dog wagged ___ tail.",
+      "options": {
+        "A": "Its",
+        "B": "It's",
+        "C": "Its'",
+        "D": "It is"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 308,
+      "question": "Which sentence uses the semicolon correctly?",
+      "options": {
+        "A": "I have a big test tomorrow; I can't go out.",
+        "B": "I have a big test tomorrow; and I can't go out.",
+        "C": "I have a big test tomorrow, I can't; go out.",
+        "D": "I have; a big test tomorrow."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 309,
+      "question": "Select the correct plural of 'Analysis':",
+      "options": {
+        "A": "Analysises",
+        "B": "Analyses",
+        "C": "Analysi",
+        "D": "Analysis"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 310,
+      "question": "Select the correct plural of 'Criterion':",
+      "options": {
+        "A": "Criterions",
+        "B": "Criteria",
+        "C": "Criterias",
+        "D": "Criterion"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 311,
+      "question": "Identify the error: 'He did not wrote the letter.'",
+      "options": {
+        "A": "Did not",
+        "B": "Wrote",
+        "C": "The letter",
+        "D": "No error"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 312,
+      "question": "Which of these is a 'stative' verb (not used in continuous)?",
+      "options": {
+        "A": "Run",
+        "B": "Believe",
+        "C": "Eat",
+        "D": "Watch"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 313,
+      "question": "I am ___ for my keys.",
+      "options": {
+        "A": "Looking",
+        "B": "Look",
+        "C": "Looks",
+        "D": "Looked"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 314,
+      "question": "Identify the synonym of 'Enormous':",
+      "options": {
+        "A": "Small",
+        "B": "Huge",
+        "C": "Weak",
+        "D": "Tiny"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 315,
+      "question": "Identify the antonym of 'Virtue':",
+      "options": {
+        "A": "Goodness",
+        "B": "Vice",
+        "C": "Purity",
+        "D": "Strength"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 316,
+      "question": "The prefix 'un-' in 'unhappy' means:",
+      "options": {
+        "A": "Very",
+        "B": "Not",
+        "C": "Again",
+        "D": "Before"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 317,
+      "question": "The suffix '-less' in 'careless' means:",
+      "options": {
+        "A": "Full of",
+        "B": "Without",
+        "C": "State of",
+        "D": "Capable of"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 318,
+      "question": "Which sentence is in the 'Imperative' mood?",
+      "options": {
+        "A": "She is eating.",
+        "B": "Close the door.",
+        "C": "Will you go?",
+        "D": "I wish I were rich."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 319,
+      "question": "Choose the correct spelling:",
+      "options": {
+        "A": "Commitment",
+        "B": "Comitment",
+        "C": "Committment",
+        "D": "Comittment"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 320,
+      "question": "Choose the correct spelling:",
+      "options": {
+        "A": "Argument",
+        "B": "Arguement",
+        "C": "Argumant",
+        "D": "Arguemant"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 321,
+      "question": "I have been living here ___ 2010.",
+      "options": {
+        "A": "For",
+        "B": "Since",
+        "C": "In",
+        "D": "From"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 322,
+      "question": "He has been living here ___ ten years.",
+      "options": {
+        "A": "For",
+        "B": "Since",
+        "C": "From",
+        "D": "By"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 323,
+      "question": "Neither of the plans ___ chosen.",
+      "options": {
+        "A": "Was",
+        "B": "Were",
+        "C": "Are",
+        "D": "Have"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 324,
+      "question": "Every one of the soldiers ___ brave.",
+      "options": {
+        "A": "Were",
+        "B": "Was",
+        "C": "Are",
+        "D": "Have been"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 325,
+      "question": "Mathematics ___ my favorite subject.",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Were",
+        "D": "Am"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 326,
+      "question": "Which of these is a compound sentence?",
+      "options": {
+        "A": "He is poor but he is honest.",
+        "B": "He is a poor man.",
+        "C": "Because he was poor, he worked hard.",
+        "D": "Poor people are honest."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 327,
+      "question": "Which of these is a complex sentence?",
+      "options": {
+        "A": "I saw a wounded bird.",
+        "B": "I saw a bird which was wounded.",
+        "C": "I saw a bird and it was wounded.",
+        "D": "The bird was wounded."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 328,
+      "question": "The synonym of 'Benevolent' is:",
+      "options": {
+        "A": "Kind",
+        "B": "Cruel",
+        "C": "Stingy",
+        "D": "Strong"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 329,
+      "question": "The antonym of 'Transparent' is:",
+      "options": {
+        "A": "Clear",
+        "B": "Opaque",
+        "C": "Glassy",
+        "D": "Bright"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 330,
+      "question": "Identify the conjunction: 'Run fast lest you should miss the train.'",
+      "options": {
+        "A": "Fast",
+        "B": "Lest",
+        "C": "Should",
+        "D": "Train"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 331,
+      "question": "He died ___ cholera.",
+      "options": {
+        "A": "With",
+        "B": "By",
+        "C": "Of",
+        "D": "In"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 332,
+      "question": "He is married ___ my cousin.",
+      "options": {
+        "A": "With",
+        "B": "To",
+        "C": "Between",
+        "D": "By"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 333,
+      "question": "Divide this money ___ the three boys.",
+      "options": {
+        "A": "Between",
+        "B": "Among",
+        "C": "In",
+        "D": "With"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 334,
+      "question": "The weather today is ___ than yesterday.",
+      "options": {
+        "A": "Bad",
+        "B": "Worse",
+        "C": "Worst",
+        "D": "More bad"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 335,
+      "question": "He is the ___ boy in the class.",
+      "options": {
+        "A": "Tall",
+        "B": "Taller",
+        "C": "Tallest",
+        "D": "Most tall"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 336,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "I am having a car.",
+        "B": "I have a car.",
+        "C": "I am have a car.",
+        "D": "I car have."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 337,
+      "question": "Which word is a noun?",
+      "options": {
+        "A": "Quickly",
+        "B": "Happiness",
+        "C": "Bright",
+        "D": "Think"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 338,
+      "question": "Which word is a verb?",
+      "options": {
+        "A": "Selection",
+        "B": "Select",
+        "C": "Selective",
+        "D": "Selectively"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 339,
+      "question": "Identify the type of sentence: 'What a beautiful scene!'",
+      "options": {
+        "A": "Declarative",
+        "B": "Imperative",
+        "C": "Exclamatory",
+        "D": "Interrogative"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 340,
+      "question": "The plural of 'Child' is:",
+      "options": {
+        "A": "Childs",
+        "B": "Children",
+        "C": "Childrens",
+        "D": "Childes"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 341,
+      "question": "The past participle (V3) of 'Go' is:",
+      "options": {
+        "A": "Went",
+        "B": "Gone",
+        "C": "Goes",
+        "D": "Going"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 342,
+      "question": "The past participle (V3) of 'Eat' is:",
+      "options": {
+        "A": "Ate",
+        "B": "Eating",
+        "C": "Eaten",
+        "D": "Eats"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 343,
+      "question": "Identify the direct object: 'He gave me a book.'",
+      "options": {
+        "A": "He",
+        "B": "Me",
+        "C": "Book",
+        "D": "Gave"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 344,
+      "question": "Identify the indirect object: 'He gave me a book.'",
+      "options": {
+        "A": "He",
+        "B": "Me",
+        "C": "Book",
+        "D": "Gave"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 345,
+      "question": "Which of these is a collective noun?",
+      "options": {
+        "A": "Water",
+        "B": "Flock",
+        "C": "Happiness",
+        "D": "Table"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 346,
+      "question": "He ___ already left when I arrived.",
+      "options": {
+        "A": "Has",
+        "B": "Have",
+        "C": "Had",
+        "D": "Was"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 347,
+      "question": "The passive of 'Who wrote this?' is:",
+      "options": {
+        "A": "By whom this was written?",
+        "B": "By whom was this written?",
+        "C": "Who was this written by?",
+        "D": "Both B and C"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 348,
+      "question": "She is as ___ as her sister.",
+      "options": {
+        "A": "Tall",
+        "B": "Taller",
+        "C": "Tallest",
+        "D": "More tall"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 349,
+      "question": "We ___ respect our elders.",
+      "options": {
+        "A": "Can",
+        "B": "Could",
+        "C": "Ought to",
+        "D": "May"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 350,
+      "question": "It ___ rain today.",
+      "options": {
+        "A": "Might",
+        "B": "Ought",
+        "C": "Shall",
+        "D": "Are"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 351,
+      "question": "Identify the correct article: 'He is ___ European.'",
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "No article"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 352,
+      "question": "Identify the correct article: 'I saw ___ one-eyed man.'",
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "No article"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 353,
+      "question": "Choose the correctly spelled word:",
+      "options": {
+        "A": "Believe",
+        "B": "Beleeve",
+        "C": "Belive",
+        "D": "Believ"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 354,
+      "question": "Identify the pronoun: 'The man who is sitting there is my uncle.'",
+      "options": {
+        "A": "Who",
+        "B": "There",
+        "C": "Is",
+        "D": "Man"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 355,
+      "question": "The 'who' in the previous question is which type of pronoun?",
+      "options": {
+        "A": "Personal",
+        "B": "Relative",
+        "C": "Reflexive",
+        "D": "Interrogative"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 356,
+      "question": "Identify the part of speech for 'underneath':",
+      "options": {
+        "A": "Verb",
+        "B": "Noun",
+        "C": "Preposition",
+        "D": "Conjunction"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 357,
+      "question": "I haven't seen him ___ last year.",
+      "options": {
+        "A": "For",
+        "B": "Since",
+        "C": "By",
+        "D": "From"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 358,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "She is more cleverer.",
+        "B": "She is cleverer.",
+        "C": "She is most clever.",
+        "D": "She clever."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 359,
+      "question": "What is the feminine of 'Horse'?",
+      "options": {
+        "A": "Doe",
+        "B": "Mare",
+        "C": "Vixen",
+        "D": "Ewe"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 360,
+      "question": "What is the plural of 'Foot'?",
+      "options": {
+        "A": "Foots",
+        "B": "Feet",
+        "C": "Feets",
+        "D": "Footes"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 361,
+      "question": "Correct the error: 'He has been reading since three hours.'",
+      "options": {
+        "A": "For three hours",
+        "B": "From three hours",
+        "C": "At three hours",
+        "D": "By three hours"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 362,
+      "question": "Identify the adverb in: 'He often goes to the gym.'",
+      "options": {
+        "A": "Often",
+        "B": "Goes",
+        "C": "Gym",
+        "D": "The"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 363,
+      "question": "Which of these is a proper noun?",
+      "options": {
+        "A": "City",
+        "B": "London",
+        "C": "Country",
+        "D": "River"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 364,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "Each of the players were tired.",
+        "B": "Each of the players was tired.",
+        "C": "Every of the players was tired.",
+        "D": "The players was tired."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 365,
+      "question": "Identify the auxiliary verb: 'They are playing.'",
+      "options": {
+        "A": "They",
+        "B": "Are",
+        "C": "Playing",
+        "D": "No auxiliary"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 366,
+      "question": "What is the rule for Future Perfect Continuous?",
+      "options": {
+        "A": "Will have + V3",
+        "B": "Will have been + V + ing",
+        "C": "Will be + V + ing",
+        "D": "Had been + V + ing"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 367,
+      "question": "Select the synonym of 'Abandon':",
+      "options": {
+        "A": "Keep",
+        "B": "Leave",
+        "C": "Carry",
+        "D": "Hold"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 368,
+      "question": "Select the antonym of 'Ancient':",
+      "options": {
+        "A": "Old",
+        "B": "Modern",
+        "C": "Historic",
+        "D": "Past"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 369,
+      "question": "I would buy a car if I ___ money.",
+      "options": {
+        "A": "Have",
+        "B": "Had",
+        "C": "Will have",
+        "D": "Had had"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 370,
+      "question": "He said that he ___ writing.",
+      "options": {
+        "A": "Is",
+        "B": "Was",
+        "C": "Has been",
+        "D": "Will be"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 371,
+      "question": "Correct the error: 'I am looking forward to see you.'",
+      "options": {
+        "A": "To seeing you",
+        "B": "See you",
+        "C": "To seen you",
+        "D": "Saw you"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 372,
+      "question": "The plural of 'Shelf' is:",
+      "options": {
+        "A": "Shelfs",
+        "B": "Shelves",
+        "C": "Shelvies",
+        "D": "Shelfes"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 373,
+      "question": "Which of these expresses a habit in the past?",
+      "options": {
+        "A": "Used to",
+        "B": "Should",
+        "C": "Can",
+        "D": "Must"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 374,
+      "question": "Which of these is a 'Reflexive' pronoun?",
+      "options": {
+        "A": "Him",
+        "B": "Himself",
+        "C": "His",
+        "D": "He"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 375,
+      "question": "Identify the interjection: 'Alas! The king is dead.'",
+      "options": {
+        "A": "Alas",
+        "B": "The",
+        "C": "King",
+        "D": "Dead"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 376,
+      "question": "What is the past tense of 'Fly'?",
+      "options": {
+        "A": "Flyed",
+        "B": "Flew",
+        "C": "Flown",
+        "D": "Flying"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 377,
+      "question": "What is the past participle of 'Drink'?",
+      "options": {
+        "A": "Drank",
+        "B": "Drunk",
+        "C": "Drinken",
+        "D": "Drinks"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 378,
+      "question": "Which is correct?",
+      "options": {
+        "A": "She is more better.",
+        "B": "She is much better.",
+        "C": "She is most better.",
+        "D": "She is more well."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 379,
+      "question": "He behaves as if he ___ mad.",
+      "options": {
+        "A": "Is",
+        "B": "Was",
+        "C": "Were",
+        "D": "Am"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 380,
+      "question": "One of my friends ___ coming today.",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Were",
+        "D": "Have been"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 381,
+      "question": "A pair of shoes ___ in the corner.",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Were",
+        "D": "Have"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 382,
+      "question": "The news ___ very shocking.",
+      "options": {
+        "A": "Was",
+        "B": "Were",
+        "C": "Are",
+        "D": "Have been"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 383,
+      "question": "Fifty miles ___ a long distance.",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Were",
+        "D": "Am"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 384,
+      "question": "Select the correct collective noun: A ___ of keys.",
+      "options": {
+        "A": "Pack",
+        "B": "Bunch",
+        "C": "Herd",
+        "D": "Flock"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 385,
+      "question": "Select the correct collective noun: A ___ of wolves.",
+      "options": {
+        "A": "Bunch",
+        "B": "Pack",
+        "C": "Pride",
+        "D": "Swarm"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 386,
+      "question": "Identify the adjective in: 'The black cat is sleeping.'",
+      "options": {
+        "A": "Cat",
+        "B": "Black",
+        "C": "Is",
+        "D": "Sleeping"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 387,
+      "question": "Which of these is an uncountable noun?",
+      "options": {
+        "A": "Chair",
+        "B": "Water",
+        "C": "Pen",
+        "D": "Apple"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 388,
+      "question": "Identify the conjunction: 'Neither he nor I am going.'",
+      "options": {
+        "A": "Neither/nor",
+        "B": "Am",
+        "C": "Going",
+        "D": "He"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 389,
+      "question": "Which of these is a preposition?",
+      "options": {
+        "A": "But",
+        "B": "And",
+        "C": "Beside",
+        "D": "Very"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 390,
+      "question": "She reached ___ the airport on time.",
+      "options": {
+        "A": "To",
+        "B": "At",
+        "C": "In",
+        "D": "No preposition needed"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 391,
+      "question": "Identify the error: 'The cattle is grazing.'",
+      "options": {
+        "A": "Cattle",
+        "B": "Is",
+        "C": "Grazing",
+        "D": "No error"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 392,
+      "question": "Correction: 'The cattle ___ grazing.'",
+      "options": {
+        "A": "Are",
+        "B": "Is",
+        "C": "Was",
+        "D": "Has been"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 393,
+      "question": "Identify the type of verb: 'He gave me a flower.'",
+      "options": {
+        "A": "Intransitive",
+        "B": "Transitive",
+        "C": "Stative",
+        "D": "Modal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 394,
+      "question": "What is the rule for Past Perfect tense?",
+      "options": {
+        "A": "Subject + has/have + V3",
+        "B": "Subject + had + V3",
+        "C": "Subject + was/were + V1 + ing",
+        "D": "Subject + V2"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 395,
+      "question": "Choose the correctly spelled word:",
+      "options": {
+        "A": "Calendar",
+        "B": "Calender",
+        "C": "Calandar",
+        "D": "Celendar"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 396,
+      "question": "Choose the correctly spelled word:",
+      "options": {
+        "A": "Separate",
+        "B": "Seperate",
+        "C": "Saparate",
+        "D": "Seprate"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 397,
+      "question": "Which of these is a 'Possessive' pronoun?",
+      "options": {
+        "A": "They",
+        "B": "Their",
+        "C": "Them",
+        "D": "Theirs"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 398,
+      "question": "He has no ___ in his pocket.",
+      "options": {
+        "A": "Money",
+        "B": "Moneys",
+        "C": "Any money",
+        "D": "A money"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 399,
+      "question": "I would have come if you ___ me.",
+      "options": {
+        "A": "Invite",
+        "B": "Invited",
+        "C": "Had invited",
+        "D": "Would invite"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 400,
+      "question": "Which of these is a correct sentence?",
+      "options": {
+        "A": "I don't know nothing.",
+        "B": "I don't know anything.",
+        "C": "I know nothing not.",
+        "D": "I doesn't know anything."
+      },
+      "correct_answer": "B"
+    }
+  ]
+}

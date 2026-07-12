@@ -1,0 +1,2205 @@
+{
+  "test_name": "Combined Computer Test - All Topics",
+  "instructor": "Sir Mohsin Qamar",
+  "total_questions": 200,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Who is considered the \"Father of Computers\"?",
+      "options": {
+        "A": "Alan Turing",
+        "B": "Charles Babbage",
+        "C": "John von Neumann",
+        "D": "Ada Lovelace"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "Which computer language was developed by Grace Hopper?",
+      "options": {
+        "A": "COBOL",
+        "B": "Fortran",
+        "C": "C++",
+        "D": "Java"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "The first electronic digital computer was called:",
+      "options": {
+        "A": "ENIAC",
+        "B": "UNIVAC",
+        "C": "EDVAC",
+        "D": "ABC"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "Who developed the concept of a stored-program computer?",
+      "options": {
+        "A": "Alan Turing",
+        "B": "John von Neumann",
+        "C": "Charles Babbage",
+        "D": "Ada Lovelace"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 5,
+      "question": "The first commercially successful computer was:",
+      "options": {
+        "A": "UNIVAC I",
+        "B": "ENIAC",
+        "C": "IBM 650",
+        "D": "Mark I"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "Who coined the term \"computer bug\"?",
+      "options": {
+        "A": "Alan Turing",
+        "B": "Grace Hopper",
+        "C": "Charles Babbage",
+        "D": "John von Neumann"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 7,
+      "question": "The first computer mouse was invented by:",
+      "options": {
+        "A": "Alan Turing",
+        "B": "Douglas Engelbart",
+        "C": "Steve Jobs",
+        "D": "Bill Gates"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "Which computer architecture is widely used in modern computers?",
+      "options": {
+        "A": "Harvard architecture",
+        "B": "Von Neumann architecture",
+        "C": "Turing architecture",
+        "D": "Babbage architecture"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "Who invented the first mechanical computer?",
+      "options": {
+        "A": "Alan Turing",
+        "B": "Charles Babbage",
+        "C": "John von Neumann",
+        "D": "Ada Lovelace"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 10,
+      "question": "Which company introduced the first microprocessor chip?",
+      "options": {
+        "A": "IBM",
+        "B": "Intel",
+        "C": "Apple",
+        "D": "Microsoft"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 11,
+      "question": "What was the name of the first programmable electronic computer?",
+      "options": {
+        "A": "ENIAC",
+        "B": "UNIVAC",
+        "C": "ABC",
+        "D": "EDVAC"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "The development of which device led to the creation of the modern computer mouse?",
+      "options": {
+        "A": "Trackball",
+        "B": "Light pen",
+        "C": "Joystick",
+        "D": "Touchpad"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "The first high-level programming language developed was:",
+      "options": {
+        "A": "COBOL",
+        "B": "Fortran",
+        "C": "BASIC",
+        "D": "C"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 14,
+      "question": "Who invented the World Wide Web?",
+      "options": {
+        "A": "Tim Berners-Lee",
+        "B": "Steve Jobs",
+        "C": "Bill Gates",
+        "D": "Mark Zuckerberg"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "Which computer company introduced the first personal computer?",
+      "options": {
+        "A": "IBM",
+        "B": "Apple",
+        "C": "Microsoft",
+        "D": "Commodore"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question": "What year was the first computer virus discovered?",
+      "options": {
+        "A": "1983",
+        "B": "1976",
+        "C": "1991",
+        "D": "1969"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "Which computer scientist is credited with developing the concept of artificial intelligence?",
+      "options": {
+        "A": "Alan Turing",
+        "B": "John McCarthy",
+        "C": "Marvin Minsky",
+        "D": "Herbert Simon"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "Who is known for creating the first graphical user interface (GUI)?",
+      "options": {
+        "A": "Steve Jobs",
+        "B": "Bill Gates",
+        "C": "Douglas Engelbart",
+        "D": "Tim Berners-Lee"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 19,
+      "question": "The concept of virtual memory was first introduced in which computer system?",
+      "options": {
+        "A": "IBM System/360",
+        "B": "UNIVAC I",
+        "C": "ENIAC",
+        "D": "Harvard Mark I"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "What was the first computer virus to spread in the wild?",
+      "options": {
+        "A": "Creeper",
+        "B": "Brain",
+        "C": "Elk Cloner",
+        "D": "Morris Worm"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 21,
+      "question": "Which type of network topology connects all devices in a closed loop?",
+      "options": {
+        "A": "Star",
+        "B": "Mesh",
+        "C": "Ring",
+        "D": "Bus"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "Which networking technology allows for the highest data transfer speeds over short distances?",
+      "options": {
+        "A": "Wi-Fi",
+        "B": "Ethernet",
+        "C": "Bluetooth",
+        "D": "Fiber optics"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 23,
+      "question": "In which network topology does each device have a direct connection to every other device?",
+      "options": {
+        "A": "Bus",
+        "B": "Ring",
+        "C": "Mesh",
+        "D": "Star"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "Which network protocol is commonly used for secure communication over the internet?",
+      "options": {
+        "A": "HTTP",
+        "B": "FTP",
+        "C": "TCP/IP",
+        "D": "SSL/TLS"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 25,
+      "question": "Which type of network provides connectivity in a limited geographical area such as a university campus or a corporate office?",
+      "options": {
+        "A": "LAN (Local Area Network)",
+        "B": "WAN (Wide Area Network)",
+        "C": "MAN (Metropolitan Area Network)",
+        "D": "PAN (Personal Area Network)"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "Which networking device operates at the Physical layer of the OSI model?",
+      "options": {
+        "A": "Router",
+        "B": "Switch",
+        "C": "Repeater",
+        "D": "Bridge"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 27,
+      "question": "Which wireless standard allows for the highest data transfer speeds over a local area network?",
+      "options": {
+        "A": "802.11n",
+        "B": "802.11ac",
+        "C": "802.11g",
+        "D": "802.11b"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "Which network topology provides redundancy and fault tolerance?",
+      "options": {
+        "A": "Mesh",
+        "B": "Ring",
+        "C": "Star",
+        "D": "Bus"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "Which networking device connects multiple networks together and routes data between them?",
+      "options": {
+        "A": "Switch",
+        "B": "Bridge",
+        "C": "Router",
+        "D": "Repeater"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 30,
+      "question": "Which type of network is typically used for connecting devices within a single room or building?",
+      "options": {
+        "A": "LAN (Local Area Network)",
+        "B": "WAN (Wide Area Network)",
+        "C": "MAN (Metropolitan Area Network)",
+        "D": "WLAN (Wireless Local Area Network)"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "What is the brain of a computer?",
+      "options": {
+        "A": "CPU",
+        "B": "RAM",
+        "C": "ROM",
+        "D": "GPU"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "Which generation of computers used vacuum tubes?",
+      "options": {
+        "A": "First",
+        "B": "Second",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "What type of computer is a laptop?",
+      "options": {
+        "A": "Desktop",
+        "B": "Server",
+        "C": "Mainframe",
+        "D": "Portable"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 34,
+      "question": "Which programming language is known for its simplicity?",
+      "options": {
+        "A": "Java",
+        "B": "Python",
+        "C": "C++",
+        "D": "Ruby"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "What does the term \"bug\" mean in computing?",
+      "options": {
+        "A": "Error",
+        "B": "Virus",
+        "C": "Glitch",
+        "D": "Fault"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Who invented the first computer?",
+      "options": {
+        "A": "Charles Babbage",
+        "B": "Alan Turing",
+        "C": "Steve Jobs",
+        "D": "Bill Gates"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "What is the most common type of computer software?",
+      "options": {
+        "A": "System software",
+        "B": "Application software",
+        "C": "Programming software",
+        "D": "Utility software"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 38,
+      "question": "Which computer generation used transistors?",
+      "options": {
+        "A": "First",
+        "B": "Second",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 39,
+      "question": "What is the term for a computer network that spans a city?",
+      "options": {
+        "A": "LAN",
+        "B": "WAN",
+        "C": "MAN",
+        "D": "WLAN"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "Which programming language is used for web development?",
+      "options": {
+        "A": "HTML",
+        "B": "CSS",
+        "C": "JavaScript",
+        "D": "PHP"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 41,
+      "question": "What is the term for a computer that can be held in one's hand?",
+      "options": {
+        "A": "Desktop",
+        "B": "Laptop",
+        "C": "Tablet",
+        "D": "Smartphone"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 42,
+      "question": "Who developed the first high-level programming language?",
+      "options": {
+        "A": "Ada Lovelace",
+        "B": "Charles Babbage",
+        "C": "Alan Turing",
+        "D": "Grace Hopper"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 43,
+      "question": "What is the term for a computer that is used for scientific calculations?",
+      "options": {
+        "A": "Mainframe",
+        "B": "Supercomputer",
+        "C": "Minicomputer",
+        "D": "Microcomputer"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 44,
+      "question": "Which computer generation used integrated circuits?",
+      "options": {
+        "A": "Third",
+        "B": "Fourth",
+        "C": "Fifth",
+        "D": "Sixth"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "What is the term for a program that can run on multiple operating systems?",
+      "options": {
+        "A": "Cross-platform",
+        "B": "Open-source",
+        "C": "Freeware",
+        "D": "Shareware"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "Who developed the first operating system?",
+      "options": {
+        "A": "Steve Jobs",
+        "B": "Bill Gates",
+        "C": "Linus Torvalds",
+        "D": "Dennis Ritchie"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 47,
+      "question": "What is the term for a computer that is used for business applications?",
+      "options": {
+        "A": "Server",
+        "B": "Mainframe",
+        "C": "Minicomputer",
+        "D": "Workstation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "Which programming language is used for game development?",
+      "options": {
+        "A": "Java",
+        "B": "Python",
+        "C": "C++",
+        "D": "Ruby"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 49,
+      "question": "What is the term for a computer that can connect to the internet?",
+      "options": {
+        "A": "Online",
+        "B": "Offline",
+        "C": "Wired",
+        "D": "Wireless"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "Who developed the first web browser?",
+      "options": {
+        "A": "Tim Berners-Lee",
+        "B": "Steve Jobs",
+        "C": "Bill Gates",
+        "D": "Larry Page"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 51,
+      "question": "What is the term for a program that can be used free of charge?",
+      "options": {
+        "A": "Freeware",
+        "B": "Shareware",
+        "C": "Open-source",
+        "D": "Cross-platform"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 52,
+      "question": "Which computer generation used artificial intelligence?",
+      "options": {
+        "A": "Fifth",
+        "B": "Sixth",
+        "C": "Seventh",
+        "D": "Eighth"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 53,
+      "question": "What is the term for a computer that is used for personal use?",
+      "options": {
+        "A": "Desktop",
+        "B": "Laptop",
+        "C": "Tablet",
+        "D": "Smartphone"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 54,
+      "question": "Who developed the first programming language?",
+      "options": {
+        "A": "Ada Lovelace",
+        "B": "Charles Babbage",
+        "C": "Alan Turing",
+        "D": "Grace Hopper"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 55,
+      "question": "What is the term for a computer that is used for multiple tasks?",
+      "options": {
+        "A": "Multitasking",
+        "B": "Multiprocessing",
+        "C": "Multiuser",
+        "D": "Multithreading"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 56,
+      "question": "Which programming language is used for mobile app development?",
+      "options": {
+        "A": "Java",
+        "B": "Python",
+        "C": "C++",
+        "D": "Swift"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 57,
+      "question": "What is the term for a computer that can be controlled remotely?",
+      "options": {
+        "A": "Server",
+        "B": "Client",
+        "C": "Mainframe",
+        "D": "Terminal"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 58,
+      "question": "Who developed the first computer network?",
+      "options": {
+        "A": "Steve Jobs",
+        "B": "Bill Gates",
+        "C": "Vint Cerf",
+        "D": "Bob Kahn"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 59,
+      "question": "What is the term for a program that can be used by multiple users?",
+      "options": {
+        "A": "Multiuser",
+        "B": "Multitasking",
+        "C": "Multiprocessing",
+        "D": "Multithreading"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 60,
+      "question": "Which computer generation used nanotechnology?",
+      "options": {
+        "A": "Sixth",
+        "B": "Seventh",
+        "C": "Eighth",
+        "D": "Ninth"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 61,
+      "question": "Which of the following is a high-level programming language?",
+      "options": {
+        "A": "Assembly",
+        "B": "Machine Code",
+        "C": "C++",
+        "D": "Binary"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 62,
+      "question": "Which language is primarily used for web development?",
+      "options": {
+        "A": "Python",
+        "B": "JavaScript",
+        "C": "C",
+        "D": "Fortran"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 63,
+      "question": "What does HTML stand for?",
+      "options": {
+        "A": "HyperText Machine Language",
+        "B": "HighText Markup Language",
+        "C": "HyperText Markup Language",
+        "D": "HighText Machine Language"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 64,
+      "question": "Which of the following is not a programming language?",
+      "options": {
+        "A": "Python",
+        "B": "Java",
+        "C": "HTML",
+        "D": "HTTP"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 65,
+      "question": "The first generation of computers used which of the following components?",
+      "options": {
+        "A": "Transistors",
+        "B": "Vacuum Tubes",
+        "C": "Integrated Circuits",
+        "D": "Microprocessors"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 66,
+      "question": "Which generation of computers is associated with the use of artificial intelligence?",
+      "options": {
+        "A": "First Generation",
+        "B": "Second Generation",
+        "C": "Fourth Generation",
+        "D": "Fifth Generation"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 67,
+      "question": "Which generation introduced the use of microprocessors?",
+      "options": {
+        "A": "Second Generation",
+        "B": "Third Generation",
+        "C": "Fourth Generation",
+        "D": "Fifth Generation"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 68,
+      "question": "Integrated Circuits (ICs) were used in which generation of computers?",
+      "options": {
+        "A": "First Generation",
+        "B": "Second Generation",
+        "C": "Third Generation",
+        "D": "Fourth Generation"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 69,
+      "question": "What does URL stand for?",
+      "options": {
+        "A": "Uniform Resource Locator",
+        "B": "Uniform Resource Link",
+        "C": "Unified Resource Locator",
+        "D": "Unified Resource Link"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 70,
+      "question": "Which protocol is used to send emails?",
+      "options": {
+        "A": "HTTP",
+        "B": "FTP",
+        "C": "SMTP",
+        "D": "SNMP"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 71,
+      "question": "Which feature in Microsoft Word allows you to create a document template with predefined styles and layouts?",
+      "options": {
+        "A": "Format Painter",
+        "B": "Quick Parts",
+        "C": "Template Manager",
+        "D": "Style Gallery"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 72,
+      "question": "What is the maximum number of columns that can be created in a single Microsoft Word table?",
+      "options": {
+        "A": "64",
+        "B": "256",
+        "C": "32",
+        "D": "128"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 73,
+      "question": "Which Microsoft Word feature allows for automatic text replacement based on user-defined rules?",
+      "options": {
+        "A": "AutoFormat",
+        "B": "AutoCorrect",
+        "C": "AutoReplace",
+        "D": "Quick Parts"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 74,
+      "question": "What is the shortcut key to insert a hyperlink in Microsoft Word?",
+      "options": {
+        "A": "Ctrl + K",
+        "B": "Ctrl + L",
+        "C": "Ctrl + H",
+        "D": "Ctrl + J"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 75,
+      "question": "Which view in Microsoft Word provides a simplified layout of your document for easy reading and minimal distraction?",
+      "options": {
+        "A": "Draft View",
+        "B": "Outline View",
+        "C": "Web Layout View",
+        "D": "Read Mode"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 76,
+      "question": "What is the purpose of the \"Track Changes\" feature in Microsoft Word?",
+      "options": {
+        "A": "To keep a record of modifications made to the document",
+        "B": "To save the document automatically",
+        "C": "To compare two versions of a document",
+        "D": "To create a table of contents"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 77,
+      "question": "Which feature in Microsoft Word allows you to compare two versions of a document side by side?",
+      "options": {
+        "A": "Split View",
+        "B": "Track Changes",
+        "C": "Combine Documents",
+        "D": "Compare Documents"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 78,
+      "question": "In Microsoft Word, what does the Navigation Pane help you with?",
+      "options": {
+        "A": "Formatting text",
+        "B": "Finding and navigating through headings, pages, and search results",
+        "C": "Adjusting margins and page layout",
+        "D": "Managing references and citations"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 79,
+      "question": "What is the purpose of the \"Restrict Editing\" feature in Microsoft Word?",
+      "options": {
+        "A": "To prevent unauthorized users from opening the document",
+        "B": "To limit editing capabilities to certain parts of the document",
+        "C": "To track changes made to the document",
+        "D": "To convert the document to PDF"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 80,
+      "question": "Which of the following can be used to create a bibliography in Microsoft Word?",
+      "options": {
+        "A": "Citation Manager",
+        "B": "Reference Manager",
+        "C": "Source Manager",
+        "D": "EndNote"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 81,
+      "question": "Which of the following is not a type of computer memory?",
+      "options": {
+        "A": "RAM",
+        "B": "ROM",
+        "C": "Cache",
+        "D": "Compiler"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 82,
+      "question": "In computer networks, what does the acronym VPN stand for?",
+      "options": {
+        "A": "Virtual Private Network",
+        "B": "Virtual Public Network",
+        "C": "Verified Personal Network",
+        "D": "Verified Private Network"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 83,
+      "question": "Which of the following sorting algorithms has the best average-case time complexity?",
+      "options": {
+        "A": "Bubble Sort",
+        "B": "Quick Sort",
+        "C": "Insertion Sort",
+        "D": "Selection Sort"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 84,
+      "question": "Which of the following is a protocol used to retrieve emails from a mail server?",
+      "options": {
+        "A": "SMTP",
+        "B": "IMAP",
+        "C": "FTP",
+        "D": "HTTP"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 85,
+      "question": "Which of the following is not a database management system (DBMS)?",
+      "options": {
+        "A": "Oracle",
+        "B": "MySQL",
+        "C": "PHP",
+        "D": "PostgreSQL"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 86,
+      "question": "What does the acronym RAID stand for in computer storage?",
+      "options": {
+        "A": "Random Array of Independent Disks",
+        "B": "Redundant Array of Independent Disks",
+        "C": "Reliable Array of Independent Drives",
+        "D": "Redundant Array of Inexpensive Drives"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 87,
+      "question": "Which of the following is a characteristic of RISC (Reduced Instruction Set Computer) architecture?",
+      "options": {
+        "A": "Large number of complex instructions",
+        "B": "Fewer general-purpose registers",
+        "C": "Emphasis on software over hardware",
+        "D": "Fixed-length instructions"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 88,
+      "question": "What is the primary purpose of a firewall in computer networks?",
+      "options": {
+        "A": "To scan for viruses and malware",
+        "B": "To provide a user interface",
+        "C": "To monitor and control incoming and outgoing network traffic",
+        "D": "To manage database access"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 89,
+      "question": "In the context of operating systems, what does the term \"context switch\" refer to?",
+      "options": {
+        "A": "Switching from one application to another",
+        "B": "Changing the user interface theme",
+        "C": "Saving the state of a process and loading the state of another process",
+        "D": "Upgrading the operating system"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 90,
+      "question": "Which programming paradigm is primarily associated with the concept of objects and classes?",
+      "options": {
+        "A": "Procedural Programming",
+        "B": "Functional Programming",
+        "C": "Object-Oriented Programming",
+        "D": "Logic Programming"
+      }
+    },
+    {
+      "question_number": 91,
+      "question": "Which of the following is not a type of page margin?",
+      "options": {
+        "A": "Right",
+        "B": "Center",
+        "C": "Left",
+        "D": "Top"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 92,
+      "question": "In Microsoft Word the Text boundary can be displayed or hidden from?",
+      "options": {
+        "A": "Customize from Tools menu",
+        "B": "Auto text option from Insert menu",
+        "C": "Options from Tools menu",
+        "D": "All of above"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 93,
+      "question": "Which option is not available in Insert Table Autofit behavior in Ms Word?",
+      "options": {
+        "A": "Fixed Column Width",
+        "B": "AutoFit to Contents",
+        "C": "AutoFit to Column",
+        "D": "AutoFit to Window"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 94,
+      "question": "Using Find command in Ms Word, we can search?",
+      "options": {
+        "A": "characters",
+        "B": "formats",
+        "C": "symbols",
+        "D": "All of the above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 95,
+      "question": "You wished to justify text over the height of paper, which option will you choose in Ms Word?",
+      "options": {
+        "A": "From formatting toolbar",
+        "B": "Page Setup from File menu",
+        "C": "Font from Format menu",
+        "D": "Paragraph from Format menu"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 96,
+      "question": "In Ms Word, on which toolbar can you find Format Painter tool?",
+      "options": {
+        "A": "Formatting toolbar",
+        "B": "Picture Toolbar",
+        "C": "Drawing Toolbar",
+        "D": "Standard toolbar"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 97,
+      "question": "From which menu you can insert Header and Footer in Microsoft Word?",
+      "options": {
+        "A": "Format menu",
+        "B": "View Menu",
+        "C": "Tools Menu",
+        "D": "Insert Menu"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 98,
+      "question": "What is the default font used in MS Word document?",
+      "options": {
+        "A": "Times New Roman",
+        "B": "Arial",
+        "C": "Algerian",
+        "D": "None of the above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 99,
+      "question": "What is the function of CTRL+O in Microsoft Word?",
+      "options": {
+        "A": "Save Document",
+        "B": "Print Document",
+        "C": "Close Document",
+        "D": "Open Document"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 100,
+      "question": "Ctrl + Y Shortcut is used in Microsoft Word to_____________?",
+      "options": {
+        "A": "Undo the last Action",
+        "B": "Repeat the last Action",
+        "C": "Delete the last page",
+        "D": "Delete the first page"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 101,
+      "question": "\"Ctrl + Right Arrow\" Shortcut key is used Ms Word to____________?",
+      "options": {
+        "A": "Moves the cursor one word right",
+        "B": "Moves the cursor end of the line",
+        "C": "Moves the cursor end of the document",
+        "D": "Moves the cursor one Paragraph down"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 102,
+      "question": "Before moving a subdocument to another location within a master document, you must switch to___________?",
+      "options": {
+        "A": "Normal View",
+        "B": "Outline View",
+        "C": "Web Layout View",
+        "D": "Print Layout View"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 103,
+      "question": "Which feature is used for monitoring all document changes?",
+      "options": {
+        "A": "Edit Document",
+        "B": "Monitor Change",
+        "C": "Track Change",
+        "D": "Track all"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 104,
+      "question": "A wireless technology built in electronic gadgets used for exchanging data over short distances is?",
+      "options": {
+        "A": "Bluetooth",
+        "B": "Wifi",
+        "C": "Modem",
+        "D": "USB"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 105,
+      "question": "In Ms Word, What happens if you mark on Hidden check box of Font dialog box after you select some text?",
+      "options": {
+        "A": "The text is deleted from document and you need to bring from Recycle Bin if required again",
+        "B": "The text is hidden and you need to bring it by removing the check box if needed again",
+        "C": "The text is deleted and cannot be returned back",
+        "D": "The text is hidden and cannot be returned back"
+      }
+    },
+    {
+      "question_number": 106,
+      "question": "Which of the following helps to reduce spelling error in the document?",
+      "options": {
+        "A": "Auto Format",
+        "B": "Auto Correct",
+        "C": "Smart Tags",
+        "D": "None of above"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 107,
+      "question": "From where you can access Save command in Microsoft Word?",
+      "options": {
+        "A": "Home tab",
+        "B": "Insert tab",
+        "C": "Review tab",
+        "D": "None of above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 108,
+      "question": "To verify that the note text is positioned correctly on the page, switch to ________ view or display the document in print preview",
+      "options": {
+        "A": "normal layout",
+        "B": "print layout",
+        "C": "page layout",
+        "D": "page edit"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 109,
+      "question": "What is the default left margins in word 2003 document?",
+      "options": {
+        "A": "1",
+        "B": "1.25",
+        "C": "1.5",
+        "D": "2"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 110,
+      "question": "Ms Word includes a series of predefined graphics called _________ that can be inserted into a Word document.",
+      "options": {
+        "A": "clip art",
+        "B": "hyperlinks",
+        "C": "captions",
+        "D": "bookmarks"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 111,
+      "question": "Which key deletes the character to the right of the cursor in Ms Word?",
+      "options": {
+        "A": "End",
+        "B": "Backspace",
+        "C": "Home",
+        "D": "Delete"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 112,
+      "question": "To exit from the Resume Wizard and return to the document window without creating resume, click the __________ button in any panel in the Resume Wizard dialog box.",
+      "options": {
+        "A": "Cancel",
+        "B": "Back",
+        "C": "Next",
+        "D": "Finish"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 113,
+      "question": "A _________ is not attached to an edge of the Word window; that is, it displays in the middle of the Word window and can be moved anywhere in the window",
+      "options": {
+        "A": "floating toolbar",
+        "B": "scroll bar",
+        "C": "status toolbar",
+        "D": "menu bar"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 114,
+      "question": "Ctrl + J Shortcut key is used in Microsoft Word to____________?",
+      "options": {
+        "A": "Align Justify",
+        "B": "Insert Hyperlink",
+        "C": "Search",
+        "D": "Print"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 115,
+      "question": "Who invented the analytical engine?",
+      "options": {
+        "A": "Vint cerf",
+        "B": "Mark zukerberg",
+        "C": "Charles Babbage",
+        "D": "None"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 116,
+      "question": "When you save a file as a Web page, Word converts the contents of the document into _____.",
+      "options": {
+        "A": "Java",
+        "B": "Perl",
+        "C": "HTML",
+        "D": "Unix"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 117,
+      "question": "Although it is not shown in normal view, to view a header, click _________ on the menu bar and then click Header and Footer.",
+      "options": {
+        "A": "View",
+        "B": "Edit",
+        "C": "Format",
+        "D": "Tools"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 118,
+      "question": "By default, your document prints with__________?",
+      "options": {
+        "A": "1 inch top and bottom margins",
+        "B": "a portrait orientation",
+        "C": "1.25 inches left and right margins",
+        "D": "all of the above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 119,
+      "question": "When typing in a word field manually, what must you press to insert the code's brackets?",
+      "options": {
+        "A": "Ctrl + F6",
+        "B": "Ctrl + F9",
+        "C": "Alt + F11",
+        "D": "Shift +F12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 120,
+      "question": "What would you do when you want to update the data in an embedded worksheet range?",
+      "options": {
+        "A": "Double click the worksheet range object",
+        "B": "Right click worksheet range object & choose format object",
+        "C": "Edit the data in the destination document",
+        "D": "Edit the data in the source document"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 121,
+      "question": "Who is known as the Father of Computers?",
+      "options": {
+        "A": "Alan Turing",
+        "B": "Charles Babbage",
+        "C": "John von Neumann",
+        "D": "Ada Lovelace"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 122,
+      "question": "Which component is considered the brain of the computer?",
+      "options": {
+        "A": "RAM",
+        "B": "Hard Disk",
+        "C": "CPU",
+        "D": "Monitor"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 123,
+      "question": "Which generation of computers used vacuum tubes?",
+      "options": {
+        "A": "First",
+        "B": "Second",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 124,
+      "question": "Which generation of computers used transistors?",
+      "options": {
+        "A": "First",
+        "B": "Second",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 125,
+      "question": "Integrated Circuits (ICs) were used in which computer generation?",
+      "options": {
+        "A": "First",
+        "B": "Second",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 126,
+      "question": "Which generation introduced microprocessors?",
+      "options": {
+        "A": "Second",
+        "B": "Third",
+        "C": "Fourth",
+        "D": "Fifth"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 127,
+      "question": "Which generation of computers is associated with Artificial Intelligence?",
+      "options": {
+        "A": "Second",
+        "B": "Third",
+        "C": "Fourth",
+        "D": "Fifth"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 128,
+      "question": "Which of the following is a high-level programming language?",
+      "options": {
+        "A": "Machine Code",
+        "B": "Assembly Language",
+        "C": "C++",
+        "D": "Binary"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 129,
+      "question": "Which language is primarily used for web development?",
+      "options": {
+        "A": "C",
+        "B": "Fortran",
+        "C": "JavaScript",
+        "D": "Assembly"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 130,
+      "question": "HTML stands for:",
+      "options": {
+        "A": "HyperText Machine Language",
+        "B": "HyperText Markup Language",
+        "C": "HighText Markup Language",
+        "D": "HighText Machine Language"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 131,
+      "question": "Which of the following is NOT a programming language?",
+      "options": {
+        "A": "Python",
+        "B": "Java",
+        "C": "HTML",
+        "D": "HTTP"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 132,
+      "question": "What does URL stand for?",
+      "options": {
+        "A": "Uniform Resource Locator",
+        "B": "Unified Resource Locator",
+        "C": "Uniform Resource Link",
+        "D": "Unified Resource Link"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 133,
+      "question": "Which protocol is used to send emails?",
+      "options": {
+        "A": "FTP",
+        "B": "HTTP",
+        "C": "SMTP",
+        "D": "SNMP"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 134,
+      "question": "Which network covers a city?",
+      "options": {
+        "A": "LAN",
+        "B": "WAN",
+        "C": "MAN",
+        "D": "PAN"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 135,
+      "question": "Which topology connects every device to every other device?",
+      "options": {
+        "A": "Star",
+        "B": "Bus",
+        "C": "Ring",
+        "D": "Mesh"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 136,
+      "question": "Which device is used to connect multiple networks?",
+      "options": {
+        "A": "Switch",
+        "B": "Hub",
+        "C": "Router",
+        "D": "Repeater"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 137,
+      "question": "Which key is used to delete a character to the right of the cursor in MS Word?",
+      "options": {
+        "A": "Backspace",
+        "B": "Delete",
+        "C": "End",
+        "D": "Home"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 138,
+      "question": "Ctrl + O shortcut is used for:",
+      "options": {
+        "A": "Save document",
+        "B": "Open document",
+        "C": "Close document",
+        "D": "Print document"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 139,
+      "question": "Which feature is used to monitor document changes in MS Word?",
+      "options": {
+        "A": "Compare",
+        "B": "Track Changes",
+        "C": "AutoCorrect",
+        "D": "Format Painter"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 140,
+      "question": "Which wireless technology is used for short-distance data transfer?",
+      "options": {
+        "A": "Wi-Fi",
+        "B": "Bluetooth",
+        "C": "NFC",
+        "D": "Infrared"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 141,
+      "question": "Which type of computer is designed for scientific calculations?",
+      "options": {
+        "A": "Mainframe",
+        "B": "Supercomputer",
+        "C": "Minicomputer",
+        "D": "Microcomputer"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 142,
+      "question": "What type of computer is a laptop?",
+      "options": {
+        "A": "Desktop",
+        "B": "Server",
+        "C": "Portable",
+        "D": "Mainframe"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 143,
+      "question": "Which memory is volatile?",
+      "options": {
+        "A": "ROM",
+        "B": "Hard Disk",
+        "C": "Cache",
+        "D": "RAM"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 144,
+      "question": "Which of the following is NOT a type of computer memory?",
+      "options": {
+        "A": "RAM",
+        "B": "ROM",
+        "C": "Cache",
+        "D": "Compiler"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 145,
+      "question": "What does VPN stand for?",
+      "options": {
+        "A": "Virtual Public Network",
+        "B": "Verified Private Network",
+        "C": "Virtual Private Network",
+        "D": "Verified Public Network"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 146,
+      "question": "Which protocol is used to retrieve emails from a mail server?",
+      "options": {
+        "A": "SMTP",
+        "B": "IMAP",
+        "C": "FTP",
+        "D": "HTTP"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 147,
+      "question": "Which of the following is NOT a DBMS?",
+      "options": {
+        "A": "Oracle",
+        "B": "MySQL",
+        "C": "PostgreSQL",
+        "D": "PHP"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 148,
+      "question": "What does RAID stand for?",
+      "options": {
+        "A": "Random Array of Independent Disks",
+        "B": "Reliable Array of Independent Drives",
+        "C": "Redundant Array of Independent Disks",
+        "D": "Redundant Array of Inexpensive Drives"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 149,
+      "question": "Which sorting algorithm has the best average-case time complexity?",
+      "options": {
+        "A": "Bubble Sort",
+        "B": "Insertion Sort",
+        "C": "Selection Sort",
+        "D": "Quick Sort"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 150,
+      "question": "Which architecture uses fixed-length instructions?",
+      "options": {
+        "A": "CISC",
+        "B": "RISC",
+        "C": "Von Neumann",
+        "D": "Harvard"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 151,
+      "question": "What is the primary purpose of a firewall?",
+      "options": {
+        "A": "Virus removal",
+        "B": "Database management",
+        "C": "Network traffic control",
+        "D": "File compression"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 152,
+      "question": "What does a context switch mean in an operating system?",
+      "options": {
+        "A": "Changing user interface",
+        "B": "Switching power mode",
+        "C": "Saving and loading process states",
+        "D": "Updating software"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 153,
+      "question": "Which programming paradigm is based on objects and classes?",
+      "options": {
+        "A": "Procedural",
+        "B": "Functional",
+        "C": "Logic",
+        "D": "Object-Oriented"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 154,
+      "question": "Which generation of computers used nanotechnology?",
+      "options": {
+        "A": "Fourth",
+        "B": "Fifth",
+        "C": "Sixth",
+        "D": "Seventh"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 155,
+      "question": "Which programming language is widely used for mobile app development?",
+      "options": {
+        "A": "C++",
+        "B": "Python",
+        "C": "Java",
+        "D": "Assembly"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 156,
+      "question": "Which computer is mainly used for business applications?",
+      "options": {
+        "A": "Workstation",
+        "B": "Supercomputer",
+        "C": "Mainframe",
+        "D": "Microcomputer"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 157,
+      "question": "Who invented the World Wide Web?",
+      "options": {
+        "A": "Bill Gates",
+        "B": "Steve Jobs",
+        "C": "Tim Berners-Lee",
+        "D": "Larry Page"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 158,
+      "question": "Who developed the first high-level programming language?",
+      "options": {
+        "A": "Charles Babbage",
+        "B": "Ada Lovelace",
+        "C": "Grace Hopper",
+        "D": "Alan Turing"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 159,
+      "question": "Which term refers to software usable on multiple operating systems?",
+      "options": {
+        "A": "Freeware",
+        "B": "Open-source",
+        "C": "Shareware",
+        "D": "Cross-platform"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 160,
+      "question": "Which network topology provides the highest fault tolerance?",
+      "options": {
+        "A": "Bus",
+        "B": "Star",
+        "C": "Ring",
+        "D": "Mesh"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 161,
+      "question": "Who is credited with inventing the analytical engine?",
+      "options": {
+        "A": "Vint Cerf",
+        "B": "Mark Zuckerberg",
+        "C": "Charles Babbage",
+        "D": "Alan Turing"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 162,
+      "question": "Which of the following is the default orientation of a Word document?",
+      "options": {
+        "A": "Landscape",
+        "B": "Portrait",
+        "C": "Square",
+        "D": "Book"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 163,
+      "question": "What is the default top and bottom margin in MS Word?",
+      "options": {
+        "A": "0.5 inch",
+        "B": "1 inch",
+        "C": "1.25 inch",
+        "D": "2 inch"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 164,
+      "question": "Which key combination is used to insert a hyperlink in MS Word?",
+      "options": {
+        "A": "Ctrl + H",
+        "B": "Ctrl + L",
+        "C": "Ctrl + K",
+        "D": "Ctrl + J"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 165,
+      "question": "Which MS Word feature automatically corrects spelling mistakes?",
+      "options": {
+        "A": "AutoFormat",
+        "B": "Track Changes",
+        "C": "AutoCorrect",
+        "D": "Format Painter"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 166,
+      "question": "Which toolbar contains the Format Painter tool?",
+      "options": {
+        "A": "Standard Toolbar",
+        "B": "Formatting Toolbar",
+        "C": "Drawing Toolbar",
+        "D": "Picture Toolbar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 167,
+      "question": "Which MS Word view is best for reading without distractions?",
+      "options": {
+        "A": "Draft View",
+        "B": "Outline View",
+        "C": "Read Mode",
+        "D": "Web Layout View"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 168,
+      "question": "What does the Navigation Pane help with in MS Word?",
+      "options": {
+        "A": "Editing margins",
+        "B": "Finding text and headings",
+        "C": "Formatting styles",
+        "D": "Creating tables"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 169,
+      "question": "Which feature allows comparing two documents in MS Word?",
+      "options": {
+        "A": "Split View",
+        "B": "Track Changes",
+        "C": "Compare Documents",
+        "D": "Combine Files"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 170,
+      "question": "What happens when text is marked as Hidden in MS Word?",
+      "options": {
+        "A": "Text is deleted permanently",
+        "B": "Text becomes invisible but recoverable",
+        "C": "Text is encrypted",
+        "D": "Text moves to Recycle Bin"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 171,
+      "question": "Which key deletes the character to the right of the cursor?",
+      "options": {
+        "A": "Backspace",
+        "B": "Delete",
+        "C": "End",
+        "D": "Home"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 172,
+      "question": "Ctrl + Y shortcut is used to:",
+      "options": {
+        "A": "Undo an action",
+        "B": "Repeat last action",
+        "C": "Redo formatting",
+        "D": "Save document"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 173,
+      "question": "Which key combination justifies text in MS Word?",
+      "options": {
+        "A": "Ctrl + L",
+        "B": "Ctrl + R",
+        "C": "Ctrl + E",
+        "D": "Ctrl + J"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 174,
+      "question": "Which option is used to insert Header and Footer in MS Word?",
+      "options": {
+        "A": "View Menu",
+        "B": "Format Menu",
+        "C": "Insert Menu",
+        "D": "Tools Menu"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 175,
+      "question": "Which view is required before moving a subdocument in a master document?",
+      "options": {
+        "A": "Normal View",
+        "B": "Outline View",
+        "C": "Print Layout View",
+        "D": "Web Layout View"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 176,
+      "question": "Which wireless technology is built into devices for short-range communication?",
+      "options": {
+        "A": "Wi-Fi",
+        "B": "Bluetooth",
+        "C": "Infrared",
+        "D": "NFC"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 177,
+      "question": "What is the function of Ctrl + Right Arrow in MS Word?",
+      "options": {
+        "A": "Move cursor one character right",
+        "B": "Move cursor one word right",
+        "C": "Move to end of line",
+        "D": "Move to end of document"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 178,
+      "question": "Which MS Word feature restricts editing in a document?",
+      "options": {
+        "A": "Track Changes",
+        "B": "Protect Document",
+        "C": "Restrict Editing",
+        "D": "Lock File"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 179,
+      "question": "What happens when a document is saved as a web page in MS Word?",
+      "options": {
+        "A": "Saved as XML",
+        "B": "Converted to HTML",
+        "C": "Converted to PDF",
+        "D": "Converted to TXT"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 180,
+      "question": "Which MS Word element floats and can be moved anywhere on the screen?",
+      "options": {
+        "A": "Menu Bar",
+        "B": "Status Bar",
+        "C": "Scroll Bar",
+        "D": "Floating Toolbar"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 181,
+      "question": "Which option is NOT a type of page margin in MS Word?",
+      "options": {
+        "A": "Left",
+        "B": "Right",
+        "C": "Top",
+        "D": "Center"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 182,
+      "question": "From which menu can Text Boundary be displayed or hidden in MS Word?",
+      "options": {
+        "A": "Insert Menu",
+        "B": "Format Menu",
+        "C": "Tools Menu",
+        "D": "View Menu"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 183,
+      "question": "Which option is NOT available in Insert Table AutoFit behavior?",
+      "options": {
+        "A": "Fixed Column Width",
+        "B": "AutoFit to Contents",
+        "C": "AutoFit to Column",
+        "D": "AutoFit to Window"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 184,
+      "question": "Using the Find command in MS Word, you can search for:",
+      "options": {
+        "A": "Characters",
+        "B": "Formats",
+        "C": "Symbols",
+        "D": "All of the above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 185,
+      "question": "To justify text over the height of the paper, which option is used?",
+      "options": {
+        "A": "Formatting Toolbar",
+        "B": "Font from Format Menu",
+        "C": "Paragraph from Format Menu",
+        "D": "Page Setup from File Menu"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 186,
+      "question": "What is the default font in MS Word 2003?",
+      "options": {
+        "A": "Arial",
+        "B": "Times New Roman",
+        "C": "Calibri",
+        "D": "Verdana"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 187,
+      "question": "Which command opens an existing document in MS Word?",
+      "options": {
+        "A": "Ctrl + N",
+        "B": "Ctrl + S",
+        "C": "Ctrl + O",
+        "D": "Ctrl + P"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 188,
+      "question": "Which key combination is used to insert field code brackets?",
+      "options": {
+        "A": "Ctrl + F6",
+        "B": "Ctrl + F9",
+        "C": "Alt + F11",
+        "D": "Shift + F12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 189,
+      "question": "Which option is used to view headers when not visible in normal view?",
+      "options": {
+        "A": "Edit Menu",
+        "B": "Tools Menu",
+        "C": "Format Menu",
+        "D": "View Menu"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 190,
+      "question": "By default, a Word document prints with:",
+      "options": {
+        "A": "1 inch margins",
+        "B": "Portrait orientation",
+        "C": "1.25 inch margins",
+        "D": "All of the above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 191,
+      "question": "Which option exits Resume Wizard without creating a resume?",
+      "options": {
+        "A": "Back",
+        "B": "Next",
+        "C": "Finish",
+        "D": "Cancel"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 192,
+      "question": "Which object is not attached to the edge of the Word window?",
+      "options": {
+        "A": "Scroll Bar",
+        "B": "Menu Bar",
+        "C": "Status Bar",
+        "D": "Floating Toolbar"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 193,
+      "question": "Ctrl + J shortcut is used for:",
+      "options": {
+        "A": "Align Justify",
+        "B": "Insert Hyperlink",
+        "C": "Search",
+        "D": "Print"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 194,
+      "question": "Which technology allows data exchange over short distances wirelessly?",
+      "options": {
+        "A": "Wi-Fi",
+        "B": "Bluetooth",
+        "C": "Modem",
+        "D": "USB"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 195,
+      "question": "Which feature reduces spelling errors automatically?",
+      "options": {
+        "A": "AutoFormat",
+        "B": "Smart Tags",
+        "C": "AutoCorrect",
+        "D": "Track Changes"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 196,
+      "question": "Where can you access the Save command in MS Word?",
+      "options": {
+        "A": "Home Tab",
+        "B": "Insert Tab",
+        "C": "Review Tab",
+        "D": "None of the above"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 197,
+      "question": "Which view is used to verify text position before printing?",
+      "options": {
+        "A": "Normal View",
+        "B": "Draft View",
+        "C": "Print Layout View",
+        "D": "Web Layout View"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 198,
+      "question": "MS Word predefined graphics are called:",
+      "options": {
+        "A": "Hyperlinks",
+        "B": "Bookmarks",
+        "C": "Captions",
+        "D": "Clip Art"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 199,
+      "question": "Which key deletes the character to the right of the cursor?",
+      "options": {
+        "A": "Backspace",
+        "B": "Home",
+        "C": "End",
+        "D": "Delete"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 200,
+      "question": "Who invented the Analytical Engine?",
+      "options": {
+        "A": "Vint Cerf",
+        "B": "Mark Zuckerberg",
+        "C": "Charles Babbage",
+        "D": "None"
+      },
+      "correct_answer": "C"
+    }
+  ]
+}

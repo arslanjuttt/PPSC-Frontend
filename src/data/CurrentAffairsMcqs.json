@@ -1,0 +1,4408 @@
+{
+  "test_name": "Current Affairs & History Test - Part 1",
+  "instructor": "Gemini AI",
+  "total_questions": 200,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "In what year was Muhammad Bin Qasim born?",
+      "options": {
+        "A": "690 A.D.",
+        "B": "695 A.D.",
+        "C": "700 A.D.",
+        "D": "712 A.D."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "Who was the Caliph of the Umayyad Dynasty when Sindh was conquered?",
+      "options": {
+        "A": "Sulayman bin Abdul Malik",
+        "B": "Walid bin Abdul Malik",
+        "C": "Hajjaj Bin Yousuf",
+        "D": "Umar bin Abdul Aziz"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 3,
+      "question": "The Slave Dynasty was founded by which ruler in 1206?",
+      "options": {
+        "A": "Iltutmish",
+        "B": "Balban",
+        "C": "Qutub ud Din Aibak",
+        "D": "Nasiruddin Mahmud"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 4,
+      "question": "Qutub ud Din Aibak died in 1210 while playing which sport?",
+      "options": {
+        "A": "Chess",
+        "B": "Archery",
+        "C": "Polo",
+        "D": "Hunting"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 5,
+      "question": "Who was the first woman empress of the Delhi Sultanate?",
+      "options": {
+        "A": "Noor Jahan",
+        "B": "Razia Sultan",
+        "C": "Chand Bibi",
+        "D": "Mumtaz Mahal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 6,
+      "question": "The Khilji Dynasty was established in 1290 by:",
+      "options": {
+        "A": "Alauddin Khilji",
+        "B": "Jalal-ud-din Firuz Khilji",
+        "C": "Mubarak Shah",
+        "D": "Khusrau Khan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 7,
+      "question": "Which traveler visited India during the reign of Muhammad Bin Tughlaq?",
+      "options": {
+        "A": "Marco Polo",
+        "B": "Ibn-e-Batuta",
+        "C": "Al-Biruni",
+        "D": "Fa-Hien"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question": "The city of Agra was founded by:",
+      "options": {
+        "A": "Babar",
+        "B": "Akbar",
+        "C": "Sikandar Lodhi",
+        "D": "Shah Jahan"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "Zahir-ud-Din Babar founded the Mughal Empire after the 1st Battle of Panipat in:",
+      "options": {
+        "A": "1520",
+        "B": "1526",
+        "C": "1530",
+        "D": "1556"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 10,
+      "question": "Where is the Mughal Emperor Babar buried?",
+      "options": {
+        "A": "Agra",
+        "B": "Delhi",
+        "C": "Kabul",
+        "D": "Lahore"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 11,
+      "question": "The 'Deen-i-Elahi' was introduced by Emperor Akbar in:",
+      "options": {
+        "A": "1556",
+        "B": "1570",
+        "C": "1582",
+        "D": "1605"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "Who was the architect of the Taj Mahal?",
+      "options": {
+        "A": "Mirak Mirza Ghiyas",
+        "B": "Ustad Ahmad Lahori",
+        "C": "Baha-ud-din",
+        "D": "Shah Abbas"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 13,
+      "question": "The Badshahi Mosque in Lahore was built by:",
+      "options": {
+        "A": "Shah Jahan",
+        "B": "Akbar",
+        "C": "Aurangzeb Alamgir",
+        "D": "Jahangir"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "What was the real name of Sher Shah Suri?",
+      "options": {
+        "A": "Farid Khan",
+        "B": "Fateh Khan",
+        "C": "Hassan Khan",
+        "D": "Jalal Khan"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "Tipu Sultan was martyred in the 4th Anglo-Mysore War in:",
+      "options": {
+        "A": "1790",
+        "B": "1792",
+        "C": "1799",
+        "D": "1801"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 16,
+      "question": "Who founded the 'Jihad Movement' and was martyred at Balakot?",
+      "options": {
+        "A": "Shah Waliullah",
+        "B": "Syed Ahmed Shaheed Barailvi",
+        "C": "Haji Shariat Ullah",
+        "D": "Titu Mir"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 17,
+      "question": "Sir Syed Ahmed Khan was born in which city?",
+      "options": {
+        "A": "Aligarh",
+        "B": "Delhi",
+        "C": "Lucknow",
+        "D": "Agra"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 18,
+      "question": "The Scientific Society was established by Sir Syed in 1864 at:",
+      "options": {
+        "A": "Aligarh",
+        "B": "Ghazipur",
+        "C": "Muradabad",
+        "D": "Calcutta"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "The Indian National Congress was founded in 1885 by:",
+      "options": {
+        "A": "Dadabhai Naoroji",
+        "B": "A.O. Hume",
+        "C": "W.C. Bannerjee",
+        "D": "Mahatma Gandhi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 20,
+      "question": "The All India Muslim League was founded in 1906 in:",
+      "options": {
+        "A": "Karachi",
+        "B": "Lahore",
+        "C": "Dhaka",
+        "D": "Aligarh"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 21,
+      "question": "The Shanghai Cooperation Organization (SCO) was established in which year?",
+      "options": {
+        "A": "1996",
+        "B": "2001",
+        "C": "2017",
+        "D": "2023"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 22,
+      "question": "Which country officially joined SCO in July 2024 as the 10th member?",
+      "options": {
+        "A": "Iran",
+        "B": "Belarus",
+        "C": "Turkey",
+        "D": "Mongolia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 23,
+      "question": "The headquarters of SCO is located in:",
+      "options": {
+        "A": "Moscow",
+        "B": "Tashkent",
+        "C": "Beijing",
+        "D": "Shanghai"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "The 'RATS' (Regional Anti-Terrorist Structure) of SCO is based in:",
+      "options": {
+        "A": "Beijing",
+        "B": "Astana",
+        "C": "Tashkent",
+        "D": "Samarkand"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "The Gulf Cooperation Council (GCC) headquarters is in:",
+      "options": {
+        "A": "Abu Dhabi",
+        "B": "Doha",
+        "C": "Riyadh",
+        "D": "Manama"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 26,
+      "question": "How many member states are in the GCC?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "The military arm of the GCC is known as:",
+      "options": {
+        "A": "Arab Shield",
+        "B": "Peninsula Shield Force",
+        "C": "Gulf Guards",
+        "D": "Desert Force"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "The United Nations was established on:",
+      "options": {
+        "A": "June 26, 1945",
+        "B": "October 24, 1945",
+        "C": "January 1, 1946",
+        "D": "August 14, 1947"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 29,
+      "question": "Who is the current Secretary-General of the United Nations?",
+      "options": {
+        "A": "Ban Ki-moon",
+        "B": "António Guterres",
+        "C": "Kofi Annan",
+        "D": "Trygve Lie"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 30,
+      "question": "The International Court of Justice (ICJ) is located in:",
+      "options": {
+        "A": "New York",
+        "B": "Geneva",
+        "C": "The Hague",
+        "D": "Vienna"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "How many permanent members (P5) are in the UN Security Council?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "The European Union currently has how many member states?",
+      "options": {
+        "A": "25",
+        "B": "27",
+        "C": "28",
+        "D": "30"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "The treaty that established the EU in 1993 is the:",
+      "options": {
+        "A": "Treaty of Rome",
+        "B": "Maastricht Treaty",
+        "C": "Treaty of Lisbon",
+        "D": "Treaty of Paris"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "Which country left the European Union in 2020 (Brexit)?",
+      "options": {
+        "A": "France",
+        "B": "Norway",
+        "C": "United Kingdom",
+        "D": "Switzerland"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 35,
+      "question": "SAARC was established in 1985 in which city?",
+      "options": {
+        "A": "Kathmandu",
+        "B": "New Delhi",
+        "C": "Dhaka",
+        "D": "Colombo"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 36,
+      "question": "The SAARC Secretariat is located in:",
+      "options": {
+        "A": "Dhaka",
+        "B": "Kathmandu",
+        "C": "Islamabad",
+        "D": "Thimphu"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "Who is the current Secretary-General of SAARC?",
+      "options": {
+        "A": "Arjun Bahadur Thapa",
+        "B": "Md. Golam Sarwar",
+        "C": "Amjad Hussain",
+        "D": "Esala Weerakoon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 38,
+      "question": "South Africa joined the BRIC group in which year?",
+      "options": {
+        "A": "2008",
+        "B": "2009",
+        "C": "2010",
+        "D": "2011"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 39,
+      "question": "The 15th BRICS summit (2023) was held in:",
+      "options": {
+        "A": "Brazil",
+        "B": "Russia",
+        "C": "China",
+        "D": "South Africa"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 40,
+      "question": "Which bank is the financial arm of the BRICS group?",
+      "options": {
+        "A": "World Bank",
+        "B": "Asian Development Bank",
+        "C": "New Development Bank",
+        "D": "IMF"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 41,
+      "question": "Who was the first Governor-General of Bengal?",
+      "options": {
+        "A": "Lord Cornwallis",
+        "B": "Warren Hastings",
+        "C": "Lord Wellesley",
+        "D": "Lord Dalhousie"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 42,
+      "question": "The 'Permanent Settlement' of Bengal (1793) was introduced by:",
+      "options": {
+        "A": "Warren Hastings",
+        "B": "Lord Cornwallis",
+        "C": "Lord Canning",
+        "D": "Lord Curzon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 43,
+      "question": "The first railway line in India (1853) was opened under which Governor-General?",
+      "options": {
+        "A": "Lord Canning",
+        "B": "Lord Dalhousie",
+        "C": "Lord Bentinck",
+        "D": "Lord Mayo"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 44,
+      "question": "Who was the first Viceroy of India?",
+      "options": {
+        "A": "Lord Mountbatten",
+        "B": "Lord Canning",
+        "C": "Lord Irwin",
+        "D": "Lord Curzon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 45,
+      "question": "The Partition of Bengal (1905) was announced by:",
+      "options": {
+        "A": "Lord Minto",
+        "B": "Lord Curzon",
+        "C": "Lord Hardinge",
+        "D": "Lord Chelmsford"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 46,
+      "question": "Who was the Viceroy when the Jallianwala Bagh massacre occurred (1919)?",
+      "options": {
+        "A": "Lord Reading",
+        "B": "Lord Chelmsford",
+        "C": "Lord Irwin",
+        "D": "Lord Wavell"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 47,
+      "question": "The Simon Commission visited India in which year?",
+      "options": {
+        "A": "1927",
+        "B": "1928",
+        "C": "1929",
+        "D": "1930"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "The Gandhi-Irwin Pact was signed in:",
+      "options": {
+        "A": "1930",
+        "B": "1931",
+        "C": "1932",
+        "D": "1933"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question": "The Government of India Act 1935 was passed during the era of:",
+      "options": {
+        "A": "Lord Irwin",
+        "B": "Lord Willingdon",
+        "C": "Lord Linlithgow",
+        "D": "Lord Wavell"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "Who was the last Viceroy of British India?",
+      "options": {
+        "A": "Lord Wavell",
+        "B": "Lord Mountbatten",
+        "C": "C. Rajagopalachari",
+        "D": "Lord Linlithgow"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 51,
+      "question": "Which country is known as the 'Land of the Midnight Sun'?",
+      "options": {
+        "A": "Japan",
+        "B": "Norway",
+        "C": "Iceland",
+        "D": "Finland"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 52,
+      "question": "The world's largest hot desert is:",
+      "options": {
+        "A": "Gobi",
+        "B": "Sahara",
+        "C": "Thar",
+        "D": "Atacama"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 53,
+      "question": "Which is the longest river in the world?",
+      "options": {
+        "A": "Amazon",
+        "B": "Nile",
+        "C": "Yangtze",
+        "D": "Mississippi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 54,
+      "question": "Mount Everest is located in which country?",
+      "options": {
+        "A": "India",
+        "B": "Nepal",
+        "C": "China",
+        "D": "Bhutan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 55,
+      "question": "Which strait separates India and Sri Lanka?",
+      "options": {
+        "A": "Bering Strait",
+        "B": "Palk Strait",
+        "C": "Strait of Malacca",
+        "D": "Strait of Gibraltar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 56,
+      "question": "The currency of Japan is:",
+      "options": {
+        "A": "Yuan",
+        "B": "Yen",
+        "C": "Won",
+        "D": "Baht"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 57,
+      "question": "Which is the smallest country in the world by area?",
+      "options": {
+        "A": "Monaco",
+        "B": "Vatican City",
+        "C": "Nauru",
+        "D": "Maldives"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 58,
+      "question": "The 'Dead Sea' is located between which two countries?",
+      "options": {
+        "A": "Egypt and Sudan",
+        "B": "Jordan and Israel",
+        "C": "Iraq and Iran",
+        "D": "Turkey and Syria"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 59,
+      "question": "Which country is the largest producer of coffee?",
+      "options": {
+        "A": "Vietnam",
+        "B": "Brazil",
+        "C": "Colombia",
+        "D": "Ethiopia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 60,
+      "question": "The 'Ring of Fire' is associated with which ocean?",
+      "options": {
+        "A": "Atlantic",
+        "B": "Pacific",
+        "C": "Indian",
+        "D": "Arctic"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 61,
+      "question": "The first summit of the SCO was held in which city?",
+      "options": {
+        "A": "Beijing",
+        "B": "Shanghai",
+        "C": "Moscow",
+        "D": "Almaty"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 62,
+      "question": "Which SCO member is the largest in terms of population?",
+      "options": {
+        "A": "Russia",
+        "B": "India",
+        "C": "China",
+        "D": "Pakistan"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 63,
+      "question": "The official languages of the SCO are:",
+      "options": {
+        "A": "English and Chinese",
+        "B": "Russian and Chinese",
+        "C": "English and Russian",
+        "D": "Chinese and Arabic"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 64,
+      "question": "Which country is an observer state of the SCO?",
+      "options": {
+        "A": "India",
+        "B": "Afghanistan",
+        "C": "Pakistan",
+        "D": "Uzbekistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 65,
+      "question": "The 2022 SCO summit was held in Samarkand, which is in:",
+      "options": {
+        "A": "Kazakhstan",
+        "B": "Uzbekistan",
+        "C": "Tajikistan",
+        "D": "Kyrgyzstan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 66,
+      "question": "The GCC was formally established in which year?",
+      "options": {
+        "A": "1975",
+        "B": "1981",
+        "C": "1985",
+        "D": "1991"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 67,
+      "question": "Which of these is NOT a member of the GCC?",
+      "options": {
+        "A": "Kuwait",
+        "B": "Iraq",
+        "C": "Oman",
+        "D": "Qatar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 68,
+      "question": "The GCC official language is:",
+      "options": {
+        "A": "English",
+        "B": "Arabic",
+        "C": "Persian",
+        "D": "French"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 69,
+      "question": "Most member states of the GCC are:",
+      "options": {
+        "A": "Republics",
+        "B": "Monarchies",
+        "C": "Federations",
+        "D": "Theocracies"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 70,
+      "question": "The UN Charter was signed on June 26, 1945, in which city?",
+      "options": {
+        "A": "New York",
+        "B": "San Francisco",
+        "C": "London",
+        "D": "Washington"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 71,
+      "question": "The UN General Assembly President for the 78th session (2023) was:",
+      "options": {
+        "A": "Csaba Kőrösi",
+        "B": "Dennis Francis",
+        "C": "Abdulla Shahid",
+        "D": "Volkan Bozkır"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 72,
+      "question": "Which UN body is responsible for international economic and social cooperation?",
+      "options": {
+        "A": "Security Council",
+        "B": "ECOSOC",
+        "C": "Secretariat",
+        "D": "Trusteeship Council"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 73,
+      "question": "The UN Secretariat is based in:",
+      "options": {
+        "A": "Geneva",
+        "B": "New York City",
+        "C": "The Hague",
+        "D": "Paris"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 74,
+      "question": "Which language is NOT an official UN language?",
+      "options": {
+        "A": "Chinese",
+        "B": "German",
+        "C": "Arabic",
+        "D": "Spanish"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 75,
+      "question": "The Eurozone consists of how many EU countries (as of 2024)?",
+      "options": {
+        "A": "19",
+        "B": "20",
+        "C": "27",
+        "D": "15"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 76,
+      "question": "The European Commission President (re-elected 2024) is:",
+      "options": {
+        "A": "Charles Michel",
+        "B": "Ursula von der Leyen",
+        "C": "Roberta Metsola",
+        "D": "Christine Lagarde"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 77,
+      "question": "Which treaty turned the European Community into the European Union?",
+      "options": {
+        "A": "Treaty of Rome",
+        "B": "Maastricht Treaty",
+        "C": "Single European Act",
+        "D": "Treaty of Amsterdam"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 78,
+      "question": "The 'Schengen Area' refers to:",
+      "options": {
+        "A": "Economic Union",
+        "B": "Passport-free travel zone",
+        "C": "Military Alliance",
+        "D": "Customs Union"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 79,
+      "question": "The EU's Nobel Peace Prize (2012) was for:",
+      "options": {
+        "A": "Economic stability",
+        "B": "Advancing peace and reconciliation",
+        "C": "Environmental protection",
+        "D": "Humanitarian aid"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 80,
+      "question": "The SAARC charter was signed on:",
+      "options": {
+        "A": "January 1, 1985",
+        "B": "December 8, 1985",
+        "C": "August 14, 1985",
+        "D": "October 24, 1985"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 81,
+      "question": "Which country is the newest member of SAARC (joined 2007)?",
+      "options": {
+        "A": "Maldives",
+        "B": "Afghanistan",
+        "C": "Bhutan",
+        "D": "Nepal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 82,
+      "question": "SAFTA (South Asian Free Trade Area) was signed in:",
+      "options": {
+        "A": "2000",
+        "B": "2004",
+        "C": "2006",
+        "D": "2010"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 83,
+      "question": "The BRICS association was originally known as BRIC until:",
+      "options": {
+        "A": "2008",
+        "B": "2010",
+        "C": "2012",
+        "D": "2015"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 84,
+      "question": "Which of these countries was NOT invited to join BRICS in 2023?",
+      "options": {
+        "A": "Iran",
+        "B": "Turkey",
+        "C": "Egypt",
+        "D": "Ethiopia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 85,
+      "question": "The 2024 BRICS summit is scheduled to be held in:",
+      "options": {
+        "A": "Brazil",
+        "B": "Russia",
+        "C": "India",
+        "D": "South Africa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 86,
+      "question": "Which organization includes the Regional Antiterrorist Structure (RATS)?",
+      "options": {
+        "A": "UN",
+        "B": "SCO",
+        "C": "NATO",
+        "D": "GCC"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 87,
+      "question": "The GCC summit in 2012 proposed transforming the council into a:",
+      "options": {
+        "A": "Gulf Republic",
+        "B": "Gulf Union",
+        "C": "Arab State",
+        "D": "Military Bloc"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 88,
+      "question": "Which UN body has been inactive since Palau gained independence?",
+      "options": {
+        "A": "Security Council",
+        "B": "Trusteeship Council",
+        "C": "ECOSOC",
+        "D": "Secretariat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 89,
+      "question": "The European Union's flag has how many stars?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "27"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 90,
+      "question": "The current Secretary-General of SAARC belongs to which country?",
+      "options": {
+        "A": "Pakistan",
+        "B": "Bangladesh",
+        "C": "India",
+        "D": "Sri Lanka"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 91,
+      "question": "Who was the Mughal Emperor during the visit of Sir Thomas Roe?",
+      "options": {
+        "A": "Akbar",
+        "B": "Jahangir",
+        "C": "Shah Jahan",
+        "D": "Aurangzeb"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 92,
+      "question": "The Battle of Plassey was fought in:",
+      "options": {
+        "A": "1750",
+        "B": "1757",
+        "C": "1761",
+        "D": "1764"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 93,
+      "question": "The Battle of Buxar was fought in:",
+      "options": {
+        "A": "1757",
+        "B": "1764",
+        "C": "1772",
+        "D": "1784"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 94,
+      "question": "Who introduced the 'Doctrine of Lapse'?",
+      "options": {
+        "A": "Lord Canning",
+        "B": "Lord Dalhousie",
+        "C": "Lord Wellesley",
+        "D": "Lord Curzon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 95,
+      "question": "The first census in India was conducted during the tenure of:",
+      "options": {
+        "A": "Lord Lytton",
+        "B": "Lord Mayo",
+        "C": "Lord Ripon",
+        "D": "Lord Dufferin"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 96,
+      "question": "The Rowlatt Act was passed in:",
+      "options": {
+        "A": "1917",
+        "B": "1919",
+        "C": "1921",
+        "D": "1923"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 97,
+      "question": "The Quit India Movement started in:",
+      "options": {
+        "A": "1940",
+        "B": "1942",
+        "C": "1944",
+        "D": "1946"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 98,
+      "question": "The Cabinet Mission came to India in:",
+      "options": {
+        "A": "1944",
+        "B": "1946",
+        "C": "1945",
+        "D": "1947"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 99,
+      "question": "Who was the British Prime Minister during Indian Independence?",
+      "options": {
+        "A": "Winston Churchill",
+        "B": "Clement Attlee",
+        "C": "Ramsay MacDonald",
+        "D": "Neville Chamberlain"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 100,
+      "question": "The Shimla Conference was held in which year?",
+      "options": {
+        "A": "1943",
+        "B": "1945",
+        "C": "1946",
+        "D": "1947"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 101,
+      "question": "Which country is the largest in the European Union by area?",
+      "options": {
+        "A": "Germany",
+        "B": "France",
+        "C": "Spain",
+        "D": "Sweden"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 102,
+      "question": "The European Central Bank is located in:",
+      "options": {
+        "A": "Brussels",
+        "B": "Frankfurt",
+        "C": "Paris",
+        "D": "Luxembourg"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 103,
+      "question": "Which of these is NOT a principal organ of the UN?",
+      "options": {
+        "A": "Security Council",
+        "B": "World Bank",
+        "C": "Secretariat",
+        "D": "ICJ"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 104,
+      "question": "The SAARC summit was first held in which year?",
+      "options": {
+        "A": "1980",
+        "B": "1985",
+        "C": "1990",
+        "D": "1995"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 105,
+      "question": "Which country is NOT a member of BRICS?",
+      "options": {
+        "A": "Brazil",
+        "B": "Japan",
+        "C": "India",
+        "D": "China"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 106,
+      "question": "The GCC Charter was signed in Abu Dhabi on May 25, 1981. This is in which country?",
+      "options": {
+        "A": "Saudi Arabia",
+        "B": "United Arab Emirates",
+        "C": "Kuwait",
+        "D": "Oman"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 107,
+      "question": "The SCO successor to which group?",
+      "options": {
+        "A": "CSTO",
+        "B": "Shanghai Five",
+        "C": "NATO",
+        "D": "ASEAN"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 108,
+      "question": "Which UN organ is the main deliberative body?",
+      "options": {
+        "A": "Security Council",
+        "B": "General Assembly",
+        "C": "ECOSOC",
+        "D": "Secretariat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 109,
+      "question": "How many countries were the founding members of the UN?",
+      "options": {
+        "A": "30",
+        "B": "51",
+        "C": "193",
+        "D": "10"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 110,
+      "question": "The 'Euro' was introduced as a physical currency in:",
+      "options": {
+        "A": "1999",
+        "B": "2002",
+        "C": "1993",
+        "D": "2005"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 111,
+      "question": "The 23rd SCO Summit hosted by India in 2023 was held in which format?",
+      "options": {
+        "A": "Physical",
+        "B": "Virtual",
+        "C": "Hybrid",
+        "D": "Cancelled"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 112,
+      "question": "Which body of the UN is headquartered in The Hague?",
+      "options": {
+        "A": "WHO",
+        "B": "ICJ",
+        "C": "UNESCO",
+        "D": "UNICEF"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 113,
+      "question": "The European Union was awarded the Nobel Peace Prize in:",
+      "options": {
+        "A": "2010",
+        "B": "2012",
+        "C": "2015",
+        "D": "2009"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 114,
+      "question": "Which country always gives the first speech at the UN General Assembly?",
+      "options": {
+        "A": "USA",
+        "B": "Brazil",
+        "C": "UK",
+        "D": "France"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 115,
+      "question": "The SAARC Secretariat was established in Kathmandu in:",
+      "options": {
+        "A": "1985",
+        "B": "1987",
+        "C": "1990",
+        "D": "1981"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 116,
+      "question": "South Africa hosted the 15th BRICS summit in which city?",
+      "options": {
+        "A": "Cape Town",
+        "B": "Johannesburg",
+        "C": "Durban",
+        "D": "Pretoria"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 117,
+      "question": "The GCC's headquarters is in Riyadh, which is the capital of:",
+      "options": {
+        "A": "UAE",
+        "B": "Saudi Arabia",
+        "C": "Qatar",
+        "D": "Bahrain"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 118,
+      "question": "The SCO covers what percentage of the world population?",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "60%",
+        "D": "80%"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 119,
+      "question": "Which UN official is appointed by the General Assembly on the recommendation of the Security Council?",
+      "options": {
+        "A": "ICJ Judge",
+        "B": "Secretary-General",
+        "C": "WHO Director",
+        "D": "UNGA President"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 120,
+      "question": "The Treaty of Lisbon came into force in:",
+      "options": {
+        "A": "2007",
+        "B": "2009",
+        "C": "2011",
+        "D": "2005"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 121,
+      "question": "The total area of the European Union is roughly:",
+      "options": {
+        "A": "2 million km2",
+        "B": "4.23 million km2",
+        "C": "6 million km2",
+        "D": "10 million km2"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 122,
+      "question": "Which country is NOT an observer in SAARC?",
+      "options": {
+        "A": "China",
+        "B": "Pakistan",
+        "C": "USA",
+        "D": "Japan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 123,
+      "question": "The BRICS acronym was coined by an economist from which firm?",
+      "options": {
+        "A": "J.P. Morgan",
+        "B": "Goldman Sachs",
+        "C": "Morgan Stanley",
+        "D": "Merrill Lynch"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 124,
+      "question": "The GCC official flag features how many stars?",
+      "options": {
+        "A": "0",
+        "B": "6",
+        "C": "7",
+        "D": "1"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 125,
+      "question": "Iran joined the SCO as a full member in:",
+      "options": {
+        "A": "2017",
+        "B": "2023",
+        "C": "2021",
+        "D": "2024"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 126,
+      "question": "Which UN agency is responsible for children's welfare?",
+      "options": {
+        "A": "UNESCO",
+        "B": "UNICEF",
+        "C": "UNHCR",
+        "D": "UNDP"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 127,
+      "question": "The 'Inner Six' of the EU founding states included:",
+      "options": {
+        "A": "UK",
+        "B": "Italy",
+        "C": "Spain",
+        "D": "Greece"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 128,
+      "question": "How many countries are founding members of SAARC?",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "8",
+        "D": "10"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 129,
+      "question": "Argentina's invitation to join BRICS was eventually:",
+      "options": {
+        "A": "Accepted",
+        "B": "Declined",
+        "C": "Postponed",
+        "D": "Revoked"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 130,
+      "question": "The GCC's currency is planned but not yet implemented. It is tentatively called:",
+      "options": {
+        "A": "Dinar",
+        "B": "Khaleeji",
+        "C": "Riyal",
+        "D": "Dirham"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 131,
+      "question": "The 22nd SCO Summit in 2022 was hosted by:",
+      "options": {
+        "A": "Russia",
+        "B": "Uzbekistan",
+        "C": "India",
+        "D": "China"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 132,
+      "question": "The UN General Assembly President for the 79th session (2024) is from which country?",
+      "options": {
+        "A": "Trinidad and Tobago",
+        "B": "Cameroon",
+        "C": "Pakistan",
+        "D": "Turkey"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 133,
+      "question": "The 'Court of Justice of the European Union' is located in:",
+      "options": {
+        "A": "Brussels",
+        "B": "Luxembourg",
+        "C": "Strasbourg",
+        "D": "Frankfurt"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 134,
+      "question": "The SAARC summit has been postponed since which year?",
+      "options": {
+        "A": "2014",
+        "B": "2016",
+        "C": "2018",
+        "D": "2020"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 135,
+      "question": "Who is the current President of the New Development Bank (NDB)?",
+      "options": {
+        "A": "K.V. Kamath",
+        "B": "Dilma Rousseff",
+        "C": "Marcos Troyjo",
+        "D": "Jim Yong Kim"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 136,
+      "question": "The GCC countries contain about what percentage of the world's oil reserves?",
+      "options": {
+        "A": "10%",
+        "B": "33%",
+        "C": "50%",
+        "D": "25%"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 137,
+      "question": "Which SCO member state is landlocked?",
+      "options": {
+        "A": "China",
+        "B": "Uzbekistan",
+        "C": "India",
+        "D": "Pakistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 138,
+      "question": "Which UN organ has the power to impose sanctions?",
+      "options": {
+        "A": "General Assembly",
+        "B": "Security Council",
+        "C": "ICJ",
+        "D": "Secretariat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 139,
+      "question": "The European Parliament meets in which two cities?",
+      "options": {
+        "A": "Brussels and Paris",
+        "B": "Brussels and Strasbourg",
+        "C": "Paris and Berlin",
+        "D": "London and Rome"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 140,
+      "question": "Which country hosted the first SAARC summit in 1985?",
+      "options": {
+        "A": "India",
+        "B": "Bangladesh",
+        "C": "Pakistan",
+        "D": "Sri Lanka"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 141,
+      "question": "Who was the first President of Pakistan?",
+      "options": {
+        "A": "Quid-e-Azam",
+        "B": "Iskander Mirza",
+        "C": "Ayub Khan",
+        "D": "Liaquat Ali Khan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 142,
+      "question": "The 1973 Constitution of Pakistan was passed under:",
+      "options": {
+        "A": "Ayub Khan",
+        "B": "Zulfiqar Ali Bhutto",
+        "C": "Yahya Khan",
+        "D": "Zia-ul-Haq"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 143,
+      "question": "Which city is the capital of Pakistan?",
+      "options": {
+        "A": "Karachi",
+        "B": "Islamabad",
+        "C": "Lahore",
+        "D": "Rawalpindi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 144,
+      "question": "The highest mountain peak in Pakistan is:",
+      "options": {
+        "A": "Nanga Parbat",
+        "B": "K2",
+        "C": "Rakaposhi",
+        "D": "Broad Peak"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 145,
+      "question": "Pakistan's Independence Day is celebrated on:",
+      "options": {
+        "A": "August 15",
+        "B": "August 14",
+        "C": "March 23",
+        "D": "September 6"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 146,
+      "question": "Who is known as the 'Poet of the East'?",
+      "options": {
+        "A": "Faiz Ahmed Faiz",
+        "B": "Allama Iqbal",
+        "C": "Mirza Ghalib",
+        "D": "Ahmed Faraz"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 147,
+      "question": "The objective resolution was passed in which year?",
+      "options": {
+        "A": "1947",
+        "B": "1949",
+        "C": "1956",
+        "D": "1973"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 148,
+      "question": "Which is the national flower of Pakistan?",
+      "options": {
+        "A": "Rose",
+        "B": "Jasmine",
+        "C": "Lotus",
+        "D": "Tulip"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 149,
+      "question": "The Indus Water Treaty was signed in:",
+      "options": {
+        "A": "1950",
+        "B": "1960",
+        "C": "1970",
+        "D": "1948"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 150,
+      "question": "The second largest city in Pakistan is:",
+      "options": {
+        "A": "Faisalabad",
+        "B": "Lahore",
+        "C": "Rawalpindi",
+        "D": "Peshawar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 151,
+      "question": "Which country hosted the G20 summit in 2024?",
+      "options": {
+        "A": "India",
+        "B": "Brazil",
+        "C": "South Africa",
+        "D": "USA"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 152,
+      "question": "Who won the ICC Men's T20 World Cup 2024?",
+      "options": {
+        "A": "South Africa",
+        "B": "India",
+        "C": "Australia",
+        "D": "Pakistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 153,
+      "question": "The 2024 Olympic Games were held in:",
+      "options": {
+        "A": "Tokyo",
+        "B": "Paris",
+        "C": "Los Angeles",
+        "D": "London"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 154,
+      "question": "Who is the current Prime Minister of the United Kingdom (elected 2024)?",
+      "options": {
+        "A": "Rishi Sunak",
+        "B": "Keir Starmer",
+        "C": "Boris Johnson",
+        "D": "Liz Truss"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 155,
+      "question": "The 'Abraham Accords' involve normalization between Israel and which group?",
+      "options": {
+        "A": "EU nations",
+        "B": "Arab nations",
+        "C": "African nations",
+        "D": "Asian nations"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 156,
+      "question": "Which country is the largest economy in the world by Nominal GDP?",
+      "options": {
+        "A": "China",
+        "B": "USA",
+        "C": "Japan",
+        "D": "Germany"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 157,
+      "question": "The 'COP29' climate summit is scheduled to be held in:",
+      "options": {
+        "A": "Dubai",
+        "B": "Baku",
+        "C": "Rio",
+        "D": "Cairo"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 158,
+      "question": "Who is the current President of France?",
+      "options": {
+        "A": "Nicolas Sarkozy",
+        "B": "Emmanuel Macron",
+        "C": "François Hollande",
+        "D": "Marine Le Pen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 159,
+      "question": "Which country is known as the 'Sugar Bowl of the World'?",
+      "options": {
+        "A": "India",
+        "B": "Cuba",
+        "C": "Brazil",
+        "D": "Thailand"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 160,
+      "question": "The current interest rate of Pakistan (as of mid-2024) is approximately:",
+      "options": {
+        "A": "15%",
+        "B": "20.5%",
+        "C": "10%",
+        "D": "25%"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 161,
+      "question": "Which organization uses the flag with 12 golden stars in a circle?",
+      "options": {
+        "A": "UN",
+        "B": "EU",
+        "C": "NATO",
+        "D": "ASEAN"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 162,
+      "question": "The SCO summit 2024 (Heads of State) was held in:",
+      "options": {
+        "A": "Beijing",
+        "B": "Astana",
+        "C": "Islamabad",
+        "D": "Moscow"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 163,
+      "question": "Who is the President of the World Bank (as of 2024)?",
+      "options": {
+        "A": "David Malpass",
+        "B": "Ajay Banga",
+        "C": "Jim Yong Kim",
+        "D": "Christine Lagarde"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 164,
+      "question": "Which country recently joined NATO as the 32nd member?",
+      "options": {
+        "A": "Finland",
+        "B": "Sweden",
+        "C": "Ukraine",
+        "D": "Georgia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 165,
+      "question": "The 'Balfour Declaration' is related to the establishment of which state?",
+      "options": {
+        "A": "Jordan",
+        "B": "Israel",
+        "C": "Palestine",
+        "D": "Syria"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 166,
+      "question": "The 'Silk Road' project (BRI) was launched by:",
+      "options": {
+        "A": "India",
+        "B": "China",
+        "C": "USA",
+        "D": "Russia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 167,
+      "question": "Who won the Nobel Peace Prize 2023?",
+      "options": {
+        "A": "Maria Ressa",
+        "B": "Narges Mohammadi",
+        "C": "Malala Yousafzai",
+        "D": "Abiy Ahmed"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 168,
+      "question": "The 'G7' does NOT include which country?",
+      "options": {
+        "A": "Italy",
+        "B": "China",
+        "C": "Canada",
+        "D": "Japan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 169,
+      "question": "Which country has the highest population in the world (as of 2023/24)?",
+      "options": {
+        "A": "China",
+        "B": "India",
+        "C": "USA",
+        "D": "Indonesia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 170,
+      "question": "The 'Hague' is a city in which country?",
+      "options": {
+        "A": "Belgium",
+        "B": "Netherlands",
+        "C": "Switzerland",
+        "D": "Denmark"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 171,
+      "question": "How many provinces are there in Pakistan?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 172,
+      "question": "The longest river of Pakistan is:",
+      "options": {
+        "A": "Jhelum",
+        "B": "Indus",
+        "C": "Chenab",
+        "D": "Ravi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 173,
+      "question": "Which city is known as the 'Manchester of Pakistan'?",
+      "options": {
+        "A": "Lahore",
+        "B": "Faisalabad",
+        "C": "Karachi",
+        "D": "Sialkot"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 174,
+      "question": "Who was the first woman Prime Minister of Pakistan?",
+      "options": {
+        "A": "Fatima Jinnah",
+        "B": "Benazir Bhutto",
+        "C": "Maryam Nawaz",
+        "D": "Hina Rabbani Khar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 175,
+      "question": "The national game of Pakistan is:",
+      "options": {
+        "A": "Cricket",
+        "B": "Field Hockey",
+        "C": "Squash",
+        "D": "Kabaddi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 176,
+      "question": "Which language is the national language of Pakistan?",
+      "options": {
+        "A": "Punjabi",
+        "B": "Urdu",
+        "C": "Sindhi",
+        "D": "English"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 177,
+      "question": "The 'Khyber Pass' connects Pakistan with:",
+      "options": {
+        "A": "India",
+        "B": "Afghanistan",
+        "C": "China",
+        "D": "Iran"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 178,
+      "question": "The highest civilian award of Pakistan is:",
+      "options": {
+        "A": "Hilal-e-Imtiaz",
+        "B": "Nishan-e-Pakistan",
+        "C": "Sitara-e-Jurat",
+        "D": "Tamgha-e-Shujaat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 179,
+      "question": "Which desert is located in Sindh?",
+      "options": {
+        "A": "Thal",
+        "B": "Thar",
+        "C": "Cholistan",
+        "D": "Kharan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 180,
+      "question": "Who is the current Chief of Army Staff of Pakistan (as of 2024)?",
+      "options": {
+        "A": "Gen. Qamar Javed Bajwa",
+        "B": "Gen. Asim Munir",
+        "C": "Gen. Raheel Sharif",
+        "D": "Gen. Sahir Shamshad Mirza"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 181,
+      "question": "The headquarters of the World Health Organization (WHO) is in:",
+      "options": {
+        "A": "New York",
+        "B": "Geneva",
+        "C": "London",
+        "D": "Paris"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 182,
+      "question": "Which country is NOT a member of the G7?",
+      "options": {
+        "A": "Canada",
+        "B": "Russia",
+        "C": "Japan",
+        "D": "France"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 183,
+      "question": "The 'Eurozone' uses which currency?",
+      "options": {
+        "A": "Pound",
+        "B": "Euro",
+        "C": "Franc",
+        "D": "Lira"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 184,
+      "question": "Who is the Managing Director of the IMF?",
+      "options": {
+        "A": "Christine Lagarde",
+        "B": "Kristalina Georgieva",
+        "C": "David Malpass",
+        "D": "Ajay Banga"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 185,
+      "question": "The 'Wall Street' is located in:",
+      "options": {
+        "A": "London",
+        "B": "New York",
+        "C": "Tokyo",
+        "D": "Hong Kong"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 186,
+      "question": "Which is the largest ocean in the world?",
+      "options": {
+        "A": "Atlantic",
+        "B": "Pacific",
+        "C": "Indian",
+        "D": "Arctic"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 187,
+      "question": "The 'Big Apple' is a nickname for:",
+      "options": {
+        "A": "London",
+        "B": "New York",
+        "C": "Los Angeles",
+        "D": "Chicago"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 188,
+      "question": "Which country is called the 'Land of the White Elephant'?",
+      "options": {
+        "A": "India",
+        "B": "Thailand",
+        "C": "Africa",
+        "D": "Vietnam"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 189,
+      "question": "The 'Pentagon' is the headquarters of:",
+      "options": {
+        "A": "UN",
+        "B": "US Defense Department",
+        "C": "FBI",
+        "D": "NASA"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 190,
+      "question": "Who discovered the sea route to India in 1498?",
+      "options": {
+        "A": "Columbus",
+        "B": "Vasco da Gama",
+        "C": "Magellan",
+        "D": "Captain Cook"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 191,
+      "question": "The first Pakistan-India war occurred in:",
+      "options": {
+        "A": "1947",
+        "B": "1948",
+        "C": "1965",
+        "D": "1971"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 192,
+      "question": "Who was the Prime Minister during the 1965 war?",
+      "options": {
+        "A": "Ayub Khan",
+        "B": "Lal Bahadur Shastri",
+        "C": "Jawaharlal Nehru",
+        "D": "Indira Gandhi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 193,
+      "question": "The Tashkent Declaration (1966) was signed between:",
+      "options": {
+        "A": "Bhutto and Gandhi",
+        "B": "Ayub Khan and Shastri",
+        "C": "Zia and Gandhi",
+        "D": "Yahya and Indira"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 194,
+      "question": "Which country recognized Pakistan first?",
+      "options": {
+        "A": "Saudi Arabia",
+        "B": "Iran",
+        "C": "Turkey",
+        "D": "Afghanistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 195,
+      "question": "The Shimla Agreement (1972) was signed between:",
+      "options": {
+        "A": "Ayub and Shastri",
+        "B": "Bhutto and Indira Gandhi",
+        "C": "Zia and Rajiv Gandhi",
+        "D": "Nawaz and Vajpayee"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 196,
+      "question": "When did Pakistan become a nuclear power?",
+      "options": {
+        "A": "1974",
+        "B": "1998",
+        "C": "1990",
+        "D": "2000"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 197,
+      "question": "Who was the scientist behind Pakistan's nuclear program?",
+      "options": {
+        "A": "Dr. Abdus Salam",
+        "B": "Dr. A.Q. Khan",
+        "C": "Dr. Samar Mubarakmand",
+        "D": "Dr. Ishrat Hussain"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 198,
+      "question": "The Kargil conflict took place in:",
+      "options": {
+        "A": "1998",
+        "B": "1999",
+        "C": "2001",
+        "D": "1995"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 199,
+      "question": "Which constitutional amendment made Pakistan a parliamentary system?",
+      "options": {
+        "A": "8th",
+        "B": "18th",
+        "C": "13th",
+        "D": "25th"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 200,
+      "question": "The national anthem of Pakistan was written by:",
+      "options": {
+        "A": "Allama Iqbal",
+        "B": "Hafeez Jalandhari",
+        "C": "Faiz Ahmed Faiz",
+        "D": "Josh Malihabadi"
+      },
+      "correct_answer": "B"
+    },
+
+    {
+      "question_number": 201,
+      "question": "Which country hosted the 2023 SCO Council of Heads of Government meeting?",
+      "options": {
+        "A": "India",
+        "B": "Kyrgyzstan",
+        "C": "Pakistan",
+        "D": "China"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 202,
+      "question": "The SCO covers approximately what percentage of the Eurasian landmass?",
+      "options": {
+        "A": "40%",
+        "B": "60%",
+        "C": "80%",
+        "D": "90%"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 203,
+      "question": "In which year did India and Pakistan become full members of the SCO?",
+      "options": {
+        "A": "2015",
+        "B": "2016",
+        "C": "2017",
+        "D": "2018"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 204,
+      "question": "Which body is the supreme decision-making organ of the SCO?",
+      "options": {
+        "A": "Council of Foreign Ministers",
+        "B": "Heads of State Council (HSC)",
+        "C": "RATS",
+        "D": "Secretariat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 205,
+      "question": "The 23rd SCO Summit in July 2023 was hosted by which country?",
+      "options": {
+        "A": "Uzbekistan",
+        "B": "China",
+        "C": "India",
+        "D": "Russia"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 206,
+      "question": "Which of the following is currently an observer state of the SCO?",
+      "options": {
+        "A": "Cambodia",
+        "B": "Turkey",
+        "C": "Afghanistan",
+        "D": "Azerbaijan"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 207,
+      "question": "How many member states are currently in the Gulf Cooperation Council (GCC)?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 208,
+      "question": "What is the official language of the GCC?",
+      "options": {
+        "A": "English",
+        "B": "Arabic",
+        "C": "Persian",
+        "D": "Urdu"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 209,
+      "question": "Which GCC member is a federal monarchy composed of seven absolute monarchies?",
+      "options": {
+        "A": "Saudi Arabia",
+        "B": "Qatar",
+        "C": "Oman",
+        "D": "United Arab Emirates"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 210,
+      "question": "The Charter of the GCC was signed on May 25, 1981, in which city?",
+      "options": {
+        "A": "Abu Dhabi",
+        "B": "Riyadh",
+        "C": "Muscat",
+        "D": "Doha"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 211,
+      "question": "The United Nations officially began its operations on:",
+      "options": {
+        "A": "June 26, 1945",
+        "B": "October 24, 1945",
+        "C": "January 1, 1946",
+        "D": "August 14, 1947"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 212,
+      "question": "How many nations met in San Francisco to draft the UN Charter?",
+      "options": {
+        "A": "30",
+        "B": "50",
+        "C": "51",
+        "D": "193"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 213,
+      "question": "Which UN organ is responsible for maintaining international peace and security?",
+      "options": {
+        "A": "General Assembly",
+        "B": "Security Council",
+        "C": "Secretariat",
+        "D": "Trusteeship Council"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 214,
+      "question": "Which UN body has been inactive since 1994?",
+      "options": {
+        "A": "International Court of Justice",
+        "B": "Economic and Social Council",
+        "C": "Trusteeship Council",
+        "D": "UNICEF"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 215,
+      "question": "The UN Secretariat is headed by the:",
+      "options": {
+        "A": "President",
+        "B": "Secretary-General",
+        "C": "Chief Justice",
+        "D": "High Commissioner"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 216,
+      "question": "How many official languages are recognized by the United Nations?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 217,
+      "question": "The European Union was incorporated as a legal juridical person by which treaty in 2009?",
+      "options": {
+        "A": "Maastricht Treaty",
+        "B": "Treaty of Rome",
+        "C": "Treaty of Lisbon",
+        "D": "Treaty of Nice"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 218,
+      "question": "The 'Inner Six' founding states of European integration included which of the following?",
+      "options": {
+        "A": "United Kingdom",
+        "B": "West Germany",
+        "C": "Spain",
+        "D": "Greece"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 219,
+      "question": "The EU was awarded the Nobel Peace Prize in which year?",
+      "options": {
+        "A": "2009",
+        "B": "2012",
+        "C": "2015",
+        "D": "2020"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 220,
+      "question": "Which area allows for the abolition of passport controls within the EU?",
+      "options": {
+        "A": "Eurozone",
+        "B": "Customs Union",
+        "C": "Schengen Area",
+        "D": "Common Market"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 221,
+      "question": "The headquarters of the European Union is primarily located in:",
+      "options": {
+        "A": "Paris, France",
+        "B": "Berlin, Germany",
+        "C": "Brussels, Belgium",
+        "D": "Rome, Italy"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 222,
+      "question": "Who is the current Deputy Secretary-General of the United Nations?",
+      "options": {
+        "A": "António Guterres",
+        "B": "Amina J. Mohammed",
+        "C": "Dennis Francis",
+        "D": "Paula Narváez"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 223,
+      "question": "What is the total estimated population of the European Union?",
+      "options": {
+        "A": "330 million",
+        "B": "448 million",
+        "C": "510 million",
+        "D": "600 million"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 224,
+      "question": "The 15th BRICS Summit in 2023 invited how many new countries to join?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "8"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 225,
+      "question": "Full membership for the new BRICS invitees was set to take effect on:",
+      "options": {
+        "A": "July 1, 2023",
+        "B": "October 24, 2023",
+        "C": "January 1, 2024",
+        "D": "June 1, 2024"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 226,
+      "question": "Which South American country was invited to BRICS but later declined the invitation?",
+      "options": {
+        "A": "Brazil",
+        "B": "Argentina",
+        "C": "Chile",
+        "D": "Colombia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 227,
+      "question": "The SAARC Secretariat is located in which country?",
+      "options": {
+        "A": "Bangladesh",
+        "B": "India",
+        "C": "Nepal",
+        "D": "Pakistan"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 228,
+      "question": "Which of the following is NOT a founding member of SAARC?",
+      "options": {
+        "A": "Maldives",
+        "B": "Bhutan",
+        "C": "Afghanistan",
+        "D": "Sri Lanka"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 229,
+      "question": "SAFTA stands for South Asian Free ________ Area.",
+      "options": {
+        "A": "Transport",
+        "B": "Trade",
+        "C": "Technical",
+        "D": "Tourism"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 230,
+      "question": "The first SAARC Summit was held in December 1985 in:",
+      "options": {
+        "A": "Kathmandu",
+        "B": "Colombo",
+        "C": "Islamabad",
+        "D": "Dhaka"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 231,
+      "question": "Which country is known as the 'Land of the Midnight Sun'?",
+      "options": {
+        "A": "Japan",
+        "B": "Norway",
+        "C": "Finland",
+        "D": "Canada"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 232,
+      "question": "The world's largest regional organization in terms of geographic scope is:",
+      "options": {
+        "A": "EU",
+        "B": "ASEAN",
+        "C": "SCO",
+        "D": "BRICS"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 233,
+      "question": "Which official UN language is the primary language used in South America (except Brazil)?",
+      "options": {
+        "A": "English",
+        "B": "Portuguese",
+        "C": "Spanish",
+        "D": "French"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 234,
+      "question": "The 15 permanent and non-permanent members make up which UN organ?",
+      "options": {
+        "A": "ECOSOC",
+        "B": "Security Council",
+        "C": "General Assembly",
+        "D": "Secretariat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 235,
+      "question": "The 22nd SCO Summit (2022) was held in:",
+      "options": {
+        "A": "Dushanbe",
+        "B": "Samarkand",
+        "C": "Bishkek",
+        "D": "Astana"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 236,
+      "question": "The 'Shanghai Five' was formed in 1996. Which country was NOT part of it?",
+      "options": {
+        "A": "China",
+        "B": "Russia",
+        "C": "Uzbekistan",
+        "D": "Kazakhstan"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 237,
+      "question": "What is the primary currency used in the Eurozone?",
+      "options": {
+        "A": "Dollar",
+        "B": "Pound",
+        "C": "Euro",
+        "D": "Franc"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 238,
+      "question": "The United Nations General Assembly President for the 78th session (2023) was:",
+      "options": {
+        "A": "Dennis Francis",
+        "B": "Csaba Kőrösi",
+        "C": "Abdulla Shahid",
+        "D": "Volkan Bozkır"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 239,
+      "question": "Which organization includes specialized agencies like WHO and UNESCO?",
+      "options": {
+        "A": "EU",
+        "B": "UN",
+        "C": "SCO",
+        "D": "NATO"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 240,
+      "question": "In the GCC, which two countries are classified as absolute monarchies?",
+      "options": {
+        "A": "Kuwait and Qatar",
+        "B": "Saudi Arabia and Oman",
+        "C": "UAE and Bahrain",
+        "D": "Qatar and Saudi Arabia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 241,
+      "question": "The International Court of Justice consists of how many judges?",
+      "options": {
+        "A": "9",
+        "B": "11",
+        "C": "15",
+        "D": "21"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 242,
+      "question": "Which treaty is considered the 'cornerstone' of the EU Internal Market?",
+      "options": {
+        "A": "Treaty of Versailles",
+        "B": "The Customs Union",
+        "C": "Schengen Agreement",
+        "D": "NATO Treaty"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 243,
+      "question": "Which African country joined the BRIC group in 2010 to make it BRICS?",
+      "options": {
+        "A": "Egypt",
+        "B": "Nigeria",
+        "C": "South Africa",
+        "D": "Ethiopia"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 244,
+      "question": "The SAARC summit scheduled for 2016 was supposed to be held in:",
+      "options": {
+        "A": "New Delhi",
+        "B": "Islamabad",
+        "C": "Colombo",
+        "D": "Kabul"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 245,
+      "question": "Which UN organ has 54 members elected by the General Assembly for 3-year terms?",
+      "options": {
+        "A": "Security Council",
+        "B": "Economic and Social Council (ECOSOC)",
+        "C": "Trusteeship Council",
+        "D": "ICJ"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 246,
+      "question": "The European Coal and Steel Community (ECSC) was established in 1951 by the Treaty of:",
+      "options": {
+        "A": "Rome",
+        "B": "Paris",
+        "C": "Brussels",
+        "D": "London"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 247,
+      "question": "Which country is currently a 'Dialogue Partner' of the SCO?",
+      "options": {
+        "A": "Mongolia",
+        "B": "Turkey",
+        "C": "Iran",
+        "D": "Belarus"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 248,
+      "question": "The GCC's Peninsula Shield Force was formed in which year?",
+      "options": {
+        "A": "1981",
+        "B": "1984",
+        "C": "1990",
+        "D": "2012"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 249,
+      "question": "The United Nations Headquarters is located in which city?",
+      "options": {
+        "A": "Washington D.C.",
+        "B": "Geneva",
+        "C": "New York City",
+        "D": "San Francisco"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 250,
+      "question": "How many countries are currently 'aspiring' or candidates to join the European Union?",
+      "options": {
+        "A": "5",
+        "B": "9",
+        "C": "10",
+        "D": "12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 251,
+      "question": "The first UN Secretary-General was:",
+      "options": {
+        "A": "Trygve Lie",
+        "B": "Dag Hammarskjöld",
+        "C": "U Thant",
+        "D": "Kurt Waldheim"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 252,
+      "question": "Which country is historically the largest contributor to the UN budget?",
+      "options": {
+        "A": "China",
+        "B": "Japan",
+        "C": "USA",
+        "D": "Germany"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 253,
+      "question": "The 'Veto Power' in the UN Security Council is held by how many members?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "All"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 254,
+      "question": "The North Atlantic Treaty Organization (NATO) was formed in:",
+      "options": {
+        "A": "1945",
+        "B": "1947",
+        "C": "1949",
+        "D": "1955"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 255,
+      "question": "The headquarters of Interpol is in:",
+      "options": {
+        "A": "Paris",
+        "B": "Lyon",
+        "C": "Vienna",
+        "D": "New York"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 256,
+      "question": "Which organization uses the slogan 'Unity in Diversity'?",
+      "options": {
+        "A": "UN",
+        "B": "EU",
+        "C": "ASEAN",
+        "D": "SAARC"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 257,
+      "question": "The G7 consists of Canada, France, Germany, Italy, Japan, UK, and:",
+      "options": {
+        "A": "Russia",
+        "B": "China",
+        "C": "USA",
+        "D": "Australia"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 258,
+      "question": "The 'OPEC' headquarters is located in:",
+      "options": {
+        "A": "Riyadh",
+        "B": "Vienna",
+        "C": "Kuwait City",
+        "D": "Abu Dhabi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 259,
+      "question": "Which country hosted the first-ever FIFA World Cup in 1930?",
+      "options": {
+        "A": "Brazil",
+        "B": "Uruguay",
+        "C": "Argentina",
+        "D": "Italy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 260,
+      "question": "The 'Dead Sea' is located between which two countries?",
+      "options": {
+        "A": "Egypt and Sudan",
+        "B": "Jordan and Israel",
+        "C": "Iraq and Iran",
+        "D": "Turkey and Syria"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 261,
+      "question": "Which is the longest river in the world?",
+      "options": {
+        "A": "Amazon",
+        "B": "Nile",
+        "C": "Yangtze",
+        "D": "Mississippi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 262,
+      "question": "The 'Ring of Fire' is associated with which ocean?",
+      "options": {
+        "A": "Atlantic",
+        "B": "Indian",
+        "C": "Pacific",
+        "D": "Arctic"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 263,
+      "question": "Which country has the most volcanoes in the world?",
+      "options": {
+        "A": "Japan",
+        "B": "Iceland",
+        "C": "Indonesia",
+        "D": "USA"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 264,
+      "question": "The capital of Kazakhstan was renamed from Astana to what in 2019?",
+      "options": {
+        "A": "Almaty",
+        "B": "Nur-Sultan",
+        "C": "Tashkent",
+        "D": "Bishkek"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 265,
+      "question": "Which strait separates India and Sri Lanka?",
+      "options": {
+        "A": "Bering Strait",
+        "B": "Strait of Gibraltar",
+        "C": "Palk Strait",
+        "D": "Strait of Hormuz"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 266,
+      "question": "The Great Barrier Reef is located in which country?",
+      "options": {
+        "A": "USA",
+        "B": "Australia",
+        "C": "South Africa",
+        "D": "Brazil"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 267,
+      "question": "Which is the smallest country in the world by area?",
+      "options": {
+        "A": "Monaco",
+        "B": "Nauru",
+        "C": "Vatican City",
+        "D": "San Marino"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 268,
+      "question": "The currency of Japan is:",
+      "options": {
+        "A": "Yuan",
+        "B": "Yen",
+        "C": "Won",
+        "D": "Baht"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 269,
+      "question": "Mount Kilimanjaro is the highest peak in which continent?",
+      "options": {
+        "A": "Asia",
+        "B": "Africa",
+        "C": "South America",
+        "D": "Europe"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 270,
+      "question": "Which desert is the largest hot desert in the world?",
+      "options": {
+        "A": "Gobi",
+        "B": "Kalahari",
+        "C": "Sahara",
+        "D": "Atacama"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 271,
+      "question": "The 'Statue of Liberty' was a gift to the USA from:",
+      "options": {
+        "A": "UK",
+        "B": "France",
+        "C": "Germany",
+        "D": "Italy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 272,
+      "question": "Which city is known as the 'City of Canals'?",
+      "options": {
+        "A": "Paris",
+        "B": "Amsterdam",
+        "C": "Venice",
+        "D": "London"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 273,
+      "question": "The 'Land of the Rising Sun' refers to:",
+      "options": {
+        "A": "China",
+        "B": "Japan",
+        "C": "South Korea",
+        "D": "Thailand"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 274,
+      "question": "Which country is the largest producer of coffee in the world?",
+      "options": {
+        "A": "Vietnam",
+        "B": "Colombia",
+        "C": "Brazil",
+        "D": "Ethiopia"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 275,
+      "question": "The 'Eiffel Tower' is located in:",
+      "options": {
+        "A": "London",
+        "B": "Berlin",
+        "C": "Paris",
+        "D": "Madrid"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 276,
+      "question": "Which is the largest island in the world?",
+      "options": {
+        "A": "Australia",
+        "B": "Greenland",
+        "C": "New Guinea",
+        "D": "Borneo"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 277,
+      "question": "The 'Suez Canal' connects the Mediterranean Sea with the:",
+      "options": {
+        "A": "Black Sea",
+        "B": "Red Sea",
+        "C": "Caspian Sea",
+        "D": "Arabian Sea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 278,
+      "question": "Which country is historically also known as 'Holland'?",
+      "options": {
+        "A": "Belgium",
+        "B": "Denmark",
+        "C": "Netherlands",
+        "D": "Norway"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 279,
+      "question": "The 'Amazon Rainforest' is primarily located in which country?",
+      "options": {
+        "A": "Peru",
+        "B": "Brazil",
+        "C": "Colombia",
+        "D": "Venezuela"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 280,
+      "question": "Which is the highest waterfall in the world?",
+      "options": {
+        "A": "Niagara Falls",
+        "B": "Victoria Falls",
+        "C": "Angel Falls",
+        "D": "Iguazu Falls"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 281,
+      "question": "The 'Panama Canal' connects the Atlantic Ocean with the:",
+      "options": {
+        "A": "Indian Ocean",
+        "B": "Pacific Ocean",
+        "C": "Arctic Ocean",
+        "D": "Southern Ocean"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 282,
+      "question": "Which country has the highest number of time zones (including territories)?",
+      "options": {
+        "A": "Russia",
+        "B": "USA",
+        "C": "France",
+        "D": "China"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 283,
+      "question": "The 'Great Wall' is a famous landmark of:",
+      "options": {
+        "A": "India",
+        "B": "China",
+        "C": "Japan",
+        "D": "Mexico"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 284,
+      "question": "Which is the most populous metropolitan city in the world?",
+      "options": {
+        "A": "New York",
+        "B": "Shanghai",
+        "C": "Tokyo",
+        "D": "Delhi"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 285,
+      "question": "The 'Pyramids of Giza' are located in:",
+      "options": {
+        "A": "Sudan",
+        "B": "Mexico",
+        "C": "Egypt",
+        "D": "Peru"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 286,
+      "question": "Which is the largest continent by area?",
+      "options": {
+        "A": "Africa",
+        "B": "Asia",
+        "C": "North America",
+        "D": "Europe"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 287,
+      "question": "The 'White House' is the official residence of the President of:",
+      "options": {
+        "A": "UK",
+        "B": "France",
+        "C": "USA",
+        "D": "Russia"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 288,
+      "question": "Which country is known as the 'Rainbow Nation'?",
+      "options": {
+        "A": "India",
+        "B": "South Africa",
+        "C": "Brazil",
+        "D": "USA"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 289,
+      "question": "The 'Leaning Tower of Pisa' is located in:",
+      "options": {
+        "A": "Greece",
+        "B": "France",
+        "C": "Italy",
+        "D": "Spain"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 290,
+      "question": "Which is the smallest ocean in the world?",
+      "options": {
+        "A": "Indian",
+        "B": "Arctic",
+        "C": "Southern",
+        "D": "Atlantic"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 291,
+      "question": "The 'Big Ben' is a famous clock tower in:",
+      "options": {
+        "A": "Paris",
+        "B": "New York",
+        "C": "London",
+        "D": "Sydney"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 292,
+      "question": "Which country is known as the 'Land of the Thousand Lakes'?",
+      "options": {
+        "A": "Norway",
+        "B": "Sweden",
+        "C": "Finland",
+        "D": "Canada"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 293,
+      "question": "The 'Grand Canyon' is located in which US state?",
+      "options": {
+        "A": "California",
+        "B": "Nevada",
+        "C": "Arizona",
+        "D": "Texas"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 294,
+      "question": "Which is the deepest lake in the world?",
+      "options": {
+        "A": "Lake Superior",
+        "B": "Lake Victoria",
+        "C": "Lake Baikal",
+        "D": "Lake Tanganyika"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 295,
+      "question": "The 'Atacama Desert' is located in which continent?",
+      "options": {
+        "A": "Africa",
+        "B": "Asia",
+        "C": "South America",
+        "D": "Australia"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 296,
+      "question": "Which country has the longest coastline in the world?",
+      "options": {
+        "A": "Russia",
+        "B": "Canada",
+        "C": "Australia",
+        "D": "USA"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 297,
+      "question": "The 'Colosseum' is a famous ancient amphitheater in:",
+      "options": {
+        "A": "Athens",
+        "B": "Rome",
+        "C": "Cairo",
+        "D": "Istanbul"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 298,
+      "question": "Which is the largest country in the world by land area?",
+      "options": {
+        "A": "Canada",
+        "B": "China",
+        "C": "Russia",
+        "D": "USA"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 299,
+      "question": "Mount Everest is located in which mountain range?",
+      "options": {
+        "A": "Andes",
+        "B": "Alps",
+        "C": "Himalayas",
+        "D": "Rockies"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 300,
+      "question": "Which country is historically known as the 'Pearl of the Antilles'?",
+      "options": {
+        "A": "Jamaica",
+        "B": "Cuba",
+        "C": "Haiti",
+        "D": "Bahamas"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 301,
+      "question": "Who is the current President of China?",
+      "options": {
+        "A": "Hu Jintao",
+        "B": "Xi Jinping",
+        "C": "Li Keqiang",
+        "D": "Mao Zedong"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 302,
+      "question": "Which country won the most gold medals in the 2024 Paris Olympics?",
+      "options": {
+        "A": "China",
+        "B": "USA",
+        "C": "Japan",
+        "D": "France"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 303,
+      "question": "The 2026 FIFA World Cup will be hosted by how many countries?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 304,
+      "question": "Who is the current Prime Minister of Pakistan (as of mid-2024)?",
+      "options": {
+        "A": "Imran Khan",
+        "B": "Shehbaz Sharif",
+        "C": "Anwaar-ul-Haq Kakar",
+        "D": "Asif Ali Zardari"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 305,
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": {
+        "A": "Venus",
+        "B": "Mars",
+        "C": "Jupiter",
+        "D": "Saturn"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 306,
+      "question": "What is the capital of Ukraine?",
+      "options": {
+        "A": "Moscow",
+        "B": "Kyiv",
+        "C": "Warsaw",
+        "D": "Minsk"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 307,
+      "question": "Which is the hardest natural substance on Earth?",
+      "options": {
+        "A": "Gold",
+        "B": "Iron",
+        "C": "Diamond",
+        "D": "Quartz"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 308,
+      "question": "The 'Great Wall of China' was primarily built to protect against which group?",
+      "options": {
+        "A": "Romans",
+        "B": "Mongols",
+        "C": "Persians",
+        "D": "Indians"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 309,
+      "question": "Who is the author of the book 'A Brief History of Time'?",
+      "options": {
+        "A": "Isaac Newton",
+        "B": "Albert Einstein",
+        "C": "Stephen Hawking",
+        "D": "Charles Darwin"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 310,
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": {
+        "A": "Gold",
+        "B": "Oxygen",
+        "C": "Silver",
+        "D": "Iron"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 311,
+      "question": "The 'Industrial Revolution' first began in which country?",
+      "options": {
+        "A": "USA",
+        "B": "Germany",
+        "C": "Great Britain",
+        "D": "France"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 312,
+      "question": "Who painted the 'Mona Lisa'?",
+      "options": {
+        "A": "Pablo Picasso",
+        "B": "Leonardo da Vinci",
+        "C": "Vincent van Gogh",
+        "D": "Michelangelo"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 313,
+      "question": "What is the largest organ in the human body?",
+      "options": {
+        "A": "Heart",
+        "B": "Brain",
+        "C": "Skin",
+        "D": "Liver"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 314,
+      "question": "Which country is known as the 'Land of the Maple Leaf'?",
+      "options": {
+        "A": "Canada",
+        "B": "USA",
+        "C": "Australia",
+        "D": "New Zealand"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 315,
+      "question": "The 2023 Cricket World Cup was won by:",
+      "options": {
+        "A": "India",
+        "B": "Australia",
+        "C": "England",
+        "D": "Pakistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 316,
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Carbon Dioxide",
+        "D": "Hydrogen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 317,
+      "question": "What is the capital of Saudi Arabia?",
+      "options": {
+        "A": "Jeddah",
+        "B": "Mecca",
+        "C": "Riyadh",
+        "D": "Medina"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 318,
+      "question": "Who was the first person to walk on the moon?",
+      "options": {
+        "A": "Buzz Aldrin",
+        "B": "Neil Armstrong",
+        "C": "Yuri Gagarin",
+        "D": "John Glenn"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 319,
+      "question": "Which country is the largest producer of tea in the world?",
+      "options": {
+        "A": "India",
+        "B": "China",
+        "C": "Kenya",
+        "D": "Sri Lanka"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 320,
+      "question": "The Nobel Prize is awarded annually in which country (except Peace Prize)?",
+      "options": {
+        "A": "Norway",
+        "B": "Sweden",
+        "C": "Denmark",
+        "D": "Switzerland"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 321,
+      "question": "Who is known as the 'Father of Computers'?",
+      "options": {
+        "A": "Alan Turing",
+        "B": "Charles Babbage",
+        "C": "Bill Gates",
+        "D": "Steve Jobs"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 322,
+      "question": "Which city is the headquarters of the African Union?",
+      "options": {
+        "A": "Cairo",
+        "B": "Addis Ababa",
+        "C": "Nairobi",
+        "D": "Johannesburg"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 323,
+      "question": "What is the currency of the United Kingdom?",
+      "options": {
+        "A": "Euro",
+        "B": "Pound Sterling",
+        "C": "Dollar",
+        "D": "Franc"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 324,
+      "question": "The 'Great Depression' began in which year?",
+      "options": {
+        "A": "1914",
+        "B": "1929",
+        "C": "1939",
+        "D": "1945"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 325,
+      "question": "Which country is the smallest member of SAARC?",
+      "options": {
+        "A": "Bhutan",
+        "B": "Maldives",
+        "C": "Sri Lanka",
+        "D": "Nepal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 326,
+      "question": "What is the chemical symbol for Gold?",
+      "options": {
+        "A": "Ag",
+        "B": "Au",
+        "C": "Pb",
+        "D": "Fe"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 327,
+      "question": "Who invented the light bulb?",
+      "options": {
+        "A": "Nikola Tesla",
+        "B": "Thomas Edison",
+        "C": "Alexander Graham Bell",
+        "D": "James Watt"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 328,
+      "question": "Which ocean is located between Africa and Australia?",
+      "options": {
+        "A": "Atlantic",
+        "B": "Indian",
+        "C": "Pacific",
+        "D": "Arctic"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 329,
+      "question": "What is the capital of Turkey?",
+      "options": {
+        "A": "Istanbul",
+        "B": "Ankara",
+        "C": "Antalya",
+        "D": "Izmir"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 330,
+      "question": "The 'Statue of Unity' (tallest statue) is located in:",
+      "options": {
+        "A": "USA",
+        "B": "China",
+        "C": "India",
+        "D": "Brazil"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 331,
+      "question": "Which country is known as the 'Land of the Thunder Dragon'?",
+      "options": {
+        "A": "Japan",
+        "B": "Bhutan",
+        "C": "Thailand",
+        "D": "Vietnam"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 332,
+      "question": "Who wrote the play 'Hamlet'?",
+      "options": {
+        "A": "Charles Dickens",
+        "B": "William Shakespeare",
+        "C": "Mark Twain",
+        "D": "Leo Tolstoy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 333,
+      "question": "What is the main source of energy for the Earth?",
+      "options": {
+        "A": "Wind",
+        "B": "Sun",
+        "C": "Coal",
+        "D": "Oil"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 334,
+      "question": "Which country has the highest literacy rate in South Asia?",
+      "options": {
+        "A": "India",
+        "B": "Pakistan",
+        "C": "Sri Lanka",
+        "D": "Bangladesh"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 335,
+      "question": "What is the capital of Australia?",
+      "options": {
+        "A": "Sydney",
+        "B": "Melbourne",
+        "C": "Canberra",
+        "D": "Perth"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 336,
+      "question": "Who is the first female athlete to win a gold medal for Pakistan in the Commonwealth Games (2022 context)?",
+      "options": {
+        "A": "Naseem Shah",
+        "B": "Arshad Nadeem",
+        "C": "Nooh Dastgir Butt",
+        "D": "Naseem Hameed"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 337,
+      "question": "Which city is known as the 'Gateway of India'?",
+      "options": {
+        "A": "New Delhi",
+        "B": "Mumbai",
+        "C": "Kolkata",
+        "D": "Chennai"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 338,
+      "question": "What is the unit of power?",
+      "options": {
+        "A": "Joule",
+        "B": "Watt",
+        "C": "Newton",
+        "D": "Volt"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 339,
+      "question": "Which country has the largest Muslim population in the world?",
+      "options": {
+        "A": "Pakistan",
+        "B": "Indonesia",
+        "C": "Saudi Arabia",
+        "D": "Egypt"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 340,
+      "question": "What is the capital of Egypt?",
+      "options": {
+        "A": "Alexandria",
+        "B": "Cairo",
+        "C": "Luxor",
+        "D": "Giza"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 341,
+      "question": "Who is known as the 'Iron Lady'?",
+      "options": {
+        "A": "Indira Gandhi",
+        "B": "Margaret Thatcher",
+        "C": "Angela Merkel",
+        "D": "Benazir Bhutto"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 342,
+      "question": "Which country is the largest producer of rice in the world?",
+      "options": {
+        "A": "India",
+        "B": "China",
+        "C": "Thailand",
+        "D": "Vietnam"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 343,
+      "question": "What is the capital of Germany?",
+      "options": {
+        "A": "Munich",
+        "B": "Berlin",
+        "C": "Frankfurt",
+        "D": "Hamburg"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 344,
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "options": {
+        "A": "Mother Teresa",
+        "B": "Marie Curie",
+        "C": "Malala Yousafzai",
+        "D": "Rosalind Franklin"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 345,
+      "question": "Which is the largest bird in the world?",
+      "options": {
+        "A": "Eagle",
+        "B": "Ostrich",
+        "C": "Emu",
+        "D": "Albatross"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 346,
+      "question": "What is the capital of Iran?",
+      "options": {
+        "A": "Shiraz",
+        "B": "Tehran",
+        "C": "Isfahan",
+        "D": "Mashhad"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 347,
+      "question": "Who is the current President of the United States (as of mid-2024)?",
+      "options": {
+        "A": "Donald Trump",
+        "B": "Joe Biden",
+        "C": "Barack Obama",
+        "D": "Kamala Harris"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 348,
+      "question": "Which country is known as the 'Land of the Golden Fleece'?",
+      "options": {
+        "A": "Australia",
+        "B": "New Zealand",
+        "C": "Georgia",
+        "D": "Greece"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 349,
+      "question": "What is the capital of France?",
+      "options": {
+        "A": "Lyon",
+        "B": "Marseille",
+        "C": "Paris",
+        "D": "Bordeaux"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 350,
+      "question": "Who discovered Penicillin?",
+      "options": {
+        "A": "Louis Pasteur",
+        "B": "Alexander Fleming",
+        "C": "Edward Jenner",
+        "D": "Marie Curie"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 351,
+      "question": "Which is the largest desert in Asia?",
+      "options": {
+        "A": "Thar",
+        "B": "Gobi",
+        "C": "Arabian",
+        "D": "Karakum"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 352,
+      "question": "What is the capital of Italy?",
+      "options": {
+        "A": "Milan",
+        "B": "Rome",
+        "C": "Venice",
+        "D": "Florence"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 353,
+      "question": "Who is the current Prime Minister of India?",
+      "options": {
+        "A": "Rahul Gandhi",
+        "B": "Narendra Modi",
+        "C": "Amit Shah",
+        "D": "Manmohan Singh"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 354,
+      "question": "Which country is known as the 'Land of the Morning Calm'?",
+      "options": {
+        "A": "Japan",
+        "B": "South Korea",
+        "C": "China",
+        "D": "Thailand"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 355,
+      "question": "What is the capital of Spain?",
+      "options": {
+        "A": "Barcelona",
+        "B": "Madrid",
+        "C": "Seville",
+        "D": "Valencia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 356,
+      "question": "Who is the founder of Microsoft?",
+      "options": {
+        "A": "Steve Jobs",
+        "B": "Bill Gates",
+        "C": "Mark Zuckerberg",
+        "D": "Jeff Bezos"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 357,
+      "question": "Which is the smallest continent by area?",
+      "options": {
+        "A": "Europe",
+        "B": "Australia",
+        "C": "Antarctica",
+        "D": "South America"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 358,
+      "question": "What is the capital of Russia?",
+      "options": {
+        "A": "Saint Petersburg",
+        "B": "Moscow",
+        "C": "Kazan",
+        "D": "Novosibirsk"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 359,
+      "question": "Who is the current President of Russia?",
+      "options": {
+        "A": "Dmitry Medvedev",
+        "B": "Vladimir Putin",
+        "C": "Boris Yeltsin",
+        "D": "Mikhail Gorbachev"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 360,
+      "question": "Which country is known as the 'Playground of Europe'?",
+      "options": {
+        "A": "France",
+        "B": "Switzerland",
+        "C": "Italy",
+        "D": "Austria"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 361,
+      "question": "What is the capital of Canada?",
+      "options": {
+        "A": "Toronto",
+        "B": "Ottawa",
+        "C": "Vancouver",
+        "D": "Montreal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 362,
+      "question": "Who is the current Secretary General of NATO?",
+      "options": {
+        "A": "Jens Stoltenberg",
+        "B": "Mark Rutte",
+        "C": "Ursula von der Leyen",
+        "D": "Charles Michel"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 363,
+      "question": "Which is the largest lake in the world (by surface area)?",
+      "options": {
+        "A": "Caspian Sea",
+        "B": "Lake Superior",
+        "C": "Lake Victoria",
+        "D": "Lake Baikal"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 364,
+      "question": "What is the capital of Japan?",
+      "options": {
+        "A": "Osaka",
+        "B": "Kyoto",
+        "C": "Tokyo",
+        "D": "Nagoya"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 365,
+      "question": "Who is the current President of South Africa?",
+      "options": {
+        "A": "Jacob Zuma",
+        "B": "Cyril Ramaphosa",
+        "C": "Nelson Mandela",
+        "D": "Thabo Mbeki"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 366,
+      "question": "Which country is known as the 'Land of the Pure'?",
+      "options": {
+        "A": "Saudi Arabia",
+        "B": "Pakistan",
+        "C": "Iran",
+        "D": "Afghanistan"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 367,
+      "question": "What is the capital of China?",
+      "options": {
+        "A": "Shanghai",
+        "B": "Beijing",
+        "C": "Guangzhou",
+        "D": "Shenzhen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 368,
+      "question": "Who is the current Director General of the WHO?",
+      "options": {
+        "A": "Tedros Adhanom Ghebreyesus",
+        "B": "Margaret Chan",
+        "C": "Kofi Annan",
+        "D": "Ban Ki-moon"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 369,
+      "question": "Which is the highest mountain peak in Africa?",
+      "options": {
+        "A": "Mount Kenya",
+        "B": "Mount Kilimanjaro",
+        "C": "Mount Elgon",
+        "D": "Mount Stanley"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 370,
+      "question": "What is the capital of Brazil?",
+      "options": {
+        "A": "Rio de Janeiro",
+        "B": "Brasília",
+        "C": "São Paulo",
+        "D": "Salvador"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 371,
+      "question": "Who is the current President of the European Central Bank?",
+      "options": {
+        "A": "Mario Draghi",
+        "B": "Christine Lagarde",
+        "C": "Jean-Claude Trichet",
+        "D": "Ursula von der Leyen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 372,
+      "question": "Which country is known as the 'Land of the Pagodas'?",
+      "options": {
+        "A": "Thailand",
+        "B": "Myanmar",
+        "C": "Cambodia",
+        "D": "Laos"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 373,
+      "question": "What is the capital of South Africa (Administrative)?",
+      "options": {
+        "A": "Cape Town",
+        "B": "Pretoria",
+        "C": "Bloemfontein",
+        "D": "Johannesburg"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 374,
+      "question": "Who is the current Prime Minister of Bangladesh (interim context)?",
+      "options": {
+        "A": "Sheikh Hasina",
+        "B": "Muhammad Yunus",
+        "C": "Khaleda Zia",
+        "D": "Fakhruddin Ahmed"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 375,
+      "question": "Which is the largest sea in the world?",
+      "options": {
+        "A": "Caribbean Sea",
+        "B": "South China Sea",
+        "C": "Mediterranean Sea",
+        "D": "Bering Sea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 376,
+      "question": "What is the capital of Argentina?",
+      "options": {
+        "A": "Santiago",
+        "B": "Buenos Aires",
+        "C": "Lima",
+        "D": "Bogotá"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 377,
+      "question": "Who is the current President of Turkey?",
+      "options": {
+        "A": "Kemal Kılıçdaroğlu",
+        "B": "Recep Tayyip Erdoğan",
+        "C": "Abdullah Gül",
+        "D": "Ahmet Davutoğlu"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 378,
+      "question": "Which country is known as the 'Land of the Incas'?",
+      "options": {
+        "A": "Mexico",
+        "B": "Peru",
+        "C": "Chile",
+        "D": "Bolivia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 379,
+      "question": "What is the capital of South Korea?",
+      "options": {
+        "A": "Busan",
+        "B": "Seoul",
+        "C": "Incheon",
+        "D": "Daegu"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 380,
+      "question": "Who is the current President of the World Trade Organization (WTO)?",
+      "options": {
+        "A": "Roberto Azevêdo",
+        "B": "Ngozi Okonjo-Iweala",
+        "C": "Pascal Lamy",
+        "D": "Mike Moore"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 381,
+      "question": "Which is the largest volcano in the solar system?",
+      "options": {
+        "A": "Mount Everest",
+        "B": "Olympus Mons",
+        "C": "Mauna Loa",
+        "D": "Mount Etna"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 382,
+      "question": "What is the capital of Mexico?",
+      "options": {
+        "A": "Guadalajara",
+        "B": "Mexico City",
+        "C": "Cancun",
+        "D": "Monterrey"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 383,
+      "question": "Who is the current Prime Minister of Canada?",
+      "options": {
+        "A": "Stephen Harper",
+        "B": "Justin Trudeau",
+        "C": "Pierre Trudeau",
+        "D": "Jean Chrétien"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 384,
+      "question": "Which country is known as the 'Land of the Silver Ribbon'?",
+      "options": {
+        "A": "China",
+        "B": "Japan",
+        "C": "Vietnam",
+        "D": "Thailand"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 385,
+      "question": "What is the capital of Indonesia?",
+      "options": {
+        "A": "Bali",
+        "B": "Jakarta",
+        "C": "Surabaya",
+        "D": "Bandung"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 386,
+      "question": "Who is the current President of the International Olympic Committee (IOC)?",
+      "options": {
+        "A": "Jacques Rogge",
+        "B": "Thomas Bach",
+        "C": "Juan Antonio Samaranch",
+        "D": "Avery Brundage"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 387,
+      "question": "Which is the smallest country in Africa by area?",
+      "options": {
+        "A": "Gambia",
+        "B": "Seychelles",
+        "C": "Djibouti",
+        "D": "Swaziland"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 388,
+      "question": "What is the capital of Thailand?",
+      "options": {
+        "A": "Phuket",
+        "B": "Bangkok",
+        "C": "Pattaya",
+        "D": "Chiang Mai"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 389,
+      "question": "Who is the current President of the Asian Development Bank (ADB)?",
+      "options": {
+        "A": "Takehiko Nakao",
+        "B": "Masatsugu Asakawa",
+        "C": "Haruhiko Kuroda",
+        "D": "Tadao Chino"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 390,
+      "question": "Which country is known as the 'Land of the Magyars'?",
+      "options": {
+        "A": "Romania",
+        "B": "Hungary",
+        "C": "Bulgaria",
+        "D": "Slovakia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 391,
+      "question": "What is the capital of Switzerland?",
+      "options": {
+        "A": "Zurich",
+        "B": "Bern",
+        "C": "Geneva",
+        "D": "Basel"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 392,
+      "question": "Who is the current Prime Minister of Australia?",
+      "options": {
+        "A": "Scott Morrison",
+        "B": "Anthony Albanese",
+        "C": "Malcolm Turnbull",
+        "D": "Kevin Rudd"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 393,
+      "question": "Which is the largest peninsula in the world?",
+      "options": {
+        "A": "Indian Peninsula",
+        "B": "Arabian Peninsula",
+        "C": "Balkan Peninsula",
+        "D": "Iberian Peninsula"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 394,
+      "question": "What is the capital of New Zealand?",
+      "options": {
+        "A": "Auckland",
+        "B": "Wellington",
+        "C": "Christchurch",
+        "D": "Dunedin"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 395,
+      "question": "Who is the current President of the Philippines?",
+      "options": {
+        "A": "Rodrigo Duterte",
+        "B": "Bongbong Marcos",
+        "C": "Benigno Aquino III",
+        "D": "Gloria Arroyo"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 396,
+      "question": "Which country is known as the 'Land of the Long White Cloud'?",
+      "options": {
+        "A": "Australia",
+        "B": "New Zealand",
+        "C": "Fiji",
+        "D": "Samoa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 397,
+      "question": "What is the capital of Portugal?",
+      "options": {
+        "A": "Porto",
+        "B": "Lisbon",
+        "C": "Coimbra",
+        "D": "Faro"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 398,
+      "question": "Who is the current Prime Minister of Israel?",
+      "options": {
+        "A": "Yair Lapid",
+        "B": "Benjamin Netanyahu",
+        "C": "Naftali Bennett",
+        "D": "Isaac Herzog"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 399,
+      "question": "Which is the largest gorge in the world?",
+      "options": {
+        "A": "Grand Canyon",
+        "B": "Yarlung Tsangpo Grand Canyon",
+        "C": "Kali Gandaki Gorge",
+        "D": "Tiger Leaping Gorge"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 400,
+      "question": "What is the capital of Greece?",
+      "options": {
+        "A": "Thessaloniki",
+        "B": "Athens",
+        "C": "Patras",
+        "D": "Heraklion"
+      },
+      "correct_answer": "B"
+    }
+  ]
+}

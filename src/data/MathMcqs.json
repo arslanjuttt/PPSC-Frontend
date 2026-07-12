@@ -1,0 +1,4407 @@
+{
+  "test_name": "Mathematics & Logical Reasoning Test - Part 1",
+  "instructor": "Gemini AI",
+  "total_questions": 400,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "My wife and I have two sons. Each son has one sister. How many members are in the family?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "None of these"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "question": "A blind beggar had a brother who died. What relation was the blind beggar to the brother who died?",
+      "options": {
+        "A": "Uncle",
+        "B": "Sister",
+        "C": "Both",
+        "D": "None of these"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 3,
+      "question": "Q is the son of R but R is not mother of Q. P and R are a married couple. How many children does P have if X is the daughter of P?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question": "B is the father of Q. B has only two children. Q is the brother of R. R is the daughter of P. A is the granddaughter of P. S is the father of A. How is S related to Q?",
+      "options": {
+        "A": "Brother",
+        "B": "Brother-in-law",
+        "C": "Son",
+        "D": "Father"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 5,
+      "question": "Alia is the daughter of Rehman, Razia is the mother of Rehman. Meena is the daughter of Rehman. How is Meena related to Razia?",
+      "options": {
+        "A": "Daughter",
+        "B": "Granddaughter",
+        "C": "Sister",
+        "D": "Mother"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 6,
+      "question": "Ali and Aslam are twins. Aslam’s sister is Reema. Reema’s husband is Rizwan. Ali’s mother is Noor Jahan. Noor Jahan’s husband is Saleem. How is Saleem related to Rizwan?",
+      "options": {
+        "A": "Father",
+        "B": "Father-in-law",
+        "C": "Uncle",
+        "D": "Brother"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 7,
+      "question": "A is the brother of D, D is the father of B, B and C are sisters. How is C related to A?",
+      "options": {
+        "A": "Niece",
+        "B": "Cousin",
+        "C": "Sister",
+        "D": "Aunt"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "A is father of C and D is son of B. E is brother of A. If C is sister of D, how is B related to E?",
+      "options": {
+        "A": "Sister",
+        "B": "Sister-in-law",
+        "C": "Daughter",
+        "D": "Wife"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question": "If A is the brother of B; B is the sister of C; and C is the father of D, how is A related to D?",
+      "options": {
+        "A": "Father",
+        "B": "Uncle",
+        "C": "Brother",
+        "D": "Grandfather"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 10,
+      "question": "Ali said to a lady, ‘You are my mother’s husband’s daughter’. Who is the lady to Ali?",
+      "options": {
+        "A": "Sister",
+        "B": "Mother",
+        "C": "Daughter",
+        "D": "Aunt"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "What is the result of 2 + 3 x 4?",
+      "options": {
+        "A": "20",
+        "B": "14",
+        "C": "15",
+        "D": "9"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 12,
+      "question": "Solve the expression: 8 ÷ 2 (2 + 2)",
+      "options": {
+        "A": "1",
+        "B": "8",
+        "C": "16",
+        "D": "4"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 13,
+      "question": "Calculate: 12 - 8 ÷ 4 + 25 x 3",
+      "options": {
+        "A": "85",
+        "B": "75",
+        "C": "13",
+        "D": "81"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "Solve: 3 + (18 ÷ 6)^2 x 2",
+      "options": {
+        "A": "21",
+        "B": "39",
+        "C": "24",
+        "D": "12"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "If in a certain code language, PSVY is written as TVXZ, how will GJMP be written?",
+      "options": {
+        "A": "KNQT",
+        "B": "HKNQ",
+        "C": "ILOR",
+        "D": "JMPS"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "If FRIEND is coded as HUMJTK, how is CANDLE written in that code?",
+      "options": {
+        "A": "EDRIRL",
+        "B": "DCQKDC",
+        "C": "DEJKLM",
+        "D": "EBQCND"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code?",
+      "options": {
+        "A": "QDFHS",
+        "B": "SDFHS",
+        "C": "SHFDQ",
+        "D": "UJHFS"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "A man walks 2km towards North. Then he turns to East and walks 10km. After this he turns to North and walks 3km. Again, he turns towards East and walks 2 km. How far is he from the starting point?",
+      "options": {
+        "A": "10km",
+        "B": "13km",
+        "C": "15km",
+        "D": "17km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "A child went 90m towards East, turned right and went 20m, then turned right and went 30m. From there he went 100m to his North. How far is he from the starting point?",
+      "options": {
+        "A": "100m",
+        "B": "80m",
+        "C": "120m",
+        "D": "140m"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "Which of the following is a proper fraction?",
+      "options": {
+        "A": "21/5",
+        "B": "13/4",
+        "C": "3/4",
+        "D": "4/3"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 21,
+      "question": "Which of the following is an improper fraction?",
+      "options": {
+        "A": "3/15",
+        "B": "7/3",
+        "C": "3/7",
+        "D": "1/2"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 22,
+      "question": "If 1/2 + 1/x = 2, then x =",
+      "options": {
+        "A": "2/3",
+        "B": "3/2",
+        "C": "5/2",
+        "D": "2/5"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "The angle which is less than 90 degrees is called?",
+      "options": {
+        "A": "Acute angle",
+        "B": "Obtuse angle",
+        "C": "Right angle",
+        "D": "Straight angle"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "A straight angle represents how many degrees?",
+      "options": {
+        "A": "90",
+        "B": "180",
+        "C": "270",
+        "D": "360"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 25,
+      "question": "If n is the number of sides, then the sum of internal angles of a polygon is:",
+      "options": {
+        "A": "n x 180",
+        "B": "n/2 (180)",
+        "C": "(n - 1) x 180",
+        "D": "(n - 2) x 180"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 26,
+      "question": "The point where two rays meet to form an angle is called?",
+      "options": {
+        "A": "Segment",
+        "B": "Vertex",
+        "C": "Rays",
+        "D": "None of these"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 27,
+      "question": "Which of the following is the longest chord of a circle?",
+      "options": {
+        "A": "Radius",
+        "B": "Diameter",
+        "C": "Circumference",
+        "D": "None of these"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question": "Radius of a wheel of a car is 0.14 m. How many revolutions will it take to cover a distance of 880 m?",
+      "options": {
+        "A": "500",
+        "B": "1000",
+        "C": "1500",
+        "D": "2000"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 29,
+      "question": "If the radius of a swimming pool is 14 m, what is its circumference? (Use pi = 22/7)",
+      "options": {
+        "A": "44 m",
+        "B": "88 m",
+        "C": "154 m",
+        "D": "616 m"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 30,
+      "question": "If the diameter of a circular playground is 20 m, what is its radius?",
+      "options": {
+        "A": "40 m",
+        "B": "10 m",
+        "C": "5 m",
+        "D": "20 m"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 31,
+      "question": "In a family of 6 members P, Q, R, S, T, U: P and Q are a married couple. S is the only son of R, who is the brother of P. T is the sister of S. How is T related to P?",
+      "options": {
+        "A": "Daughter",
+        "B": "Niece",
+        "C": "Sister",
+        "D": "Mother"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question": "If A is B's sister, C is B's mother, D is C's father, and E is D's mother, how is A related to D?",
+      "options": {
+        "A": "Grandmother",
+        "B": "Granddaughter",
+        "C": "Daughter",
+        "D": "Aunt"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "Pointing to a girl in a photograph, Owais said: 'Her mother’s brother is the only son of my mother’s father.' How is the girl related to Owais?",
+      "options": {
+        "A": "Sister",
+        "B": "Cousin",
+        "C": "Aunt",
+        "D": "Mother"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 34,
+      "question": "S is the sister of T and R is the brother of S. U is the wife of W. T is the father of U. How is T related to W?",
+      "options": {
+        "A": "Father",
+        "B": "Father-in-law",
+        "C": "Uncle",
+        "D": "Brother"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 35,
+      "question": "X and Y are children of Z. Z is the father of X but Y is not the son of Z. What is Y to Z?",
+      "options": {
+        "A": "Brother",
+        "B": "Daughter",
+        "C": "Son",
+        "D": "Sister"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 36,
+      "question": "Solve: 4 + 8 ÷ 2 – 5",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "Calculate: 36 + 12 ÷ (8 - 5)",
+      "options": {
+        "A": "16",
+        "B": "40",
+        "C": "42",
+        "D": "48"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 38,
+      "question": "In coding, if MADRAS is written as NBESBT, how is BOMBAY written?",
+      "options": {
+        "A": "CPNCBX",
+        "B": "CPNCBZ",
+        "C": "DPNCBZ",
+        "D": "CQOCBZ"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 39,
+      "question": "A person walks 12 km East, turns 90 degrees clockwise and walks 20 km, then turns right and walks 33 km. How far is he from the starting point?",
+      "options": {
+        "A": "25 km",
+        "B": "29 km",
+        "C": "31 km",
+        "D": "35 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 40,
+      "question": "If 45/60 is equivalent to 3/x, then x =",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "10",
+        "D": "20"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "An angle of 90 degrees is called a:",
+      "options": {
+        "A": "Acute angle",
+        "B": "Right angle",
+        "C": "Obtuse angle",
+        "D": "Reflex angle"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 42,
+      "question": "A ray has how many fixed points?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "Infinite"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 43,
+      "question": "The sum of the three angles of a triangle is always:",
+      "options": {
+        "A": "90 degrees",
+        "B": "180 degrees",
+        "C": "270 degrees",
+        "D": "360 degrees"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 44,
+      "question": "What is the HCF of 2, 4, and 6?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "6"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 45,
+      "question": "What is the LCM of 2, 4, and 6?",
+      "options": {
+        "A": "6",
+        "B": "8",
+        "C": "12",
+        "D": "24"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 46,
+      "question": "If 20 articles cost Rs. 90, then the cost of 9 articles is:",
+      "options": {
+        "A": "Rs. 40",
+        "B": "Rs. 40.5",
+        "C": "Rs. 45",
+        "D": "Rs. 50"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 47,
+      "question": "Find the mean of 24, 31, 21, 18, 24, 22.",
+      "options": {
+        "A": "22",
+        "B": "23.33",
+        "C": "24",
+        "D": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 48,
+      "question": "What is the mode of the following data: 63, 63, 75, 67, 69, 52, 50, 63, 56, 52?",
+      "options": {
+        "A": "52",
+        "B": "63",
+        "C": "75",
+        "D": "67"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question": "In the ratio 5:9, 5 is called the:",
+      "options": {
+        "A": "Consequent",
+        "B": "Antecedent",
+        "C": "Extreme",
+        "D": "Mean"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 50,
+      "question": "In the proportion 3:5::6:10, the numbers 3 and 10 are called:",
+      "options": {
+        "A": "Means",
+        "B": "Extremes",
+        "C": "Antecedents",
+        "D": "Consequents"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 51,
+      "question": "What is the square root of 625?",
+      "options": {
+        "A": "15",
+        "B": "25",
+        "C": "35",
+        "D": "45"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 52,
+      "question": "If (x/2) – (x/4) = 2, then x is:",
+      "options": {
+        "A": "4",
+        "B": "8",
+        "C": "12",
+        "D": "16"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 53,
+      "question": "An angle greater than 180 degrees but less than 360 degrees is called:",
+      "options": {
+        "A": "Obtuse angle",
+        "B": "Reflex angle",
+        "C": "Straight angle",
+        "D": "Right angle"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 54,
+      "question": "The ratio of boys and girls in a class of 90 is 7:8. How many boys are there?",
+      "options": {
+        "A": "40",
+        "B": "42",
+        "C": "48",
+        "D": "50"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 55,
+      "question": "Divide Rs. 2000 in the ratio 3:2. The shares are:",
+      "options": {
+        "A": "1000, 1000",
+        "B": "1200, 800",
+        "C": "1500, 500",
+        "D": "1100, 900"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 56,
+      "question": "If 15 eggs cost Rs. 75, what is the cost of 4 dozen eggs?",
+      "options": {
+        "A": "Rs. 200",
+        "B": "Rs. 240",
+        "C": "Rs. 300",
+        "D": "Rs. 360"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 57,
+      "question": "Find the median of the data set: 6, 7, 7, 7, 9, 11, 11, 18, 23.",
+      "options": {
+        "A": "7",
+        "B": "9",
+        "C": "11",
+        "D": "18"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 58,
+      "question": "The difference between the largest and the smallest number in a data set is called:",
+      "options": {
+        "A": "Mean",
+        "B": "Range",
+        "C": "Median",
+        "D": "Mode"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 59,
+      "question": "An angle of 45 degrees is the complement of:",
+      "options": {
+        "A": "30 degrees",
+        "B": "45 degrees",
+        "C": "90 degrees",
+        "D": "135 degrees"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 60,
+      "question": "If a line has a starting point and an end point, it is called a:",
+      "options": {
+        "A": "Ray",
+        "B": "Line Segment",
+        "C": "Infinite Line",
+        "D": "Point"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 61,
+      "question": "What is the square root of 144?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "14",
+        "D": "16"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 62,
+      "question": "If 10 men make 60 fans in a month, how many fans will 10 men make in 2 months?",
+      "options": {
+        "A": "60",
+        "B": "120",
+        "C": "180",
+        "D": "240"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 63,
+      "question": "A car travels 25 km South, turns left and travels 30 km, then turns right and travels 15 km. How far is it from the garage (South-East direction)?",
+      "options": {
+        "A": "40 km",
+        "B": "50 km",
+        "C": "60 km",
+        "D": "70 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 64,
+      "question": "What is the HCF of 30 and 70?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 65,
+      "question": "LCM of 24, 36, and 48 is:",
+      "options": {
+        "A": "120",
+        "B": "144",
+        "C": "168",
+        "D": "192"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 66,
+      "question": "If the sum of two angles is 180 degrees, they are called:",
+      "options": {
+        "A": "Complementary",
+        "B": "Supplementary",
+        "C": "Reflex",
+        "D": "Acute"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 67,
+      "question": "A polygon with 5 sides is called a:",
+      "options": {
+        "A": "Quadrilateral",
+        "B": "Pentagon",
+        "C": "Hexagon",
+        "D": "Octagon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 68,
+      "question": "A polygon with 8 sides is called a:",
+      "options": {
+        "A": "Hexagon",
+        "B": "Octagon",
+        "C": "Decagon",
+        "D": "Heptagon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 69,
+      "question": "A circle's boundary length is known as its:",
+      "options": {
+        "A": "Area",
+        "B": "Circumference",
+        "C": "Radius",
+        "D": "Volume"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 70,
+      "question": "The ratio equal to 3:5 is:",
+      "options": {
+        "A": "1:2",
+        "B": "9:15",
+        "C": "13:15",
+        "D": "6:15"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 71,
+      "question": "If TEARS is coded as UGDVX, then SMILE is coded as:",
+      "options": {
+        "A": "TNJMF",
+        "B": "TOLPJ",
+        "C": "UKNLH",
+        "D": "TNKMG"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 72,
+      "question": "A man walks 20m North, turns right and walks 3m, turns left and walks 4m, then walks 4m East. How far is he from the starting point?",
+      "options": {
+        "A": "24m",
+        "B": "25m",
+        "C": "28m",
+        "D": "31m"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 73,
+      "question": "Solve: 2^3 – 8 ÷ 4 x 2 + 7",
+      "options": {
+        "A": "9",
+        "B": "11",
+        "C": "15",
+        "D": "19"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 74,
+      "question": "Solve: 10 – 3 x 6 + 10^2 + (6 + 1) x 4",
+      "options": {
+        "A": "110",
+        "B": "120",
+        "C": "130",
+        "D": "140"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 75,
+      "question": "A child went 90 m East, turned right and went 20 m. Then turned right and went 30 m. From there he went 100 m North. How far is he from starting point?",
+      "options": {
+        "A": "80 m",
+        "B": "100 m",
+        "C": "120 m",
+        "D": "140 m"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 76,
+      "question": "What is the square of 15?",
+      "options": {
+        "A": "200",
+        "B": "225",
+        "C": "250",
+        "D": "275"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 77,
+      "question": "What is the square of 25?",
+      "options": {
+        "A": "500",
+        "B": "625",
+        "C": "650",
+        "D": "725"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 78,
+      "question": "Mean high temperature for 7 days: 25, 27, 30, 32, 29, 27, 55. What is the mean?",
+      "options": {
+        "A": "30",
+        "B": "32.14",
+        "C": "35",
+        "D": "38"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 79,
+      "question": "Mode of 17, 17, 18, 18, 18, 19, 19 is:",
+      "options": {
+        "A": "17",
+        "B": "18",
+        "C": "19",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 80,
+      "question": "If 5 persons do a job in 8 days, 10 persons do it in:",
+      "options": {
+        "A": "2 days",
+        "B": "4 days",
+        "C": "16 days",
+        "D": "20 days"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 81,
+      "question": "Solve for x: 2x : 25 = 6 : (x/3)",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 82,
+      "question": "Radius of a swimming pool is 14m. What is the area? (Use pi = 22/7)",
+      "options": {
+        "A": "88 sqm",
+        "B": "616 sqm",
+        "C": "154 sqm",
+        "D": "308 sqm"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 83,
+      "question": "Cost of fencing a circular playground (diameter 20m) at Rs. 40 per meter is:",
+      "options": {
+        "A": "Rs. 2512",
+        "B": "Rs. 2514",
+        "C": "Rs. 2520",
+        "D": "Rs. 2530"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 84,
+      "question": "In coding, LANDMINE is written as PYRBQGRC. How is HOMEMADE written?",
+      "options": {
+        "A": "LSQIQEHG",
+        "B": "LSQIUIHG",
+        "C": "LSQIREHG",
+        "D": "LSQIPFHG"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 85,
+      "question": "Solve: 4 + 8 ÷ 2 – 5",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "7"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 86,
+      "question": "What is the square root of 400?",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "30",
+        "D": "40"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 87,
+      "question": "Find the HCF of 12 and 16.",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 88,
+      "question": "If 6 men take 9 days to complete a work, how many men can complete it in 3 days?",
+      "options": {
+        "A": "12",
+        "B": "18",
+        "C": "24",
+        "D": "27"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 89,
+      "question": "If the sides of a triangle are in the ratio 2:6:7 and the perimeter is 45 inches, find the shortest side.",
+      "options": {
+        "A": "4 inches",
+        "B": "6 inches",
+        "C": "10 inches",
+        "D": "12 inches"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 90,
+      "question": "The sum of the cubes of two numbers in ratio 2:3 is 280. What is the smaller number?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 91,
+      "question": "Calculate: 12 + [16 – {5 + (12 – 3)}]",
+      "options": {
+        "A": "10",
+        "B": "14",
+        "C": "18",
+        "D": "20"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 92,
+      "question": "Calculate: 4 – [4 – {4 - (4 - 4) – 4}]",
+      "options": {
+        "A": "0",
+        "B": "4",
+        "C": "8",
+        "D": "12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 93,
+      "question": "If 150 workers can make 18 buildings in 240 days, how many buildings can 400 workers paint in similar time?",
+      "options": {
+        "A": "40",
+        "B": "48",
+        "C": "52",
+        "D": "60"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 94,
+      "question": "Find the median of: 32, 6, 21, 10, 8, 11, 12, 36, 1.",
+      "options": {
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "21"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 95,
+      "question": "What is the mode of 63, 63, 75, 67, 69, 52, 50, 63, 56, 52, 70, 52?",
+      "options": {
+        "A": "52",
+        "B": "63",
+        "C": "52 and 63",
+        "D": "None"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 96,
+      "question": "Radius of wheel is 0.14m. Distance to cover is 880m. Revolutions?",
+      "options": {
+        "A": "500",
+        "B": "1000",
+        "C": "2000",
+        "D": "4000"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 97,
+      "question": "A clock ticks every 5s, tap drips every 7s, dog snores every 12s. When do they happen together?",
+      "options": {
+        "A": "210s",
+        "B": "420s",
+        "C": "840s",
+        "D": "100s"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 98,
+      "question": "Sarah has piece of momos (60) and rolls (8). Greatest number of identical plates?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 99,
+      "question": "Two bells toll at 24 min and 36 min intervals. After how long do they toll together again?",
+      "options": {
+        "A": "48 min",
+        "B": "72 min",
+        "C": "96 min",
+        "D": "120 min"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 100,
+      "question": "What is the square root of 100?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "20",
+        "D": "50"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 101,
+      "question": "What is the square root of 169?",
+      "options": {
+        "A": "11",
+        "B": "13",
+        "C": "15",
+        "D": "17"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 102,
+      "question": "If the price of 23 toys is Rs. 276, then what will be the price of 12 toys?",
+      "options": {
+        "A": "Rs. 144",
+        "B": "Rs. 154",
+        "C": "Rs. 164",
+        "D": "Rs. 174"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 103,
+      "question": "Sarah has 6 rose plants and 8 tulip plants. What is the maximum number of plants she can put in each row so that each row has the same number of each type?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 104,
+      "question": "The total of the numbers divided by how many numbers there are is called the:",
+      "options": {
+        "A": "Median",
+        "B": "Mean",
+        "C": "Mode",
+        "D": "Range"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 105,
+      "question": "If a current age is x, what will be the age after n years?",
+      "options": {
+        "A": "x - n",
+        "B": "x + n",
+        "C": "nx",
+        "D": "x/n"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 106,
+      "question": "Find the square root of 324.",
+      "options": {
+        "A": "16",
+        "B": "18",
+        "C": "20",
+        "D": "22"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 107,
+      "question": "If 10 men make 60 fans in a month, how many men will make 180 fans in two months?",
+      "options": {
+        "A": "15",
+        "B": "20",
+        "C": "30",
+        "D": "10"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 108,
+      "question": "Find the HCF of 10, 20, and 30.",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "20",
+        "D": "30"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 109,
+      "question": "What is the median of the data set: 6, 7, 7, 7, 9, 11, 11, 18, 23?",
+      "options": {
+        "A": "7",
+        "B": "9",
+        "C": "11",
+        "D": "18"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 110,
+      "question": "Ahmad is 2 years older than Bilal who is twice as old as Danish. If the total of their ages is 27, how old is Bilal?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "14",
+        "D": "16"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 111,
+      "question": "Square of 19 is:",
+      "options": {
+        "A": "341",
+        "B": "361",
+        "C": "381",
+        "D": "401"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 112,
+      "question": "In a fort, there is food for 600 men for a month. If 400 more men arrive, how long will the food last?",
+      "options": {
+        "A": "15 days",
+        "B": "18 days",
+        "C": "20 days",
+        "D": "25 days"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 113,
+      "question": "The smallest length of string Sarah can use for 8-inch and 12-inch bracelets without leftover is:",
+      "options": {
+        "A": "12 inches",
+        "B": "24 inches",
+        "C": "48 inches",
+        "D": "96 inches"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 114,
+      "question": "The number that appears most frequently in a data set is the:",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "Range"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 115,
+      "question": "If the sum of ages of 5 children born at 4-year intervals is 50, what is the age of the youngest child?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "10"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 116,
+      "question": "What is the square root of 484?",
+      "options": {
+        "A": "20",
+        "B": "22",
+        "C": "24",
+        "D": "26"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 117,
+      "question": "If 3 men paint 6 houses in a week, how many houses will 10 men paint in 2 weeks?",
+      "options": {
+        "A": "20",
+        "B": "40",
+        "C": "60",
+        "D": "80"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 118,
+      "question": "Find the LCM of 12 and 16.",
+      "options": {
+        "A": "24",
+        "B": "36",
+        "C": "48",
+        "D": "60"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 119,
+      "question": "The Salaries of 5 employees are: 2500, 1200, 1000, 2500, 1100. What is the mean salary?",
+      "options": {
+        "A": "1560",
+        "B": "1660",
+        "C": "1760",
+        "D": "1860"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 120,
+      "question": "A father is 30 years older than his son. In 5 years, he will be three times as old as his son. What is the son's current age?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 121,
+      "question": "Which number is a perfect square?",
+      "options": {
+        "A": "50",
+        "B": "64",
+        "C": "75",
+        "D": "90"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 122,
+      "question": "If 25 men can eat 150 kg of wheat in 30 days, how many days will 450 kg last for 45 men?",
+      "options": {
+        "A": "40",
+        "B": "50",
+        "C": "60",
+        "D": "70"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 123,
+      "question": "Two bells toll at 24 and 36 minutes. If they toll at 9 am, when do they toll together again?",
+      "options": {
+        "A": "9:48 am",
+        "B": "10:12 am",
+        "C": "10:24 am",
+        "D": "10:36 am"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 124,
+      "question": "Find the range of the following ages: 15, 16, 17, 18, 19, 23.",
+      "options": {
+        "A": "5",
+        "B": "8",
+        "C": "10",
+        "D": "12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 125,
+      "question": "The ratio of ages of A and B is 4:3. If the sum of their ages is 28, what is B's age?",
+      "options": {
+        "A": "12",
+        "B": "16",
+        "C": "20",
+        "D": "24"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 126,
+      "question": "What is the square root of 529?",
+      "options": {
+        "A": "21",
+        "B": "23",
+        "C": "25",
+        "D": "27"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 127,
+      "question": "If 500 kg of food feeds 20 people for a week, how many days will 200 kg feed 14 people?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 128,
+      "question": "What is the HCF of 12 and 16?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 129,
+      "question": "Find the mean of the first 5 even numbers.",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "10"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 130,
+      "question": "A is twice as old as B. 5 years ago, A was three times as old as B. How old is B now?",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 131,
+      "question": "The square of 22 is:",
+      "options": {
+        "A": "444",
+        "B": "484",
+        "C": "524",
+        "D": "564"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 132,
+      "question": "If 8 men can build a wall in 10 days, how many men are needed to build it in 5 days?",
+      "options": {
+        "A": "12",
+        "B": "16",
+        "C": "20",
+        "D": "24"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 133,
+      "question": "The LCM of 3, 4, and 5 is:",
+      "options": {
+        "A": "20",
+        "B": "30",
+        "C": "60",
+        "D": "120"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 134,
+      "question": "Calculate the median of: 10, 12, 14, 16, 18, 20.",
+      "options": {
+        "A": "14",
+        "B": "15",
+        "C": "16",
+        "D": "17"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 135,
+      "question": "A man is 24 years older than his son. In two years, his age will be twice the age of his son. The current age of his son is:",
+      "options": {
+        "A": "14",
+        "B": "18",
+        "C": "20",
+        "D": "22"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 136,
+      "question": "What is the square root of 576?",
+      "options": {
+        "A": "22",
+        "B": "24",
+        "C": "26",
+        "D": "28"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 137,
+      "question": "If 15 workers can build a house in 48 days, how many workers are needed to build it in 30 days?",
+      "options": {
+        "A": "20",
+        "B": "24",
+        "C": "28",
+        "D": "32"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 138,
+      "question": "What is the HCF of 18 and 24?",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "9",
+        "D": "12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 139,
+      "question": "The average weight of 3 boys is 45 kg. If their weights are in ratio 3:4:8, find the weight of the lightest boy.",
+      "options": {
+        "A": "27 kg",
+        "B": "36 kg",
+        "C": "45 kg",
+        "D": "54 kg"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 140,
+      "question": "Ten years ago, P was half of Q's age. If the ratio of their present ages is 3:4, what is the sum of their present ages?",
+      "options": {
+        "A": "30",
+        "B": "35",
+        "C": "40",
+        "D": "45"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 141,
+      "question": "Square root of 900 is:",
+      "options": {
+        "A": "20",
+        "B": "30",
+        "C": "40",
+        "D": "50"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 142,
+      "question": "If a car travels 300 km in 5 hours, how far will it travel in 8 hours at the same speed?",
+      "options": {
+        "A": "400 km",
+        "B": "480 km",
+        "C": "520 km",
+        "D": "560 km"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 143,
+      "question": "Find the LCM of 15, 20, and 30.",
+      "options": {
+        "A": "30",
+        "B": "60",
+        "C": "90",
+        "D": "120"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 144,
+      "question": "What is the mode of: 2, 3, 3, 4, 4, 4, 5, 5?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "2"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 145,
+      "question": "The present age of a mother is 3 times that of her daughter. After 15 years, she will be twice as old as her daughter. Find the daughter's age.",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 146,
+      "question": "The square of 14 is:",
+      "options": {
+        "A": "169",
+        "B": "196",
+        "C": "225",
+        "D": "256"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 147,
+      "question": "If 12 pens cost Rs. 72, how much will 20 pens cost?",
+      "options": {
+        "A": "Rs. 100",
+        "B": "Rs. 120",
+        "C": "Rs. 140",
+        "D": "Rs. 160"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 148,
+      "question": "What is the HCF of 25 and 75?",
+      "options": {
+        "A": "5",
+        "B": "15",
+        "C": "25",
+        "D": "50"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 149,
+      "question": "Find the mean of: 5, 10, 15, 20, 25.",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 150,
+      "question": "The sum of ages of father and son is 45 years. Five years ago, the product of their ages was 4 times the father's age. The son's age is:",
+      "options": {
+        "A": "5",
+        "B": "9",
+        "C": "10",
+        "D": "12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 151,
+      "question": "Square root of 256 is:",
+      "options": {
+        "A": "14",
+        "B": "16",
+        "C": "18",
+        "D": "20"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 152,
+      "question": "If 6 notebooks cost Rs. 90, how many notebooks can be bought for Rs. 225?",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 153,
+      "question": "LCM of 8, 12, and 24 is:",
+      "options": {
+        "A": "12",
+        "B": "24",
+        "C": "36",
+        "D": "48"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 154,
+      "question": "Median of 1, 3, 3, 6, 7, 8, 9 is:",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 155,
+      "question": "A man's age is 125% of what it was 10 years ago, but 83 1/3% of what it will be after 10 years. What is his present age?",
+      "options": {
+        "A": "40",
+        "B": "50",
+        "C": "60",
+        "D": "70"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 156,
+      "question": "Square of 21 is:",
+      "options": {
+        "A": "421",
+        "B": "441",
+        "C": "461",
+        "D": "481"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 157,
+      "question": "If 5 workers can build a wall in 12 days, how many workers can build it in 4 days?",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 158,
+      "question": "HCF of 45 and 60 is:",
+      "options": {
+        "A": "5",
+        "B": "15",
+        "C": "30",
+        "D": "45"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 159,
+      "question": "Mean of first 10 natural numbers is:",
+      "options": {
+        "A": "5",
+        "B": "5.5",
+        "C": "6",
+        "D": "6.5"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 160,
+      "question": "A is 3 years older than B and 3 years younger than C. B and D are twins. How many years older is C than D?",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "9",
+        "D": "12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 161,
+      "question": "Square root of 289 is:",
+      "options": {
+        "A": "15",
+        "B": "17",
+        "C": "19",
+        "D": "21"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 162,
+      "question": "If a tap fills a tank in 4 hours, how much of the tank is filled in 1 hour?",
+      "options": {
+        "A": "1/2",
+        "B": "1/4",
+        "C": "1/6",
+        "D": "1/8"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 163,
+      "question": "LCM of 10 and 15 is:",
+      "options": {
+        "A": "20",
+        "B": "30",
+        "C": "45",
+        "D": "60"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 164,
+      "question": "Mode of 1, 2, 2, 3, 3, 3, 4 is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 165,
+      "question": "A's age is 1/6th of B's age. B's age will be twice of C's age after 10 years. If C's 8th birthday was celebrated 2 years ago, find A's present age.",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 166,
+      "question": "Square of 23 is:",
+      "options": {
+        "A": "509",
+        "B": "529",
+        "C": "549",
+        "D": "569"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 167,
+      "question": "If 10 men can build a wall in 24 days, how many men can build it in 12 days?",
+      "options": {
+        "A": "15",
+        "B": "20",
+        "C": "25",
+        "D": "30"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 168,
+      "question": "HCF of 36 and 48 is:",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "18",
+        "D": "24"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 169,
+      "question": "Mean of first 10 odd numbers is:",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 170,
+      "question": "A person was asked to state his age in years. His reply was, 'Take my age 3 years hence, multiply it by 3 and then subtract 3 times my age 3 years ago and you will know how old I am.' What is his age?",
+      "options": {
+        "A": "14",
+        "B": "18",
+        "C": "20",
+        "D": "24"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 171,
+      "question": "Square root of 361 is:",
+      "options": {
+        "A": "17",
+        "B": "19",
+        "C": "21",
+        "D": "23"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 172,
+      "question": "If 4 cups of flour make 12 cookies, how many cups of flour are needed for 36 cookies?",
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "16",
+        "D": "20"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 173,
+      "question": "LCM of 4, 6, and 8 is:",
+      "options": {
+        "A": "12",
+        "B": "24",
+        "C": "36",
+        "D": "48"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 174,
+      "question": "Median of 15, 12, 18, 10, 22 is:",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "18",
+        "D": "22"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 175,
+      "question": "The sum of ages of 5 children born at intervals of 3 years each is 50 years. What is the age of the youngest child?",
+      "options": {
+        "A": "4",
+        "B": "8",
+        "C": "10",
+        "D": "None"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 176,
+      "question": "Square of 24 is:",
+      "options": {
+        "A": "556",
+        "B": "576",
+        "C": "596",
+        "D": "616"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 177,
+      "question": "If 15 workers can build a wall in 20 days, how many workers can build it in 12 days?",
+      "options": {
+        "A": "20",
+        "B": "25",
+        "C": "30",
+        "D": "35"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 178,
+      "question": "HCF of 16 and 20 is:",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 179,
+      "question": "Mean of 10, 20, 30, 40, 50 is:",
+      "options": {
+        "A": "25",
+        "B": "30",
+        "C": "35",
+        "D": "40"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 180,
+      "question": "A is 15 years older than B. If 5 years ago, A was 3 times as old as B, find their present ages.",
+      "options": {
+        "A": "20, 5",
+        "B": "27.5, 12.5",
+        "C": "25, 10",
+        "D": "30, 15"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 181,
+      "question": "Square root of 441 is:",
+      "options": {
+        "A": "19",
+        "B": "21",
+        "C": "23",
+        "D": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 182,
+      "question": "If a car travels 60 km in 45 minutes, what is its speed in km/h?",
+      "options": {
+        "A": "60",
+        "B": "80",
+        "C": "100",
+        "D": "120"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 183,
+      "question": "LCM of 6, 9, and 12 is:",
+      "options": {
+        "A": "18",
+        "B": "36",
+        "C": "54",
+        "D": "72"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 184,
+      "question": "Mode of 5, 8, 5, 9, 5, 10 is:",
+      "options": {
+        "A": "5",
+        "B": "8",
+        "C": "9",
+        "D": "10"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 185,
+      "question": "The ages of two persons differ by 16 years. If 6 years ago, the elder one was 3 times as old as the younger one, their present ages are:",
+      "options": {
+        "A": "24, 8",
+        "B": "30, 14",
+        "C": "36, 20",
+        "D": "40, 24"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 186,
+      "question": "Square of 18 is:",
+      "options": {
+        "A": "304",
+        "B": "324",
+        "C": "344",
+        "D": "364"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 187,
+      "question": "If 20 men can build a wall in 15 days, how many men can build it in 10 days?",
+      "options": {
+        "A": "25",
+        "B": "30",
+        "C": "35",
+        "D": "40"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 188,
+      "question": "HCF of 21 and 28 is:",
+      "options": {
+        "A": "3",
+        "B": "7",
+        "C": "14",
+        "D": "21"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 189,
+      "question": "Mean of 2, 4, 6, 8, 10 is:",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "10"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 190,
+      "question": "A is as much younger than B as he is older than C. If the sum of the ages of B and C is 50 years, what is the age of A?",
+      "options": {
+        "A": "20",
+        "B": "25",
+        "C": "30",
+        "D": "Cannot be determined"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 191,
+      "question": "Square root of 625 is:",
+      "options": {
+        "A": "15",
+        "B": "25",
+        "C": "35",
+        "D": "45"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 192,
+      "question": "If 10 men can build a wall in 5 days, how many men are needed to build it in 2 days?",
+      "options": {
+        "A": "15",
+        "B": "25",
+        "C": "35",
+        "D": "45"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 193,
+      "question": "LCM of 12 and 18 is:",
+      "options": {
+        "A": "24",
+        "B": "36",
+        "C": "48",
+        "D": "60"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 194,
+      "question": "Median of 4, 1, 7 is:",
+      "options": {
+        "A": "1",
+        "B": "4",
+        "C": "7",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 195,
+      "question": "Ratio of ages of P and Q is 3:5. If sum of their ages is 80, find the age of P.",
+      "options": {
+        "A": "20",
+        "B": "30",
+        "C": "40",
+        "D": "50"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 196,
+      "question": "Square of 13 is:",
+      "options": {
+        "A": "149",
+        "B": "169",
+        "C": "189",
+        "D": "209"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 197,
+      "question": "If 12 notebooks cost Rs. 144, how many notebooks can be bought for Rs. 240?",
+      "options": {
+        "A": "15",
+        "B": "20",
+        "C": "25",
+        "D": "30"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 198,
+      "question": "HCF of 14 and 21 is:",
+      "options": {
+        "A": "3",
+        "B": "7",
+        "C": "14",
+        "D": "21"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 199,
+      "question": "Mean of 3, 6, 9 is:",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "9",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 200,
+      "question": "Square root of 100 is:",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "20",
+        "D": "50"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 201,
+      "question": "What is the sum of the interior angles of a pentagon?",
+      "options": {
+        "A": "360 degrees",
+        "B": "540 degrees",
+        "C": "720 degrees",
+        "D": "900 degrees"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 202,
+      "question": "If 150 workers can make 18 buildings in 240 days, how many days will 400 workers take to paint 22 buildings?",
+      "options": {
+        "A": "100 days",
+        "B": "110 days",
+        "C": "120 days",
+        "D": "130 days"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 203,
+      "question": "Find the value of x if 3:x :: 12:20.",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "8"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 204,
+      "question": "Solve the expression: (42 – 6 x 2)^2 ÷ (4 ÷ 2 x 4) + 7",
+      "options": {
+        "A": "112.5",
+        "B": "119.5",
+        "C": "125.5",
+        "D": "130.5"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 205,
+      "question": "The ratio of two numbers is 5:9. If each number is decreased by 5, the ratio becomes 5:11. Find the numbers.",
+      "options": {
+        "A": "10, 18",
+        "B": "15, 27",
+        "C": "20, 36",
+        "D": "25, 45"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 206,
+      "question": "What is the square root of 729?",
+      "options": {
+        "A": "23",
+        "B": "27",
+        "C": "33",
+        "D": "37"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 207,
+      "question": "A juice seller has 10L apple juice, 20L orange juice, and 30L grape juice. What is the maximum size of identical containers to store them separately?",
+      "options": {
+        "A": "5 liters",
+        "B": "10 liters",
+        "C": "15 liters",
+        "D": "20 liters"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 208,
+      "question": "The ratio of the length and breadth of a rectangle is 5:4. If the area is 180 cm², find the perimeter.",
+      "options": {
+        "A": "44 cm",
+        "B": "54 cm",
+        "C": "64 cm",
+        "D": "74 cm"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 209,
+      "question": "If a group of 9 students has ages 15, 15, 16, 16, 16, 17, 17, 18, 19, what is the range?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 210,
+      "question": "A school has food for 52 days. After 20 days, 400 more students arrive and food lasts for 24 days. How many students were originally there?",
+      "options": {
+        "A": "2000",
+        "B": "2400",
+        "C": "2800",
+        "D": "3200"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 211,
+      "question": "Calculate: 10^2 - 5^2 + 12",
+      "options": {
+        "A": "67",
+        "B": "87",
+        "C": "75",
+        "D": "92"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 212,
+      "question": "What is the HCF of 48, 72, and 108?",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "18",
+        "D": "24"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 213,
+      "question": "Find the mean proportional between 0.08 and 0.18.",
+      "options": {
+        "A": "0.10",
+        "B": "0.12",
+        "C": "0.14",
+        "D": "0.16"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 214,
+      "question": "If the radius of a circle is doubled, the area becomes:",
+      "options": {
+        "A": "2 times",
+        "B": "4 times",
+        "C": "8 times",
+        "D": "Remains same"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 215,
+      "question": "A person walks 5 km East, then 12 km North. How far is he from the start?",
+      "options": {
+        "A": "13 km",
+        "B": "15 km",
+        "C": "17 km",
+        "D": "19 km"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 216,
+      "question": "The square root of 1024 is:",
+      "options": {
+        "A": "30",
+        "B": "32",
+        "C": "34",
+        "D": "36"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 217,
+      "question": "If 1/3 of a number is 20, what is 1/4 of that number?",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 218,
+      "question": "Find the median of: 5, 3, 9, 7, 1.",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "9"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 219,
+      "question": "In a certain code, 'ROAD' is written as 'URDG'. How is 'SWAN' written?",
+      "options": {
+        "A": "VZDQ",
+        "B": "VZDQ",
+        "C": "VXDQ",
+        "D": "VZDQ"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 220,
+      "question": "The ratio of the angles of a triangle is 1:2:3. Find the largest angle.",
+      "options": {
+        "A": "60 degrees",
+        "B": "90 degrees",
+        "C": "120 degrees",
+        "D": "150 degrees"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 221,
+      "question": "Which of the following is a perfect square?",
+      "options": {
+        "A": "121",
+        "B": "125",
+        "C": "130",
+        "D": "140"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 222,
+      "question": "A man is 3 times as old as his son. In 12 years, he will be twice as old as his son. Find the son's age.",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "14",
+        "D": "16"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 223,
+      "question": "Find the HCF of 24 and 60.",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "18",
+        "D": "24"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 224,
+      "question": "What is the formula for the area of a circle?",
+      "options": {
+        "A": "2 * pi * r",
+        "B": "pi * r^2",
+        "C": "pi * d",
+        "D": "2 * pi * d"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 225,
+      "question": "Solve: 5 + 5 x 5 - 5 ÷ 5",
+      "options": {
+        "A": "25",
+        "B": "29",
+        "C": "30",
+        "D": "5"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 226,
+      "question": "The square of 26 is:",
+      "options": {
+        "A": "626",
+        "B": "676",
+        "C": "726",
+        "D": "776"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 227,
+      "question": "What is the LCM of 9, 12, and 15?",
+      "options": {
+        "A": "120",
+        "B": "180",
+        "C": "240",
+        "D": "360"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 228,
+      "question": "If 7 spiders make 7 webs in 7 days, how many days does it take 1 spider to make 1 web?",
+      "options": {
+        "A": "1",
+        "B": "7",
+        "C": "49",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 229,
+      "question": "A polygon with 10 sides is called:",
+      "options": {
+        "A": "Octagon",
+        "B": "Decagon",
+        "C": "Nonagon",
+        "D": "Heptagon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 230,
+      "question": "The mean of 5 numbers is 20. If one number is removed, the mean becomes 18. What was the removed number?",
+      "options": {
+        "A": "24",
+        "B": "28",
+        "C": "30",
+        "D": "32"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 231,
+      "question": "Square root of 1225 is:",
+      "options": {
+        "A": "25",
+        "B": "35",
+        "C": "45",
+        "D": "55"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 232,
+      "question": "If 3x + 5 = 20, then x is:",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "9"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 233,
+      "question": "What is the supplement of a 60-degree angle?",
+      "options": {
+        "A": "30 degrees",
+        "B": "120 degrees",
+        "C": "90 degrees",
+        "D": "180 degrees"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 234,
+      "question": "The ratio of copper and zinc in an alloy is 9:5. If the weight of copper is 45g, find the weight of zinc.",
+      "options": {
+        "A": "20g",
+        "B": "25g",
+        "C": "30g",
+        "D": "35g"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 235,
+      "question": "How many degrees are in a circle?",
+      "options": {
+        "A": "90",
+        "B": "180",
+        "C": "270",
+        "D": "360"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 236,
+      "question": "What is the square of 30?",
+      "options": {
+        "A": "600",
+        "B": "900",
+        "C": "1200",
+        "D": "1500"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 237,
+      "question": "If 12 men can do a piece of work in 20 days, how many men can do it in 15 days?",
+      "options": {
+        "A": "14",
+        "B": "16",
+        "C": "18",
+        "D": "20"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 238,
+      "question": "What is the HCF of 15, 25, and 35?",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "10"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 239,
+      "question": "Find the mode of the data: 12, 15, 12, 17, 12, 19, 15.",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "17",
+        "D": "19"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 240,
+      "question": "The product of two numbers is 120 and the sum of their squares is 289. Find the sum of the numbers.",
+      "options": {
+        "A": "20",
+        "B": "23",
+        "C": "25",
+        "D": "27"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 241,
+      "question": "Square root of 1600 is:",
+      "options": {
+        "A": "30",
+        "B": "40",
+        "C": "50",
+        "D": "60"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 242,
+      "question": "If the price of 5 shirts is Rs. 2500, what is the price of 2 shirts?",
+      "options": {
+        "A": "Rs. 800",
+        "B": "Rs. 1000",
+        "C": "Rs. 1200",
+        "D": "Rs. 1400"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 243,
+      "question": "Find the LCM of 20 and 25.",
+      "options": {
+        "A": "50",
+        "B": "100",
+        "C": "150",
+        "D": "200"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 244,
+      "question": "What is the range of: 10, 20, 30, 40, 50?",
+      "options": {
+        "A": "30",
+        "B": "40",
+        "C": "50",
+        "D": "20"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 245,
+      "question": "A father's age is 4 times his son's age. If the son is 10 years old, how old will the father be in 5 years?",
+      "options": {
+        "A": "40",
+        "B": "45",
+        "C": "50",
+        "D": "55"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 246,
+      "question": "Square of 17 is:",
+      "options": {
+        "A": "269",
+        "B": "289",
+        "C": "309",
+        "D": "329"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 247,
+      "question": "If 10 machines produce 500 units in 5 hours, how many units will 5 machines produce in 10 hours?",
+      "options": {
+        "A": "250",
+        "B": "500",
+        "C": "750",
+        "D": "1000"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 248,
+      "question": "HCF of 42 and 56 is:",
+      "options": {
+        "A": "7",
+        "B": "14",
+        "C": "21",
+        "D": "28"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 249,
+      "question": "Find the mean of the first 5 prime numbers.",
+      "options": {
+        "A": "5.2",
+        "B": "5.6",
+        "C": "6.0",
+        "D": "6.4"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 250,
+      "question": "Present ages of X and Y are in ratio 5:6. After 7 years, the ratio becomes 6:7. Find X's present age.",
+      "options": {
+        "A": "30",
+        "B": "35",
+        "C": "40",
+        "D": "45"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 251,
+      "question": "Square root of 2025 is:",
+      "options": {
+        "A": "35",
+        "B": "45",
+        "C": "55",
+        "D": "65"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 252,
+      "question": "If x/3 = 12, then x is:",
+      "options": {
+        "A": "4",
+        "B": "36",
+        "C": "15",
+        "D": "9"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 253,
+      "question": "What is the LCM of 14 and 21?",
+      "options": {
+        "A": "28",
+        "B": "42",
+        "C": "56",
+        "D": "70"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 254,
+      "question": "Median of 2, 4, 6, 8, 10, 12 is:",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 255,
+      "question": "A is 3 times older than B. If sum of their ages is 48, find A's age.",
+      "options": {
+        "A": "32",
+        "B": "36",
+        "C": "40",
+        "D": "44"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 256,
+      "question": "Square of 27 is:",
+      "options": {
+        "A": "709",
+        "B": "729",
+        "C": "749",
+        "D": "769"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 257,
+      "question": "If 5 taps fill a tank in 20 minutes, how long will 2 taps take?",
+      "options": {
+        "A": "40 min",
+        "B": "50 min",
+        "C": "60 min",
+        "D": "70 min"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 258,
+      "question": "HCF of 60 and 90 is:",
+      "options": {
+        "A": "15",
+        "B": "30",
+        "C": "45",
+        "D": "60"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 259,
+      "question": "Mean of 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 is:",
+      "options": {
+        "A": "5.0",
+        "B": "5.5",
+        "C": "6.0",
+        "D": "6.5"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 260,
+      "question": "The ratio of father's age to son's age is 7:3. If the father is 42, find the son's age.",
+      "options": {
+        "A": "15",
+        "B": "18",
+        "C": "21",
+        "D": "24"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 261,
+      "question": "Square root of 2500 is:",
+      "options": {
+        "A": "40",
+        "B": "50",
+        "C": "60",
+        "D": "70"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 262,
+      "question": "If 8 oranges cost Rs. 40, how many oranges can you buy for Rs. 100?",
+      "options": {
+        "A": "15",
+        "B": "20",
+        "C": "25",
+        "D": "30"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 263,
+      "question": "LCM of 16 and 24 is:",
+      "options": {
+        "A": "32",
+        "B": "48",
+        "C": "64",
+        "D": "80"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 264,
+      "question": "Mode of 10, 20, 20, 30, 40 is:",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "30",
+        "D": "40"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 265,
+      "question": "Present age of A is 45. 5 years ago, A was 4 times as old as B. Find B's present age.",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 266,
+      "question": "Square of 28 is:",
+      "options": {
+        "A": "754",
+        "B": "784",
+        "C": "814",
+        "D": "844"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 267,
+      "question": "If 12 men build a wall in 10 days, how many men can build it in 8 days?",
+      "options": {
+        "A": "14",
+        "B": "15",
+        "C": "16",
+        "D": "18"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 268,
+      "question": "HCF of 72 and 120 is:",
+      "options": {
+        "A": "12",
+        "B": "24",
+        "C": "36",
+        "D": "48"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 269,
+      "question": "Mean of 10, 10, 10, 10 is:",
+      "options": {
+        "A": "0",
+        "B": "10",
+        "C": "40",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 270,
+      "question": "A is twice as old as B. If B is 20, how old was A 5 years ago?",
+      "options": {
+        "A": "30",
+        "B": "35",
+        "C": "40",
+        "D": "45"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 271,
+      "question": "Square root of 3600 is:",
+      "options": {
+        "A": "50",
+        "B": "60",
+        "C": "70",
+        "D": "80"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 272,
+      "question": "If 15 pencils cost Rs. 45, what is the cost of 1 pencil?",
+      "options": {
+        "A": "Rs. 2",
+        "B": "Rs. 3",
+        "C": "Rs. 4",
+        "D": "Rs. 5"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 273,
+      "question": "LCM of 5, 10, 15 is:",
+      "options": {
+        "A": "15",
+        "B": "30",
+        "C": "45",
+        "D": "60"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 274,
+      "question": "Median of 100, 200, 300 is:",
+      "options": {
+        "A": "100",
+        "B": "200",
+        "C": "300",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 275,
+      "question": "A's age is 1/2 of B's age. B's age is 1/2 of C's age. If C is 40, find A's age.",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 276,
+      "question": "Square of 29 is:",
+      "options": {
+        "A": "811",
+        "B": "841",
+        "C": "871",
+        "D": "901"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 277,
+      "question": "If 20 men dig a hole in 10 days, how many men can dig it in 5 days?",
+      "options": {
+        "A": "30",
+        "B": "40",
+        "C": "50",
+        "D": "60"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 278,
+      "question": "HCF of 100 and 150 is:",
+      "options": {
+        "A": "25",
+        "B": "50",
+        "C": "75",
+        "D": "100"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 279,
+      "question": "Mean of 5, 5, 10, 10 is:",
+      "options": {
+        "A": "5.0",
+        "B": "7.5",
+        "C": "10.0",
+        "D": "12.5"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 280,
+      "question": "A is 5 years older than B. If sum of their ages is 25, find B's age.",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 281,
+      "question": "Square root of 4900 is:",
+      "options": {
+        "A": "60",
+        "B": "70",
+        "C": "80",
+        "D": "90"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 282,
+      "question": "If 3 dozen eggs cost Rs. 180, what is the cost of 1 egg?",
+      "options": {
+        "A": "Rs. 4",
+        "B": "Rs. 5",
+        "C": "Rs. 6",
+        "D": "Rs. 10"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 283,
+      "question": "LCM of 11 and 13 is:",
+      "options": {
+        "A": "121",
+        "B": "143",
+        "C": "169",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 284,
+      "question": "Mode of 1, 1, 2, 2, 3, 3 is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "No mode"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 285,
+      "question": "A's age is twice B's age. 10 years ago, A was 4 times as old as B. Find B's age.",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 286,
+      "question": "Square of 12 is:",
+      "options": {
+        "A": "124",
+        "B": "144",
+        "C": "164",
+        "D": "184"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 287,
+      "question": "If 4 workers build a wall in 6 days, how long will 8 workers take?",
+      "options": {
+        "A": "2 days",
+        "B": "3 days",
+        "C": "4 days",
+        "D": "5 days"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 288,
+      "question": "HCF of 13 and 17 is:",
+      "options": {
+        "A": "1",
+        "B": "13",
+        "C": "17",
+        "D": "None"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 289,
+      "question": "Mean of first 3 natural numbers is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 290,
+      "question": "A is 10 years older than B. If A is 30, find B's age.",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "30",
+        "D": "40"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 291,
+      "question": "Square root of 6400 is:",
+      "options": {
+        "A": "70",
+        "B": "80",
+        "C": "90",
+        "D": "100"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 292,
+      "question": "If 5 apples cost Rs. 50, how much will 10 apples cost?",
+      "options": {
+        "A": "Rs. 75",
+        "B": "Rs. 100",
+        "C": "Rs. 125",
+        "D": "Rs. 150"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 293,
+      "question": "LCM of 8 and 10 is:",
+      "options": {
+        "A": "20",
+        "B": "40",
+        "C": "60",
+        "D": "80"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 294,
+      "question": "Median of 1, 2, 3, 4, 5 is:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 295,
+      "question": "A's age is 20. B is 5 years younger. Find B's age.",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 296,
+      "question": "Square of 11 is:",
+      "options": {
+        "A": "111",
+        "B": "121",
+        "C": "131",
+        "D": "141"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 297,
+      "question": "If 2 men do a job in 4 days, how long will 1 man take?",
+      "options": {
+        "A": "2 days",
+        "B": "4 days",
+        "C": "6 days",
+        "D": "8 days"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 298,
+      "question": "HCF of 9 and 12 is:",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "6",
+        "D": "9"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 299,
+      "question": "Mean of 2 and 4 is:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 300,
+      "question": "Square root of 8100 is:",
+      "options": {
+        "A": "80",
+        "B": "90",
+        "C": "100",
+        "D": "110"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 301,
+      "question": "Solve the expression: 3 + (18 ÷ 6)² x 2",
+      "options": {
+        "A": "15",
+        "B": "21",
+        "C": "39",
+        "D": "18"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 302,
+      "question": "The sum of cubes of two numbers is 280. If the numbers are in the ratio 2:3, find the smallest number.",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 303,
+      "question": "What is the square root of 576?",
+      "options": {
+        "A": "24",
+        "B": "26",
+        "C": "28",
+        "D": "34"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 304,
+      "question": "Find the missing number in the sequence: 4, 9, 16, 25, __",
+      "options": {
+        "A": "30",
+        "B": "36",
+        "C": "40",
+        "D": "49"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 305,
+      "question": "The ratio of width to length of a rectangle is 4:5. If the area is 500 cm², what is the length?",
+      "options": {
+        "A": "20 cm",
+        "B": "25 cm",
+        "C": "30 cm",
+        "D": "40 cm"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 306,
+      "question": "If 6 men take 9 days to complete a work, how many men can complete the work in 3 days?",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "18",
+        "D": "21"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 307,
+      "question": "What is the mean of the first 10 odd numbers?",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 308,
+      "question": "Solve: 12 + [16 – {5 + (12 – 3)}]",
+      "options": {
+        "A": "12",
+        "B": "14",
+        "C": "16",
+        "D": "18"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 309,
+      "question": "The sides of a triangle are in ratio 2:6:7. If the perimeter is 45 inches, find the shortest side.",
+      "options": {
+        "A": "3 inches",
+        "B": "6 inches",
+        "C": "9 inches",
+        "D": "12 inches"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 310,
+      "question": "Find the HCF of 30 and 70.",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 311,
+      "question": "A clock ticks every 5 seconds, a tap drips every 7 seconds, and a dog snores every 12 seconds. After how many seconds will they all happen together?",
+      "options": {
+        "A": "120",
+        "B": "240",
+        "C": "420",
+        "D": "600"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 312,
+      "question": "What is the square root of 625?",
+      "options": {
+        "A": "15",
+        "B": "25",
+        "C": "35",
+        "D": "45"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 313,
+      "question": "The age of a father is 4 times that of his son. 5 years ago, he was 9 times as old as his son. What is the son's present age?",
+      "options": {
+        "A": "8 years",
+        "B": "10 years",
+        "C": "12 years",
+        "D": "15 years"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 314,
+      "question": "Find the range of the set: 32, 6, 21, 10, 58.",
+      "options": {
+        "A": "48",
+        "B": "52",
+        "C": "58",
+        "D": "64"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 315,
+      "question": "Solve for x: 2x : 25 = 6 : (x/3)",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 316,
+      "question": "The sum of the ages of 5 children born at intervals of 4 years is 50. What is the age of the eldest child?",
+      "options": {
+        "A": "14",
+        "B": "16",
+        "C": "18",
+        "D": "20"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 317,
+      "question": "In the ratio a:b, what is 'a' called?",
+      "options": {
+        "A": "Consequent",
+        "B": "Antecedent",
+        "C": "Extreme",
+        "D": "Mean"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 318,
+      "question": "Calculate: 36 + 12 ÷ (8 - 5)",
+      "options": {
+        "A": "16",
+        "B": "40",
+        "C": "48",
+        "D": "52"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 319,
+      "question": "What is the LCM of 24, 36, and 48?",
+      "options": {
+        "A": "140",
+        "B": "144",
+        "C": "146",
+        "D": "148"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 320,
+      "question": "Sarah has 60 momos and 8 rolls. What is the greatest number of identical plates she can prepare without leftovers?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 321,
+      "question": "Solve: 4 - [4 - {4 - (4 - 4) - 4}]",
+      "options": {
+        "A": "0",
+        "B": "4",
+        "C": "8",
+        "D": "12"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 322,
+      "question": "If 5 persons do a job in 8 days, how many days will 10 persons take?",
+      "options": {
+        "A": "4",
+        "B": "16",
+        "C": "2",
+        "D": "8"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 323,
+      "question": "The temperature of 5 days was 32, 28, 29, 27, 55. What is the mean?",
+      "options": {
+        "A": "30.2",
+        "B": "34.2",
+        "C": "36.2",
+        "D": "38.2"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 324,
+      "question": "If the ratio of boys and girls in a class of 90 is 7:8, how many boys are there?",
+      "options": {
+        "A": "40",
+        "B": "42",
+        "C": "48",
+        "D": "50"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 325,
+      "question": "What is the square of 25?",
+      "options": {
+        "A": "525",
+        "B": "625",
+        "C": "675",
+        "D": "725"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 326,
+      "question": "In the proportion 3:5::4:8, what do 3 and 8 represent?",
+      "options": {
+        "A": "Means",
+        "B": "Extremes",
+        "C": "Antecedents",
+        "D": "Consequents"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 327,
+      "question": "Divide Rs. 2000 in the ratio 3:2.",
+      "options": {
+        "A": "1000, 1000",
+        "B": "1200, 800",
+        "C": "1400, 600",
+        "D": "1500, 500"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 328,
+      "question": "The mode of 63, 63, 75, 67, 69, 52, 50, 63, 56, 52 is:",
+      "options": {
+        "A": "52",
+        "B": "63",
+        "C": "67",
+        "D": "75"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 329,
+      "question": "If a tap fills 1/7th of a tank in 1 hour, how long to fill the whole tank?",
+      "options": {
+        "A": "7 hours",
+        "B": "14 hours",
+        "C": "3.5 hours",
+        "D": "1 hour"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 330,
+      "question": "Find the next number: 1, 4, 9, 16, 25, 36, ...",
+      "options": {
+        "A": "40",
+        "B": "45",
+        "C": "49",
+        "D": "64"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 331,
+      "question": "If x is current age, what was the age n years ago?",
+      "options": {
+        "A": "x + n",
+        "B": "x - n",
+        "C": "nx",
+        "D": "x/n"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 332,
+      "question": "The median of 24, 31, 21, 18, 24, 22 is:",
+      "options": {
+        "A": "22",
+        "B": "23",
+        "C": "24",
+        "D": "25"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 333,
+      "question": "If 20 articles cost Rs. 90, what is the cost of 9 articles?",
+      "options": {
+        "A": "Rs. 40",
+        "B": "Rs. 40.5",
+        "C": "Rs. 42",
+        "D": "Rs. 45"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 334,
+      "question": "What is the HCF of 12 and 16?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 335,
+      "question": "The square root of 484 is:",
+      "options": {
+        "A": "21",
+        "B": "22",
+        "C": "23",
+        "D": "24"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 336,
+      "question": "Solve: 4 + 8 ÷ 2 – 5",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "7"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 337,
+      "question": "The product of means equals the product of:",
+      "options": {
+        "A": "Antecedents",
+        "B": "Extremes",
+        "C": "Consequents",
+        "D": "Ratios"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 338,
+      "question": "What is the mean of 2500, 1200, 1000, 2500, 1100?",
+      "options": {
+        "A": "1560",
+        "B": "1660",
+        "C": "1760",
+        "D": "1860"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 339,
+      "question": "Find the square of 19.",
+      "options": {
+        "A": "341",
+        "B": "361",
+        "C": "381",
+        "D": "401"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 340,
+      "question": "If the ratio of Faheem, Imran, and Naveed's salaries is 80k:70k:50k, what is the simplest ratio?",
+      "options": {
+        "A": "8:7:5",
+        "B": "8:7:6",
+        "C": "4:3:2",
+        "D": "5:7:8"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 341,
+      "question": "What is the HCF of 2, 4, and 6?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "6"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 342,
+      "question": "Calculate the mean of the first 10 integers.",
+      "options": {
+        "A": "4.5",
+        "B": "5.5",
+        "C": "6.5",
+        "D": "7.5"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 343,
+      "question": "If cost of 15 eggs is Rs. 75, what is the cost of 4 dozen eggs?",
+      "options": {
+        "A": "Rs. 240",
+        "B": "Rs. 200",
+        "C": "Rs. 300",
+        "D": "Rs. 180"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 344,
+      "question": "Square root of 289 is:",
+      "options": {
+        "A": "13",
+        "B": "17",
+        "C": "19",
+        "D": "23"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 345,
+      "question": "Solve the sequence: 2, 6, 12, 20, 30, __",
+      "options": {
+        "A": "36",
+        "B": "40",
+        "C": "42",
+        "D": "50"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 346,
+      "question": "In a triangle, the sum of angles is:",
+      "options": {
+        "A": "90",
+        "B": "180",
+        "C": "270",
+        "D": "360"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 347,
+      "question": "The median of 6, 7, 7, 7, 9, 11, 11, 18, 23 is:",
+      "options": {
+        "A": "7",
+        "B": "9",
+        "C": "11",
+        "D": "18"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 348,
+      "question": "If a car covers 100km in 2 hours, how many km in 5 hours?",
+      "options": {
+        "A": "200",
+        "B": "250",
+        "C": "300",
+        "D": "350"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 349,
+      "question": "HCF of 24 and 36 is:",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "18",
+        "D": "24"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 350,
+      "question": "The square of 13 is:",
+      "options": {
+        "A": "144",
+        "B": "169",
+        "C": "196",
+        "D": "225"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 351,
+      "question": "BODMAS: 'D' stands for:",
+      "options": {
+        "A": "Distance",
+        "B": "Division",
+        "C": "Difference",
+        "D": "Degree"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 352,
+      "question": "Mean of 10, 20, 30 is:",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "30",
+        "D": "40"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 353,
+      "question": "If 10 apples cost Rs. 100, 1 apple costs:",
+      "options": {
+        "A": "Rs. 1",
+        "B": "Rs. 5",
+        "C": "Rs. 10",
+        "D": "Rs. 20"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 354,
+      "question": "The LCM of 2, 4, 6 is:",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "24",
+        "D": "48"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 355,
+      "question": "Square root of 1 is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 356,
+      "question": "Find the missing: 5, 10, 20, 40, __",
+      "options": {
+        "A": "50",
+        "B": "60",
+        "C": "80",
+        "D": "100"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 357,
+      "question": "Perimeter of a square with side 5cm is:",
+      "options": {
+        "A": "10 cm",
+        "B": "20 cm",
+        "C": "25 cm",
+        "D": "30 cm"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 358,
+      "question": "The range of 1, 2, 3, 4, 5 is:",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 359,
+      "question": "If 12 men paint a house in 8 days, 1 man takes:",
+      "options": {
+        "A": "12 days",
+        "B": "8 days",
+        "C": "96 days",
+        "D": "4 days"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 360,
+      "question": "HCF of 15 and 20 is:",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "10"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 361,
+      "question": "Square root of 144 is:",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "14",
+        "D": "16"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 362,
+      "question": "Solve: (5+5) x 2",
+      "options": {
+        "A": "15",
+        "B": "20",
+        "C": "25",
+        "D": "30"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 363,
+      "question": "The mean of 5, 5, 5 is:",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "15",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 364,
+      "question": "If 5 pencils cost Rs. 15, 10 cost:",
+      "options": {
+        "A": "Rs. 20",
+        "B": "Rs. 30",
+        "C": "Rs. 40",
+        "D": "Rs. 50"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 365,
+      "question": "LCM of 3 and 5 is:",
+      "options": {
+        "A": "8",
+        "B": "15",
+        "C": "30",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 366,
+      "question": "Square of 2 is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "8"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 367,
+      "question": "Find the missing: 2, 4, 6, 8, __",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "12",
+        "D": "14"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 368,
+      "question": "Area of a rectangle (L=5, W=4) is:",
+      "options": {
+        "A": "9",
+        "B": "18",
+        "C": "20",
+        "D": "40"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 369,
+      "question": "The mode of 1, 2, 2, 3 is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 370,
+      "question": "If a man is 40 and his son 10, the ratio is:",
+      "options": {
+        "A": "1:4",
+        "B": "4:1",
+        "C": "2:1",
+        "D": "1:2"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 371,
+      "question": "HCF of 7 and 11 is:",
+      "options": {
+        "A": "1",
+        "B": "7",
+        "C": "11",
+        "D": "77"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 372,
+      "question": "Square root of 16 is:",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "16"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 373,
+      "question": "Solve: 10 - 2 x 3",
+      "options": {
+        "A": "24",
+        "B": "4",
+        "C": "6",
+        "D": "10"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 374,
+      "question": "Mean of 1 and 9 is:",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "10"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 375,
+      "question": "If 1 book is Rs. 50, 3 books are:",
+      "options": {
+        "A": "Rs. 100",
+        "B": "Rs. 150",
+        "C": "Rs. 200",
+        "D": "Rs. 250"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 376,
+      "question": "LCM of 4 and 6 is:",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "24",
+        "D": "48"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 377,
+      "question": "Square of 10 is:",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "100",
+        "D": "1000"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 378,
+      "question": "Find the missing: 3, 6, 9, 12, __",
+      "options": {
+        "A": "13",
+        "B": "15",
+        "C": "18",
+        "D": "21"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 379,
+      "question": "Perimeter of a rectangle (L=2, W=1) is:",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "2",
+        "D": "4"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 380,
+      "question": "The range of 10, 20 is:",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "30"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 381,
+      "question": "HCF of 10 and 100 is:",
+      "options": {
+        "A": "1",
+        "B": "10",
+        "C": "100",
+        "D": "110"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 382,
+      "question": "Square root of 25 is:",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "9"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 383,
+      "question": "Solve: 2 + 2 + 2",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "10"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 384,
+      "question": "Mean of 0 and 10 is:",
+      "options": {
+        "A": "0",
+        "B": "5",
+        "C": "10",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 385,
+      "question": "If 2 pens are Rs. 10, 4 are:",
+      "options": {
+        "A": "Rs. 15",
+        "B": "Rs. 20",
+        "C": "Rs. 25",
+        "D": "Rs. 30"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 386,
+      "question": "LCM of 10 and 20 is:",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "30",
+        "D": "40"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 387,
+      "question": "Square of 5 is:",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "25",
+        "D": "50"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 388,
+      "question": "Find the missing: 10, 20, 30, __",
+      "options": {
+        "A": "35",
+        "B": "40",
+        "C": "50",
+        "D": "60"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 389,
+      "question": "Area of a square with side 2 is:",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "16"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 390,
+      "question": "The mode of 5, 5, 6 is:",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "11",
+        "D": "None"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 391,
+      "question": "HCF of 2 and 3 is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "6"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 392,
+      "question": "Square root of 81 is:",
+      "options": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "10"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 393,
+      "question": "Solve: 20 ÷ 5",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "5",
+        "D": "10"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 394,
+      "question": "Mean of 100 and 200 is:",
+      "options": {
+        "A": "100",
+        "B": "150",
+        "C": "200",
+        "D": "300"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 395,
+      "question": "If 1 apple is Rs. 10, 100 apples are:",
+      "options": {
+        "A": "Rs. 100",
+        "B": "Rs. 500",
+        "C": "Rs. 1000",
+        "D": "Rs. 2000"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 396,
+      "question": "LCM of 1 and 5 is:",
+      "options": {
+        "A": "1",
+        "B": "5",
+        "C": "10",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 397,
+      "question": "Square of 1 is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "None"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 398,
+      "question": "Find the missing: 1, 3, 5, __",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 399,
+      "question": "Perimeter of a square (side=1) is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "8"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 400,
+      "question": "Square root of 100 is:",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "20",
+        "D": "50"
+      },
+      "correct_answer": "B"
+    }
+  ]
+}
