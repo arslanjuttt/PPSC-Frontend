@@ -61,12 +61,12 @@ node --version
    ```bash
    HF_API_KEY=your_hugging_face_token
    NEXT_PUBLIC_API_URL=http://localhost:5001
-   NEXT_PUBLIC_SERVER_URL_LOCAL=http://localhost:5001
-   NEXT_PUBLIC_SERVER_URL_PRODUCTION=https://ppsc-backend-production.up.railway.app
    ```
    This is required for the YouTube audio transcription endpoint that uses the
-   `openai/whisper-large-v3` model on Hugging Face, and the frontend API client
-   uses the public server URL variables when `NEXT_PUBLIC_API_URL` is not set.
+   `openai/whisper-large-v3` model on Hugging Face. Set `NEXT_PUBLIC_API_URL`
+   to the backend origin for the environment you're running in.
+   If you are using a single API environment variable approach, you can omit the
+   `NEXT_PUBLIC_SERVER_URL_LOCAL` and `NEXT_PUBLIC_SERVER_URL_PRODUCTION` variables.
 
 ## 🏃 Running the Project
 

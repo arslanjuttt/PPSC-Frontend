@@ -10,14 +10,7 @@ const normalizeBaseUrl = (value?: string) => {
   return withProtocol.replace(/\/+$/, '');
 };
 
-const apiBaseUrl =
-  normalizeBaseUrl(process.env.NEXT_PUBLIC_API_URL) ||
-  normalizeBaseUrl(
-    process.env.NODE_ENV === 'production'
-      ? process.env.NEXT_PUBLIC_SERVER_URL_PRODUCTION
-      : process.env.NEXT_PUBLIC_SERVER_URL_LOCAL
-  ) ||
-  'http://localhost:5001';
+const apiBaseUrl = normalizeBaseUrl(process.env.NEXT_PUBLIC_API_URL) || 'http://localhost:5001';
 
 export const apiClient = axios.create({
   baseURL: apiBaseUrl,
