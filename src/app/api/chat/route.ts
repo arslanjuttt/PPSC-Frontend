@@ -84,7 +84,7 @@ export async function POST(request: NextRequest) {
     }
 
     // Build Gemini contents: alternate user / model (assistant)
-    let contents: Array<{ role: 'user' | 'model'; parts: Array<{ text?: string; inlineData?: { mimeType: string; data: string } }> }> = messages.map((m) => ({
+    const contents: Array<{ role: 'user' | 'model'; parts: Array<{ text?: string; inlineData?: { mimeType: string; data: string } }> }> = messages.map((m) => ({
       role: m.role === 'user' ? 'user' : 'model',
       parts: [{ text: m.content }],
     }));

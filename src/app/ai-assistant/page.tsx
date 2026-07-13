@@ -127,7 +127,7 @@ export default function AIAssistantPage() {
           responseText = `Sorry, something went wrong: ${data.error}`;
         }
       }
-    } catch (_e) {
+    } catch {
       responseText = FALLBACK_MESSAGE;
     }
 

@@ -20,7 +20,7 @@
     "date-fns": "^4.1.0",
     "fluent-ffmpeg": "^2.1.3",
     "lucide-react": "^0.536.0",
-    "next": "^15.5.11",
+    "next": "15.5.20",
     "pdf-parse": "^1.1.4",
     "react": "19.1.0",
     "react-dom": "19.1.0",
@@ -37,7 +37,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "15.4.5",
+    "eslint-config-next": "15.5.20",
     "tailwindcss": "^4",
     "tw-animate-css": "^1.3.6",
     "typescript": "^5"

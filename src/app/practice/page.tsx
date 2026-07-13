@@ -43,11 +43,9 @@ function SubjectSelectPrompt() {
 
 function StartQuizScreen({
   subjectName,
-  subjectSlug,
   onStart,
 }: {
   subjectName: string;
-  subjectSlug: string;
   onStart: () => void;
 }) {
   return (
@@ -274,7 +272,6 @@ function PracticeContent() {
     return (
       <StartQuizScreen
         subjectName={subjectName}
-        subjectSlug={subjectSlug}
         onStart={startQuiz}
       />
     );
