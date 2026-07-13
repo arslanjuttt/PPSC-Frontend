@@ -62,7 +62,7 @@ node --version
    HF_API_KEY=your_hugging_face_token
    NEXT_PUBLIC_API_URL=http://localhost:5001
    NEXT_PUBLIC_SERVER_URL_LOCAL=http://localhost:5001
-   NEXT_PUBLIC_SERVER_URL_PRODUCTION=ppsc-backend-production.up.railway.app
+   NEXT_PUBLIC_SERVER_URL_PRODUCTION=https://ppsc-backend-production.up.railway.app
    ```
    This is required for the YouTube audio transcription endpoint that uses the
    `openai/whisper-large-v3` model on Hugging Face, and the frontend API client
