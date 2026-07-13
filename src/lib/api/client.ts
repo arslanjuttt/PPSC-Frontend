@@ -2,8 +2,25 @@ import axios from 'axios';
 
 const TOKEN_KEY = 'ppsc_token';
 
+const normalizeBaseUrl = (value?: string) => {
+  const trimmed = value?.trim();
+  if (!trimmed) return '';
+
+  const withProtocol = /^https?:\/\//i.test(trimmed) ? trimmed : `https://${trimmed}`;
+  return withProtocol.replace(/\/+$/, '');
+};
+
+const apiBaseUrl =
+  normalizeBaseUrl(process.env.NEXT_PUBLIC_API_URL) ||
+  normalizeBaseUrl(
+    process.env.NODE_ENV === 'production'
+      ? process.env.NEXT_PUBLIC_SERVER_URL_PRODUCTION
+      : process.env.NEXT_PUBLIC_SERVER_URL_LOCAL
+  ) ||
+  'http://localhost:5001';
+
 export const apiClient = axios.create({
-  baseURL: process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5001',
+  baseURL: apiBaseUrl,
   headers: { 'Content-Type': 'application/json' },
 });
 
