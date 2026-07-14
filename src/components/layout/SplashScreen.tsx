@@ -13,7 +13,7 @@ export default function SplashScreen({ visible = true }: SplashScreenProps) {
     <div className="fixed inset-0 z-9999 flex flex-col items-center justify-center bg-white dark:bg-gray-950">
       <div className="flex flex-col items-center justify-center gap-6 px-6 text-center">
         <Image
-          src="/HomeLogo.jpeg"
+          src="/Logo.png"
           alt="PPSC Preparation App"
           width={320}
           height={320}
