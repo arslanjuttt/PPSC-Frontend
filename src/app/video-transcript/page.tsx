@@ -126,29 +126,30 @@ export default function VideoTranscriptPage() {
             <h2 id="transcript-heading" className="text-xl font-semibold text-gray-900 dark:text-white">
               Transcript
             </h2>
-            <button
-              type="button"
-              onClick={() => copyToClipboard(transcript, 'transcript')}
-              className="inline-flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
-            >
-              {copiedSection === 'transcript' ? (
-                <>
-                  <Check className="w-4 h-4 text-green-600" aria-hidden />
-                  Copied
-                </>
-              ) : (
-                <>
-                  <Copy className="w-4 h-4" aria-hidden />
-                  Copy transcript
-                </>
-              )}
-            </button>
+            <div className="flex items-center gap-2">
+              <button
+                type="button"
+                onClick={() => copyToClipboard(transcript, 'transcript')}
+                className="inline-flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+              >
+                {copiedSection === 'transcript' ? (
+                  <>
+                    <Check className="w-4 h-4 text-green-600" aria-hidden />
+                    Copied
+                  </>
+                ) : (
+                  <>
+                    <Copy className="w-4 h-4" aria-hidden />
+                    Copy transcript
+                  </>
+                )}
+              </button>
+            </div>
           </div>
-          <div
-            className="p-6 max-h-96 overflow-auto text-gray-700 dark:text-gray-300 leading-relaxed"
-            tabIndex={0}
-          >
-            {transcript}
+          <div className="p-6">
+            <div className="max-h-96 overflow-auto text-gray-700 dark:text-gray-300 leading-relaxed whitespace-pre-wrap">
+              {transcript}
+            </div>
           </div>
         </section>
       )}
