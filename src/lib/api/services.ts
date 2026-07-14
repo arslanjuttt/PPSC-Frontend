@@ -50,3 +50,12 @@ export const userApi = {
 export const testApi = {
   getAll: () => apiClient.get<ApiResponse>('/api/tests'),
 };
+
+export const transcriptApi = {
+  generate: (url: string) => apiClient.post<ApiResponse<{ transcript: string }>>('/api/transcript', { url }),
+};
+
+export const chatApi = {
+  send: (payload: { messages: Array<{ role: 'user' | 'assistant'; content: string }> }) =>
+    apiClient.post<{ text?: string; error?: string }>('/api/chat', payload),
+};

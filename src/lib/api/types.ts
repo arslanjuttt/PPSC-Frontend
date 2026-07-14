@@ -36,6 +36,7 @@ export interface ApiResponse<T = unknown> {
   leaderboard?: LeaderboardEntry[];
   tests?: MockTest[];
   results?: TestHistoryItem[];
+  transcript?: string;
 }
 
 export interface LeaderboardEntry {

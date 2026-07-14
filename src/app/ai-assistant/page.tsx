@@ -15,6 +15,7 @@ import {
   FileText,
 } from 'lucide-react';
 import { cn } from '@/lib/utils';
+import { chatApi } from '@/lib/api';
 
 interface Message {
   id: string;
@@ -30,7 +31,7 @@ const SUGGESTED_PROMPTS = [
 ];
 
 const FALLBACK_MESSAGE =
-  "I couldn't reach the AI right now. Please check that GEMINI_API_KEY is set in .env.local and try again. I can help with PPSC exam structure, study tips, and subject explanations when the connection is working.";
+  "I’m having trouble answering right now. Please try again in a moment.";
 
 const ACCEPT_FILES = 'image/*,.pdf,.txt';
 const MAX_FILES = 4;
@@ -105,26 +106,22 @@ export default function AIAssistantPage() {
         const messagesForApi = newMessages.map((m) => ({ role: m.role, content: m.content }));
         formData.set('messages', JSON.stringify(messagesForApi));
         filesToSend.forEach((a) => formData.append('files', a.file));
-        const res = await fetch('/api/chat', { method: 'POST', body: formData });
+        const res = await fetch('http://localhost:5001/api/chat', { method: 'POST', body: formData });
         const data = (await res.json()) as { text?: string; error?: string };
         if (res.ok && typeof data.text === 'string') {
           responseText = data.text;
         } else if (data.error) {
-          responseText = `Sorry, something went wrong: ${data.error}`;
+          responseText = FALLBACK_MESSAGE;
         }
       } else {
-        const res = await fetch('/api/chat', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            messages: newMessages.map((m) => ({ role: m.role, content: m.content })),
-          }),
+        const response = await chatApi.send({
+          messages: newMessages.map((m) => ({ role: m.role, content: m.content })),
         });
-        const data = (await res.json()) as { text?: string; error?: string };
-        if (res.ok && typeof data.text === 'string') {
+        const data = response.data;
+        if (typeof data.text === 'string') {
           responseText = data.text;
         } else if (data.error) {
-          responseText = `Sorry, something went wrong: ${data.error}`;
+          responseText = FALLBACK_MESSAGE;
         }
       }
     } catch {

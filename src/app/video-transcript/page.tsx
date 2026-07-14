@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { Video, Loader2, Copy, Check } from 'lucide-react';
 import { cn } from '@/lib/utils';
+import { getApiErrorMessage, transcriptApi } from '@/lib/api';
 
 export default function VideoTranscriptPage() {
   const [url, setUrl] = useState('');
@@ -21,19 +22,15 @@ export default function VideoTranscriptPage() {
     setIsLoading(true);
 
     try {
-      const res = await fetch('/api/video-transcript', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ url: trimmed }),
-      });
-      const text = (await res.text()).trim();
-      if (!res.ok) {
-        setError(text || 'Something went wrong. Please try again.');
+      const response = await transcriptApi.generate(trimmed);
+      const text = response.data?.transcript?.trim() || '';
+      if (!text) {
+        setError('No transcript could be generated for this video.');
         return;
       }
       setTranscript(text);
-    } catch {
-      setError('Network error. Please try again.');
+    } catch (error: unknown) {
+      setError(getApiErrorMessage(error, 'Network error. Please try again.'));
     } finally {
       setIsLoading(false);
     }
