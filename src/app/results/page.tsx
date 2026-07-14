@@ -30,6 +30,8 @@ function LatestPracticeReview({
   onClear: () => void;
 }) {
   const { subjectName, subjectSlug, mcqs, answers, score, correctCount } = detail;
+  const isMockTest = subjectSlug.startsWith('mock-');
+  const mockTestId = isMockTest ? subjectSlug.replace('mock-', '') : null;
 
   return (
     <div className="space-y-8">
@@ -39,7 +41,7 @@ function LatestPracticeReview({
             <Trophy className="w-10 h-10" />
           </div>
           <div>
-            <h1 className="text-2xl font-bold">{subjectName} — Quiz Complete</h1>
+            <h1 className="text-2xl font-bold">{subjectName} — {isMockTest ? 'Mock Test Complete' : 'Quiz Complete'}</h1>
             <p className="text-white/90">Here’s how you did.</p>
           </div>
         </div>
@@ -139,18 +141,18 @@ function LatestPracticeReview({
 
       <div className="flex flex-wrap gap-4">
         <Link
-          href={`/practice?subject=${subjectSlug}`}
+          href={isMockTest ? `/mock-test/${mockTestId}` : `/practice?subject=${subjectSlug}`}
           className="inline-flex items-center gap-2 px-5 py-2.5 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 font-medium"
         >
           <Play className="w-4 h-4" />
-          Retake quiz
+          {isMockTest ? 'Retake mock test' : 'Retake quiz'}
         </Link>
         <Link
-          href="/subjects"
+          href={isMockTest ? '/mock-test' : '/subjects'}
           className="inline-flex items-center gap-2 px-5 py-2.5 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 font-medium"
         >
           <ArrowLeft className="w-4 h-4" />
-          Choose another subject
+          {isMockTest ? 'Choose another mock test' : 'Choose another subject'}
         </Link>
         <button
           type="button"

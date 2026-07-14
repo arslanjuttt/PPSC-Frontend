@@ -10,7 +10,7 @@ import {
   ChevronRight,
   Play,
 } from 'lucide-react';
-import { getMcqsForSubject, getSubjectDisplayName } from '@/lib/mcqs';
+import { getMcqsForSubject, getSubjectDisplayName, PRACTICE_MCQ_COUNT } from '@/lib/mcqs';
 import type { JsonMcq } from '@/types';
 import { cn } from '@/lib/utils';
 import { useAuth } from '@/contexts/AuthContext';
@@ -27,7 +27,7 @@ function SubjectSelectPrompt() {
       <div className="bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 p-8 text-center">
         <Play className="w-16 h-16 text-gray-400 dark:text-gray-500 mx-auto mb-4" />
         <p className="text-gray-600 dark:text-gray-400 mb-4">
-          Select a subject to start a 10-question quiz. Choose from the Subjects page.
+          Select a subject to start a {PRACTICE_MCQ_COUNT}-question quiz. Choose from the Subjects page.
         </p>
         <Link
           href="/subjects"
@@ -43,9 +43,11 @@ function SubjectSelectPrompt() {
 
 function StartQuizScreen({
   subjectName,
+  questionCount,
   onStart,
 }: {
   subjectName: string;
+  questionCount: number;
   onStart: () => void;
 }) {
   return (
@@ -61,7 +63,7 @@ function StartQuizScreen({
         <BookOpen className="w-16 h-16 text-primary mx-auto mb-4" />
         <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">{subjectName}</h1>
         <p className="text-gray-600 dark:text-gray-400 mb-6">
-          10 MCQs · Select your answers and submit when done.
+          {questionCount} MCQs · Select your answers and submit when done.
         </p>
         <button
           type="button"
@@ -272,6 +274,7 @@ function PracticeContent() {
     return (
       <StartQuizScreen
         subjectName={subjectName}
+        questionCount={mcqs.length}
         onStart={startQuiz}
       />
     );

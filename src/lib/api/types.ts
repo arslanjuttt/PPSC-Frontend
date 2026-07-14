@@ -47,8 +47,10 @@ export interface LeaderboardEntry {
 export interface MockTest {
   id: number;
   title: string;
-  subject: string;
+  questionCount: number;
   duration: number;
+  subject?: string;
+  description?: string;
 }
 
 export interface RecordTestResultPayload {

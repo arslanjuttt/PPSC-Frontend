@@ -4,6 +4,7 @@ import { Inter } from 'next/font/google';
 import { ThemeProvider } from '@/components/layout/ThemeProvider';
 import { AuthProvider } from '@/contexts/AuthContext';
 import AuthWrapper from '@/components/layout/AuthWrapper';
+import AppSplash from '@/components/layout/AppSplash';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -22,7 +23,9 @@ export default function RootLayout({
       <body className={inter.className} suppressHydrationWarning>
         <ThemeProvider>
           <AuthProvider>
-            <AuthWrapper>{children}</AuthWrapper>
+            <AppSplash>
+              <AuthWrapper>{children}</AuthWrapper>
+            </AppSplash>
           </AuthProvider>
         </ThemeProvider>
       </body>

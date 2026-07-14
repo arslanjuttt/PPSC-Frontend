@@ -1,7 +1,7 @@
 'use client';
 
-import { useEffect, useState } from 'react';
-import { Trophy, Medal, Award, TrendingUp, Loader2 } from 'lucide-react';
+import { useEffect, useMemo, useState } from 'react';
+import { Trophy, Medal, Award, TrendingUp, Loader2, Search, ChevronLeft, ChevronRight } from 'lucide-react';
 import { userApi, getApiErrorMessage } from '@/lib/api';
 import type { LeaderboardEntry } from '@/lib/api/types';
 
@@ -14,18 +14,20 @@ interface DisplayEntry {
   accuracy: number;
 }
 
+const ROWS_PER_PAGE_OPTIONS = [10, 20, 50] as const;
+
 const getRankIcon = (rank: number) => {
-  if (rank === 1) return <Trophy className="w-6 h-6 text-yellow-500" />;
-  if (rank === 2) return <Medal className="w-6 h-6 text-gray-400" />;
-  if (rank === 3) return <Award className="w-6 h-6 text-amber-600" />;
-  return <span className="text-gray-500 dark:text-gray-400 font-bold">#{rank}</span>;
+  if (rank === 1) return <Trophy className="w-5 h-5 text-white drop-shadow-sm" />;
+  if (rank === 2) return <Medal className="w-5 h-5 text-white drop-shadow-sm" />;
+  if (rank === 3) return <Award className="w-5 h-5 text-white drop-shadow-sm" />;
+  return <span className="text-sm font-bold text-primary">#{rank}</span>;
 };
 
 const getRankBadgeColor = (rank: number) => {
-  if (rank === 1) return 'bg-linear-to-r from-yellow-400 to-yellow-600';
-  if (rank === 2) return 'bg-linear-to-r from-gray-300 to-gray-500';
-  if (rank === 3) return 'bg-linear-to-r from-amber-500 to-amber-700';
-  return 'bg-gray-200 dark:bg-gray-700';
+  if (rank === 1) return 'bg-linear-to-br from-yellow-400 to-yellow-600 shadow-md';
+  if (rank === 2) return 'bg-linear-to-br from-slate-400 to-slate-500 shadow-md';
+  if (rank === 3) return 'bg-linear-to-br from-amber-400 to-amber-600 shadow-md';
+  return 'bg-primary/15 dark:bg-primary/25 border-2 border-primary/40';
 };
 
 const mapLeaderboard = (entries: LeaderboardEntry[]): DisplayEntry[] =>
@@ -42,6 +44,9 @@ export default function LeaderboardPage() {
   const [leaderboard, setLeaderboard] = useState<DisplayEntry[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState('');
+  const [searchQuery, setSearchQuery] = useState('');
+  const [rowsPerPage, setRowsPerPage] = useState<number>(10);
+  const [currentPage, setCurrentPage] = useState(1);
 
   useEffect(() => {
     const fetchLeaderboard = async () => {
@@ -57,6 +62,24 @@ export default function LeaderboardPage() {
 
     fetchLeaderboard();
   }, []);
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [searchQuery, rowsPerPage]);
+
+  const filteredLeaderboard = useMemo(() => {
+    const query = searchQuery.trim().toLowerCase();
+    if (!query) return leaderboard;
+    return leaderboard.filter((entry) => entry.name.toLowerCase().includes(query));
+  }, [leaderboard, searchQuery]);
+
+  const totalPages = Math.max(1, Math.ceil(filteredLeaderboard.length / rowsPerPage));
+  const safeCurrentPage = Math.min(currentPage, totalPages);
+
+  const paginatedLeaderboard = useMemo(() => {
+    const start = (safeCurrentPage - 1) * rowsPerPage;
+    return filteredLeaderboard.slice(start, start + rowsPerPage);
+  }, [filteredLeaderboard, safeCurrentPage, rowsPerPage]);
 
   const topScore = leaderboard[0]?.score ?? 0;
   const averageScore =
@@ -100,7 +123,56 @@ export default function LeaderboardPage() {
 
       {!isLoading && leaderboard.length > 0 && (
         <>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 border border-gray-200 dark:border-gray-700">
+              <div className="flex items-center space-x-3">
+                <div className="p-3 bg-yellow-100 dark:bg-yellow-900/30 rounded-lg">
+                  <Trophy className="w-6 h-6 text-yellow-600 dark:text-yellow-400" />
+                </div>
+                <div>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">Top Score</p>
+                  <p className="text-2xl font-bold text-gray-900 dark:text-white">{topScore}%</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 border border-gray-200 dark:border-gray-700">
+              <div className="flex items-center space-x-3">
+                <div className="p-3 bg-blue-100 dark:bg-blue-900/30 rounded-lg">
+                  <TrendingUp className="w-6 h-6 text-blue-600 dark:text-blue-400" />
+                </div>
+                <div>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">Total Participants</p>
+                  <p className="text-2xl font-bold text-gray-900 dark:text-white">{leaderboard.length}</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 border border-gray-200 dark:border-gray-700">
+              <div className="flex items-center space-x-3">
+                <div className="p-3 bg-green-100 dark:bg-green-900/30 rounded-lg">
+                  <Award className="w-6 h-6 text-green-600 dark:text-green-400" />
+                </div>
+                <div>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">Average Score</p>
+                  <p className="text-2xl font-bold text-gray-900 dark:text-white">{averageScore}%</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
           <div className="bg-white dark:bg-gray-800 rounded-xl shadow-md border border-gray-200 dark:border-gray-700 overflow-hidden">
+            <div className="p-4 sm:p-6 border-b border-gray-200 dark:border-gray-700">
+              <div className="relative max-w-md">
+                <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
+                <input
+                  type="text"
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  placeholder="Search by name..."
+                  className="w-full pl-10 pr-4 py-2.5 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-900 text-gray-900 dark:text-white placeholder:text-gray-500 dark:placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary"
+                />
+              </div>
+            </div>
+
             <div className="overflow-x-auto">
               <table className="w-full">
                 <thead className="bg-gray-50 dark:bg-gray-900">
@@ -114,7 +186,14 @@ export default function LeaderboardPage() {
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-gray-200 dark:divide-gray-700">
-                  {leaderboard.map((entry) => (
+                  {paginatedLeaderboard.length === 0 ? (
+                    <tr>
+                      <td colSpan={6} className="px-6 py-12 text-center text-gray-500 dark:text-gray-400">
+                        No participants found matching &quot;{searchQuery.trim()}&quot;
+                      </td>
+                    </tr>
+                  ) : (
+                    paginatedLeaderboard.map((entry) => (
                     <tr
                       key={entry.rank}
                       className={`hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors ${
@@ -149,43 +228,51 @@ export default function LeaderboardPage() {
                       </td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900 dark:text-white">{entry.accuracy}%</td>
                     </tr>
-                  ))}
+                    ))
+                  )}
                 </tbody>
               </table>
             </div>
-          </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 border border-gray-200 dark:border-gray-700">
-              <div className="flex items-center space-x-3">
-                <div className="p-3 bg-yellow-100 dark:bg-yellow-900/30 rounded-lg">
-                  <Trophy className="w-6 h-6 text-yellow-600 dark:text-yellow-400" />
-                </div>
-                <div>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">Top Score</p>
-                  <p className="text-2xl font-bold text-gray-900 dark:text-white">{topScore}%</p>
-                </div>
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 px-4 sm:px-6 py-4 border-t border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-900/50">
+              <div className="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-400">
+                <span>Rows per page</span>
+                <select
+                  value={rowsPerPage}
+                  onChange={(e) => setRowsPerPage(Number(e.target.value))}
+                  className="rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-white px-3 py-1.5 focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary"
+                >
+                  {ROWS_PER_PAGE_OPTIONS.map((option) => (
+                    <option key={option} value={option}>
+                      {option}
+                    </option>
+                  ))}
+                </select>
               </div>
-            </div>
-            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 border border-gray-200 dark:border-gray-700">
-              <div className="flex items-center space-x-3">
-                <div className="p-3 bg-blue-100 dark:bg-blue-900/30 rounded-lg">
-                  <TrendingUp className="w-6 h-6 text-blue-600 dark:text-blue-400" />
-                </div>
-                <div>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">Total Participants</p>
-                  <p className="text-2xl font-bold text-gray-900 dark:text-white">{leaderboard.length}</p>
-                </div>
-              </div>
-            </div>
-            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 border border-gray-200 dark:border-gray-700">
-              <div className="flex items-center space-x-3">
-                <div className="p-3 bg-green-100 dark:bg-green-900/30 rounded-lg">
-                  <Award className="w-6 h-6 text-green-600 dark:text-green-400" />
-                </div>
-                <div>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">Average Score</p>
-                  <p className="text-2xl font-bold text-gray-900 dark:text-white">{averageScore}%</p>
+
+              <div className="flex items-center gap-4">
+                <span className="text-sm text-gray-600 dark:text-gray-400">
+                  Page {safeCurrentPage} of {totalPages}
+                </span>
+                <div className="flex items-center gap-2">
+                  <button
+                    type="button"
+                    onClick={() => setCurrentPage((page) => Math.max(1, page - 1))}
+                    disabled={safeCurrentPage <= 1}
+                    className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                  >
+                    <ChevronLeft className="w-4 h-4" />
+                    Previous
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => setCurrentPage((page) => Math.min(totalPages, page + 1))}
+                    disabled={safeCurrentPage >= totalPages}
+                    className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                  >
+                    Next
+                    <ChevronRight className="w-4 h-4" />
+                  </button>
                 </div>
               </div>
             </div>

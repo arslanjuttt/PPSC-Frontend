@@ -14,16 +14,100 @@ const SOURCE_MAP: Record<string, McqSource> = {
   'general-knowledge': currentAffairsData as McqSource,
 };
 
-const MCQ_COUNT = 10;
+const MCQ_COUNT = 30;
+
+export const PRACTICE_MCQ_COUNT = MCQ_COUNT;
+
+function shuffleMcqs(questions: JsonMcq[]): JsonMcq[] {
+  const copy = [...questions];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
+function pickMcqs(questions: JsonMcq[], count: number): JsonMcq[] {
+  if (!questions.length) return [];
+
+  const shuffled = shuffleMcqs(questions);
+  const picked: JsonMcq[] = [];
+
+  while (picked.length < count) {
+    picked.push(shuffled[picked.length % shuffled.length]);
+  }
+
+  return picked.slice(0, count).map((mcq, index) => ({
+    ...mcq,
+    question_number: index + 1,
+  }));
+}
+
+function pickPracticeMcqs(questions: JsonMcq[]): JsonMcq[] {
+  return pickMcqs(questions, MCQ_COUNT);
+}
+
+const ALL_SUBJECT_SLUGS = [
+  'english',
+  'pak-studies',
+  'computer-science',
+  'general-knowledge',
+  ...Object.keys(subjectSampleMcqs),
+];
+
+function getQuestionsForSlug(slug: string): JsonMcq[] {
+  const source = SOURCE_MAP[slug];
+  if (source) return source.questions;
+
+  const samples = subjectSampleMcqs[slug as keyof typeof subjectSampleMcqs];
+  return samples ?? [];
+}
+
+function getAllMcqsPool(): JsonMcq[] {
+  const pool: JsonMcq[] = [];
+
+  for (const slug of ALL_SUBJECT_SLUGS) {
+    pool.push(...getQuestionsForSlug(slug));
+  }
+
+  return pool;
+}
+
+export function getMcqsForMockTest(count: number): JsonMcq[] {
+  const slugs = ALL_SUBJECT_SLUGS.filter((slug) => getQuestionsForSlug(slug).length > 0);
+  if (!slugs.length) return [];
+
+  const basePerSubject = Math.floor(count / slugs.length);
+  const remainder = count % slugs.length;
+  const picked: JsonMcq[] = [];
+
+  slugs.forEach((slug, index) => {
+    const needed = basePerSubject + (index < remainder ? 1 : 0);
+    if (needed > 0) {
+      picked.push(...pickMcqs(getQuestionsForSlug(slug), needed));
+    }
+  });
+
+  if (picked.length < count) {
+    picked.push(...pickMcqs(getAllMcqsPool(), count - picked.length));
+  }
+
+  return shuffleMcqs(picked)
+    .slice(0, count)
+    .map((mcq, index) => ({
+      ...mcq,
+      question_number: index + 1,
+    }));
+}
 
 export function getMcqsForSubject(slug: string): JsonMcq[] {
   const source = SOURCE_MAP[slug];
   if (source) {
-    return source.questions.slice(0, MCQ_COUNT);
+    return pickPracticeMcqs(source.questions);
   }
   const samples = subjectSampleMcqs[slug as keyof typeof subjectSampleMcqs];
   if (samples?.length) {
-    return samples.slice(0, MCQ_COUNT);
+    return pickPracticeMcqs(samples);
   }
   return [];
 }
