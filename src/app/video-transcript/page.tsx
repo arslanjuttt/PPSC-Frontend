@@ -160,7 +160,7 @@ export default function VideoTranscriptPage() {
                   try {
                     setIsTranslating(true);
                     const translatedResponse = await translateApi.translateTranscriptToEnglish(transcript);
-                    const translated = (translatedResponse.data as any)?.translatedText?.trim();
+                    const translated = (translatedResponse.data as { translatedText?: string })?.translatedText?.trim();
                     if (translated) setTranscript(translated);
                   } finally {
                     setIsTranslating(false);
