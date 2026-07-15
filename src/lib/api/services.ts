@@ -55,6 +55,12 @@ export const transcriptApi = {
   generate: (url: string) => apiClient.post<ApiResponse<{ transcript: string }>>('/api/transcript', { url }),
 };
 
+export const translateApi = {
+  translateTranscriptToEnglish: (text: string) =>
+    apiClient.post<ApiResponse<{ translatedText?: string }>>('/api/translate/transcript', { text }),
+};
+
+
 export const chatApi = {
   send: (payload: { messages: Array<{ role: 'user' | 'assistant'; content: string }> }) =>
     apiClient.post<{ text?: string; error?: string }>('/api/chat', payload),

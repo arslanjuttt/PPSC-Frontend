@@ -3,13 +3,16 @@
 import { useState } from 'react';
 import { Video, Loader2, Copy, Check } from 'lucide-react';
 import { cn } from '@/lib/utils';
-import { getApiErrorMessage, transcriptApi } from '@/lib/api';
+import { getApiErrorMessage, transcriptApi, translateApi } from '@/lib/api';
+
 
 export default function VideoTranscriptPage() {
   const [url, setUrl] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [transcript, setTranscript] = useState<string | null>(null);
+  const [isTranslating, setIsTranslating] = useState(false);
+
   const [copiedSection, setCopiedSection] = useState<'transcript' | null>(null);
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -20,6 +23,7 @@ export default function VideoTranscriptPage() {
     setError(null);
     setTranscript(null);
     setIsLoading(true);
+    setIsTranslating(false);
 
     try {
       const response = await transcriptApi.generate(trimmed);
@@ -30,6 +34,7 @@ export default function VideoTranscriptPage() {
       }
       setTranscript(text);
     } catch (error: unknown) {
+
       setError(getApiErrorMessage(error, 'Network error. Please try again.'));
     } finally {
       setIsLoading(false);
@@ -87,7 +92,8 @@ export default function VideoTranscriptPage() {
           />
           <button
             type="submit"
-            disabled={isLoading}
+            disabled={isLoading || isTranslating}
+
             className={cn(
               'px-6 py-3 rounded-lg font-medium text-white bg-primary hover:bg-primary/90',
               'focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 dark:focus:ring-offset-gray-800',
@@ -95,10 +101,12 @@ export default function VideoTranscriptPage() {
               'inline-flex items-center justify-center gap-2 min-w-[180px]'
             )}
           >
-            {isLoading ? (
+            {isLoading || isTranslating ? (
+
               <>
                 <Loader2 className="w-5 h-5 animate-spin" aria-hidden />
-                Generating…
+                {isTranslating ? 'Translating…' : 'Generating…'}
+
               </>
             ) : (
               'Generate transcript'
@@ -107,6 +115,7 @@ export default function VideoTranscriptPage() {
         </div>
 
         {error && (
+
           <div
             id="video-url-error"
             role="alert"
@@ -142,6 +151,31 @@ export default function VideoTranscriptPage() {
                     <Copy className="w-4 h-4" aria-hidden />
                     Copy transcript
                   </>
+                )}
+              </button>
+              <button
+                type="button"
+                onClick={async () => {
+                  if (!transcript || isLoading || isTranslating) return;
+                  try {
+                    setIsTranslating(true);
+                    const translatedResponse = await translateApi.translateTranscriptToEnglish(transcript);
+                    const translated = (translatedResponse.data as any)?.translatedText?.trim();
+                    if (translated) setTranscript(translated);
+                  } finally {
+                    setIsTranslating(false);
+                  }
+                }}
+                disabled={isLoading || isTranslating}
+                className="inline-flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium text-white bg-primary hover:bg-primary/90 disabled:opacity-60 disabled:cursor-not-allowed transition-colors"
+              >
+                {isTranslating ? (
+                  <>
+                    <Loader2 className="w-4 h-4 animate-spin" aria-hidden />
+                    Translating…
+                  </>
+                ) : (
+                  'Translate to English'
                 )}
               </button>
             </div>
