@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import Link from 'next/link';
 import {
   ArrowLeft,
@@ -219,6 +219,31 @@ export default function ResultsPage() {
     if (detail) setLatestPractice(detail);
   }, []);
 
+  const displayedResults = useMemo(() => {
+    if (!latestPractice) return results;
+
+    const latestSource = latestPractice.subjectSlug.startsWith('mock-') ? 'mock' : 'practice';
+    let removedDuplicate = false;
+
+    return results.filter((result) => {
+      if (removedDuplicate) return true;
+
+      const isDuplicate =
+        result.subject === latestPractice.subjectName &&
+        result.source === latestSource &&
+        result.score === latestPractice.score &&
+        result.correctAnswers === latestPractice.correctCount &&
+        result.totalQuestions === latestPractice.mcqs.length;
+
+      if (isDuplicate) {
+        removedDuplicate = true;
+        return false;
+      }
+
+      return true;
+    });
+  }, [latestPractice, results]);
+
   useEffect(() => {
     if (!user) {
       setIsLoading(false);
@@ -265,8 +290,8 @@ export default function ResultsPage() {
         </h2>
         {isLoading ? (
           <p className="text-gray-500 dark:text-gray-400">Loading results...</p>
-        ) : results.length > 0 ? (
-          <ResultsList results={results} />
+        ) : displayedResults.length > 0 ? (
+          <ResultsList results={displayedResults} />
         ) : (
           <div className="bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 p-12 text-center">
             <BookOpen className="w-16 h-16 text-gray-400 dark:text-gray-500 mx-auto mb-4" />
