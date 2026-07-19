@@ -16,6 +16,7 @@ import {
   Video,
   X,
   Activity,
+  Map,
 } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
 
@@ -72,6 +73,12 @@ export default function Sidebar({
       label: "Personalized Weakness Detection",
       href: "/weakness",
       color: "text-rose-600",
+    },
+    {
+      icon: Map,
+      label: "Roadmap Generator",
+      href: "/roadmap",
+      color: "text-cyan-600",
     },
     {
       icon: Users,

@@ -62,7 +62,7 @@ export const translateApi = {
 
 
 export const chatApi = {
-  send: (payload: { messages: Array<{ role: 'user' | 'assistant'; content: string }> }) =>
+  send: (payload: { messages: Array<{ role: 'user' | 'assistant' | 'system'; content: string }> }) =>
     apiClient.post<{ text?: string; error?: string }>('/api/chat', payload),
 
   translate: (text: string) =>

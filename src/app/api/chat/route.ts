@@ -17,7 +17,7 @@ const PDF_MIME = 'application/pdf';
 const TXT_MIME = 'text/plain';
 
 async function parseRequest(request: NextRequest): Promise<{
-  messages: Array<{ role: 'user' | 'assistant'; content: string }>;
+  messages: Array<{ role: 'user' | 'assistant' | 'system'; content: string }>;
   files?: File[];
 }> {
   const contentType = request.headers.get('content-type') ?? '';
@@ -25,13 +25,13 @@ async function parseRequest(request: NextRequest): Promise<{
     const formData = await request.formData();
     const messagesJson = formData.get('messages');
     const messages = messagesJson
-      ? (JSON.parse(messagesJson as string) as Array<{ role: 'user' | 'assistant'; content: string }>)
+      ? (JSON.parse(messagesJson as string) as Array<{ role: 'user' | 'assistant' | 'system'; content: string }>)
       : [];
     const files = formData.getAll('files').filter((f): f is File => f instanceof File);
     return { messages, files };
   }
   const body = await request.json();
-  const messages = body.messages as Array<{ role: 'user' | 'assistant'; content: string }> | undefined;
+  const messages = body.messages as Array<{ role: 'user' | 'assistant' | 'system'; content: string }> | undefined;
   return { messages: Array.isArray(messages) ? messages : [], files: undefined };
 }
 
@@ -83,8 +83,15 @@ export async function POST(request: NextRequest) {
       );
     }
 
+    const systemMessages = messages.filter((m) => m.role === 'system');
+    const userAssistantMessages = messages.filter((m) => m.role !== 'system');
+
+    const systemInstruction = systemMessages.length
+      ? systemMessages.map((m) => m.content).join('\n\n')
+      : SYSTEM_INSTRUCTION;
+
     // Build Gemini contents: alternate user / model (assistant)
-    const contents: Array<{ role: 'user' | 'model'; parts: Array<{ text?: string; inlineData?: { mimeType: string; data: string } }> }> = messages.map((m) => ({
+    const contents: Array<{ role: 'user' | 'model'; parts: Array<{ text?: string; inlineData?: { mimeType: string; data: string } }> }> = userAssistantMessages.map((m) => ({
       role: m.role === 'user' ? 'user' : 'model',
       parts: [{ text: m.content }],
     }));
