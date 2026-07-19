@@ -15,6 +15,7 @@ import {
   User,
   Video,
   X,
+  Activity,
 } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
 
@@ -65,6 +66,12 @@ export default function Sidebar({
       label: "Results",
       href: "/results",
       color: "text-yellow-600",
+    },
+    {
+      icon: Activity,
+      label: "Personalized Weakness Detection",
+      href: "/weakness",
+      color: "text-rose-600",
     },
     {
       icon: Users,
@@ -127,7 +134,7 @@ export default function Sidebar({
                   key={item.href}
                   href={item.href}
                   onClick={onClose}
-                  className={`flex items-center space-x-3 px-4 py-3 rounded-lg transition-all ${
+                  className={`flex items-center space-x-3 px-4 py-2 rounded-lg transition-all ${
                     isActive(item.href)
                       ? "bg-primary text-primary-foreground shadow-lg"
                       : "text-gray-700 dark:text-gray-300 hover:bg-linear-to-r hover:from-green-100 hover:to-green-50 dark:hover:from-green-900/20 dark:hover:to-green-800/20"
@@ -177,7 +184,7 @@ export default function Sidebar({
             )}
           </div>
 
-          <nav className="p-2 space-y-3">
+          <nav className="p-2 space-y-2">
             {menuItems.map((item) => {
               const Icon = item.icon;
               return (
@@ -185,7 +192,7 @@ export default function Sidebar({
                   key={item.href}
                   href={item.href}
                   title={isCollapsed ? item.label : ""}
-                  className={`flex items-center space-x-3 px-4 py-3 rounded-lg transition-all ${
+                  className={`flex items-center space-x-3 px-4 py-2 rounded-lg transition-all ${
                     isActive(item.href)
                       ? "bg-primary text-primary-foreground shadow-lg"
                       : "text-gray-700 dark:text-gray-300 hover:bg-linear-to-r hover:from-green-100 hover:to-green-50 dark:hover:from-green-900/20 dark:hover:to-green-800/20 hover:border-r-4 hover:border-primary dark:hover:bg-gray-700"

@@ -63,6 +63,30 @@ function getQuestionsForSlug(slug: string): JsonMcq[] {
   return samples ?? [];
 }
 
+export function getSubjectQuestionPool(slug: string): JsonMcq[] {
+  return getQuestionsForSlug(slug);
+}
+
+export function getTargetedPracticeMcqs(slug: string, wrongQuestions: string[]): JsonMcq[] {
+  const pool = getSubjectQuestionPool(slug);
+  if (!pool.length) return [];
+
+  const wrongPool = pool.filter((mcq) => wrongQuestions.includes(mcq.question));
+  const remainingPool = pool.filter((mcq) => !wrongQuestions.includes(mcq.question));
+  const selected = [...wrongPool];
+
+  if (selected.length < MCQ_COUNT) {
+    selected.push(...pickMcqs(remainingPool, MCQ_COUNT - selected.length));
+  }
+
+  return selected
+    .slice(0, MCQ_COUNT)
+    .map((mcq, index) => ({
+      ...mcq,
+      question_number: index + 1,
+    }));
+}
+
 function getAllMcqsPool(): JsonMcq[] {
   const pool: JsonMcq[] = [];
 

@@ -10,7 +10,12 @@ import {
   ChevronRight,
   Play,
 } from 'lucide-react';
-import { getMcqsForSubject, getSubjectDisplayName, PRACTICE_MCQ_COUNT } from '@/lib/mcqs';
+import {
+  getMcqsForSubject,
+  getSubjectDisplayName,
+  getTargetedPracticeMcqs,
+  PRACTICE_MCQ_COUNT,
+} from '@/lib/mcqs';
 import type { JsonMcq } from '@/types';
 import { cn } from '@/lib/utils';
 import { useAuth } from '@/contexts/AuthContext';
@@ -44,10 +49,12 @@ function SubjectSelectPrompt() {
 function StartQuizScreen({
   subjectName,
   questionCount,
+  wrongCount,
   onStart,
 }: {
   subjectName: string;
   questionCount: number;
+  wrongCount: number;
   onStart: () => void;
 }) {
   return (
@@ -62,9 +69,14 @@ function StartQuizScreen({
       <div className="bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 p-8 text-center max-w-lg mx-auto">
         <BookOpen className="w-16 h-16 text-primary mx-auto mb-4" />
         <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">{subjectName}</h1>
-        <p className="text-gray-600 dark:text-gray-400 mb-6">
+        <p className="text-gray-600 dark:text-gray-400 mb-2">
           {questionCount} MCQs · Select your answers and submit when done.
         </p>
+        {wrongCount > 0 && (
+          <p className="text-sm text-amber-600 dark:text-amber-300 mb-4">
+            This quiz prioritizes {wrongCount} questions you answered incorrectly last time.
+          </p>
+        )}
         <button
           type="button"
           onClick={onStart}
@@ -185,15 +197,26 @@ function PracticeContent() {
   const searchParams = useSearchParams();
   const subjectSlug = searchParams.get('subject');
 
+  const latestPractice = useMemo(() => testResultStorage.getLatestPracticeDetail(), []);
+
+  const wrongQuestionsForSubject = useMemo(() => {
+    if (!latestPractice || latestPractice.subjectSlug !== subjectSlug) return [] as string[];
+    return latestPractice.mcqs
+      .filter((mcq, index) => latestPractice.answers[index] !== mcq.correct_answer)
+      .map((mcq) => mcq.question);
+  }, [latestPractice, subjectSlug]);
+
   const { mcqs, subjectName, hasSubject } = useMemo(() => {
     if (!subjectSlug) return { mcqs: [], subjectName: '', hasSubject: false };
-    const list = getMcqsForSubject(subjectSlug);
+    const list = wrongQuestionsForSubject.length
+      ? getTargetedPracticeMcqs(subjectSlug, wrongQuestionsForSubject)
+      : getMcqsForSubject(subjectSlug);
     return {
       mcqs: list,
       subjectName: getSubjectDisplayName(subjectSlug),
       hasSubject: true,
     };
-  }, [subjectSlug]);
+  }, [subjectSlug, wrongQuestionsForSubject]);
 
   const [quizStarted, setQuizStarted] = useState(false);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -275,6 +298,7 @@ function PracticeContent() {
       <StartQuizScreen
         subjectName={subjectName}
         questionCount={mcqs.length}
+        wrongCount={wrongQuestionsForSubject.length}
         onStart={startQuiz}
       />
     );
