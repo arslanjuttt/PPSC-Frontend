@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { Video, Loader2, Copy, Check } from 'lucide-react';
 import { cn } from '@/lib/utils';
-import { getApiErrorMessage, transcriptApi, translateApi } from '@/lib/api';
+import { getApiErrorMessage, transcriptApi, translateApi, chatApi } from '@/lib/api';
 
 
 export default function VideoTranscriptPage() {
@@ -11,9 +11,14 @@ export default function VideoTranscriptPage() {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [transcript, setTranscript] = useState<string | null>(null);
+  const [summary, setSummary] = useState<string | null>(null);
+  const [generatedMcqs, setGeneratedMcqs] = useState<string | null>(null);
+  const [selectedMcqCount, setSelectedMcqCount] = useState<10 | 20 | 30>(10);
   const [isTranslating, setIsTranslating] = useState(false);
+  const [isGeneratingSummary, setIsGeneratingSummary] = useState(false);
+  const [isGeneratingMcqs, setIsGeneratingMcqs] = useState(false);
 
-  const [copiedSection, setCopiedSection] = useState<'transcript' | null>(null);
+  const [copiedSection, setCopiedSection] = useState<'transcript' | 'summary' | 'mcqs' | null>(null);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -22,6 +27,8 @@ export default function VideoTranscriptPage() {
 
     setError(null);
     setTranscript(null);
+    setSummary(null);
+    setGeneratedMcqs(null);
     setIsLoading(true);
     setIsTranslating(false);
 
@@ -34,14 +41,71 @@ export default function VideoTranscriptPage() {
       }
       setTranscript(text);
     } catch (error: unknown) {
-
       setError(getApiErrorMessage(error, 'Network error. Please try again.'));
     } finally {
       setIsLoading(false);
     }
   };
 
-  const copyToClipboard = async (text: string, section: 'transcript') => {
+  const generateSummary = async () => {
+    if (!transcript || isGeneratingSummary || isLoading) return;
+    setError(null);
+    setIsGeneratingSummary(true);
+    setSummary(null);
+
+    try {
+      const response = await chatApi.send({
+        messages: [
+          {
+            role: 'user',
+            content: `Summarize the following transcript into a concise summary. Explain what the video is about and what the script describes in proper, clear language. Output only the summary.`,
+          },
+          { role: 'assistant', content: transcript },
+        ],
+      });
+      const text = response.data.text?.trim() || '';
+      if (!text) {
+        setError('Could not generate a summary from the transcript.');
+        return;
+      }
+      setSummary(text);
+    } catch (error: unknown) {
+      setError(getApiErrorMessage(error, 'Unable to generate summary. Please try again.'));
+    } finally {
+      setIsGeneratingSummary(false);
+    }
+  };
+
+  const generateMcqs = async () => {
+    if (!transcript || isGeneratingMcqs || isLoading) return;
+    setError(null);
+    setIsGeneratingMcqs(true);
+    setGeneratedMcqs(null);
+
+    try {
+      const response = await chatApi.send({
+        messages: [
+          {
+            role: 'user',
+            content: `Create ${selectedMcqCount} multiple-choice questions from the following transcript. Each question should have four options labeled A, B, C, and D, with one correct answer. Provide only the questions and answer choices, and mark the correct answers clearly at the end.`,
+          },
+          { role: 'assistant', content: transcript },
+        ],
+      });
+      const text = response.data.text?.trim() || '';
+      if (!text) {
+        setError('Could not generate MCQs from the transcript.');
+        return;
+      }
+      setGeneratedMcqs(text);
+    } catch (error: unknown) {
+      setError(getApiErrorMessage(error, 'Unable to generate MCQs. Please try again.'));
+    } finally {
+      setIsGeneratingMcqs(false);
+    }
+  };
+
+  const copyToClipboard = async (text: string, section: 'transcript' | 'summary' | 'mcqs') => {
     try {
       await navigator.clipboard.writeText(text);
       setCopiedSection(section);
@@ -128,59 +192,170 @@ export default function VideoTranscriptPage() {
           className="bg-white dark:bg-gray-800 rounded-xl shadow-md border border-gray-200 dark:border-gray-700 overflow-hidden"
           aria-labelledby="transcript-heading"
         >
-          <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200 dark:border-gray-700">
-            <h2 id="transcript-heading" className="text-xl font-semibold text-gray-900 dark:text-white">
-              Transcript
-            </h2>
-            <div className="flex items-center gap-2">
-              <button
-                type="button"
-                onClick={() => copyToClipboard(transcript, 'transcript')}
-                className="inline-flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
-              >
-                {copiedSection === 'transcript' ? (
-                  <>
-                    <Check className="w-4 h-4 text-green-600" aria-hidden />
-                    Copied
-                  </>
-                ) : (
-                  <>
-                    <Copy className="w-4 h-4" aria-hidden />
-                    Copy transcript
-                  </>
-                )}
-              </button>
-              <button
-                type="button"
-                onClick={async () => {
-                  if (!transcript || isLoading || isTranslating) return;
-                  try {
-                    setIsTranslating(true);
-                    const translatedResponse = await translateApi.translateTranscriptToEnglish(transcript);
-                    const translated = (translatedResponse.data as { translatedText?: string })?.translatedText?.trim();
-                    if (translated) setTranscript(translated);
-                  } finally {
-                    setIsTranslating(false);
-                  }
-                }}
-                disabled={isLoading || isTranslating}
-                className="inline-flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium text-white bg-primary hover:bg-primary/90 disabled:opacity-60 disabled:cursor-not-allowed transition-colors"
-              >
-                {isTranslating ? (
-                  <>
-                    <Loader2 className="w-4 h-4 animate-spin" aria-hidden />
-                    Translating…
-                  </>
-                ) : (
-                  'Translate to English'
-                )}
-              </button>
+          <div className="flex flex-col gap-4 px-6 py-4 border-b border-gray-200 dark:border-gray-700 sm:flex-row sm:items-center sm:justify-between">
+            <div>
+              <h2 id="transcript-heading" className="text-xl font-semibold text-gray-900 dark:text-white">
+                Transcript
+              </h2>
+              <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">
+                Summarize what the video is about or generate MCQs from the transcript.
+              </p>
+            </div>
+            <div className="flex flex-col gap-3 w-full sm:w-auto">
+              <div className="flex flex-wrap items-center gap-2 justify-end">
+                <div className="flex items-center gap-2 rounded-full border border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-900 px-3 py-2 text-sm text-gray-700 dark:text-gray-300">
+                  <span>MCQs:</span>
+                  <select
+                    value={selectedMcqCount}
+                    onChange={(e) => setSelectedMcqCount(Number(e.target.value) as 10 | 20 | 30)}
+                    className="bg-transparent text-sm outline-none text-gray-900 dark:text-white"
+                  >
+                    <option value={10}>10</option>
+                    <option value={20}>20</option>
+                    <option value={30}>30</option>
+                  </select>
+                </div>
+                <button
+                  type="button"
+                  onClick={() => copyToClipboard(transcript, 'transcript')}
+                  className="inline-flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+                >
+                  {copiedSection === 'transcript' ? (
+                    <>
+                      <Check className="w-4 h-4 text-green-600" aria-hidden />
+                      Copied
+                    </>
+                  ) : (
+                    <>
+                      <Copy className="w-4 h-4" aria-hidden />
+                      Copy transcript
+                    </>
+                  )}
+                </button>
+                <button
+                  type="button"
+                  onClick={async () => {
+                    if (!transcript || isLoading || isTranslating) return;
+                    try {
+                      setIsTranslating(true);
+                      const translatedResponse = await translateApi.translateTranscriptToEnglish(transcript);
+                      const translated = (translatedResponse.data as { translatedText?: string })?.translatedText?.trim();
+                      if (translated) setTranscript(translated);
+                    } catch (error: unknown) {
+                      setError(getApiErrorMessage(error, 'Unable to translate transcript. Please try again.'));
+                    } finally {
+                      setIsTranslating(false);
+                    }
+                  }}
+                  disabled={isLoading || isTranslating}
+                  className="inline-flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium text-white bg-primary hover:bg-primary/90 disabled:opacity-60 disabled:cursor-not-allowed"
+                >
+                  {isTranslating ? (
+                    <>
+                      <Loader2 className="w-4 h-4 animate-spin" aria-hidden />
+                      Translating…
+                    </>
+                  ) : (
+                    'Translate to English'
+                  )}
+                </button>
+              </div>
+              <div className="flex flex-wrap items-center gap-2 justify-end">
+                <button
+                  type="button"
+                  onClick={generateSummary}
+                  disabled={isLoading || isGeneratingSummary}
+                  className="inline-flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium text-white bg-primary hover:bg-primary/90 disabled:opacity-60 disabled:cursor-not-allowed"
+                >
+                  {isGeneratingSummary ? (
+                    <>
+                      <Loader2 className="w-4 h-4 animate-spin" aria-hidden />
+                      Summarizing…
+                    </>
+                  ) : (
+                    'Summarize transcript'
+                  )}
+                </button>
+                <button
+                  type="button"
+                  onClick={generateMcqs}
+                  disabled={isLoading || isGeneratingMcqs}
+                  className="inline-flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium text-white bg-primary hover:bg-primary/90 disabled:opacity-60 disabled:cursor-not-allowed"
+                >
+                  {isGeneratingMcqs ? (
+                    <>
+                      <Loader2 className="w-4 h-4 animate-spin" aria-hidden />
+                      Generating MCQs…
+                    </>
+                  ) : (
+                    'Generate MCQs'
+                  )}
+                </button>
+              </div>
             </div>
           </div>
           <div className="p-6">
             <div className="max-h-96 overflow-auto text-gray-700 dark:text-gray-300 leading-relaxed whitespace-pre-wrap">
               {transcript}
             </div>
+          </div>
+        </section>
+      )}
+      {summary && (
+        <section className="bg-white dark:bg-gray-800 rounded-xl shadow-md border border-gray-200 dark:border-gray-700 overflow-hidden" aria-labelledby="summary-heading">
+          <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200 dark:border-gray-700">
+            <h2 id="summary-heading" className="text-xl font-semibold text-gray-900 dark:text-white">
+              Summary
+            </h2>
+            <button
+              type="button"
+              onClick={() => copyToClipboard(summary, 'summary')}
+              className="inline-flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+            >
+              {copiedSection === 'summary' ? (
+                <>
+                  <Check className="w-4 h-4 text-green-600" aria-hidden />
+                  Copied
+                </>
+              ) : (
+                <>
+                  <Copy className="w-4 h-4" aria-hidden />
+                  Copy summary
+                </>
+              )}
+            </button>
+          </div>
+          <div className="p-6 text-gray-700 dark:text-gray-300 leading-relaxed whitespace-pre-wrap">
+            {summary}
+          </div>
+        </section>
+      )}
+      {generatedMcqs && (
+        <section className="bg-white dark:bg-gray-800 rounded-xl shadow-md border border-gray-200 dark:border-gray-700 overflow-hidden" aria-labelledby="mcqs-heading">
+          <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200 dark:border-gray-700">
+            <h2 id="mcqs-heading" className="text-xl font-semibold text-gray-900 dark:text-white">
+              Generated MCQs
+            </h2>
+            <button
+              type="button"
+              onClick={() => copyToClipboard(generatedMcqs, 'mcqs')}
+              className="inline-flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+            >
+              {copiedSection === 'mcqs' ? (
+                <>
+                  <Check className="w-4 h-4 text-green-600" aria-hidden />
+                  Copied
+                </>
+              ) : (
+                <>
+                  <Copy className="w-4 h-4" aria-hidden />
+                  Copy MCQs
+                </>
+              )}
+            </button>
+          </div>
+          <div className="p-6 text-gray-700 dark:text-gray-300 leading-relaxed whitespace-pre-wrap">
+            {generatedMcqs}
           </div>
         </section>
       )}

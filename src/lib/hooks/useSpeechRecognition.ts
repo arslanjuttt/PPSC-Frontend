@@ -1,8 +1,44 @@
 import { useEffect, useRef, useState } from 'react';
 
-function getSpeechRecognition(): any {
+type SpeechRecognitionConstructor = new () => SpeechRecognitionInstance;
+
+type SpeechRecognitionResultItem = { transcript: string };
+
+type SpeechRecognitionResults = {
+  [index: number]: {
+    [index: number]: SpeechRecognitionResultItem;
+  };
+};
+
+interface SpeechRecognitionInstance {
+  lang: string;
+  interimResults: boolean;
+  maxAlternatives: number;
+  continuous: boolean;
+  onresult: ((event: SpeechRecognitionEvent) => void) | null;
+  onerror: ((event: SpeechRecognitionErrorEvent) => void) | null;
+  onend: (() => void) | null;
+  start: () => void;
+  stop: () => void;
+}
+
+interface SpeechRecognitionEvent {
+  results?: SpeechRecognitionResults;
+}
+
+interface SpeechRecognitionErrorEvent {
+  error?: string;
+}
+
+function getSpeechRecognition(): SpeechRecognitionConstructor | null {
   if (typeof window === 'undefined') return null;
-  return (window as any).SpeechRecognition || (window as any).webkitSpeechRecognition || null;
+
+  const win = window as unknown as {
+    SpeechRecognition?: SpeechRecognitionConstructor;
+    webkitSpeechRecognition?: SpeechRecognitionConstructor;
+  };
+
+  return win.SpeechRecognition || win.webkitSpeechRecognition || null;
 }
 
 export function useSpeechRecognition({ lang = 'en-US' } = {}) {
@@ -10,7 +46,7 @@ export function useSpeechRecognition({ lang = 'en-US' } = {}) {
   const [isRecording, setIsRecording] = useState(false);
   const [transcript, setTranscript] = useState('');
   const [error, setError] = useState<string | null>(null);
-  const recognitionRef = useRef<any>(null);
+  const recognitionRef = useRef<SpeechRecognitionInstance | null>(null);
 
   useEffect(() => {
     setSpeechSupported(Boolean(getSpeechRecognition()));
@@ -28,7 +64,7 @@ export function useSpeechRecognition({ lang = 'en-US' } = {}) {
     recognition.maxAlternatives = 1;
     recognition.continuous = false;
 
-    recognition.onresult = (event: any) => {
+    recognition.onresult = (event: SpeechRecognitionEvent) => {
       const transcriptText = event.results?.[0]?.[0]?.transcript?.trim();
       if (transcriptText) {
         setTranscript(transcriptText);
@@ -36,7 +72,7 @@ export function useSpeechRecognition({ lang = 'en-US' } = {}) {
       }
     };
 
-    recognition.onerror = (event: any) => {
+    recognition.onerror = (event: SpeechRecognitionErrorEvent) => {
       setError(`Speech recognition error: ${event.error || 'unknown'}`);
       setIsRecording(false);
     };

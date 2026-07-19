@@ -343,7 +343,7 @@ export default function AIAssistantPage() {
                   onKeyDown={handleKeyDown}
                   placeholder="Ask me anything about PPSC preparation..."
                   rows={1}
-                  className="w-full resize-none rounded-xl border-2 border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-3 pl-12 pr-12 text-gray-900 dark:text-gray-100 placeholder:text-gray-400 focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all min-h-[48px] max-h-32"
+                  className="w-full resize-none rounded-xl border-2 border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-3 pl-12 pr-12 text-gray-900 dark:text-gray-100 placeholder:text-gray-400 focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all min-h-12 max-h-32"
                   disabled={isTyping}
                 />
                 <button

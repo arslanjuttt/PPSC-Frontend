@@ -1,11 +1,11 @@
-import { useMemo, useRef, useState } from 'react';
+import { useCallback, useMemo, useRef, useState } from 'react';
 
 export function useSpeechSynthesis() {
   const supported = typeof window !== 'undefined' && 'speechSynthesis' in window;
   const [isSpeaking, setIsSpeaking] = useState(false);
   const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
 
-  const speak = (text: string) => {
+  const speak = useCallback((text: string) => {
     if (!supported || typeof window === 'undefined') return;
 
     const utterance = new SpeechSynthesisUtterance(text);
@@ -17,16 +17,16 @@ export function useSpeechSynthesis() {
 
     window.speechSynthesis.cancel();
     window.speechSynthesis.speak(utterance);
-  };
+  }, [supported]);
 
-  const stop = () => {
+  const stop = useCallback(() => {
     if (!supported || typeof window === 'undefined') return;
     window.speechSynthesis.cancel();
     setIsSpeaking(false);
-  };
+  }, [supported]);
 
   return useMemo(
     () => ({ supported, speak, stop, isSpeaking }),
-    [supported, isSpeaking]
+    [supported, speak, stop, isSpeaking]
   );
 }
