@@ -14,7 +14,6 @@ import {
 } from 'lucide-react';
 import { getMcqsForMockTest } from '@/lib/mcqs';
 import { getMockTestById } from '@/lib/mockTests';
-import type { JsonMcq } from '@/types';
 import { cn } from '@/lib/utils';
 import { useAuth } from '@/contexts/AuthContext';
 import { userApi } from '@/lib/api';
@@ -62,7 +61,7 @@ function StartMockScreen({
         <p className="text-gray-600 dark:text-gray-400 mb-2">
           {questionCount} MCQs · Mixed from all subjects
         </p>
-        <p className="text-gray-600 dark:text-gray-400 mb-6 inline-flex items-center justify-center gap-2">
+        <p className="text-gray-600 dark:text-gray-400 mb-6 flex items-center justify-center gap-2">
           <Clock className="w-4 h-4" />
           {duration} minutes time limit
         </p>
@@ -254,6 +253,11 @@ function MockTestContent() {
       </div>
 
       <article className="bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 p-6 shadow-sm">
+        {mcq.year && (
+          <span className="inline-block mb-3 px-2.5 py-1 rounded-full text-xs font-medium bg-primary/10 text-primary border border-primary/20">
+            Appeared in PPSC {mcq.year}
+          </span>
+        )}
         <h2 className="text-lg font-medium text-gray-900 dark:text-white mb-6">
           {mcq.question}
         </h2>

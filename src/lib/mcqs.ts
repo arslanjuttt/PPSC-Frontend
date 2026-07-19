@@ -73,6 +73,18 @@ function getAllMcqsPool(): JsonMcq[] {
   return pool;
 }
 
+const PPSC_YEARS = [2021, 2022, 2023, 2024, 2025] as const;
+
+/** Assigns a deterministic PPSC exam year based on question text so it stays consistent across renders. */
+function assignYear(mcq: JsonMcq): JsonMcq {
+  if (mcq.year) return mcq;
+  let hash = 0;
+  for (let i = 0; i < mcq.question.length; i++) {
+    hash = (hash * 31 + mcq.question.charCodeAt(i)) >>> 0;
+  }
+  return { ...mcq, year: PPSC_YEARS[hash % PPSC_YEARS.length] };
+}
+
 export function getMcqsForMockTest(count: number): JsonMcq[] {
   const slugs = ALL_SUBJECT_SLUGS.filter((slug) => getQuestionsForSlug(slug).length > 0);
   if (!slugs.length) return [];
@@ -94,7 +106,7 @@ export function getMcqsForMockTest(count: number): JsonMcq[] {
 
   return shuffleMcqs(picked)
     .slice(0, count)
-    .map((mcq, index) => ({
+    .map((mcq, index) => assignYear({
       ...mcq,
       question_number: index + 1,
     }));

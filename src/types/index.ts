@@ -28,6 +28,7 @@ export interface JsonMcq {
   question: string;
   options: { A: string; B: string; C: string; D: string };
   correct_answer: 'A' | 'B' | 'C' | 'D';
+  year?: number;
 }
 
 export interface MCQ {
