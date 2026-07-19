@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { Calendar, Target, Trophy, Zap } from 'lucide-react';
 import Link from 'next/link';
 import { useAuth } from '@/contexts/AuthContext';
@@ -9,15 +9,48 @@ import type { TestHistoryItem } from '@/lib/api/types';
 
 export default function DashboardPage() {
   const { user } = useAuth();
-  const [recentResults, setRecentResults] = useState<TestHistoryItem[]>([]);
+  const [testResults, setTestResults] = useState<TestHistoryItem[]>([]);
 
   useEffect(() => {
     if (!user) return;
     userApi
       .getTestHistory()
-      .then(({ data }) => setRecentResults((data.results || []).slice(0, 5)))
-      .catch(() => setRecentResults([]));
+      .then(({ data }) => setTestResults(data.results || []))
+      .catch(() => setTestResults([]));
   }, [user]);
+
+  const recentResults = useMemo(() => testResults.slice(0, 5), [testResults]);
+
+  const subjectAverages = useMemo(() => {
+    const subjectMap = new Map<string, { totalScore: number; count: number }>();
+
+    testResults.forEach((result) => {
+      const subject = result.subject?.trim();
+      if (!subject) return;
+      const current = subjectMap.get(subject) || { totalScore: 0, count: 0 };
+      current.totalScore += result.score;
+      current.count += 1;
+      subjectMap.set(subject, current);
+    });
+
+    const averages = Array.from(subjectMap.entries()).map(([subject, data]) => ({
+      subject,
+      average: Math.round(data.totalScore / data.count),
+      count: data.count,
+    }));
+
+    const strongSubjects = averages
+      .filter((item) => item.average >= 50)
+      .sort((a, b) => b.average - a.average)
+      .slice(0, 3);
+
+    const weakSubjects = averages
+      .filter((item) => item.average < 50)
+      .sort((a, b) => a.average - b.average)
+      .slice(0, 3);
+
+    return { strongSubjects, weakSubjects };
+  }, [testResults]);
 
   if (!user) return null;
 
@@ -115,6 +148,98 @@ export default function DashboardPage() {
               </div>
             </div>
           </Link>
+        </div>
+      </div>
+
+      <div className="grid gap-6 lg:grid-cols-[1.3fr_0.7fr]">
+        <div className="rounded-3xl bg-white dark:bg-gray-800 shadow-md border border-gray-200 dark:border-gray-700 p-6">
+          <div className="flex items-center justify-between gap-4 mb-6">
+            <div>
+              <p className="text-sm uppercase tracking-[0.24em] text-gray-500 dark:text-gray-400 font-semibold">Subject strengths</p>
+              <h2 className="text-2xl font-bold text-gray-900 dark:text-white">Top strong and weak topics</h2>
+            </div>
+            <span className="text-sm text-gray-500 dark:text-gray-400">Based on your recent subject averages</span>
+          </div>
+
+          {testResults.length === 0 ? (
+            <div className="rounded-3xl border border-dashed border-gray-200 dark:border-gray-700 p-8 text-center">
+              <p className="text-gray-600 dark:text-gray-400">Complete some practice or mock tests to see your subject strengths and weaknesses here.</p>
+            </div>
+          ) : (
+            <div className="space-y-8">
+              <div>
+                <div className="mb-4 flex items-center justify-between">
+                  <div>
+                    <p className="text-sm font-semibold text-gray-900 dark:text-white">Strong topics</p>
+                    <p className="text-sm text-gray-500 dark:text-gray-400">Subjects with average ≥ 50%</p>
+                  </div>
+                </div>
+                <div className="space-y-3">
+                  {subjectAverages.strongSubjects.length > 0 ? (
+                    subjectAverages.strongSubjects.map((item) => (
+                      <div key={item.subject} className="space-y-2">
+                        <div className="flex items-center justify-between text-sm font-medium text-gray-700 dark:text-gray-300">
+                          <span>{item.subject}</span>
+                          <span>{item.average}%</span>
+                        </div>
+                        <div className="h-3 overflow-hidden rounded-full bg-gray-200 dark:bg-gray-700">
+                          <div className="h-full rounded-full bg-emerald-500" style={{ width: `${item.average}%` }} />
+                        </div>
+                      </div>
+                    ))
+                  ) : (
+                    <p className="text-sm text-gray-500 dark:text-gray-400">No strong subjects yet.</p>
+                  )}
+                </div>
+              </div>
+
+              <div>
+                <div className="mb-4 flex items-center justify-between">
+                  <div>
+                    <p className="text-sm font-semibold text-gray-900 dark:text-white">Weak topics</p>
+                    <p className="text-sm text-gray-500 dark:text-gray-400">Subjects with average &lt; 50%</p>
+                  </div>
+                </div>
+                <div className="space-y-3">
+                  {subjectAverages.weakSubjects.length > 0 ? (
+                    subjectAverages.weakSubjects.map((item) => (
+                      <div key={item.subject} className="space-y-2">
+                        <div className="flex items-center justify-between text-sm font-medium text-gray-700 dark:text-gray-300">
+                          <span>{item.subject}</span>
+                          <span>{item.average}%</span>
+                        </div>
+                        <div className="h-3 overflow-hidden rounded-full bg-gray-200 dark:bg-gray-700">
+                          <div className="h-full rounded-full bg-red-500" style={{ width: `${item.average}%` }} />
+                        </div>
+                      </div>
+                    ))
+                  ) : (
+                    <p className="text-sm text-gray-500 dark:text-gray-400">No weak subjects yet.</p>
+                  )}
+                </div>
+              </div>
+            </div>
+          )}
+        </div>
+
+        <div className="rounded-3xl bg-white dark:bg-gray-800 shadow-md border border-gray-200 dark:border-gray-700 p-6">
+          <p className="text-sm uppercase tracking-[0.24em] text-gray-500 dark:text-gray-400 font-semibold">Streak overview</p>
+          <h2 className="mt-2 text-2xl font-bold text-gray-900 dark:text-white">Exam focus summary</h2>
+          <p className="mt-4 text-sm text-gray-600 dark:text-gray-400">Your current streak and recent topic performance show the areas where you should keep practicing.</p>
+          <div className="mt-6 space-y-4">
+            <div className="rounded-3xl bg-gray-50 dark:bg-gray-900 p-4">
+              <p className="text-sm text-gray-500 dark:text-gray-400">Strongest subject</p>
+              <p className="mt-2 text-xl font-semibold text-gray-900 dark:text-white">
+                {subjectAverages.strongSubjects[0]?.subject ?? 'N/A'} · {subjectAverages.strongSubjects[0]?.average ?? '--'}%
+              </p>
+            </div>
+            <div className="rounded-3xl bg-gray-50 dark:bg-gray-900 p-4">
+              <p className="text-sm text-gray-500 dark:text-gray-400">Weakest subject</p>
+              <p className="mt-2 text-xl font-semibold text-gray-900 dark:text-white">
+                {subjectAverages.weakSubjects[0]?.subject ?? 'N/A'} · {subjectAverages.weakSubjects[0]?.average ?? '--'}%
+              </p>
+            </div>
+          </div>
         </div>
       </div>
 
