@@ -17,6 +17,7 @@ import {
   X,
   Activity,
   Map,
+  Sparkles,
 } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
 
@@ -91,6 +92,12 @@ export default function Sidebar({
       label: "AI Assistant",
       href: "/ai-assistant",
       color: "text-pink-600",
+    },
+    {
+      icon: Sparkles,
+      label: "AI Interview Preparation",
+      href: "/ai-interview",
+      color: "text-fuchsia-600",
     },
     {
       icon: Video,
