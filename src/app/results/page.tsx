@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo, useRef, type Dispatch, type SetStateAction } from 'react';
 import Link from 'next/link';
 import {
   ArrowLeft,
@@ -10,6 +10,11 @@ import {
   XCircle,
   Calendar,
   BookOpen,
+  Search,
+  Filter,
+  ChevronLeft,
+  ChevronRight,
+  X,
 } from 'lucide-react';
 import { useAuth } from '@/contexts/AuthContext';
 import { userApi } from '@/lib/api';
@@ -21,6 +26,35 @@ import {
 import { cn } from '@/lib/utils';
 
 const OPTIONS = ['A', 'B', 'C', 'D'] as const;
+
+const COMPULSORY_SUBJECTS = [
+  'English',
+  'Urdu',
+  'Pak Studies',
+  'Islamic Studies',
+  'General Knowledge',
+] as const;
+
+const OPTIONAL_SUBJECTS = [
+  'Ecommerce',
+  'Physics',
+  'History',
+  'Agriculture',
+  'Sociology',
+  'Computer Science',
+] as const;
+
+const SUBJECT_FILTER_OPTIONS = [
+  ...COMPULSORY_SUBJECTS,
+  ...OPTIONAL_SUBJECTS,
+  'Mock tests',
+] as const;
+
+type SubjectFilterOption = (typeof SUBJECT_FILTER_OPTIONS)[number];
+
+type ResultTab = 'All' | 'Compulsory' | 'Optional' | 'Mock';
+
+const RESULT_TABS: ResultTab[] = ['All', 'Compulsory', 'Optional', 'Mock'];
 
 function LatestPracticeReview({
   detail,
@@ -166,44 +200,410 @@ function LatestPracticeReview({
   );
 }
 
-function ResultsList({ results }: { results: TestHistoryItem[] }) {
+const ROWS_PER_PAGE_OPTIONS = [10, 20, 50] as const;
+
+function ResultsList({
+  results,
+  selectedTab,
+  setSelectedTab,
+}: {
+  results: TestHistoryItem[];
+  selectedTab: ResultTab;
+  setSelectedTab: Dispatch<SetStateAction<ResultTab>>;
+}) {
+  const [search, setSearch] = useState('');
+  const [showFilter, setShowFilter] = useState(false);
+
+  // Applied filters (used for actual filtering)
+  const [filterDate, setFilterDate] = useState('');
+  const [filterFrom, setFilterFrom] = useState('');
+  const [filterTo, setFilterTo] = useState('');
+  const [filterSubjects, setFilterSubjects] = useState<string[]>([]);
+
+  // Draft filters (inside modal before Apply)
+  const [draftDate, setDraftDate] = useState('');
+  const [draftFrom, setDraftFrom] = useState('');
+  const [draftTo, setDraftTo] = useState('');
+  const [draftSubjects, setDraftSubjects] = useState<string[]>([]);
+
+  const [page, setPage] = useState(1);
+  const [rowsPerPage, setRowsPerPage] = useState<number>(10);
+
+  const filterRef = useRef<HTMLDivElement>(null);
+
+  // Close on click outside
+  useEffect(() => {
+    if (!showFilter) return;
+    const handler = (e: MouseEvent) => {
+      if (filterRef.current && !filterRef.current.contains(e.target as Node)) {
+        setShowFilter(false);
+      }
+    };
+    document.addEventListener('mousedown', handler);
+    return () => document.removeEventListener('mousedown', handler);
+  }, [showFilter]);
+
+  // Sync draft with applied when opening modal
+  const openFilter = () => {
+    setDraftDate(filterDate);
+    setDraftFrom(filterFrom);
+    setDraftTo(filterTo);
+    setDraftSubjects(filterSubjects);
+    setShowFilter(true);
+  };
+
+  const applyFilters = () => {
+    setFilterDate(draftDate);
+    setFilterFrom(draftFrom);
+    setFilterTo(draftTo);
+    setFilterSubjects(draftSubjects);
+    setPage(1);
+    setShowFilter(false);
+  };
+
+  const resetDraft = () => {
+    setDraftDate('');
+    setDraftFrom('');
+    setDraftTo('');
+    setDraftSubjects([]);
+  };
+
+  const clearAllFilters = () => {
+    setFilterDate('');
+    setFilterFrom('');
+    setFilterTo('');
+    setFilterSubjects([]);
+    setPage(1);
+  };
+
+  const allSubjects = useMemo(() => {
+    return Array.from(SUBJECT_FILTER_OPTIONS).sort((a, b) => a.localeCompare(b));
+  }, []);
+
+  const filtered = useMemo(() => {
+    let list = results;
+    if (selectedTab === 'Mock') {
+      list = list.filter((r) => r.source === 'mock');
+    } else if (selectedTab === 'Compulsory') {
+      list = list.filter(
+        (r) =>
+          r.source === 'practice' &&
+          COMPULSORY_SUBJECTS.includes(r.subject as (typeof COMPULSORY_SUBJECTS)[number])
+      );
+    } else if (selectedTab === 'Optional') {
+      list = list.filter(
+        (r) =>
+          r.source === 'practice' &&
+          OPTIONAL_SUBJECTS.includes(r.subject as (typeof OPTIONAL_SUBJECTS)[number])
+      );
+    }
+
+    if (search.trim()) {
+      const q = search.trim().toLowerCase();
+      list = list.filter((r) => (r.subject || '').toLowerCase().includes(q));
+    }
+    if (filterDate) {
+      list = list.filter((r) => new Date(r.createdAt).toLocaleDateString('en-CA') === filterDate);
+    }
+    if (filterFrom) {
+      list = list.filter((r) => new Date(r.createdAt).toLocaleDateString('en-CA') >= filterFrom);
+    }
+    if (filterTo) {
+      list = list.filter((r) => new Date(r.createdAt).toLocaleDateString('en-CA') <= filterTo);
+    }
+    if (filterSubjects.length > 0) {
+      list = list.filter((r) => {
+        const label = r.source === 'mock' ? 'Mock tests' : r.subject || '';
+        return filterSubjects.includes(label);
+      });
+    }
+    return list;
+  }, [results, selectedTab, search, filterDate, filterFrom, filterTo, filterSubjects]);
+
+  const totalPages = Math.max(1, Math.ceil(filtered.length / rowsPerPage));
+  const safePage = Math.min(page, totalPages);
+  const paginated = filtered.slice((safePage - 1) * rowsPerPage, safePage * rowsPerPage);
+
+  const hasActiveFilters = !!(filterDate || filterFrom || filterTo || filterSubjects.length > 0);
+  const hasDraftChanges = !!(draftDate || draftFrom || draftTo || draftSubjects.length > 0);
+
+  // Active filter chips
+  const activeChips: { label: string; onRemove: () => void }[] = [
+    ...(filterDate ? [{ label: `Date: ${filterDate}`, onRemove: () => { setFilterDate(''); setPage(1); } }] : []),
+    ...(filterFrom || filterTo ? [{ label: `Range: ${filterFrom || '…'} → ${filterTo || '…'}`, onRemove: () => { setFilterFrom(''); setFilterTo(''); setPage(1); } }] : []),
+    ...filterSubjects.map((s) => ({ label: s, onRemove: () => { setFilterSubjects((prev) => prev.filter((x) => x !== s)); setPage(1); } })),
+  ];
+
   return (
     <div className="space-y-4">
-      {results.map((r) => (
-        <div
-          key={r._id}
-          className="flex flex-wrap items-center justify-between gap-4 bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 p-4"
-        >
-          <div className="flex items-center gap-4">
-            <div
+      {/* Search + Filter bar */}
+      <div className="flex flex-wrap gap-3">
+        <div className="relative flex-1 min-w-[200px]">
+          <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" />
+          <input
+            type="text"
+            value={search}
+            onChange={(e) => { setSearch(e.target.value); setPage(1); }}
+            placeholder="Search by subject..."
+            className="w-full pl-9 pr-4 py-2.5 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm text-gray-900 dark:text-white placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-primary"
+          />
+        </div>
+
+        <div className="relative" ref={filterRef}>
+          <button
+            type="button"
+            onClick={openFilter}
+            className={cn(
+              'inline-flex items-center gap-2 px-4 py-2.5 rounded-lg border text-sm font-medium transition-colors',
+              hasActiveFilters
+                ? 'border-primary bg-primary/10 text-primary'
+                : 'border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700'
+            )}
+          >
+            <Filter className="w-4 h-4" />
+            Filter
+            {hasActiveFilters && (
+              <span className="flex h-5 w-5 items-center justify-center rounded-full bg-primary text-white text-xs">
+                {activeChips.length}
+              </span>
+            )}
+          </button>
+
+          {showFilter && (
+            <div className="absolute right-0 top-full mt-2 z-30 w-80 bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 shadow-xl">
+              {/* Modal header */}
+              <div className="flex items-center justify-between px-4 pt-4 pb-3 border-b border-gray-100 dark:border-gray-700">
+                <span className="font-semibold text-gray-900 dark:text-white text-sm">Filters</span>
+                <button type="button" onClick={() => setShowFilter(false)}>
+                  <X className="w-4 h-4 text-gray-400 hover:text-gray-600 dark:hover:text-gray-200" />
+                </button>
+              </div>
+
+              <div className="p-4 space-y-4">
+                {/* Filter by Date */}
+                <div>
+                  <label className="block text-xs font-medium text-gray-600 dark:text-gray-400 mb-1">Filter by Date</label>
+                  <input
+                    type="date"
+                    value={draftDate}
+                    onChange={(e) => { setDraftDate(e.target.value); setDraftFrom(''); setDraftTo(''); }}
+                    className="w-full px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-700 text-sm text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-primary"
+                  />
+                </div>
+
+                {/* Filter by Date Range */}
+                <div>
+                  <label className="block text-xs font-medium text-gray-600 dark:text-gray-400 mb-1">Filter by Date Range</label>
+                  <div className="flex gap-2">
+                    <div className="flex-1">
+                      <span className="block text-xs text-gray-500 dark:text-gray-400 mb-1">Start</span>
+                      <input
+                        type="date"
+                        value={draftFrom}
+                        onChange={(e) => { setDraftFrom(e.target.value); setDraftDate(''); }}
+                        className="w-full px-2 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-700 text-xs text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-primary"
+                      />
+                    </div>
+                    <div className="flex-1">
+                      <span className="block text-xs text-gray-500 dark:text-gray-400 mb-1">End</span>
+                      <input
+                        type="date"
+                        value={draftTo}
+                        onChange={(e) => { setDraftTo(e.target.value); setDraftDate(''); }}
+                        className="w-full px-2 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-700 text-xs text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-primary"
+                      />
+                    </div>
+                  </div>
+                </div>
+
+                {/* Filter by Subject — dropdown */}
+                {allSubjects.length > 0 && (
+                  <div>
+                    <label className="block text-xs font-medium text-gray-600 dark:text-gray-400 mb-1">Filter by Subject</label>
+                    <select
+                      value=""
+                      onChange={(e) => {
+                        const val = e.target.value;
+                        if (val && !draftSubjects.includes(val)) {
+                          setDraftSubjects((prev) => [...prev, val]);
+                        }
+                      }}
+                      className="w-full px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-700 text-sm text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-primary"
+                    >
+                      <option value="">Select a subject...</option>
+                      {allSubjects.filter((s) => !draftSubjects.includes(s)).map((s) => (
+                        <option key={s} value={s}>{s}</option>
+                      ))}
+                    </select>
+                    {draftSubjects.length > 0 && (
+                      <div className="flex flex-wrap gap-1.5 mt-2">
+                        {draftSubjects.map((s) => (
+                          <span key={s} className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-medium bg-primary/10 text-primary border border-primary/20">
+                            {s}
+                            <button type="button" onClick={() => setDraftSubjects((prev) => prev.filter((x) => x !== s))}>
+                              <X className="w-3 h-3" />
+                            </button>
+                          </span>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                )}
+              </div>
+
+              {/* Modal footer — Reset + Apply */}
+              <div className="flex items-center justify-between gap-2 px-4 py-3 border-t border-gray-100 dark:border-gray-700">
+                <button
+                  type="button"
+                  onClick={resetDraft}
+                  disabled={!hasDraftChanges}
+                  className="px-3 py-1.5 rounded-lg text-sm font-medium text-gray-600 dark:text-gray-400 border border-gray-200 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                >
+                  Reset
+                </button>
+                <button
+                  type="button"
+                  onClick={applyFilters}
+                  className="px-4 py-1.5 rounded-lg text-sm font-medium text-white bg-primary hover:bg-primary/90 transition-colors"
+                >
+                  Apply
+                </button>
+              </div>
+            </div>
+          )}
+        </div>
+      </div>
+
+      <div className="flex flex-wrap items-center justify-between gap-4">
+        <div className="flex flex-wrap gap-2 rounded-full bg-gray-100 dark:bg-gray-800 p-1">
+          {RESULT_TABS.map((tab) => (
+            <button
+              key={tab}
+              type="button"
+              onClick={() => setSelectedTab(tab)}
               className={cn(
-                'flex h-12 w-12 shrink-0 items-center justify-center rounded-xl font-bold text-lg',
-                r.score >= 70
-                  ? 'bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400'
-                  : r.score >= 50
-                    ? 'bg-yellow-100 text-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-400'
-                    : 'bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-400'
+                'px-4 py-2 rounded-full text-sm font-medium transition-all',
+                selectedTab === tab
+                  ? 'bg-primary text-primary-foreground shadow-sm'
+                  : 'text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-white/80 dark:hover:bg-gray-700'
               )}
             >
-              {r.score}%
+              {tab}
+            </button>
+          ))}
+        </div>
+        <p className="text-sm text-gray-600 dark:text-gray-400">Showing {filtered.length} result{filtered.length !== 1 ? 's' : ''}</p>
+      </div>
+
+      {/* Active filter chips */}
+      {activeChips.length > 0 && (
+        <div className="flex flex-wrap items-center gap-2">
+          {activeChips.map((chip) => (
+            <span
+              key={chip.label}
+              className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium bg-primary/10 text-primary border border-primary/20"
+            >
+              {chip.label}
+              <button type="button" onClick={chip.onRemove}>
+                <X className="w-3 h-3" />
+              </button>
+            </span>
+          ))}
+          <button
+            type="button"
+            onClick={clearAllFilters}
+            className="text-xs font-medium text-gray-500 dark:text-gray-400 hover:text-red-500 dark:hover:text-red-400 underline transition-colors"
+          >
+            Clear all
+          </button>
+        </div>
+      )}
+
+      {/* List */}
+      {paginated.length === 0 ? (
+        <p className="text-center py-8 text-gray-500 dark:text-gray-400 text-sm">No results match your search or filters.</p>
+      ) : (
+        <div className="max-h-[520px] overflow-y-auto space-y-3 pr-1">
+          {paginated.map((r) => (
+            <div
+              key={r._id}
+              className="flex flex-wrap items-center justify-between gap-4 bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 p-4"
+            >
+              <div className="flex items-center gap-4">
+                <div
+                  className={cn(
+                    'flex h-12 w-12 shrink-0 items-center justify-center rounded-xl font-bold text-lg',
+                    r.score >= 70
+                      ? 'bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400'
+                      : r.score >= 50
+                        ? 'bg-yellow-100 text-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-400'
+                        : 'bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-400'
+                  )}
+                >
+                  {r.score}%
+                </div>
+                <div>
+                  <p className="font-medium text-gray-900 dark:text-white">
+                    {r.subject || (r.source === 'mock' ? 'Mock test' : 'Practice quiz')}
+                  </p>
+                  <p className="text-sm text-gray-500 dark:text-gray-400">
+                    {r.correctAnswers} / {r.totalQuestions} correct
+                    {r.source === 'practice' && ' · Practice'}
+                    {r.source === 'mock' && ' · Mock test'}
+                  </p>
+                </div>
+              </div>
+              <div className="flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
+                <Calendar className="w-4 h-4" />
+                {new Date(r.createdAt).toLocaleDateString()}
+              </div>
             </div>
-            <div>
-              <p className="font-medium text-gray-900 dark:text-white">
-                {r.subject || (r.source === 'mock' ? 'Mock test' : 'Practice quiz')}
-              </p>
-              <p className="text-sm text-gray-500 dark:text-gray-400">
-                {r.correctAnswers} / {r.totalQuestions} correct
-                {r.source === 'practice' && ' · Practice'}
-                {r.source === 'mock' && ' · Mock test'}
-              </p>
-            </div>
+          ))}
+        </div>
+      )}
+
+      {/* Pagination */}
+      {filtered.length > 0 && (
+        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 px-0 py-4 border-t border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-900/50 rounded-b-xl">
+          <div className="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-400">
+            <span>Rows per page</span>
+            <select
+              value={rowsPerPage}
+              onChange={(e) => { setRowsPerPage(Number(e.target.value)); setPage(1); }}
+              className="rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-white px-3 py-1.5 focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary"
+            >
+              {ROWS_PER_PAGE_OPTIONS.map((option) => (
+                <option key={option} value={option}>{option}</option>
+              ))}
+            </select>
           </div>
-          <div className="flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
-            <Calendar className="w-4 h-4" />
-            {new Date(r.createdAt).toLocaleDateString()}
+          <div className="flex items-center gap-4">
+            <span className="text-sm text-gray-600 dark:text-gray-400">
+              Page {safePage} of {totalPages}
+            </span>
+            <div className="flex items-center gap-2">
+              <button
+                type="button"
+                onClick={() => setPage((p) => Math.max(1, p - 1))}
+                disabled={safePage <= 1}
+                className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+              >
+                <ChevronLeft className="w-4 h-4" />
+                Previous
+              </button>
+              <button
+                type="button"
+                onClick={() => setPage((p) => Math.min(totalPages, p + 1))}
+                disabled={safePage >= totalPages}
+                className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+              >
+                Next
+                <ChevronRight className="w-4 h-4" />
+              </button>
+            </div>
           </div>
         </div>
-      ))}
+      )}
     </div>
   );
 }
@@ -212,6 +612,7 @@ export default function ResultsPage() {
   const { user } = useAuth();
   const [latestPractice, setLatestPractice] = useState<LatestPracticeDetail | null>(null);
   const [results, setResults] = useState<TestHistoryItem[]>([]);
+  const [selectedTab, setSelectedTab] = useState<ResultTab>('All');
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
@@ -284,38 +685,15 @@ export default function ResultsPage() {
         <LatestPracticeReview detail={latestPractice} onClear={dismissReview} />
       )}
 
-      <div>
-        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">
-          {latestPractice ? 'All results' : 'Your results'}
-        </h2>
-        {isLoading ? (
-          <p className="text-gray-500 dark:text-gray-400">Loading results...</p>
-        ) : displayedResults.length > 0 ? (
-          <ResultsList results={displayedResults} />
-        ) : (
-          <div className="bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 p-12 text-center">
-            <BookOpen className="w-16 h-16 text-gray-400 dark:text-gray-500 mx-auto mb-4" />
-            <p className="text-gray-600 dark:text-gray-400 mb-4">
-              No results yet. Complete a practice quiz or mock test to see your scores here.
-            </p>
-            <div className="flex flex-wrap justify-center gap-4">
-              <Link
-                href="/subjects"
-                className="inline-flex items-center gap-2 px-5 py-2.5 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 font-medium"
-              >
-                <Play className="w-4 h-4" />
-                Practice quiz
-              </Link>
-              <Link
-                href="/mock-test"
-                className="inline-flex items-center gap-2 px-5 py-2.5 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 font-medium"
-              >
-                Mock test
-              </Link>
-            </div>
-          </div>
-        )}
-      </div>
+      {isLoading ? (
+        <p className="text-gray-500 dark:text-gray-400">Loading results...</p>
+      ) : (
+        <ResultsList
+          results={displayedResults}
+          selectedTab={selectedTab}
+          setSelectedTab={setSelectedTab}
+        />
+      )}
     </div>
   );
 }

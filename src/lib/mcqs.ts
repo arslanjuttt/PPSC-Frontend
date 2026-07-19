@@ -73,7 +73,7 @@ function getAllMcqsPool(): JsonMcq[] {
   return pool;
 }
 
-const PPSC_YEARS = [2021, 2022, 2023, 2024, 2025] as const;
+const PPSC_YEARS = [2020, 2021, 2022, 2023, 2024, 2025] as const;
 
 /** Assigns a deterministic PPSC exam year based on question text so it stays consistent across renders. */
 function assignYear(mcq: JsonMcq): JsonMcq {
